@@ -1,0 +1,11 @@
+_autosave-*
+*.FCStd[0-9]
+*.kicad_pcb-bak
+*.sch-bak
+*.slvs~
+*.tar*
+*.zip
+\#auto_saved_files\#
+fp-info-cache
+kibus.log
+*.bkp
