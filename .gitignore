@@ -7,5 +7,6 @@ _autosave-*
 *.zip
 \#auto_saved_files\#
 fp-info-cache
+sym-lib-table
 kibus.log
 *.bkp
