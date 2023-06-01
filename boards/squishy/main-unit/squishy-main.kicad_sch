@@ -1,0 +1,36 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid d4567381-92dd-4d3b-8c64-40007ced30aa)
+
+  (paper "A3")
+
+  (title_block
+    (title "Squishy - Main Unit - Root")
+    (date "2023-06-01")
+    (rev "2")
+    (company "Shrine Maiden Heavy Industries")
+    (comment 1 "License:  CERN-OHL-S")
+    (comment 2 "© 2023 Aki 'lethalbit' Van Ness, et. al.")
+    (comment 4 "Squishy - SCSI Multitool")
+  )
+
+  (lib_symbols
+  )
+
+  (bus_alias "ULPI" (members "D[0..7]" "CLK" "STP" "DIR" "NXT"))
+  (bus_alias "HyperRAM" (members "DQ[0..7]" "CLK" "~{CLK}" "~{CS[0..1]}" "~{RST}" "RWDS"))
+  (bus_alias "USB-SS" (members "RX+" "RX-" "TX+" "TX-"))
+
+  (text "FPGA: LFE5UM5G-45F-8BG381C" (at 374.65 256.54 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3a85479d-4364-4e5a-97f6-faff1db178a2)
+  )
+  (text "design decisions made out of spite: 4" (at 369.57 266.7 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 62c0946c-caf1-4f21-af71-4096f015c950)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
