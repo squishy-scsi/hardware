@@ -1,7 +1,7 @@
 _autosave-*
 *.FCStd[0-9]
 *.kicad_pcb-bak
-*.sch-bak
+*.kicad_sch-bak
 *.slvs~
 *.tar*
 *.zip
