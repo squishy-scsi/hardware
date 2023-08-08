@@ -3563,6 +3563,58 @@
         )
       )
     )
+    (symbol "power:+1V8" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+      (property "Reference" "#PWR" (at 0 -3.81 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Value" "+1V8" (at 0 3.556 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Footprint" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "power-flag" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "Power symbol creates a global label with name \"+1V8\"" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "+1V8_0_1"
+        (polyline
+          (pts
+            (xy -0.762 1.27)
+            (xy 0 2.54)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 0)
+            (xy 0 2.54)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 2.54)
+            (xy 0.762 1.27)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+      )
+      (symbol "+1V8_1_1"
+        (pin power_in line (at 0 0 90) (length 0) hide
+          (name "+1V8" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
     (symbol "power:+3V3" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -4505,6 +4557,39 @@
     )
   )
 
+  (symbol (lib_id "power:+1V8") (at 49.53 246.38 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 2b8874ee-c449-4df8-b064-884c2b377d84)
+    (property "Reference" "#PWR0154" (at 49.53 250.19 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+1V8" (at 52.07 242.824 0)
+      (effects (font (size 1.27 1.27)) (justify right bottom))
+    )
+    (property "Footprint" "" (at 49.53 246.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 49.53 246.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 03958b3d-b683-4a80-9368-b54fe59bf295))
+    (instances
+      (project "squishy"
+        (path "/66946989-0eb4-469a-822e-5001e4c71e1d/897376f2-0c69-4736-a5dd-4d1ec77915b7"
+          (reference "#PWR0154") (unit 1)
+        )
+      )
+      (project "squishy-main"
+        (path "/d4567381-92dd-4d3b-8c64-40007ced30aa/573264d1-b4a8-4279-b1ac-379f43fe1045"
+          (reference "#PWR029") (unit 1)
+        )
+        (path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+          (reference "#PWR054") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 379.73 26.67 90) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid 2bef0558-84ba-417f-8caa-3cae964e93a8)
@@ -4807,36 +4892,6 @@
       (project "squishy-main"
         (path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
           (reference "FID2") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:+3V3") (at 49.53 246.38 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 7ab22bdf-d53f-4ee3-b100-71d4003cbf8d)
-    (property "Reference" "#PWR03" (at 49.53 250.19 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+3V3" (at 49.911 241.9858 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 49.53 246.38 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 49.53 246.38 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid b0af9cd8-3588-4727-9f02-4d4f30a2f834))
-    (instances
-      (project "squishy"
-        (path "/66946989-0eb4-469a-822e-5001e4c71e1d/135fa4cc-bf68-4ed2-9d1e-cefa9ceb3983"
-          (reference "#PWR03") (unit 1)
-        )
-      )
-      (project "squishy-main"
-        (path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
-          (reference "#PWR013") (unit 1)
         )
       )
     )
