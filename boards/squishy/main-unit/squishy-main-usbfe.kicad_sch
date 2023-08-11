@@ -3695,6 +3695,58 @@
         )
       )
     )
+    (symbol "power:VBUS" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+      (property "Reference" "#PWR" (at 0 -3.81 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Value" "VBUS" (at 0 3.81 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Footprint" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "global power" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "Power symbol creates a global label with name \"VBUS\"" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "VBUS_0_1"
+        (polyline
+          (pts
+            (xy -0.762 1.27)
+            (xy 0 2.54)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 0)
+            (xy 0 2.54)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 2.54)
+            (xy 0.762 1.27)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+      )
+      (symbol "VBUS_1_1"
+        (pin power_in line (at 0 0 90) (length 0) hide
+          (name "VBUS" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
   )
 
   (junction (at 265.43 30.48) (diameter 0) (color 0 0 0 0)
@@ -6207,36 +6259,6 @@
     )
   )
 
-  (symbol (lib_id "power:+5V") (at 52.07 22.86 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 55291562-e61f-4a34-8223-b9ca8c6d8b56)
-    (property "Reference" "#PWR0134" (at 52.07 26.67 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+5V" (at 51.181 21.0058 0)
-      (effects (font (size 1.27 1.27)) (justify right bottom))
-    )
-    (property "Footprint" "" (at 52.07 22.86 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 52.07 22.86 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid d60d66fe-71ec-4d22-95dc-26e998997d8c))
-    (instances
-      (project "squishy"
-        (path "/66946989-0eb4-469a-822e-5001e4c71e1d/897376f2-0c69-4736-a5dd-4d1ec77915b7"
-          (reference "#PWR0134") (unit 1)
-        )
-      )
-      (project "squishy-main"
-        (path "/d4567381-92dd-4d3b-8c64-40007ced30aa/573264d1-b4a8-4279-b1ac-379f43fe1045"
-          (reference "#PWR019") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Device:C_Small") (at 127 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5d9ccfcd-39e3-4cc1-afe5-df6678d6517e)
@@ -6433,6 +6455,31 @@
       (project "squishy-main"
         (path "/d4567381-92dd-4d3b-8c64-40007ced30aa/573264d1-b4a8-4279-b1ac-379f43fe1045"
           (reference "C8") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:VBUS") (at 52.07 22.86 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 71f53ff4-acf8-4993-a97a-4c7bc2d40fd0)
+    (property "Reference" "#PWR013" (at 52.07 26.67 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "VBUS" (at 52.07 18.7269 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 52.07 22.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 52.07 22.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid bd412f85-c4f1-405e-afcb-5a1bed35ed3a))
+    (instances
+      (project "squishy-main"
+        (path "/d4567381-92dd-4d3b-8c64-40007ced30aa/573264d1-b4a8-4279-b1ac-379f43fe1045"
+          (reference "#PWR013") (unit 1)
         )
       )
     )
@@ -7864,8 +7911,8 @@
     (pin "12" (uuid c9f6329b-ad18-468c-89a1-d8e0dd6754de))
     (pin "13" (uuid d7724b41-4905-42e5-92c8-59725d5a6f14))
     (pin "14" (uuid e356cf9c-544d-4a54-94d8-3d7dcf5fc9db))
-    (pin "15" (uuid 8a36a307-9353-4764-b904-cf210a297316))
-    (pin "15" (uuid 8a36a307-9353-4764-b904-cf210a297316))
+    (pin "15" (uuid 8a36a307-9353-4764-b904-cf210a297317))
+    (pin "15" (uuid 8a36a307-9353-4764-b904-cf210a297317))
     (pin "16" (uuid 40bcdbff-179e-497d-87e5-969352d30a6d) (alternate "D0-"))
     (pin "17" (uuid 167776c4-b981-451b-b0ee-8ba1f334a823) (alternate "D0+"))
     (pin "18" (uuid 2ab75f13-3dac-4058-b7f8-81b2d172ecd2))
