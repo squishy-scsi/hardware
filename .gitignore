@@ -10,3 +10,4 @@ fp-info-cache
 sym-lib-table
 kibus.log
 *.bkp
+~*.lck
