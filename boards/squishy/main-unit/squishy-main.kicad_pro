@@ -423,7 +423,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "lethalbit-power"
+    ]
   },
   "meta": {
     "filename": "squishy-main.kicad_pro",
