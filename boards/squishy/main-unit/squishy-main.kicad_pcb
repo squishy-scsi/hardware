@@ -45942,6 +45942,173 @@
 			)
 		)
 	)
+	(footprint "lethalbit-graphics:DC-Center-Positive"
+		(layer "F.Cu")
+		(uuid "be4d9734-a9e6-4d90-a97a-59ba943f6214")
+		(at 143.5 179.9)
+		(property "Reference" "G8"
+			(at 0 -12.1 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "bc7dfe48-4489-44c5-b654-d36e70ce9e8c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "DC Polarity"
+			(at 0 -10.6 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "72e93622-dc1a-432d-8a9f-e24090a4dca3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "lethalbit-graphics:DC-Center-Positive"
+			(at 0 -11.6 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0af57d3c-f956-41f1-b1a2-fdb86ab95d79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 -11.6 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9bceedbb-0f55-44c0-bcd5-b582efbd89db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 -11.6 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b9530eb2-752d-46fb-99e4-cb9f97676efd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32/979b0b74-dd47-41f6-ae6d-19fcddd71ede")
+		(sheetname "Power & Mechanical")
+		(sheetfile "squishy-main-power.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
+		(fp_line
+			(start -6.5 0)
+			(end -4.5 0)
+			(stroke
+				(width 0.2)
+				(type default)
+			)
+			(layer "F.SilkS")
+			(uuid "952933cc-369f-4b91-9609-9be29614c8cd")
+		)
+		(fp_line
+			(start -1.581138 0)
+			(end -3.918862 0)
+			(stroke
+				(width 0.3)
+				(type default)
+			)
+			(layer "F.SilkS")
+			(uuid "8ea97855-3b1d-46db-8fce-f18d19d556f6")
+		)
+		(fp_line
+			(start 0 0)
+			(end 2.918862 0)
+			(stroke
+				(width 0.3)
+				(type default)
+			)
+			(layer "F.SilkS")
+			(uuid "7d5000fb-c1fb-4a98-be84-ebea15534a9c")
+		)
+		(fp_line
+			(start 3.5 0)
+			(end 5.5 0)
+			(stroke
+				(width 0.2)
+				(type default)
+			)
+			(layer "F.SilkS")
+			(uuid "007ac70a-7368-4061-8a76-2f3323b3b5b9")
+		)
+		(fp_line
+			(start 4.5 -1)
+			(end 4.5 1)
+			(stroke
+				(width 0.2)
+				(type default)
+			)
+			(layer "F.SilkS")
+			(uuid "0bed2bff-9969-431f-ad33-24337f9193c5")
+		)
+		(fp_arc
+			(start 0.5 1.499999)
+			(mid -1.581138 0)
+			(end 0.5 -1.499999)
+			(stroke
+				(width 0.3)
+				(type default)
+			)
+			(layer "F.SilkS")
+			(uuid "20c4d271-0ec7-433e-94ea-c74e5cca07f5")
+		)
+		(fp_circle
+			(center -5.5 0)
+			(end -3.918862 0)
+			(stroke
+				(width 0.3)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "0de558ff-d31a-450a-8226-3f62892e11ba")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 0.5 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "87335a3e-e45a-4be9-b87d-5a35bdbd1f0c")
+		)
+		(fp_circle
+			(center 4.5 0)
+			(end 6.081138 0)
+			(stroke
+				(width 0.3)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "5b01770a-a6a4-49cb-8e31-39a31502a524")
+		)
+	)
 	(footprint "rhais_rcl:C0603"
 		(layer "F.Cu")
 		(uuid "bfb6b466-5c0b-4cc0-855f-9a3eda9d88d1")
