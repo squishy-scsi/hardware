@@ -13366,12 +13366,6 @@
 		(uuid "2205e93e-329c-419f-8b6c-a7302a7e95bf")
 	)
 	(junction
-		(at 26.67 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "28c5f970-5fa9-4d53-bca2-05a407628ee0")
-	)
-	(junction
 		(at 129.54 234.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13472,12 +13466,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9f5fb340-24fd-48aa-a41e-ea7be4081128")
-	)
-	(junction
-		(at 34.29 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a9f98a3c-871b-4921-a06f-bcb4a0e83db5")
 	)
 	(junction
 		(at 57.15 25.4)
@@ -14407,16 +14395,6 @@
 		)
 		(uuid "15b81fda-ad88-4526-9008-6fa08edb195d")
 	)
-	(wire
-		(pts
-			(xy 34.29 102.87) (xy 34.29 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15bccf70-9e36-4557-85d6-b3c30ae6d3ca")
-	)
 	(bus
 		(pts
 			(xy 162.56 78.74) (xy 162.56 81.28)
@@ -14886,6 +14864,16 @@
 			(type solid)
 		)
 		(uuid "3110e274-d30b-46e2-933a-97b02cea924a")
+	)
+	(wire
+		(pts
+			(xy 34.29 102.87) (xy 34.29 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "316ac3c4-b03d-4234-b418-5391c9fcb9f8")
 	)
 	(wire
 		(pts
@@ -15426,16 +15414,6 @@
 			(type default)
 		)
 		(uuid "5044a615-5a27-4dc1-a5e1-dda55d4a3c63")
-	)
-	(wire
-		(pts
-			(xy 33.02 102.87) (xy 34.29 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50c94b68-d727-4607-9383-76c03e98ae52")
 	)
 	(wire
 		(pts
@@ -16917,16 +16895,6 @@
 		)
 		(uuid "9a43bdda-fb4a-4ee4-aa4b-74229724d1f7")
 	)
-	(wire
-		(pts
-			(xy 26.67 102.87) (xy 26.67 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9af9e37e-0143-4db9-bf9e-ffcd2889829a")
-	)
 	(polyline
 		(pts
 			(xy 287.02 13.97) (xy 381 13.97)
@@ -16949,7 +16917,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 110.49) (xy 27.94 110.49)
+			(xy 26.67 102.87) (xy 27.94 102.87)
 		)
 		(stroke
 			(width 0)
@@ -17179,7 +17147,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 110.49) (xy 33.02 110.49)
+			(xy 34.29 102.87) (xy 33.02 102.87)
 		)
 		(stroke
 			(width 0)
@@ -17416,16 +17384,6 @@
 			(type solid)
 		)
 		(uuid "b3220dce-862e-4674-b313-79af95a02b3f")
-	)
-	(wire
-		(pts
-			(xy 38.1 110.49) (xy 38.1 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b38e8761-7fbf-4051-93e9-b10349da4244")
 	)
 	(polyline
 		(pts
@@ -17706,16 +17664,6 @@
 			(type solid)
 		)
 		(uuid "c41f8c9e-6de4-47ae-8299-2d9dd5098603")
-	)
-	(wire
-		(pts
-			(xy 38.1 110.49) (xy 34.29 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c43016be-1b11-4c89-bbfa-09af7a70a479")
 	)
 	(wire
 		(pts
@@ -18696,16 +18644,6 @@
 			(type solid)
 		)
 		(uuid "f6e5d23f-001a-4236-957a-3edabd0b1547")
-	)
-	(wire
-		(pts
-			(xy 27.94 102.87) (xy 26.67 102.87)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "f7b5e801-9e05-47c5-ab33-94f4ff10c320")
 	)
 	(polyline
 		(pts
@@ -20282,13 +20220,13 @@
 		(uuid "6ccd606a-2f8f-4d47-97e8-ffecd34b7865")
 	)
 	(label "USB_SHIELD"
-		(at 26.67 110.49 90)
+		(at 26.67 97.79 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "6d31514a-3941-4b2e-a948-2eb2df1c4bf3")
 	)
@@ -24982,7 +24920,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 38.1 113.03 0)
+		(at 34.29 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24990,7 +24928,7 @@
 		(dnp no)
 		(uuid "3d3e520f-0b85-49ed-962e-b880f8b3450f")
 		(property "Reference" "#PWR0135"
-			(at 38.1 119.38 0)
+			(at 34.29 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24999,7 +24937,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 38.1 116.84 0)
+			(at 34.29 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25007,7 +24945,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 38.1 113.03 0)
+			(at 34.29 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25016,7 +24954,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 113.03 0)
+			(at 34.29 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25025,7 +24963,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 38.1 113.03 0)
+			(at 34.29 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25911,7 +25849,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 30.48 110.49 270)
+		(at 30.48 102.87 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25919,7 +25857,7 @@
 		(dnp no)
 		(uuid "70a2a5a6-d29b-43b9-87c7-2130682ac1b9")
 		(property "Reference" "C3"
-			(at 30.48 107.95 90)
+			(at 30.48 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25927,7 +25865,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 30.48 113.03 90)
+			(at 30.48 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25935,7 +25873,7 @@
 			)
 		)
 		(property "Footprint" "rhais_rcl:C0603"
-			(at 30.48 110.49 0)
+			(at 30.48 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25944,7 +25882,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 30.48 110.49 0)
+			(at 30.48 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25953,7 +25891,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 30.48 110.49 0)
+			(at 30.48 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25962,7 +25900,7 @@
 			)
 		)
 		(property "MFR" "KEMET"
-			(at 30.48 110.49 90)
+			(at 30.48 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25971,7 +25909,7 @@
 			)
 		)
 		(property "MPN" "C0603C104M5RACTU"
-			(at 30.48 110.49 90)
+			(at 30.48 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27266,97 +27204,6 @@
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/573264d1-b4a8-4279-b1ac-379f43fe1045"
 					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 30.48 102.87 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b87ccb27-b2c4-4c2e-a1d0-2157f7e21fb1")
-		(property "Reference" "C5"
-			(at 30.48 100.33 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1n"
-			(at 30.48 105.41 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "rhais_rcl:C0603"
-			(at 30.48 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 30.48 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 30.48 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR" ""
-			(at 30.48 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
-			(at 30.48 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e2a6b9f0-4554-42b8-a622-972b72791a22")
-		)
-		(pin "2"
-			(uuid "65aaeaf3-697e-46f5-9155-e5e7ebfe63fe")
-		)
-		(instances
-			(project "squishy"
-				(path "/66946989-0eb4-469a-822e-5001e4c71e1d/897376f2-0c69-4736-a5dd-4d1ec77915b7"
-					(reference "C5")
-					(unit 1)
-				)
-			)
-			(project "squishy-main"
-				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/573264d1-b4a8-4279-b1ac-379f43fe1045"
-					(reference "C7")
 					(unit 1)
 				)
 			)
