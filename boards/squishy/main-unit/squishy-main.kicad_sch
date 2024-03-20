@@ -927,6 +927,145 @@
 				)
 			)
 		)
+		(symbol "Connector_Generic:Conn_01x02"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x02_1_1"
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector_Generic:Conn_02x05_Odd_Even"
 			(pin_names
 				(offset 1.016) hide)
@@ -19928,6 +20067,16 @@
 	)
 	(wire
 		(pts
+			(xy 67.31 45.72) (xy 74.93 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cd5ea8d-81e4-403b-ab44-2e57b44fb5e9")
+	)
+	(wire
+		(pts
 			(xy 177.8 264.16) (xy 177.8 267.97)
 		)
 		(stroke
@@ -21515,6 +21664,16 @@
 			(type default)
 		)
 		(uuid "36c3c09c-9dd8-4d63-938c-f962723de566")
+	)
+	(wire
+		(pts
+			(xy 72.39 48.26) (xy 72.39 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37394329-85ce-4c35-b11a-eb4b28011704")
 	)
 	(bus
 		(pts
@@ -23118,7 +23277,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 40.64) (xy 80.01 43.18)
+			(xy 80.01 31.75) (xy 80.01 34.29)
 		)
 		(stroke
 			(width 0)
@@ -24225,6 +24384,16 @@
 			(type default)
 		)
 		(uuid "8131c4aa-5364-4d46-b176-c3665015a576")
+	)
+	(wire
+		(pts
+			(xy 74.93 48.26) (xy 72.39 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "817484d1-6da4-49ae-8b7b-ee67bf595db4")
 	)
 	(wire
 		(pts
@@ -27008,7 +27177,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 35.56) (xy 74.93 35.56)
+			(xy 67.31 26.67) (xy 74.93 26.67)
 		)
 		(stroke
 			(width 0)
@@ -30436,7 +30605,7 @@
 		(uuid "4cb26e5e-f888-409e-8b65-84952f6824b6")
 	)
 	(label "TRIGGER"
-		(at 67.31 35.56 0)
+		(at 67.31 26.67 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -31809,6 +31978,17 @@
 			(justify left bottom)
 		)
 		(uuid "b18fe201-661d-4dd5-8470-f7cca6792c33")
+	)
+	(label "TRIGGER"
+		(at 67.31 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b1d19466-5460-4d75-865e-370a9c74fa56")
 	)
 	(label "FPGA_TDI"
 		(at 148.59 88.9 180)
@@ -39565,6 +39745,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 80.01 45.72 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp yes)
+		(uuid "4d6f8ca9-20e7-43f2-bfc4-770ecb9ae574")
+		(property "Reference" "J1"
+			(at 80.01 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 80.01 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 80.01 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 80.01 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 80.01 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "66f34e78-fd14-4bc7-80e1-5e53ffa73a35")
+		)
+		(pin "2"
+			(uuid "ca5a3f21-9c24-4272-9a52-c107c291d0e4")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 33.02 25.4 0)
 		(unit 1)
@@ -41287,7 +41534,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_Coaxial")
-		(at 80.01 35.56 0)
+		(at 80.01 26.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -41295,7 +41542,7 @@
 		(dnp yes)
 		(uuid "7d7f7752-316d-4fbd-912b-a5e931529c9e")
 		(property "Reference" "J8"
-			(at 80.01 31.75 0)
+			(at 80.01 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41303,7 +41550,7 @@
 			)
 		)
 		(property "Value" "TRIGGER"
-			(at 73.66 36.83 0)
+			(at 73.66 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41311,7 +41558,7 @@
 			)
 		)
 		(property "Footprint" "lethalbit-rf:Molex_SMA_732512120"
-			(at 80.01 35.56 0)
+			(at 80.01 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41320,7 +41567,7 @@
 			)
 		)
 		(property "Datasheet" " ~"
-			(at 80.01 35.56 0)
+			(at 80.01 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41329,7 +41576,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 80.01 35.56 0)
+			(at 80.01 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41338,7 +41585,7 @@
 			)
 		)
 		(property "MFR" "Molex"
-			(at 80.01 35.56 0)
+			(at 80.01 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41347,7 +41594,7 @@
 			)
 		)
 		(property "MPN" "732512120"
-			(at 80.01 35.56 0)
+			(at 80.01 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43980,7 +44227,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 80.01 43.18 0)
+		(at 80.01 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43988,7 +44235,7 @@
 		(dnp no)
 		(uuid "93ba2603-9a62-450a-b22e-8aca2b174d78")
 		(property "Reference" "#PWR080"
-			(at 80.01 49.53 0)
+			(at 80.01 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43997,7 +44244,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 80.01 46.99 0)
+			(at 80.01 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44005,7 +44252,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 43.18 0)
+			(at 80.01 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44014,7 +44261,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 43.18 0)
+			(at 80.01 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44023,7 +44270,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 43.18 0)
+			(at 80.01 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46149,6 +46396,71 @@
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa"
 					(reference "TP32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 72.39 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b8c4c8d3-ae7c-4b68-9378-f9826f66da30")
+		(property "Reference" "#PWR0164"
+			(at 72.39 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 72.39 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 72.39 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 72.39 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 72.39 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "38ee76b1-6b95-4277-9eb0-0aa1279c9ba4")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa"
+					(reference "#PWR0164")
 					(unit 1)
 				)
 			)
