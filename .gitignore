@@ -2,6 +2,7 @@ _autosave-*
 *.FCStd[0-9]
 *.kicad_pcb-bak
 *.kicad_sch-bak
+*.kicad_prl
 *.slvs~
 *.tar*
 *.zip
