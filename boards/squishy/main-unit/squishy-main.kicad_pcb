@@ -45945,7 +45945,7 @@
 	(footprint "lethalbit-graphics:DC-Center-Positive"
 		(layer "F.Cu")
 		(uuid "be4d9734-a9e6-4d90-a97a-59ba943f6214")
-		(at 143.5 179.9)
+		(at 143.5 179.1)
 		(property "Reference" "G8"
 			(at 0 -12.1 0)
 			(unlocked yes)
