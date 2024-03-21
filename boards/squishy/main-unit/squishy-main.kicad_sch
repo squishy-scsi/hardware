@@ -3155,186 +3155,6 @@
 				)
 			)
 		)
-		(symbol "Jumper:SolderJumper_2_Open"
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "JP"
-				(at 0 2.032 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SolderJumper_2_Open"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Solder Jumper, 2-pole, open"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "solder jumper SPST"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SolderJumper*Open*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SolderJumper_2_Open_0_1"
-				(arc
-					(start -0.254 1.016)
-					(mid -1.2656 0)
-					(end -0.254 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -0.254 1.016)
-					(mid -1.2656 0)
-					(end -0.254 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.254 1.016) (xy -0.254 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.254 1.016) (xy 0.254 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0.254 -1.016)
-					(mid 1.2656 0)
-					(end 0.254 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0.254 -1.016)
-					(mid 1.2656 0)
-					(end 0.254 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "SolderJumper_2_Open_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Oscillator:ASE-xxxMHz"
 			(pin_names
 				(offset 0.254)
@@ -16906,7 +16726,7 @@
 		(uuid "0b20d89e-f228-44d4-b4b2-905de11bef50")
 	)
 	(junction
-		(at 170.18 245.11)
+		(at 170.18 255.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0cf94be2-abcd-4815-b83f-ac9997ddf063")
@@ -17030,6 +16850,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "41851d46-3ee8-4685-ad7b-b2363c82272b")
+	)
+	(junction
+		(at 167.64 255.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "42f2b39b-132c-4953-9521-31225bad62b0")
 	)
 	(junction
 		(at 386.08 59.69)
@@ -17284,12 +17110,6 @@
 		(uuid "c51fb814-4b59-49f4-8112-ef75a8a2771f")
 	)
 	(junction
-		(at 167.64 245.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ccf8497f-3826-4d89-b0a6-3ce9ab3ccc45")
-	)
-	(junction
 		(at 127 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17392,7 +17212,7 @@
 		(uuid "fc94b86c-11da-44a4-afbb-5e06cb587625")
 	)
 	(junction
-		(at 172.72 245.11)
+		(at 172.72 255.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd98cfdc-7c7e-4360-a724-7380733db51d")
@@ -19605,16 +19425,6 @@
 		)
 		(uuid "02a740dd-1190-411e-83a0-f7f292a49369")
 	)
-	(polyline
-		(pts
-			(xy 168.91 247.65) (xy 180.34 247.65)
-		)
-		(stroke
-			(width 0)
-			(type dot)
-		)
-		(uuid "02ef0085-36e4-4113-8d1c-36026989cdb8")
-	)
 	(bus
 		(pts
 			(xy 31.75 200.66) (xy 31.75 203.2)
@@ -20285,6 +20095,16 @@
 		)
 		(uuid "1382b91f-a9c9-4cb9-bcf2-334c6430343e")
 	)
+	(wire
+		(pts
+			(xy 162.56 259.08) (xy 162.56 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13f990ac-c309-4078-a60c-f8f9d323edeb")
+	)
 	(bus
 		(pts
 			(xy 325.12 157.48) (xy 325.12 160.02)
@@ -20944,6 +20764,16 @@
 			(type default)
 		)
 		(uuid "2510dde8-8796-4942-8ce4-95e5cf3698d9")
+	)
+	(wire
+		(pts
+			(xy 167.64 255.27) (xy 170.18 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "252644bc-18e5-4a0d-aa6f-67fe770c422f")
 	)
 	(wire
 		(pts
@@ -22367,16 +22197,6 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 256.54) (xy 177.8 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48bd9d84-02f2-4545-b47a-05706b5a2b97")
-	)
-	(wire
-		(pts
 			(xy 358.14 199.39) (xy 358.14 207.01)
 		)
 		(stroke
@@ -22704,16 +22524,6 @@
 			(type default)
 		)
 		(uuid "50ad0cd1-b66f-43df-9685-682c03cda85f")
-	)
-	(polyline
-		(pts
-			(xy 168.91 247.65) (xy 168.91 257.81)
-		)
-		(stroke
-			(width 0)
-			(type dot)
-		)
-		(uuid "50e28c0c-fd5d-493a-a07a-08fc2715aa42")
 	)
 	(wire
 		(pts
@@ -23347,7 +23157,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 245.11) (xy 177.8 248.92)
+			(xy 177.8 255.27) (xy 177.8 259.08)
 		)
 		(stroke
 			(width 0)
@@ -24355,16 +24165,6 @@
 		)
 		(uuid "808e4135-ed06-45ce-9780-85c65b8e71f1")
 	)
-	(wire
-		(pts
-			(xy 167.64 245.11) (xy 167.64 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8120179e-30ba-4f8d-a5f3-f1320fc8515e")
-	)
 	(bus
 		(pts
 			(xy 196.85 137.16) (xy 196.85 139.7)
@@ -24417,7 +24217,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 245.11) (xy 172.72 245.11)
+			(xy 170.18 255.27) (xy 172.72 255.27)
 		)
 		(stroke
 			(width 0)
@@ -24477,7 +24277,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 245.11) (xy 177.8 245.11)
+			(xy 172.72 255.27) (xy 177.8 255.27)
 		)
 		(stroke
 			(width 0)
@@ -24757,7 +24557,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 245.11) (xy 172.72 248.92)
+			(xy 172.72 255.27) (xy 172.72 259.08)
 		)
 		(stroke
 			(width 0)
@@ -24964,16 +24764,6 @@
 			(type default)
 		)
 		(uuid "8ef46764-7f63-4b1e-a1a8-88f6c72bf534")
-	)
-	(polyline
-		(pts
-			(xy 168.91 257.81) (xy 180.34 257.81)
-		)
-		(stroke
-			(width 0)
-			(type dot)
-		)
-		(uuid "8f14da5b-f413-4aa8-a4f9-134afbfc4534")
 	)
 	(wire
 		(pts
@@ -25297,7 +25087,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 245.11) (xy 167.64 245.11)
+			(xy 162.56 255.27) (xy 167.64 255.27)
 		)
 		(stroke
 			(width 0)
@@ -25484,16 +25274,6 @@
 			(type default)
 		)
 		(uuid "9dca0f55-df09-45a3-bd55-7347b59f6987")
-	)
-	(wire
-		(pts
-			(xy 162.56 245.11) (xy 162.56 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e1e3dcf-c7da-46bb-b1f1-b9eb14fa3a5d")
 	)
 	(polyline
 		(pts
@@ -25924,16 +25704,6 @@
 			(type default)
 		)
 		(uuid "a7b7049a-6235-42f0-9987-c667b007f09d")
-	)
-	(wire
-		(pts
-			(xy 172.72 256.54) (xy 172.72 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a805941e-130c-42b3-86f8-340bde358158")
 	)
 	(wire
 		(pts
@@ -26495,16 +26265,6 @@
 		)
 		(uuid "b926838c-f383-4305-aa66-b5a3c589cbbd")
 	)
-	(polyline
-		(pts
-			(xy 180.34 257.81) (xy 180.34 247.65)
-		)
-		(stroke
-			(width 0)
-			(type dot)
-		)
-		(uuid "b93b5fdc-b92b-4c28-8162-ce05f199b9eb")
-	)
 	(bus
 		(pts
 			(xy 74.93 205.74) (xy 74.93 208.28)
@@ -26714,6 +26474,16 @@
 			(type default)
 		)
 		(uuid "bd368c5d-29eb-4711-9907-56e5326f2efd")
+	)
+	(wire
+		(pts
+			(xy 167.64 259.08) (xy 167.64 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd61bfdb-a9ca-40ff-a791-eef3e47818a6")
 	)
 	(wire
 		(pts
@@ -27307,7 +27077,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 241.3) (xy 170.18 245.11)
+			(xy 170.18 251.46) (xy 170.18 255.27)
 		)
 		(stroke
 			(width 0)
@@ -27634,16 +27404,6 @@
 			(type default)
 		)
 		(uuid "d5c83313-7f7b-4b16-a194-92db754754dd")
-	)
-	(wire
-		(pts
-			(xy 167.64 245.11) (xy 170.18 245.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d625cbd2-124c-4bcf-9130-eb265eb755e1")
 	)
 	(bus
 		(pts
@@ -29220,17 +28980,6 @@
 			(justify left bottom)
 		)
 		(uuid "6d30a5f9-4075-442e-b1f1-f40794e5069c")
-	)
-	(text "Bridge if \nU3/U15"
-		(exclude_from_sim no)
-		(at 184.404 252.73 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify bottom)
-		)
-		(uuid "6e5dc9f8-0b80-4493-9330-16cf6c18d3c6")
 	)
 	(text "Supervisor SWD"
 		(exclude_from_sim no)
@@ -37557,7 +37306,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C0402C103K3RACTU"
 			(at 19.05 158.75 0)
 			(effects
 				(font
@@ -37804,7 +37553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C0402C103K3RACTU"
 			(at 19.05 36.83 0)
 			(effects
 				(font
@@ -40955,73 +40704,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 177.8 252.73 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "722b3114-beee-4629-8051-3e9d41291e58")
-		(property "Reference" "JP2"
-			(at 175.768 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "~"
-			(at 180.34 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 177.8 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 177.8 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 177.8 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "bb2462bd-302d-40f1-b377-84bd8e16a5f5")
-		)
-		(pin "1"
-			(uuid "f7f75360-25dd-4546-9ebd-bf88eb481879")
-		)
-		(instances
-			(project "squishy-main"
-				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa"
-					(reference "JP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 26.67 132.08 0)
 		(mirror y)
@@ -41197,7 +40879,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FPGA_TMS"
+		(property "Value" "FPGA_DONE"
 			(at 118.11 166.37 0)
 			(effects
 				(font
@@ -42728,7 +42410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yuden.co.jp/productdata/catalog/mlcc06_e.pdf"
 			(at 389.89 64.77 0)
 			(effects
 				(font
@@ -42746,7 +42428,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Taiyo Yuden"
 			(at 389.89 64.77 90)
 			(effects
 				(font
@@ -42755,7 +42437,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "UMK107BJ105KA-T"
 			(at 389.89 64.77 90)
 			(effects
 				(font
@@ -44330,7 +44012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
 			(at 212.09 127 0)
 			(effects
 				(font
@@ -44357,7 +44039,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0402C104M8PACTU"
+		(property "MPN" "C0603C104M5RACTU"
 			(at 212.09 127 90)
 			(effects
 				(font
@@ -45954,7 +45636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
 			(at 134.62 262.89 0)
 			(effects
 				(font
@@ -45981,7 +45663,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0402C104M8PACTU"
+		(property "MPN" "C0603C104M5RACTU"
 			(at 134.62 262.89 90)
 			(effects
 				(font
@@ -46189,7 +45871,7 @@
 	)
 	(symbol
 		(lib_id "power:+1V8")
-		(at 170.18 241.3 0)
+		(at 170.18 251.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -46197,7 +45879,7 @@
 		(dnp no)
 		(uuid "b557f335-ebb7-47a7-8caa-7cabe5f60bda")
 		(property "Reference" "#PWR098"
-			(at 170.18 245.11 0)
+			(at 170.18 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46206,7 +45888,7 @@
 			)
 		)
 		(property "Value" "+1V8"
-			(at 170.18 237.49 0)
+			(at 170.18 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46214,7 +45896,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 241.3 0)
+			(at 170.18 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46223,7 +45905,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 241.3 0)
+			(at 170.18 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46232,7 +45914,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+1V8\""
-			(at 170.18 241.3 0)
+			(at 170.18 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47801,73 +47483,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 172.72 252.73 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d25a096f-8ff3-49cc-bf8b-b9486381d916")
-		(property "Reference" "JP3"
-			(at 170.688 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "~"
-			(at 175.26 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 172.72 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 172.72 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 172.72 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "59f9b0d7-59af-4dd7-9ca2-6c60e74af761")
-		)
-		(pin "1"
-			(uuid "afa5ab4d-d81c-4a94-a8b3-4c8236b43b80")
-		)
-		(instances
-			(project "squishy-main"
-				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa"
-					(reference "JP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 22.86 127 0)
 		(unit 1)
@@ -47901,7 +47516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
 			(at 22.86 127 0)
 			(effects
 				(font
@@ -47928,7 +47543,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0402C104M8PACTU"
+		(property "MPN" "C0603C104M5RACTU"
 			(at 22.86 127 90)
 			(effects
 				(font
@@ -51258,7 +50873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yuden.co.jp/productdata/catalog/mlcc06_e.pdf"
 			(at 219.71 127 0)
 			(effects
 				(font
@@ -52318,7 +51933,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H104KE14-01.pdf"
 			(at 220.98 157.48 0)
 			(effects
 				(font
@@ -52328,6 +51943,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 220.98 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 220.98 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71H104KE14D"
 			(at 220.98 157.48 0)
 			(effects
 				(font
@@ -53990,7 +53623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yuden.co.jp/productdata/catalog/mlcc06_e.pdf"
 			(at 52.07 130.81 0)
 			(effects
 				(font
@@ -54173,7 +53806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
 			(at 161.29 204.47 0)
 			(effects
 				(font
@@ -54200,7 +53833,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0402C104M8PACTU"
+		(property "MPN" "C0603C104M5RACTU"
 			(at 161.29 204.47 90)
 			(effects
 				(font
@@ -54258,7 +53891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yuden.co.jp/productdata/catalog/mlcc06_e.pdf"
 			(at 30.48 127 0)
 			(effects
 				(font

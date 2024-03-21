@@ -21137,7 +21137,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C0402C103K3RACTU"
 			(at 243.84 99.06 0)
 			(effects
 				(font
@@ -22935,7 +22935,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
 			(at 320.04 31.75 0)
 			(effects
 				(font
@@ -23433,7 +23433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
 			(at 242.57 36.83 0)
 			(effects
 				(font
@@ -23460,7 +23460,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0402C104M8PACTU"
+		(property "MPN" "C0603C104M5RACTU"
 			(at 242.57 36.83 90)
 			(effects
 				(font
@@ -25406,7 +25406,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
 			(at 133.35 57.15 0)
 			(effects
 				(font
@@ -25881,7 +25881,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
 			(at 30.48 102.87 0)
 			(effects
 				(font
@@ -26336,7 +26336,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lethalbit:AK3A-xxxMHz"
+		(property "Footprint" "lethalbit:AK2A-xxxMHz"
 			(at 83.82 271.78 0)
 			(effects
 				(font
@@ -27566,7 +27566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H104KE14-01.pdf"
 			(at 111.76 34.29 0)
 			(effects
 				(font
@@ -27584,7 +27584,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Murata Electronics"
 			(at 111.76 34.29 90)
 			(effects
 				(font
@@ -27593,7 +27593,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GRM155R71H104KE14D"
 			(at 111.76 34.29 90)
 			(effects
 				(font
@@ -27657,7 +27657,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
 			(at 234.95 36.83 0)
 			(effects
 				(font
@@ -27684,7 +27684,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0402C104M8PACTU"
+		(property "MPN" "C0603C104M5RACTU"
 			(at 234.95 36.83 90)
 			(effects
 				(font
@@ -27741,7 +27741,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "rhais_osc:SMD3225"
+		(property "Footprint" "rhais_osc:SMD2520"
 			(at 275.59 111.76 0)
 			(effects
 				(font
@@ -27750,7 +27750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.txccrystal.com/images/pdf/8w-tight.pdf"
 			(at 255.27 102.87 0)
 			(effects
 				(font
@@ -27768,7 +27768,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "TXC CORPORATION"
 			(at 257.81 102.87 0)
 			(effects
 				(font
@@ -27777,7 +27777,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "8W-13.000MBE-T"
 			(at 257.81 102.87 0)
 			(effects
 				(font
@@ -28069,7 +28069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0603C475K8PACTU"
 			(at 227.33 36.83 0)
 			(effects
 				(font
@@ -28440,7 +28440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H104KE14-01.pdf"
 			(at 106.68 34.29 0)
 			(effects
 				(font
@@ -28458,7 +28458,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Murata Electronics"
 			(at 106.68 34.29 90)
 			(effects
 				(font
@@ -28467,7 +28467,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GRM155R71H104KE14D"
 			(at 106.68 34.29 90)
 			(effects
 				(font
@@ -28668,7 +28668,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C0402C103K3RACTU"
 			(at 115.57 262.89 0)
 			(effects
 				(font
@@ -30300,7 +30300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H104KE14-01.pdf"
 			(at 124.46 240.03 0)
 			(effects
 				(font
@@ -30310,6 +30310,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 124.46 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 124.46 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71H104KE14D"
 			(at 124.46 240.03 0)
 			(effects
 				(font
@@ -30674,7 +30692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H104KE14-01.pdf"
 			(at 114.3 240.03 0)
 			(effects
 				(font
@@ -30684,6 +30702,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 114.3 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 114.3 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71H104KE14D"
 			(at 114.3 240.03 0)
 			(effects
 				(font
@@ -30827,7 +30863,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yuden.co.jp/productdata/catalog/mlcc06_e.pdf"
 			(at 312.42 31.75 0)
 			(effects
 				(font
