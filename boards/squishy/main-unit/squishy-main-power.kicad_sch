@@ -25687,7 +25687,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R61E105MA12-01.pdf"
 			(at 22.86 143.51 0)
 			(effects
 				(font
@@ -25697,6 +25697,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 22.86 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 22.86 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61E105MA12D"
 			(at 22.86 143.51 0)
 			(effects
 				(font
@@ -25928,7 +25946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C103KA01-01.pdf"
 			(at 33.02 143.51 0)
 			(effects
 				(font
@@ -25938,6 +25956,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 33.02 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 33.02 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71C103KA01D"
 			(at 33.02 143.51 0)
 			(effects
 				(font
@@ -26433,7 +26469,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C103KA01-01.pdf"
 			(at 43.18 119.38 0)
 			(effects
 				(font
@@ -26443,6 +26479,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 43.18 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 43.18 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71C103KA01D"
 			(at 43.18 119.38 0)
 			(effects
 				(font
@@ -26776,7 +26830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61E225KA12-01.pdf"
 			(at 83.82 186.69 0)
 			(effects
 				(font
@@ -26786,6 +26840,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 83.82 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 83.82 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM188R61E225KA12J"
 			(at 83.82 186.69 0)
 			(effects
 				(font
@@ -27558,7 +27630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61A226ME15-01.pdf"
 			(at 294.64 132.08 0)
 			(effects
 				(font
@@ -27576,7 +27648,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Murata Electronics"
 			(at 294.64 132.08 90)
 			(effects
 				(font
@@ -27585,7 +27657,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GRM188R61A226ME15D"
 			(at 294.64 132.08 90)
 			(effects
 				(font
@@ -28357,7 +28429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H821KA37-01A.pdf"
 			(at 96.52 215.9 0)
 			(effects
 				(font
@@ -28367,6 +28439,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 96.52 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 96.52 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM155R71H821KA37D"
 			(at 96.52 215.9 0)
 			(effects
 				(font
@@ -28426,7 +28516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C103KA01-01.pdf"
 			(at 22.86 119.38 0)
 			(effects
 				(font
@@ -28436,6 +28526,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 22.86 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 22.86 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71C103KA01D"
 			(at 22.86 119.38 0)
 			(effects
 				(font
@@ -28495,7 +28603,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R61E105MA12-01.pdf"
 			(at 133.35 107.95 0)
 			(effects
 				(font
@@ -28505,6 +28613,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 133.35 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 133.35 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61E105MA12D"
 			(at 133.35 107.95 0)
 			(effects
 				(font
@@ -28656,7 +28782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R61E105MA12-01.pdf"
 			(at 125.73 147.32 0)
 			(effects
 				(font
@@ -28666,6 +28792,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 125.73 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 125.73 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61E105MA12D"
 			(at 125.73 147.32 0)
 			(effects
 				(font
@@ -30289,7 +30433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C103KA01-01.pdf"
 			(at 33.02 119.38 0)
 			(effects
 				(font
@@ -30299,6 +30443,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 33.02 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 33.02 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71C103KA01D"
 			(at 33.02 119.38 0)
 			(effects
 				(font
@@ -30903,7 +31065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61E106KA73-01.pdf"
 			(at 265.43 130.81 0)
 			(effects
 				(font
@@ -30921,7 +31083,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Murata Electronics"
 			(at 265.43 130.81 90)
 			(effects
 				(font
@@ -30930,7 +31092,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 265.43 130.81 90)
 			(effects
 				(font
@@ -32137,7 +32299,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C1812C225K1RACTU"
 			(at 105.41 186.69 0)
 			(effects
 				(font
@@ -32311,7 +32473,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R61E105MA12-01.pdf"
 			(at 120.65 147.32 0)
 			(effects
 				(font
@@ -32321,6 +32483,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 120.65 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 120.65 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61E105MA12D"
 			(at 120.65 147.32 0)
 			(effects
 				(font
@@ -35105,7 +35285,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C103KA01-01.pdf"
 			(at 52.07 143.51 0)
 			(effects
 				(font
@@ -35115,6 +35295,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 52.07 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 52.07 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71C103KA01D"
 			(at 52.07 143.51 0)
 			(effects
 				(font
@@ -35639,7 +35837,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C103KA01-01.pdf"
 			(at 38.1 119.38 0)
 			(effects
 				(font
@@ -35649,6 +35847,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 38.1 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 38.1 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71C103KA01D"
 			(at 38.1 119.38 0)
 			(effects
 				(font
@@ -35780,7 +35996,7 @@
 				(justify top)
 			)
 		)
-		(property "Value" "70k"
+		(property "Value" "80k6"
 			(at 63.5 194.31 90)
 			(effects
 				(font
@@ -35797,7 +36013,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28773/crcwce3.pdf"
 			(at 63.5 194.31 0)
 			(effects
 				(font
@@ -35815,7 +36031,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 63.5 194.31 90)
 			(effects
 				(font
@@ -35824,7 +36040,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040280K6FKEDC"
 			(at 63.5 194.31 90)
 			(effects
 				(font
@@ -36063,7 +36279,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H102KA37-01.pdf"
 			(at 72.39 143.51 0)
 			(effects
 				(font
@@ -36073,6 +36289,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 72.39 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 72.39 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM155R71H102KA37D"
 			(at 72.39 143.51 0)
 			(effects
 				(font
@@ -36791,7 +37025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61E106KA73-01.pdf"
 			(at 213.36 207.01 0)
 			(effects
 				(font
@@ -36809,7 +37043,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Murata Electronics"
 			(at 213.36 207.01 90)
 			(effects
 				(font
@@ -36818,7 +37052,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 213.36 207.01 90)
 			(effects
 				(font
@@ -37596,7 +37830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H102KA37-01.pdf"
 			(at 38.1 143.51 0)
 			(effects
 				(font
@@ -37606,6 +37840,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 38.1 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 38.1 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM155R71H102KA37D"
 			(at 38.1 143.51 0)
 			(effects
 				(font
@@ -39041,7 +39293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H123KA55-01A.pdf"
 			(at 101.6 212.09 0)
 			(effects
 				(font
@@ -39051,6 +39303,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 101.6 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 101.6 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM155R71H123KA55D"
 			(at 101.6 212.09 0)
 			(effects
 				(font
@@ -39250,7 +39520,7 @@
 				(justify top)
 			)
 		)
-		(property "Value" "35k"
+		(property "Value" "40k2"
 			(at 58.42 201.93 90)
 			(effects
 				(font
@@ -39267,7 +39537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28773/crcwce3.pdf"
 			(at 58.42 201.93 0)
 			(effects
 				(font
@@ -39285,7 +39555,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 58.42 201.93 90)
 			(effects
 				(font
@@ -39294,7 +39564,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040240K2FKEDC"
 			(at 58.42 201.93 90)
 			(effects
 				(font
@@ -40697,7 +40967,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H102KA37-01.pdf"
 			(at 57.15 143.51 0)
 			(effects
 				(font
@@ -40707,6 +40977,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 57.15 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 57.15 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM155R71H102KA37D"
 			(at 57.15 143.51 0)
 			(effects
 				(font
@@ -41288,7 +41576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C103KA01-01.pdf"
 			(at 27.94 119.38 0)
 			(effects
 				(font
@@ -41298,6 +41586,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 27.94 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 27.94 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71C103KA01D"
 			(at 27.94 119.38 0)
 			(effects
 				(font
@@ -43723,7 +44029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R61E105MA12-01.pdf"
 			(at 130.81 147.32 0)
 			(effects
 				(font
@@ -43733,6 +44039,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 130.81 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 130.81 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61E105MA12D"
 			(at 130.81 147.32 0)
 			(effects
 				(font
@@ -46172,7 +46496,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"
 			(at 201.93 205.74 0)
 			(effects
 				(font
@@ -46190,7 +46514,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "Taiyo Yuden"
+		(property "MFR" "KEMET"
 			(at 201.93 205.74 90)
 			(effects
 				(font
@@ -46199,7 +46523,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "UMK107BJ105KA-T"
+		(property "MPN" "C0603C220J5RAC7867"
 			(at 201.93 205.74 90)
 			(effects
 				(font
@@ -46565,7 +46889,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C103KA01-01.pdf"
 			(at 67.31 143.51 0)
 			(effects
 				(font
@@ -46575,6 +46899,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 67.31 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 67.31 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71C103KA01D"
 			(at 67.31 143.51 0)
 			(effects
 				(font

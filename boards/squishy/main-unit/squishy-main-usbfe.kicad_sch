@@ -20920,7 +20920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C103KA01-01.pdf"
 			(at 119.38 240.03 0)
 			(effects
 				(font
@@ -20930,6 +20930,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 119.38 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 119.38 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71C103KA01D"
 			(at 119.38 240.03 0)
 			(effects
 				(font
@@ -21052,7 +21070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/app/datasheet/mlcc/upy-gphc_x7r_6_3v-to-250v.pdf"
 			(at 294.64 69.85 0)
 			(effects
 				(font
@@ -21070,7 +21088,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "YAGEO"
 			(at 294.64 69.85 90)
 			(effects
 				(font
@@ -21079,7 +21097,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CC0603KRX7R9BB301"
 			(at 294.64 69.85 90)
 			(effects
 				(font
@@ -23041,7 +23059,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C103KA01-01.pdf"
 			(at 129.54 240.03 0)
 			(effects
 				(font
@@ -23051,6 +23069,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 129.54 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 129.54 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71C103KA01D"
 			(at 129.54 240.03 0)
 			(effects
 				(font
@@ -24904,7 +24940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H102KA37-01.pdf"
 			(at 134.62 240.03 0)
 			(effects
 				(font
@@ -24914,6 +24950,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 134.62 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 134.62 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM155R71H102KA37D"
 			(at 134.62 240.03 0)
 			(effects
 				(font
@@ -28227,7 +28281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61E106KA73-01.pdf"
 			(at 299.72 31.75 0)
 			(effects
 				(font
@@ -28245,7 +28299,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Murata Electronics"
 			(at 299.72 31.75 90)
 			(effects
 				(font
@@ -28254,7 +28308,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 299.72 31.75 90)
 			(effects
 				(font
@@ -28834,7 +28888,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/app/datasheet/mlcc/upy-gphc_x7r_6_3v-to-250v.pdf"
 			(at 302.26 69.85 0)
 			(effects
 				(font
@@ -28852,7 +28906,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "YAGEO"
 			(at 302.26 69.85 90)
 			(effects
 				(font
@@ -28861,7 +28915,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CC0603KRX7R9BB301"
 			(at 302.26 69.85 90)
 			(effects
 				(font
