@@ -569,6 +569,163 @@
 				)
 			)
 		)
+		(symbol "Device:C_Polarized_Small"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.254) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.254 1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Polarized_Small"
+				(at 0.254 -2.032 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Polarized capacitor, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CP_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_Polarized_Small_0_1"
+				(rectangle
+					(start -1.524 -0.3048)
+					(end 1.524 -0.6858)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -1.524 0.6858)
+					(end 1.524 0.3048)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.524) (xy -0.762 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 1.27) (xy -1.016 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_Polarized_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 1.8542)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 1.8542)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Device:C_Small"
 			(pin_numbers hide)
 			(pin_names
@@ -17149,7 +17306,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 46.99) (xy 31.75 49.53)
+			(xy 31.75 46.99) (xy 31.75 50.8)
 		)
 		(stroke
 			(width 0)
@@ -20789,7 +20946,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 54.61) (xy 31.75 73.66)
+			(xy 31.75 55.88) (xy 31.75 73.66)
 		)
 		(stroke
 			(width 0)
@@ -25739,8 +25896,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 31.75 52.07 180)
+		(lib_id "Device:C_Polarized_Small")
+		(at 31.75 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25748,34 +25905,25 @@
 		(dnp no)
 		(uuid "01c0c05b-38da-4a44-8644-81cc266fa212")
 		(property "Reference" "C94"
-			(at 29.21 54.61 90)
+			(at 28.448 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right top)
+				(justify top)
 			)
 		)
 		(property "Value" "47u"
-			(at 34.29 54.61 90)
+			(at 35.306 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right bottom)
+				(justify bottom)
 			)
 		)
-		(property "Footprint" "rhais_rcl:C0805"
-			(at 31.75 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 31.75 52.07 0)
+		(property "Footprint" "lethalbit:C_Elec_KEMET_EB"
+			(at 31.75 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25783,8 +25931,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 31.75 52.07 0)
+		(property "Datasheet" "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/A768EB476M1VLAS042"
+			(at 31.75 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25792,8 +25940,8 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
-			(at 31.75 52.07 90)
+		(property "Description" "Polarized capacitor, small symbol"
+			(at 31.75 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25801,8 +25949,17 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 31.75 52.07 90)
+		(property "MFR" "KEMET"
+			(at 31.75 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "A768EB476M1VLAS042"
+			(at 31.75 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28985,7 +29142,7 @@
 	)
 	(symbol
 		(lib_id "DX-MON:pkl_R4_Small")
-		(at 39.37 68.58 0)
+		(at 190.5 120.65 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28993,7 +29150,7 @@
 		(dnp no)
 		(uuid "2adf30e5-fae5-4160-adb5-21b970723b08")
 		(property "Reference" "R50"
-			(at 40.64 68.58 90)
+			(at 190.5 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29002,7 +29159,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 39.37 68.58 90)
+			(at 190.5 120.65 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -29010,7 +29167,7 @@
 			)
 		)
 		(property "Footprint" "rhais_rcl:R0603_Array_Concave_4"
-			(at 39.37 68.58 0)
+			(at 190.5 120.65 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -29019,7 +29176,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
-			(at 39.37 68.58 0)
+			(at 190.5 120.65 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -29028,7 +29185,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 39.37 68.58 0)
+			(at 190.5 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29037,7 +29194,7 @@
 			)
 		)
 		(property "MFR" "Bourns Inc."
-			(at 39.37 68.58 0)
+			(at 190.5 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29046,7 +29203,7 @@
 			)
 		)
 		(property "MPN" "CAY16-103J4LF"
-			(at 39.37 68.58 0)
+			(at 190.5 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38620,7 +38777,7 @@
 	)
 	(symbol
 		(lib_id "DX-MON:pkl_R4_Small")
-		(at 190.5 120.65 90)
+		(at 39.37 68.58 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38628,7 +38785,7 @@
 		(dnp no)
 		(uuid "92d24f36-5f06-4734-bf32-ece2a725ea35")
 		(property "Reference" "R50"
-			(at 190.5 118.11 90)
+			(at 41.91 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38637,7 +38794,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 190.5 120.65 90)
+			(at 39.37 68.58 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -38645,7 +38802,7 @@
 			)
 		)
 		(property "Footprint" "rhais_rcl:R0603_Array_Concave_4"
-			(at 190.5 120.65 0)
+			(at 39.37 68.58 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -38654,7 +38811,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
-			(at 190.5 120.65 0)
+			(at 39.37 68.58 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -38663,7 +38820,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 190.5 120.65 0)
+			(at 39.37 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38672,7 +38829,7 @@
 			)
 		)
 		(property "MFR" "Bourns Inc."
-			(at 190.5 120.65 0)
+			(at 39.37 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38681,7 +38838,7 @@
 			)
 		)
 		(property "MPN" "CAY16-103J4LF"
-			(at 190.5 120.65 0)
+			(at 39.37 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43605,7 +43762,7 @@
 	)
 	(symbol
 		(lib_id "DX-MON:pkl_R4_Small")
-		(at 182.88 120.65 270)
+		(at 39.37 53.34 180)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43613,7 +43770,7 @@
 		(dnp no)
 		(uuid "d1eaa6bd-6b7e-4503-bf00-0024421fb686")
 		(property "Reference" "R50"
-			(at 182.88 118.11 90)
+			(at 41.91 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43622,7 +43779,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 182.88 120.65 90)
+			(at 39.37 53.34 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -43630,7 +43787,7 @@
 			)
 		)
 		(property "Footprint" "rhais_rcl:R0603_Array_Concave_4"
-			(at 182.88 120.65 0)
+			(at 39.37 53.34 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -43639,7 +43796,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
-			(at 182.88 120.65 0)
+			(at 39.37 53.34 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -43648,7 +43805,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 182.88 120.65 0)
+			(at 39.37 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43657,7 +43814,7 @@
 			)
 		)
 		(property "MFR" "Bourns Inc."
-			(at 182.88 120.65 0)
+			(at 39.37 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43666,7 +43823,7 @@
 			)
 		)
 		(property "MPN" "CAY16-103J4LF"
-			(at 182.88 120.65 0)
+			(at 39.37 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45728,7 +45885,7 @@
 	)
 	(symbol
 		(lib_id "DX-MON:pkl_R4_Small")
-		(at 39.37 53.34 180)
+		(at 182.88 120.65 270)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -45736,7 +45893,7 @@
 		(dnp no)
 		(uuid "dc9b3223-7d34-4a5a-a33b-c8b2b1c84b9e")
 		(property "Reference" "R50"
-			(at 38.1 53.34 90)
+			(at 182.88 118.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45745,7 +45902,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 39.37 53.34 90)
+			(at 182.88 120.65 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -45753,7 +45910,7 @@
 			)
 		)
 		(property "Footprint" "rhais_rcl:R0603_Array_Concave_4"
-			(at 39.37 53.34 0)
+			(at 182.88 120.65 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -45762,7 +45919,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
-			(at 39.37 53.34 0)
+			(at 182.88 120.65 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -45771,7 +45928,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 39.37 53.34 0)
+			(at 182.88 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45780,7 +45937,7 @@
 			)
 		)
 		(property "MFR" "Bourns Inc."
-			(at 39.37 53.34 0)
+			(at 182.88 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45789,7 +45946,7 @@
 			)
 		)
 		(property "MPN" "CAY16-103J4LF"
-			(at 39.37 53.34 0)
+			(at 182.88 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
