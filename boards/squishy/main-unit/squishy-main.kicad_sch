@@ -32870,7 +32870,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 389.89 59.69 0)
 			(effects
 				(font
@@ -33262,15 +33262,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 200.66 71.12 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 200.66 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 200.66 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
 			(at 200.66 71.12 0)
 			(effects
 				(font
@@ -33431,15 +33450,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 134.62 86.36 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 134.62 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 134.62 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-4701F4LF"
 			(at 134.62 86.36 0)
 			(effects
 				(font
@@ -33770,7 +33808,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 118.11 40.64 0)
+		(at 118.11 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33778,7 +33816,7 @@
 		(dnp no)
 		(uuid "0b51feab-f1e6-4b0b-abd5-f55fd099a58a")
 		(property "Reference" "R22"
-			(at 116.84 40.64 90)
+			(at 116.84 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33787,7 +33825,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 118.11 40.64 90)
+			(at 118.11 31.75 90)
 			(effects
 				(font
 					(size 1 1)
@@ -33795,7 +33833,7 @@
 			)
 		)
 		(property "Footprint" "rhais_rcl:R0603"
-			(at 118.11 40.64 0)
+			(at 118.11 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33803,8 +33841,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 118.11 40.64 0)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 118.11 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33813,7 +33851,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 118.11 40.64 0)
+			(at 118.11 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33822,7 +33860,7 @@
 			)
 		)
 		(property "MFR" "Vishay Dale"
-			(at 118.11 40.64 90)
+			(at 118.11 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33831,7 +33869,7 @@
 			)
 		)
 		(property "MPN" "CRCW060310K0FKEA"
-			(at 118.11 40.64 90)
+			(at 118.11 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33998,7 +34036,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small")
-		(at 107.95 31.75 90)
+		(at 107.95 40.64 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34006,7 +34044,7 @@
 		(dnp no)
 		(uuid "0dd17074-206f-4140-b7ca-bbe833b460e2")
 		(property "Reference" "D9"
-			(at 106.68 29.21 0)
+			(at 106.68 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34014,7 +34052,7 @@
 			)
 		)
 		(property "Value" "PINK"
-			(at 109.3724 35.56 0)
+			(at 109.3724 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34022,7 +34060,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 107.95 31.75 90)
+			(at 107.95 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34030,8 +34068,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 107.95 31.75 90)
+		(property "Datasheet" "https://www.tme.eu/Document/64e15c1a036957b6f84022f15b00ad5b/OSXX0603C1E.pdf"
+			(at 107.95 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34040,7 +34078,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 107.95 31.75 0)
+			(at 107.95 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34049,7 +34087,7 @@
 			)
 		)
 		(property "MFR" "Optosupply"
-			(at 107.95 31.75 0)
+			(at 107.95 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34058,7 +34096,7 @@
 			)
 		)
 		(property "MPN" "OSK40603C1E"
-			(at 107.95 31.75 0)
+			(at 107.95 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34324,15 +34362,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 242.57 73.66 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 242.57 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 242.57 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
 			(at 242.57 73.66 0)
 			(effects
 				(font
@@ -34474,7 +34531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/30122/wslp.pdf"
 			(at 209.55 87.63 0)
 			(effects
 				(font
@@ -34484,6 +34541,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 209.55 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Vishay Dale"
+			(at 209.55 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "WSLP0805R0500FEA"
 			(at 209.55 87.63 0)
 			(effects
 				(font
@@ -36058,15 +36133,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 162.56 261.62 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 162.56 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 162.56 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
 			(at 162.56 261.62 0)
 			(effects
 				(font
@@ -36143,15 +36237,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 177.8 261.62 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 177.8 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 177.8 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
 			(at 177.8 261.62 0)
 			(effects
 				(font
@@ -36293,7 +36406,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 59.69 132.08 0)
 			(effects
 				(font
@@ -36463,7 +36576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/30122/wslp.pdf"
 			(at 191.77 87.63 0)
 			(effects
 				(font
@@ -36473,6 +36586,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 191.77 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Vishay Dale"
+			(at 191.77 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "WSLP0805R0500FEA"
 			(at 191.77 87.63 0)
 			(effects
 				(font
@@ -36607,7 +36738,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small")
-		(at 128.27 31.75 90)
+		(at 128.27 40.64 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36615,7 +36746,7 @@
 		(dnp no)
 		(uuid "270c95ba-8b3d-4666-9ae7-491a325aca9c")
 		(property "Reference" "D15"
-			(at 127 29.21 0)
+			(at 127 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36623,7 +36754,7 @@
 			)
 		)
 		(property "Value" "RED"
-			(at 129.6924 35.56 0)
+			(at 129.6924 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36631,7 +36762,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 128.27 31.75 90)
+			(at 128.27 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36639,8 +36770,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 128.27 31.75 90)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150060RS75000.pdf"
+			(at 128.27 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36649,7 +36780,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 128.27 31.75 0)
+			(at 128.27 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36657,8 +36788,8 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
-			(at 128.27 31.75 0)
+		(property "MFR" "Würth Elektronik"
+			(at 128.27 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36666,8 +36797,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 128.27 31.75 0)
+		(property "MPN" "150060RS75000"
+			(at 128.27 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36725,15 +36856,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 134.62 88.9 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 134.62 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 134.62 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-4701F4LF"
 			(at 134.62 88.9 0)
 			(effects
 				(font
@@ -36783,7 +36933,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small")
-		(at 102.87 31.75 90)
+		(at 102.87 40.64 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36791,7 +36941,7 @@
 		(dnp no)
 		(uuid "292f0fbf-c919-4907-b511-356401d9a507")
 		(property "Reference" "D8"
-			(at 101.6 29.21 0)
+			(at 101.6 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36799,7 +36949,7 @@
 			)
 		)
 		(property "Value" "BLUE"
-			(at 104.2924 35.56 0)
+			(at 104.2924 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36807,7 +36957,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 102.87 31.75 90)
+			(at 102.87 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36815,8 +36965,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 102.87 31.75 90)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150060BS75000.pdf"
+			(at 102.87 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36825,7 +36975,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 102.87 31.75 0)
+			(at 102.87 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36834,7 +36984,7 @@
 			)
 		)
 		(property "MFR" "Wurth Electronics"
-			(at 102.87 31.75 0)
+			(at 102.87 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36843,7 +36993,7 @@
 			)
 		)
 		(property "MPN" "150060BS75000"
-			(at 102.87 31.75 0)
+			(at 102.87 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37051,7 +37201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 66.04 132.08 0)
 			(effects
 				(font
@@ -37069,7 +37219,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 66.04 132.08 90)
 			(effects
 				(font
@@ -37078,7 +37228,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0603100KFKEA"
 			(at 66.04 132.08 90)
 			(effects
 				(font
@@ -37645,15 +37795,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 115.57 74.93 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 115.57 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 115.57 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
 			(at 115.57 74.93 0)
 			(effects
 				(font
@@ -37892,7 +38061,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 127 246.38 0)
 			(effects
 				(font
@@ -37910,7 +38079,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 127 246.38 90)
 			(effects
 				(font
@@ -37919,7 +38088,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW06034K70FKEA"
 			(at 127 246.38 90)
 			(effects
 				(font
@@ -39752,15 +39921,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 246.38 68.58 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 246.38 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 246.38 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
 			(at 246.38 68.58 0)
 			(effects
 				(font
@@ -40029,7 +40217,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Pride Flag"
 			(at 367.03 260.35 0)
 			(effects
 				(font
@@ -40057,6 +40245,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 367.03 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Trans"
 			(at 367.03 260.35 0)
 			(effects
 				(font
@@ -40613,7 +40810,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 102.87 40.64 0)
+		(at 102.87 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40621,7 +40818,7 @@
 		(dnp no)
 		(uuid "6e1bcc25-a66f-4bbc-b292-bd9a2c5b7716")
 		(property "Reference" "R19"
-			(at 101.6 40.64 90)
+			(at 101.6 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40630,7 +40827,7 @@
 			)
 		)
 		(property "Value" "4k7"
-			(at 102.87 40.64 90)
+			(at 102.87 31.75 90)
 			(effects
 				(font
 					(size 1 1)
@@ -40638,7 +40835,7 @@
 			)
 		)
 		(property "Footprint" "rhais_rcl:R0603"
-			(at 102.87 40.64 0)
+			(at 102.87 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40646,8 +40843,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 102.87 40.64 0)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 102.87 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40656,7 +40853,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 102.87 40.64 0)
+			(at 102.87 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40665,7 +40862,7 @@
 			)
 		)
 		(property "MFR" "Vishay Dale"
-			(at 102.87 40.64 90)
+			(at 102.87 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40674,7 +40871,7 @@
 			)
 		)
 		(property "MPN" "CRCW06034K70FKEA"
-			(at 102.87 40.64 90)
+			(at 102.87 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40810,7 +41007,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 124.46 194.31 0)
 			(effects
 				(font
@@ -40828,7 +41025,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 124.46 194.31 90)
 			(effects
 				(font
@@ -40837,7 +41034,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW06034K70FKEA"
 			(at 124.46 194.31 90)
 			(effects
 				(font
@@ -40980,15 +41177,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 200.66 63.5 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 200.66 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 200.66 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
 			(at 200.66 63.5 0)
 			(effects
 				(font
@@ -41065,7 +41281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 45.72 162.56 0)
 			(effects
 				(font
@@ -41083,7 +41299,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 45.72 162.56 90)
 			(effects
 				(font
@@ -41092,7 +41308,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04020000Z0ED"
 			(at 45.72 162.56 90)
 			(effects
 				(font
@@ -41124,7 +41340,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 128.27 40.64 0)
+		(at 128.27 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41132,7 +41348,7 @@
 		(dnp no)
 		(uuid "7cfdd551-224a-4936-82a5-cc7886fde162")
 		(property "Reference" "R12"
-			(at 127 40.64 90)
+			(at 127 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41141,7 +41357,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 128.27 40.64 90)
+			(at 128.27 31.75 90)
 			(effects
 				(font
 					(size 1 1)
@@ -41149,7 +41365,7 @@
 			)
 		)
 		(property "Footprint" "rhais_rcl:R0603"
-			(at 128.27 40.64 0)
+			(at 128.27 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41157,8 +41373,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 128.27 40.64 0)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 128.27 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41167,7 +41383,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 128.27 40.64 0)
+			(at 128.27 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41175,8 +41391,8 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
-			(at 128.27 40.64 90)
+		(property "MFR" "Vishay Dale"
+			(at 128.27 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41184,8 +41400,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 128.27 40.64 90)
+		(property "MPN" "CRCW06031K00FKEA"
+			(at 128.27 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41248,7 +41464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" " ~"
+		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail/732512120?display=pdf"
 			(at 80.01 26.67 0)
 			(effects
 				(font
@@ -41275,7 +41491,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "732512120"
+		(property "MPN" "0732512120"
 			(at 80.01 26.67 0)
 			(effects
 				(font
@@ -41373,7 +41589,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small")
-		(at 118.11 31.75 90)
+		(at 118.11 40.64 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41381,7 +41597,7 @@
 		(dnp no)
 		(uuid "8286e288-4782-4f5c-81a9-589369a71053")
 		(property "Reference" "D11"
-			(at 116.84 29.21 0)
+			(at 116.84 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41389,7 +41605,7 @@
 			)
 		)
 		(property "Value" "PINK"
-			(at 119.5324 35.56 0)
+			(at 119.5324 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41397,7 +41613,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 118.11 31.75 90)
+			(at 118.11 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41405,8 +41621,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 118.11 31.75 90)
+		(property "Datasheet" "https://www.tme.eu/Document/64e15c1a036957b6f84022f15b00ad5b/OSXX0603C1E.pdf"
+			(at 118.11 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41415,7 +41631,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 118.11 31.75 0)
+			(at 118.11 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41424,7 +41640,7 @@
 			)
 		)
 		(property "MFR" "Optosupply"
-			(at 118.11 31.75 0)
+			(at 118.11 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41433,7 +41649,7 @@
 			)
 		)
 		(property "MPN" "OSK40603C1E"
-			(at 118.11 31.75 0)
+			(at 118.11 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42239,7 +42455,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Pride Flag"
 			(at 393.7 260.35 0)
 			(effects
 				(font
@@ -42275,6 +42491,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "Lesbian"
+			(at 393.7 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa"
@@ -42286,7 +42511,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 133.35 40.64 0)
+		(at 133.35 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42294,7 +42519,7 @@
 		(dnp no)
 		(uuid "8d2c060f-bc74-46f2-8727-1210c793697f")
 		(property "Reference" "R12"
-			(at 132.08 40.64 90)
+			(at 132.08 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42302,8 +42527,8 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "1k"
-			(at 133.35 40.64 90)
+		(property "Value" "4k7"
+			(at 133.35 31.75 90)
 			(effects
 				(font
 					(size 1 1)
@@ -42311,7 +42536,7 @@
 			)
 		)
 		(property "Footprint" "rhais_rcl:R0603"
-			(at 133.35 40.64 0)
+			(at 133.35 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42319,8 +42544,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 133.35 40.64 0)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 133.35 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42329,7 +42554,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 133.35 40.64 0)
+			(at 133.35 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42337,8 +42562,8 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
-			(at 133.35 40.64 90)
+		(property "MFR" "Vishay Dale"
+			(at 133.35 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42346,8 +42571,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 133.35 40.64 90)
+		(property "MPN" "CRCW06034K70FKEA"
+			(at 133.35 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43851,15 +44076,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 120.65 90.17 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 120.65 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 120.65 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
 			(at 120.65 90.17 0)
 			(effects
 				(font
@@ -44376,6 +44620,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "DMN65D8L-7"
+			(at 233.68 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1a88f934-5f72-4016-867f-d38bbe30619e")
 		)
@@ -44429,7 +44682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 63.5 132.08 0)
 			(effects
 				(font
@@ -44447,7 +44700,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 63.5 132.08 90)
 			(effects
 				(font
@@ -44456,7 +44709,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0603100KFKEA"
 			(at 63.5 132.08 90)
 			(effects
 				(font
@@ -44506,7 +44759,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rhais_rcl:R0603"
+		(property "Footprint" "rhais_rcl:R0402"
 			(at 45.72 36.83 0)
 			(effects
 				(font
@@ -44515,7 +44768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 45.72 36.83 0)
 			(effects
 				(font
@@ -44533,7 +44786,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 45.72 36.83 90)
 			(effects
 				(font
@@ -44542,7 +44795,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100RFKED"
 			(at 45.72 36.83 90)
 			(effects
 				(font
@@ -44678,15 +44931,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 134.62 91.44 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 134.62 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 134.62 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-4701F4LF"
 			(at 134.62 91.44 0)
 			(effects
 				(font
@@ -44807,7 +45079,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 113.03 40.64 0)
+		(at 113.03 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -44815,7 +45087,7 @@
 		(dnp no)
 		(uuid "a9d4f5a7-fb57-4676-82c1-8a686e0a64d4")
 		(property "Reference" "R21"
-			(at 111.76 40.64 90)
+			(at 111.76 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44824,7 +45096,7 @@
 			)
 		)
 		(property "Value" "6k8"
-			(at 113.03 40.64 90)
+			(at 113.03 31.75 90)
 			(effects
 				(font
 					(size 1 1)
@@ -44832,7 +45104,7 @@
 			)
 		)
 		(property "Footprint" "rhais_rcl:R0603"
-			(at 113.03 40.64 0)
+			(at 113.03 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44840,8 +45112,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 113.03 40.64 0)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 113.03 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44850,7 +45122,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 113.03 40.64 0)
+			(at 113.03 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44859,7 +45131,7 @@
 			)
 		)
 		(property "MFR" "Vishay Dale"
-			(at 113.03 40.64 90)
+			(at 113.03 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44868,7 +45140,7 @@
 			)
 		)
 		(property "MPN" "CRCW06036K80FKEA"
-			(at 113.03 40.64 90)
+			(at 113.03 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44932,15 +45204,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 147.32 105.41 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 147.32 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 147.32 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
 			(at 147.32 105.41 0)
 			(effects
 				(font
@@ -45094,15 +45385,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 172.72 261.62 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 172.72 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 172.72 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
 			(at 172.72 261.62 0)
 			(effects
 				(font
@@ -45310,15 +45620,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 134.62 93.98 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 134.62 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 134.62 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-4701F4LF"
 			(at 134.62 93.98 0)
 			(effects
 				(font
@@ -45689,7 +46018,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small")
-		(at 113.03 31.75 90)
+		(at 113.03 40.64 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -45697,7 +46026,7 @@
 		(dnp no)
 		(uuid "b4681dfb-62c3-4c07-8580-de87dfc891c1")
 		(property "Reference" "D10"
-			(at 111.76 29.21 0)
+			(at 111.76 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45705,7 +46034,7 @@
 			)
 		)
 		(property "Value" "WHITE"
-			(at 114.4524 35.56 0)
+			(at 114.4524 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45713,7 +46042,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 113.03 31.75 90)
+			(at 113.03 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45721,8 +46050,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 113.03 31.75 90)
+		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/smlen3wbc8w1-e.pdf"
+			(at 113.03 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45731,7 +46060,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 113.03 31.75 0)
+			(at 113.03 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45740,7 +46069,7 @@
 			)
 		)
 		(property "MFR" "ROHM Semiconductor"
-			(at 113.03 31.75 0)
+			(at 113.03 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45749,7 +46078,7 @@
 			)
 		)
 		(property "MPN" "SMLEN3WBC8W1"
-			(at 113.03 31.75 0)
+			(at 113.03 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45813,15 +46142,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 118.11 90.17 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 118.11 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 118.11 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
 			(at 118.11 90.17 0)
 			(effects
 				(font
@@ -46267,7 +46615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 102.87 74.93 0)
 			(effects
 				(font
@@ -46285,7 +46633,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 102.87 74.93 90)
 			(effects
 				(font
@@ -46294,7 +46642,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW06031K00FKEA"
 			(at 102.87 74.93 90)
 			(effects
 				(font
@@ -46359,7 +46707,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 393.7 41.91 0)
 			(effects
 				(font
@@ -46862,7 +47210,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small")
-		(at 123.19 31.75 90)
+		(at 123.19 40.64 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -46870,7 +47218,7 @@
 		(dnp no)
 		(uuid "c6198fd4-f0a3-4a4e-9e99-b7d006ecb70c")
 		(property "Reference" "D12"
-			(at 121.92 29.21 0)
+			(at 121.92 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46878,7 +47226,7 @@
 			)
 		)
 		(property "Value" "BLUE"
-			(at 124.6124 35.56 0)
+			(at 124.6124 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46886,7 +47234,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 123.19 31.75 90)
+			(at 123.19 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46894,8 +47242,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 123.19 31.75 90)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150060BS75000.pdf"
+			(at 123.19 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46904,7 +47252,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.19 31.75 0)
+			(at 123.19 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46913,7 +47261,7 @@
 			)
 		)
 		(property "MFR" "Wurth Electronics"
-			(at 123.19 31.75 0)
+			(at 123.19 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46922,7 +47270,7 @@
 			)
 		)
 		(property "MPN" "150060BS75000"
-			(at 123.19 31.75 0)
+			(at 123.19 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47036,7 +47384,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 107.95 40.64 0)
+		(at 107.95 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -47044,7 +47392,7 @@
 		(dnp no)
 		(uuid "cacc162b-31fd-40e4-86d1-a34a48c3300e")
 		(property "Reference" "R20"
-			(at 106.68 40.64 90)
+			(at 106.68 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47053,7 +47401,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 107.95 40.64 90)
+			(at 107.95 31.75 90)
 			(effects
 				(font
 					(size 1 1)
@@ -47061,7 +47409,7 @@
 			)
 		)
 		(property "Footprint" "rhais_rcl:R0603"
-			(at 107.95 40.64 0)
+			(at 107.95 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47069,8 +47417,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 107.95 40.64 0)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 107.95 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47079,7 +47427,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 107.95 40.64 0)
+			(at 107.95 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47088,7 +47436,7 @@
 			)
 		)
 		(property "MFR" "Vishay Dale"
-			(at 107.95 40.64 90)
+			(at 107.95 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47097,7 +47445,7 @@
 			)
 		)
 		(property "MPN" "CRCW060310K0FKEA"
-			(at 107.95 40.64 90)
+			(at 107.95 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47399,7 +47747,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small")
-		(at 133.35 31.75 90)
+		(at 133.35 40.64 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -47407,7 +47755,7 @@
 		(dnp no)
 		(uuid "ce4d0a9e-521f-4efd-b272-acb26e68bd82")
 		(property "Reference" "D16"
-			(at 132.08 29.21 0)
+			(at 132.08 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47415,7 +47763,7 @@
 			)
 		)
 		(property "Value" "GREEN"
-			(at 134.7724 35.56 0)
+			(at 134.7724 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47423,7 +47771,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 133.35 31.75 90)
+			(at 133.35 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47431,8 +47779,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 133.35 31.75 90)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150060VS75000.pdf"
+			(at 133.35 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47441,7 +47789,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 133.35 31.75 0)
+			(at 133.35 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47449,8 +47797,8 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
-			(at 133.35 31.75 0)
+		(property "MFR" "Würth Elektronik"
+			(at 133.35 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47458,8 +47806,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 133.35 31.75 0)
+		(property "MPN" "150060VS75000"
+			(at 133.35 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49229,7 +49577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 17.78 86.36 0)
 			(effects
 				(font
@@ -49247,7 +49595,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 17.78 86.36 90)
 			(effects
 				(font
@@ -49256,7 +49604,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW06034K70FKEA"
 			(at 17.78 86.36 90)
 			(effects
 				(font
@@ -50711,7 +51059,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 59.69 123.19 0)
 			(effects
 				(font
@@ -51317,7 +51665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_bergstik_lite_0_80mm.pdf"
 			(at 365.76 146.05 0)
 			(effects
 				(font
@@ -51697,15 +52045,34 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 167.64 261.62 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 167.64 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 167.64 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
 			(at 167.64 261.62 0)
 			(effects
 				(font
@@ -53454,7 +53821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 124.46 246.38 0)
 			(effects
 				(font
@@ -53472,7 +53839,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 124.46 246.38 90)
 			(effects
 				(font
@@ -53481,7 +53848,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW06034K70FKEA"
 			(at 124.46 246.38 90)
 			(effects
 				(font
@@ -53682,7 +54049,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 123.19 40.64 0)
+		(at 123.19 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -53690,7 +54057,7 @@
 		(dnp no)
 		(uuid "fb017671-836a-4197-b5aa-24ab5b7c9ba7")
 		(property "Reference" "R23"
-			(at 121.92 40.64 90)
+			(at 121.92 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53699,7 +54066,7 @@
 			)
 		)
 		(property "Value" "4k7"
-			(at 123.19 40.64 90)
+			(at 123.19 31.75 90)
 			(effects
 				(font
 					(size 1 1)
@@ -53707,7 +54074,7 @@
 			)
 		)
 		(property "Footprint" "rhais_rcl:R0603"
-			(at 123.19 40.64 0)
+			(at 123.19 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53715,8 +54082,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 123.19 40.64 0)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 123.19 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53725,7 +54092,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.19 40.64 0)
+			(at 123.19 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53734,7 +54101,7 @@
 			)
 		)
 		(property "MFR" "Vishay Dale"
-			(at 123.19 40.64 90)
+			(at 123.19 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53743,7 +54110,7 @@
 			)
 		)
 		(property "MPN" "CRCW06034K70FKEA"
-			(at 123.19 40.64 90)
+			(at 123.19 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)

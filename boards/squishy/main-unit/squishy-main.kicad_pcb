@@ -241,11 +241,11 @@
 	(net 21 "Net-(U20-BIAS)")
 	(net 22 "Net-(C89-Pad1)")
 	(net 23 "Net-(U21-FB)")
-	(net 24 "Net-(D2-K)")
-	(net 25 "Net-(D3-K)")
-	(net 26 "Net-(D4-K)")
-	(net 27 "Net-(D5-K)")
-	(net 28 "Net-(D6-K)")
+	(net 24 "Net-(D2-A)")
+	(net 25 "Net-(D3-A)")
+	(net 26 "Net-(D4-A)")
+	(net 27 "Net-(D5-A)")
+	(net 28 "Net-(D6-A)")
 	(net 29 "Net-(D7-A)")
 	(net 30 "Net-(D8-A)")
 	(net 31 "Net-(D9-K)")
@@ -622,11 +622,11 @@
 	(net 402 "/PHY_3V3_SENSE")
 	(net 403 "/PHY_5V_SENSE")
 	(net 404 "/Power & Mechanical/SEPIC_OUT")
-	(net 405 "/~{BITRAM_CS}")
-	(net 406 "unconnected-(U18-RFU-Pad3)")
-	(net 407 "unconnected-(U18-RFU-Pad7)")
-	(net 408 "Net-(D15-K)")
-	(net 409 "Net-(D16-K)")
+	(net 405 "Net-(D15-A)")
+	(net 406 "Net-(D16-A)")
+	(net 407 "/~{BITRAM_CS}")
+	(net 408 "unconnected-(U18-RFU-Pad3)")
+	(net 409 "unconnected-(U18-RFU-Pad7)")
 	(net 410 "/FBIT_CS")
 	(net 411 "/UBIT_CS")
 	(footprint "rhais_rcl:C0402"
@@ -1786,7 +1786,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1807,6 +1807,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f2a8e139-b0ae-4ae4-827c-048a09d0456c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9dcdae5-d0aa-4553-a6b0-1030a6832671")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2446,7 +2472,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2470,7 +2496,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2483,7 +2509,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW06034K70FKEA"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3983,7 +4009,7 @@
 			(size 0.65 0.4)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 405 "/~{BITRAM_CS}")
+			(net 407 "/~{BITRAM_CS}")
 			(pintype "output")
 			(uuid "65e10dc0-1d8b-4191-9e21-0ea2dd5df4d9")
 		)
@@ -5277,7 +5303,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6151,7 +6177,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6175,7 +6201,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6187,7 +6213,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04020000Z0ED"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8549,7 +8575,7 @@
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 405 "/~{BITRAM_CS}")
+			(net 407 "/~{BITRAM_CS}")
 			(pinfunction "~{CS}")
 			(pintype "input")
 			(uuid "6b61e46c-92ca-4344-9485-5d87898b8412")
@@ -8569,7 +8595,7 @@
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 406 "unconnected-(U18-RFU-Pad3)")
+			(net 408 "unconnected-(U18-RFU-Pad3)")
 			(pinfunction "RFU")
 			(pintype "input+no_connect")
 			(uuid "60824f0e-dac5-4064-bee8-5372f211ede1")
@@ -8609,7 +8635,7 @@
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 407 "unconnected-(U18-RFU-Pad7)")
+			(net 409 "unconnected-(U18-RFU-Pad7)")
 			(pinfunction "RFU")
 			(pintype "input+no_connect")
 			(uuid "f243b92d-b9ec-43d4-91e1-c4951dfdf27e")
@@ -8676,7 +8702,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150060VS75000.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8700,7 +8726,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Würth Elektronik"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8713,7 +8739,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "150060VS75000"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8867,7 +8893,7 @@
 			(size 1.05 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 409 "Net-(D16-K)")
+			(net 108 "/SU_LED_G")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "62d83f14-e1e9-45ca-b1e8-b424c8ba76fb")
@@ -8877,7 +8903,7 @@
 			(size 1.05 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 1 "+3V3")
+			(net 406 "Net-(D16-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "3e7bbf0e-be41-4662-9509-40081486ca30")
@@ -9734,7 +9760,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9758,7 +9784,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9771,7 +9797,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW06034K70FKEA"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11725,7 +11751,7 @@
 				)
 			)
 		)
-		(property "Datasheet" " ~"
+		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail/732512120?display=pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11761,7 +11787,7 @@
 				)
 			)
 		)
-		(property "MPN" "732512120"
+		(property "MPN" "0732512120"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12272,7 +12298,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/30122/wslp.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12293,6 +12319,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Vishay Dale"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "00de75d6-b3f4-4fc5-952e-45d187d33a47")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "WSLP0805R0500FEA"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a9237f83-3b96-46d7-a549-cc4867756d0f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13685,7 +13737,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13709,7 +13761,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13722,7 +13774,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0603100KFKEA"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14138,7 +14190,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/smlen3wbc8w1-e.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14327,7 +14379,7 @@
 			(size 1.05 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 26 "Net-(D4-K)")
+			(net 111 "/FPGA_LED3")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "0246ceb7-945f-44d8-a920-9ba15255f6e1")
@@ -14337,7 +14389,7 @@
 			(size 1.05 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 1 "+3V3")
+			(net 26 "Net-(D4-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "ada455be-52e4-498c-853b-afeff60d6737")
@@ -14841,7 +14893,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150060RS75000.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14865,7 +14917,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Würth Elektronik"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14878,7 +14930,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "150060RS75000"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15032,7 +15084,7 @@
 			(size 1.05 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 408 "Net-(D15-K)")
+			(net 93 "/SU_LED_R")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "49ca3739-d388-42e3-9269-93bfd78d530b")
@@ -15042,7 +15094,7 @@
 			(size 1.05 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 1 "+3V3")
+			(net 405 "Net-(D15-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "ec32a149-e568-4a2f-ba22-3e5840580bcb")
@@ -15102,7 +15154,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15257,7 +15309,7 @@
 			(size 0.9 0.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 25 "Net-(D3-K)")
+			(net 1 "+3V3")
 			(pintype "passive")
 			(uuid "59610d0b-8eb9-4a95-9a26-40114fad4ace")
 		)
@@ -15266,7 +15318,7 @@
 			(size 0.9 0.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 110 "/FPGA_LED2")
+			(net 25 "Net-(D3-A)")
 			(pintype "passive")
 			(uuid "85f26f34-f5bf-4ade-a4b9-d6fc1a2d56f7")
 		)
@@ -16665,7 +16717,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-pa0100_2512_51_rohs.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16689,7 +16741,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "YAGEO"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16701,7 +16753,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "PA0603FRE570R01L"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17265,7 +17317,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_bergstik_lite_0_80mm.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18655,6 +18707,19 @@
 				)
 			)
 		)
+		(property "MPN" "DMN65D8L-7"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "85451ecf-8c76-4b25-b4d0-e7f994006756")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/9b50ad9c-ae75-4164-82e9-e130bfa614c7")
 		(sheetname "Root")
 		(sheetfile "squishy-main.kicad_sch")
@@ -19581,7 +19646,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19736,7 +19801,7 @@
 			(size 0.9 0.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 28 "Net-(D6-K)")
+			(net 1 "+3V3")
 			(pintype "passive")
 			(uuid "71850739-e407-454f-a7e7-6ee2f162feb7")
 		)
@@ -19745,7 +19810,7 @@
 			(size 0.9 0.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 113 "/FPGA_LED5")
+			(net 28 "Net-(D6-A)")
 			(pintype "passive")
 			(uuid "8395559f-739f-4113-9a4b-9a23b951014f")
 		)
@@ -20389,7 +20454,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20413,7 +20478,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20425,7 +20490,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW060310K0FKEA"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22103,7 +22168,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22785,7 +22850,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22806,6 +22871,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5e7a7aa-f64f-43ec-aaaa-cd3f87d56699")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "401c3d40-c9fa-4418-963c-6086f56b6a06")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24096,7 +24187,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24120,7 +24211,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24133,7 +24224,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW06034K70FKEA"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24262,7 +24353,7 @@
 			(size 0.9 0.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 405 "/~{BITRAM_CS}")
+			(net 407 "/~{BITRAM_CS}")
 			(pintype "passive")
 			(uuid "da2eef28-31ad-4fee-95df-d7bf3bd1989f")
 		)
@@ -25698,6 +25789,19 @@
 				)
 			)
 		)
+		(property "MPN" "DMN65D8L-7"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "563d44e0-d343-4d61-8ca3-e48e6095fe50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32/de5da197-eb8c-4bb0-b994-d788c2c3f0d6")
 		(sheetname "Power & Mechanical")
 		(sheetfile "squishy-main-power.kicad_sch")
@@ -25929,7 +26033,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25965,7 +26069,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW06035R36FKEA"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28106,55 +28210,52 @@
 			)
 		)
 	)
-	(footprint "rhais_rcl:R0603"
+	(footprint "rhais_rcl:R0402"
 		(layer "F.Cu")
 		(uuid "70054b75-a31b-491b-b163-8662bb79cddf")
 		(at 222.923607 45.803607 180)
-		(descr "Ceramic Chip Resistor, 0603 (1608 metric) iron and air reflow solderable")
 		(property "Reference" "R13"
-			(at 0 -0.6 180)
+			(at 0 -0.95 180)
+			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
-			(uuid "3a241f10-efeb-4db6-85f8-bad34a7fcbc8")
+			(uuid "ab12a805-4d23-4ba7-8537-25af43285692")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.1)
 				)
-				(justify bottom)
 			)
 		)
 		(property "Value" "100"
-			(at 0 0.7 180)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "674bf847-1693-476f-a003-42a9c07c5067")
+			(at 0 1.1 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "af0c53e7-2932-4fb2-a06a-43a15354bfc8")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.1)
 				)
-				(justify top)
 			)
 		)
-		(property "Footprint" "rhais_rcl:R0603"
+		(property "Footprint" "rhais_rcl:R0402"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "686000b4-b191-44a9-a100-d3517ef392a0")
+			(uuid "5b2c177b-cd17-4130-8308-6c70dabb6851")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0c454b30-1c2c-42cd-884e-523eab877e60")
+			(uuid "e5c155c5-bae6-43c6-a606-2a9c7d4fe1fd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28166,14 +28267,14 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5ce77615-7069-4250-a170-a149155a493d")
+			(uuid "28e9b274-4d10-4b6e-b7d1-a44948cc77ca")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -28185,7 +28286,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100RFKED"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -28205,7 +28306,7 @@
 		(attr smd)
 		(fp_poly
 			(pts
-				(xy -0.1999 0.4001) (xy 0.1999 0.4001) (xy 0.1999 -0.4001) (xy -0.1999 -0.4001)
+				(xy -0.1 0.25) (xy 0.1 0.25) (xy 0.1 -0.25) (xy -0.1 -0.25)
 			)
 			(stroke
 				(width 0)
@@ -28213,71 +28314,71 @@
 			)
 			(fill solid)
 			(layer "F.Adhes")
-			(uuid "98bfb53e-e95b-4341-a522-579fad09bee8")
+			(uuid "fdfd72fc-4650-4360-b0ef-eddd0e2963d6")
 		)
 		(fp_line
-			(start 0.4 -0.35)
-			(end -0.4 -0.35)
+			(start 0.2 -0.2)
+			(end -0.2 -0.2)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7c2be38b-f9fc-4d5b-a23e-e3d31b023aae")
+			(uuid "022acdd5-abb5-4d30-97b0-668b73909a7c")
 		)
 		(fp_line
-			(start -0.4 0.35)
-			(end 0.4 0.35)
+			(start -0.2 0.2)
+			(end 0.2 0.2)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8a78028f-a1f8-4d88-bd14-6b57528fb633")
+			(uuid "3019c36c-87f7-4659-a020-fec85d49f720")
 		)
 		(fp_line
-			(start 1.55 0.65)
-			(end -1.55 0.65)
+			(start 1.15 0.5)
+			(end -1.15 0.5)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "1965094b-ed52-4e59-966f-9464c66e09d4")
+			(uuid "891c4d1b-1cf0-47b4-9dba-d1ca5196a49d")
 		)
 		(fp_line
-			(start 1.55 -0.65)
-			(end 1.55 0.65)
+			(start 1.15 -0.5)
+			(end 1.15 0.5)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0d675cff-075e-40f5-b1c6-be2848530bcc")
+			(uuid "3dce3ed3-9562-4715-86d6-0a61fcb2b014")
 		)
 		(fp_line
-			(start -1.55 0.65)
-			(end -1.55 -0.65)
+			(start -1.15 0.5)
+			(end -1.15 -0.5)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "53aa7681-bccc-4f00-9e80-a6acff4572df")
+			(uuid "832ec953-2858-4039-8747-b1e4d4170a6c")
 		)
 		(fp_line
-			(start -1.55 -0.65)
-			(end 1.55 -0.65)
+			(start -1.15 -0.5)
+			(end 1.15 -0.5)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "48575985-2c9e-4802-8df8-e11b43783502")
+			(uuid "cbef8731-931f-4042-bbcf-efd4842b6464")
 		)
 		(fp_poly
 			(pts
-				(xy 0.4 0.4) (xy 0.8 0.4) (xy 0.8 -0.4) (xy 0.4 -0.4)
+				(xy 0.25 0.25) (xy 0.5 0.25) (xy 0.5 -0.25) (xy 0.25 -0.25)
 			)
 			(stroke
 				(width 0)
@@ -28285,11 +28386,11 @@
 			)
 			(fill solid)
 			(layer "F.Fab")
-			(uuid "85782f94-b69c-4323-9ddd-b2c473b5d254")
+			(uuid "f5a2cdd9-0ef9-40b6-b393-5070a6a95fc5")
 		)
 		(fp_poly
 			(pts
-				(xy -0.8 0.4) (xy -0.4 0.4) (xy -0.4 -0.4) (xy -0.8 -0.4)
+				(xy -0.5 0.25) (xy -0.25 0.25) (xy -0.25 -0.25) (xy -0.5 -0.25)
 			)
 			(stroke
 				(width 0)
@@ -28297,27 +28398,27 @@
 			)
 			(fill solid)
 			(layer "F.Fab")
-			(uuid "14eac0c1-29a1-4239-a3a0-8befd8bddd13")
+			(uuid "b4c2a9bb-9551-4cf0-9f9a-4fbda7e09793")
 		)
 		(pad "1" smd roundrect
-			(at -0.85 0 180)
-			(size 0.9 0.8)
+			(at -0.55 0 180)
+			(size 0.6 0.5)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 98 "/SYSCLK+")
 			(pintype "passive")
-			(uuid "dff7e848-a35d-4a6c-b4ea-ae7248202390")
+			(uuid "9b1ab50b-f3eb-4020-9495-097e13c13b91")
 		)
 		(pad "2" smd roundrect
-			(at 0.85 0 180)
-			(size 0.9 0.8)
+			(at 0.55 0 180)
+			(size 0.6 0.5)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 99 "/SYSCLK-")
 			(pintype "passive")
-			(uuid "3cada01b-5697-4f86-ad30-c6573a4da394")
+			(uuid "596bd21c-a9f4-46a1-87df-d803e0cf57e7")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29267,7 +29368,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29291,7 +29392,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29303,7 +29404,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW06031K00FKEA"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29490,7 +29591,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29645,7 +29746,7 @@
 			(size 0.9 0.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 24 "Net-(D2-K)")
+			(net 1 "+3V3")
 			(pintype "passive")
 			(uuid "c3f00e85-d825-4e9c-8708-eb173ad98307")
 		)
@@ -29654,7 +29755,7 @@
 			(size 0.9 0.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 109 "/FPGA_LED1")
+			(net 24 "Net-(D2-A)")
 			(pintype "passive")
 			(uuid "3eadca21-3d5d-4c56-9b0f-fec96d37c378")
 		)
@@ -29936,7 +30037,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29960,7 +30061,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29972,7 +30073,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW06031K00FKEA"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30091,7 +30192,7 @@
 			(size 0.9 0.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 408 "Net-(D15-K)")
+			(net 1 "+3V3")
 			(pintype "passive")
 			(uuid "c8875474-ccc3-496d-b850-02ce2347d995")
 		)
@@ -30100,7 +30201,7 @@
 			(size 0.9 0.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 93 "/SU_LED_R")
+			(net 405 "Net-(D15-A)")
 			(pintype "passive")
 			(uuid "ad5899ca-800a-4724-bdbd-d5d66e869dbb")
 		)
@@ -30417,7 +30518,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31137,7 +31238,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rt_1-to-0.01_rohs_l.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31161,7 +31262,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "YAGEO"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31173,7 +31274,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RT0603BRD0740KL"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31633,7 +31734,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31657,7 +31758,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31670,7 +31771,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0603100KFKEA"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31858,7 +31959,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28773/crcwce3.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31882,7 +31983,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31894,7 +31995,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0603178KFKEAC"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33359,7 +33460,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_bergstik_lite_0_80mm.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33558,7 +33659,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28773/crcwce3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34185,55 +34286,52 @@
 			)
 		)
 	)
-	(footprint "rhais_rcl:R0603"
+	(footprint "rhais_rcl:R0402"
 		(layer "F.Cu")
 		(uuid "88ff340c-e5b7-4310-b413-25ff9e71dc4a")
-		(at 219.35 26.25)
-		(descr "Ceramic Chip Resistor, 0603 (1608 metric) iron and air reflow solderable")
+		(at 221 32.5 180)
 		(property "Reference" "R11"
-			(at 0 -0.6 0)
+			(at 0 -0.95 180)
+			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
-			(uuid "790d2357-4cf0-40ed-94ed-5eaeda589751")
+			(uuid "ce40e05e-38a8-4296-9dec-f738d4779610")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.1)
 				)
-				(justify bottom)
 			)
 		)
 		(property "Value" "100"
-			(at 0 0.7 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "c36847f7-727e-433a-9a1b-43fd9790e821")
+			(at 0 1.1 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "eb09bd09-45f4-4cb4-85c3-27d4076dc4e0")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.1)
 				)
-				(justify top)
 			)
 		)
-		(property "Footprint" "rhais_rcl:R0603"
-			(at 0 0 0)
+		(property "Footprint" "rhais_rcl:R0402"
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5037ffe4-90cd-4ce1-955f-89ca0a206ba6")
+			(uuid "05ac711c-aa6c-4aae-aea6-6db38794dd2a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 0)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "460f8bd7-a189-44f7-ac77-2ad9f6c19e78")
+			(uuid "551cab5f-5b5e-4882-af2d-b9f9cef9dd5a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34241,19 +34339,19 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ca03c56f-d6d3-4545-9d9a-e60957117a10")
+			(uuid "9657114d-3020-497f-843d-56be728da678")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "MFR" ""
-			(at 0 0 0)
+		(property "MFR" "Vishay Dale"
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6a69e798-422b-4367-af67-968a13ab9330")
@@ -34264,8 +34362,8 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 0 0 0)
+		(property "MPN" "CRCW0402100RFKED"
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "92274e4b-927f-4329-b2bf-06495f276894")
@@ -34284,7 +34382,7 @@
 		(attr smd)
 		(fp_poly
 			(pts
-				(xy -0.1999 0.4001) (xy 0.1999 0.4001) (xy 0.1999 -0.4001) (xy -0.1999 -0.4001)
+				(xy -0.1 0.25) (xy 0.1 0.25) (xy 0.1 -0.25) (xy -0.1 -0.25)
 			)
 			(stroke
 				(width 0)
@@ -34292,71 +34390,71 @@
 			)
 			(fill solid)
 			(layer "F.Adhes")
-			(uuid "7362efc4-a2f3-48fd-b746-95363e814010")
+			(uuid "60d0d9d1-30dd-4d38-b1e1-e0610186a561")
 		)
 		(fp_line
-			(start -0.4 0.35)
-			(end 0.4 0.35)
+			(start 0.2 -0.2)
+			(end -0.2 -0.2)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ae707176-e777-44ba-9cec-33f01791e6e3")
+			(uuid "5d70d062-e855-444c-8819-7115eab236d7")
 		)
 		(fp_line
-			(start 0.4 -0.35)
-			(end -0.4 -0.35)
+			(start -0.2 0.2)
+			(end 0.2 0.2)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "71cc7c3a-a4d6-4009-8c6b-3526bb002612")
+			(uuid "09003813-116f-48f3-b2b7-52a1245a624e")
 		)
 		(fp_line
-			(start -1.55 -0.65)
-			(end 1.55 -0.65)
+			(start 1.15 0.5)
+			(end -1.15 0.5)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "fb2d155a-5fd2-4fce-bf91-7195fa03d9ef")
+			(uuid "0004ffaa-f569-44ac-b2ad-7a2ad44e52e2")
 		)
 		(fp_line
-			(start -1.55 0.65)
-			(end -1.55 -0.65)
+			(start 1.15 -0.5)
+			(end 1.15 0.5)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d563de2c-7b08-4665-91f2-8db7406358ca")
+			(uuid "3f9217eb-fae2-4e91-837f-31df8df8faf3")
 		)
 		(fp_line
-			(start 1.55 -0.65)
-			(end 1.55 0.65)
+			(start -1.15 0.5)
+			(end -1.15 -0.5)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ef27f850-5c47-4955-921a-a2235be740ee")
+			(uuid "2f2a7179-1456-4262-b129-fe021ad79deb")
 		)
 		(fp_line
-			(start 1.55 0.65)
-			(end -1.55 0.65)
+			(start -1.15 -0.5)
+			(end 1.15 -0.5)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9e109cfb-b6c8-47f3-bd72-f0a4dc963a44")
+			(uuid "c56bd9ec-22f5-4b63-b71f-c79098557952")
 		)
 		(fp_poly
 			(pts
-				(xy -0.8 0.4) (xy -0.4 0.4) (xy -0.4 -0.4) (xy -0.8 -0.4)
+				(xy 0.25 0.25) (xy 0.5 0.25) (xy 0.5 -0.25) (xy 0.25 -0.25)
 			)
 			(stroke
 				(width 0)
@@ -34364,11 +34462,11 @@
 			)
 			(fill solid)
 			(layer "F.Fab")
-			(uuid "7c7447ee-fa34-43db-9213-5ff6920a0d9a")
+			(uuid "c02d80d6-0939-4c42-9b40-5ee3da475a45")
 		)
 		(fp_poly
 			(pts
-				(xy 0.4 0.4) (xy 0.8 0.4) (xy 0.8 -0.4) (xy 0.4 -0.4)
+				(xy -0.5 0.25) (xy -0.25 0.25) (xy -0.25 -0.25) (xy -0.5 -0.25)
 			)
 			(stroke
 				(width 0)
@@ -34376,27 +34474,27 @@
 			)
 			(fill solid)
 			(layer "F.Fab")
-			(uuid "2a1e891e-0472-40cc-b5b0-6e2fd42c7ff3")
+			(uuid "8e127ee7-f12e-4e66-96fc-2ba2cfb917fe")
 		)
 		(pad "1" smd roundrect
-			(at -0.85 0)
-			(size 0.9 0.8)
+			(at -0.55 0 180)
+			(size 0.6 0.5)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 96 "/USB Frontend/REFCLK+")
 			(pintype "passive")
-			(uuid "72c09d51-2706-4168-82cc-b04229d298a4")
+			(uuid "087b4fa2-8579-4426-98da-3cc433e9e967")
 		)
 		(pad "2" smd roundrect
-			(at 0.85 0)
-			(size 0.9 0.8)
+			(at 0.55 0 180)
+			(size 0.6 0.5)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 97 "/USB Frontend/REFCLK-")
 			(pintype "passive")
-			(uuid "051ac704-0e6a-481e-af24-7aee9b3422ac")
+			(uuid "cd703958-6f11-4888-9296-9eae234c6e9d")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35880,7 +35978,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35901,6 +35999,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74b25283-63fd-45e2-b5cf-9d59a10e481f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34811a82-9acd-4d25-ac9c-ecb13bb064d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -37287,7 +37411,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -39850,7 +39974,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150060BS75000.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -40039,7 +40163,7 @@
 			(size 1.05 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 24 "Net-(D2-K)")
+			(net 109 "/FPGA_LED1")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "1918e5bf-8cda-4157-a5a1-b9a0c384d565")
@@ -40049,7 +40173,7 @@
 			(size 1.05 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 1 "+3V3")
+			(net 24 "Net-(D2-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "56ff634b-423e-45c9-a4b1-38ecd3ae48ed")
@@ -41474,7 +41598,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41696,7 +41820,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41720,8 +41844,34 @@
 				)
 			)
 		)
+		(property "MFR" "Bourns Inc."
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8175a0da-5435-48d5-8c7d-1b157bc0271f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d020d98a-44ed-4583-bff2-72c5775d6fff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Resistor_* R_*")
-		(path "/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32/2c240734-d7b3-4fa9-8005-cf425dffb80d")
+		(path "/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32/335d2958-3d27-4e99-8a0c-748506498343")
 		(sheetname "Power & Mechanical")
 		(sheetfile "squishy-main-power.kicad_sch")
 		(attr smd)
@@ -41959,7 +42109,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2110151730_XKB-Connection-TC-1109DE-C-D_C400333.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41995,7 +42145,7 @@
 				)
 			)
 		)
-		(property "MPN" "TC-1109DE-C-D"
+		(property "MPN" " TC-1109DE-C-G"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -42501,7 +42651,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -42656,7 +42806,7 @@
 			(size 0.9 0.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 26 "Net-(D4-K)")
+			(net 1 "+3V3")
 			(pintype "passive")
 			(uuid "86d891a1-de00-41e1-bcf9-f350bb216334")
 		)
@@ -42665,7 +42815,7 @@
 			(size 0.9 0.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 111 "/FPGA_LED3")
+			(net 26 "Net-(D4-A)")
 			(pintype "passive")
 			(uuid "4d047154-2b84-4f70-9595-46df71a21813")
 		)
@@ -42946,7 +43096,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -42967,6 +43117,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "16b457d5-d4f6-4a78-a5f9-c17e2a7bca14")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f99a3e03-4849-48d6-9c97-fe06c2af3fce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43739,7 +43915,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43763,8 +43939,34 @@
 				)
 			)
 		)
+		(property "MFR" "Bourns Inc."
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34d0ab68-386c-4f5e-a3fb-28f77b3b08fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CAY16-4701F4LF"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d279c68-49b4-4700-81dd-76569ea9b854")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Resistor_* R_*")
-		(path "/ae9d285c-517c-40e7-92fb-2a6643c9ab22")
+		(path "/a46cc258-d1dd-4532-a55e-491e2b9cf570")
 		(sheetname "Root")
 		(sheetfile "squishy-main.kicad_sch")
 		(attr smd)
@@ -44587,7 +44789,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44611,7 +44813,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -44623,7 +44825,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW060310K0FKEA"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -45085,7 +45287,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150060BS75000.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45274,7 +45476,7 @@
 			(size 1.05 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 28 "Net-(D6-K)")
+			(net 113 "/FPGA_LED5")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "68039f84-ef83-4eb7-a82d-a922072c9d9c")
@@ -45284,7 +45486,7 @@
 			(size 1.05 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 1 "+3V3")
+			(net 28 "Net-(D6-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "c5f7c97e-c20d-42a4-a133-20b775d3bb75")
@@ -46936,7 +47138,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 -45)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46960,7 +47162,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -46972,7 +47174,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW060310K0FKEA"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -48209,7 +48411,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.tme.eu/Document/64e15c1a036957b6f84022f15b00ad5b/OSXX0603C1E.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -48398,7 +48600,7 @@
 			(size 1.05 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 27 "Net-(D5-K)")
+			(net 112 "/FPGA_LED4")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "7997d68b-3efd-48b2-85ba-6e0388ee1b51")
@@ -48408,7 +48610,7 @@
 			(size 1.05 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 1 "+3V3")
+			(net 27 "Net-(D5-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "12dc3452-731f-4e7f-be5d-b970cfc9dfae")
@@ -49278,7 +49480,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -49302,7 +49504,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -49314,7 +49516,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0603300KFKEA"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -49725,7 +49927,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/smlen3wbc8w1-e.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55497,7 +55699,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/30122/wslp.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55518,6 +55720,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Vishay Dale"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7deb0dea-3a68-4299-8bb8-360ad7eaf4fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "WSLP0805R0500FEA"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d7e067b-b37b-4e25-a1f5-8c27e53f172d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -56427,7 +56655,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "4k7"
 			(at 0 0.7 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -56452,7 +56680,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -56476,7 +56704,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -56488,7 +56716,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW06034K70FKEA"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -56607,7 +56835,7 @@
 			(size 0.9 0.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 409 "Net-(D16-K)")
+			(net 1 "+3V3")
 			(pintype "passive")
 			(uuid "ea424aa2-81f0-4b54-a87f-99f880bb1937")
 		)
@@ -56616,7 +56844,7 @@
 			(size 0.9 0.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 108 "/SU_LED_G")
+			(net 406 "Net-(D16-A)")
 			(pintype "passive")
 			(uuid "3509f90c-556d-4171-9d09-c38b0e729785")
 		)
@@ -57395,7 +57623,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.tme.eu/Document/64e15c1a036957b6f84022f15b00ad5b/OSXX0603C1E.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -57584,7 +57812,7 @@
 			(size 1.05 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 25 "Net-(D3-K)")
+			(net 110 "/FPGA_LED2")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "5d10d910-853c-4103-ac16-88ac1af4c489")
@@ -57594,7 +57822,7 @@
 			(size 1.05 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 1 "+3V3")
+			(net 25 "Net-(D3-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "c14723bf-d1e5-4666-8228-4111d34dccde")
@@ -59107,7 +59335,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.cliffuk.co.uk/products/dcconnectors/FC68148.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59467,7 +59695,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -61014,7 +61242,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/63658/sqj951ep.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -62014,7 +62242,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -62038,8 +62266,34 @@
 				)
 			)
 		)
+		(property "MFR" "Bourns Inc."
+			(at 0 0 45)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "770a4afb-a3b4-4e5a-aaf9-0296e51f66db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CAY16-4701F4LF"
+			(at 0 0 45)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "28ab0a68-e126-4b33-bc06-09c130496722")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Resistor_* R_*")
-		(path "/573264d1-b4a8-4279-b1ac-379f43fe1045/f49c1247-29c4-410b-a750-42e84d574b6c")
+		(path "/573264d1-b4a8-4279-b1ac-379f43fe1045/4a2636f6-f6ba-4339-a284-9dabba3be2a7")
 		(sheetname "USB Frontend")
 		(sheetfile "squishy-main-usbfe.kicad_sch")
 		(attr smd)
@@ -62639,7 +62893,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -62862,7 +63116,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28773/crcwce3.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -62886,7 +63140,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -62898,7 +63152,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0603249KFKEAC"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -63084,7 +63338,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -63108,7 +63362,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -63120,7 +63374,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04020000Z0ED"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -63799,7 +64053,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -64450,7 +64704,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -64605,7 +64859,7 @@
 			(size 0.9 0.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 27 "Net-(D5-K)")
+			(net 1 "+3V3")
 			(pintype "passive")
 			(uuid "bd5c7b31-2e19-49da-96d6-7657056f9bf3")
 		)
@@ -64614,7 +64868,7 @@
 			(size 0.9 0.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 112 "/FPGA_LED4")
+			(net 27 "Net-(D5-A)")
 			(pintype "passive")
 			(uuid "11156ffc-0d16-42f0-bd0d-753da617a98f")
 		)
@@ -64898,7 +65152,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -64922,7 +65176,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -64934,7 +65188,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW06034K70FKEA"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -67908,7 +68162,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -67932,8 +68186,36 @@
 				)
 			)
 		)
+		(property "MFR" "Bourns Inc."
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "76f22123-f487-4b1b-97ca-bd7b572f61ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c57f4cc6-e017-4698-9d91-8aed429bd58d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Resistor_* R_*")
-		(path "/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32/d6cc12ca-e76f-4d0a-928f-29c5fdc533c2")
+		(path "/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32/81926b08-7c14-4f60-8754-5098ed1e866c")
 		(sheetname "Power & Mechanical")
 		(sheetfile "squishy-main-power.kicad_sch")
 		(attr smd)
@@ -69034,7 +69316,7 @@
 				(justify bottom mirror)
 			)
 		)
-		(property "Value" "52"
+		(property "Value" "52R3"
 			(at 0 -0.7 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -69059,7 +69341,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -69081,6 +69363,34 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MFR" "Vishay Dale"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f4841888-352b-4459-a26f-5e079658986a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CRCW060352R3FKEA"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1fbbbe0c-d3bd-48d0-acc8-0ad5b9b86f74")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
 			)
 		)
 		(property ki_fp_filters "R_*")
@@ -69259,7 +69569,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -69283,7 +69593,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -69296,7 +69606,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW060339K2FKEA"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -69995,7 +70305,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -70019,7 +70329,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -70032,7 +70342,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW060310K0FKEA"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -70221,7 +70531,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -70245,7 +70555,7 @@
 				)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -70258,7 +70568,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0603100KFKEA"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -70448,7 +70758,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -70472,8 +70782,36 @@
 				)
 			)
 		)
+		(property "MFR" "Bourns Inc."
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7c49a8db-32c5-42a0-8686-4ed80d219f94")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "71010632-e47a-4cb4-aaa7-07242a8603fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Resistor_* R_*")
-		(path "/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32/5d3cc36b-be0e-4f9e-89fc-dad546606e02")
+		(path "/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32/2f373dd4-6414-41ee-8b9b-803333fdc339")
 		(sheetname "Power & Mechanical")
 		(sheetfile "squishy-main-power.kicad_sch")
 		(attr smd)
@@ -70715,7 +71053,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -70737,6 +71075,34 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MFR" "Bourns Inc."
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fc9b1122-574c-4ad1-81de-ba8d61e9c3db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CAY16-103J4LF"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1aa130dd-0a31-41d6-8803-e2b0861fcf7d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
 			)
 		)
 		(property ki_fp_filters "Resistor_* R_*")
