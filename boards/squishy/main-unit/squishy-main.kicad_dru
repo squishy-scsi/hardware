@@ -41,3 +41,9 @@
   (constraint track_width (min 0.127mm))
   (constraint hole_clearance (min 0.127mm))
 )
+
+(rule "ulpi-skew"
+	(condition  "A.NetClass == 'ULPI'")
+	(constraint length (min 50mm) (max 70mm))
+	(constraint skew (opt 10mm))
+)

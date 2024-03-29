@@ -17298,10 +17298,6 @@
 		(uuid "49d15a2b-c91c-45c3-b96a-610f3aef6fb3")
 	)
 	(no_connect
-		(at 179.07 127)
-		(uuid "4a9b8777-9c58-434c-ada6-da4f148ab36e")
-	)
-	(no_connect
 		(at 284.48 162.56)
 		(uuid "4ac4de23-6726-4b3b-b55a-fd8a83ea43ac")
 	)
@@ -17362,6 +17358,10 @@
 		(uuid "671509e0-a592-4755-90e0-ec2650debbd4")
 	)
 	(no_connect
+		(at 156.21 132.08)
+		(uuid "716776d9-4a48-4f8c-9336-1a6762e4d708")
+	)
+	(no_connect
 		(at 31.75 100.33)
 		(uuid "71bd6ab9-a019-4a24-ae0a-8e5ae880719c")
 	)
@@ -17390,10 +17390,6 @@
 		(uuid "7f6112af-82d1-4594-9904-aab6caff1bdc")
 	)
 	(no_connect
-		(at 156.21 132.08)
-		(uuid "80b68726-4a76-4889-a284-9d8185ad13f4")
-	)
-	(no_connect
 		(at 284.48 152.4)
 		(uuid "8534c0e6-679f-443e-b660-c5f244b77165")
 	)
@@ -17412,14 +17408,6 @@
 	(no_connect
 		(at 284.48 187.96)
 		(uuid "9b795d18-3802-4fe6-823c-d76485ada437")
-	)
-	(no_connect
-		(at 179.07 129.54)
-		(uuid "9cb9e57f-238d-4b45-bb4e-6709cab2f3a1")
-	)
-	(no_connect
-		(at 179.07 124.46)
-		(uuid "a609f7dd-d385-46d8-83d5-3f41a173858c")
 	)
 	(no_connect
 		(at 307.34 121.92)
@@ -17446,6 +17434,10 @@
 		(uuid "b23a3099-f4fc-4d6b-a575-1aae849497c5")
 	)
 	(no_connect
+		(at 179.07 127)
+		(uuid "b262125d-c5cb-4450-b7d1-f0b27b44fba8")
+	)
+	(no_connect
 		(at 284.48 116.84)
 		(uuid "b4de10ef-bb3c-45f4-9107-31b1bfcdfc1a")
 	)
@@ -17466,8 +17458,16 @@
 		(uuid "bd83fbae-57ba-4e3c-adf0-88388db34fec")
 	)
 	(no_connect
+		(at 179.07 124.46)
+		(uuid "c11d0c37-00b4-493a-984e-91bd172e7c56")
+	)
+	(no_connect
 		(at 31.75 102.87)
 		(uuid "c1524fb7-40bb-452f-a0ba-52be5f9e7639")
+	)
+	(no_connect
+		(at 179.07 129.54)
+		(uuid "c48c150a-a970-4fba-85f5-ca0410387a07")
 	)
 	(no_connect
 		(at 149.86 105.41)
@@ -25695,16 +25695,6 @@
 		)
 		(uuid "a747f9f1-1d6f-414a-ac41-c25a2273eede")
 	)
-	(bus
-		(pts
-			(xy 196.85 132.08) (xy 196.85 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7b7049a-6235-42f0-9987-c667b007f09d")
-	)
 	(wire
 		(pts
 			(xy 107.95 26.67) (xy 107.95 29.21)
@@ -27587,7 +27577,7 @@
 	)
 	(bus
 		(pts
-			(xy 182.88 129.54) (xy 194.31 129.54)
+			(xy 182.88 132.08) (xy 194.31 132.08)
 		)
 		(stroke
 			(width 0)
@@ -28227,7 +28217,7 @@
 	)
 	(bus
 		(pts
-			(xy 196.85 132.08) (xy 194.31 129.54)
+			(xy 196.85 134.62) (xy 194.31 132.08)
 		)
 		(stroke
 			(width 0)
@@ -29551,7 +29541,7 @@
 		(uuid "1ac8d059-2a6f-472c-ae32-9907af8d56b8")
 	)
 	(label "SDCARD{SD}"
-		(at 194.31 129.54 180)
+		(at 194.31 132.08 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
