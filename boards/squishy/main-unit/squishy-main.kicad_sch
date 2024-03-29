@@ -17254,6 +17254,10 @@
 		(uuid "1cc4e280-f575-4c8d-9f9e-d1caf7ca1d15")
 	)
 	(no_connect
+		(at 156.21 152.4)
+		(uuid "1fdb6efc-d166-4ede-a3cb-de795661b14c")
+	)
+	(no_connect
 		(at 307.34 132.08)
 		(uuid "20fc5142-940d-478d-b77b-108b5d53660a")
 	)
@@ -17284,6 +17288,10 @@
 	(no_connect
 		(at 307.34 124.46)
 		(uuid "3a57a16e-42f7-492a-8c41-c6c4acb23611")
+	)
+	(no_connect
+		(at 156.21 149.86)
+		(uuid "3a7c8d24-da0d-4c34-b41a-01f69a0bbe33")
 	)
 	(no_connect
 		(at 307.34 149.86)
@@ -17358,10 +17366,6 @@
 		(uuid "671509e0-a592-4755-90e0-ec2650debbd4")
 	)
 	(no_connect
-		(at 156.21 132.08)
-		(uuid "716776d9-4a48-4f8c-9336-1a6762e4d708")
-	)
-	(no_connect
 		(at 31.75 100.33)
 		(uuid "71bd6ab9-a019-4a24-ae0a-8e5ae880719c")
 	)
@@ -17386,8 +17390,8 @@
 		(uuid "7dc9d9e9-ea7f-40e2-858b-b0b1814fb01f")
 	)
 	(no_connect
-		(at 31.75 82.55)
-		(uuid "7f6112af-82d1-4594-9904-aab6caff1bdc")
+		(at 156.21 147.32)
+		(uuid "8337baaa-de9b-42a2-ad7c-82daa0005067")
 	)
 	(no_connect
 		(at 284.48 152.4)
@@ -17472,10 +17476,6 @@
 	(no_connect
 		(at 149.86 105.41)
 		(uuid "c8a01163-6ba9-4196-8d62-f28208338692")
-	)
-	(no_connect
-		(at 31.75 80.01)
-		(uuid "cb06ce4e-1e0f-4e1b-902f-4680bfeff4d7")
 	)
 	(no_connect
 		(at 283.21 31.75)
@@ -19737,7 +19737,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 152.4) (xy 143.51 152.4)
+			(xy 31.75 82.55) (xy 21.59 82.55)
 		)
 		(stroke
 			(width 0)
@@ -20307,7 +20307,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 147.32) (xy 143.51 147.32)
+			(xy 31.75 80.01) (xy 21.59 80.01)
 		)
 		(stroke
 			(width 0)
@@ -25787,7 +25787,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 149.86) (xy 156.21 149.86)
+			(xy 143.51 132.08) (xy 156.21 132.08)
 		)
 		(stroke
 			(width 0)
@@ -29343,7 +29343,7 @@
 		(uuid "06ed65f7-e32f-4b79-94a8-232fa74d0b0f")
 	)
 	(label "~{DFU_TRIG}"
-		(at 143.51 152.4 0)
+		(at 21.59 80.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -30090,6 +30090,17 @@
 		)
 		(uuid "3e0528a3-d994-47fb-a046-c4934072fa22")
 	)
+	(label "DFU"
+		(at 68.58 146.05 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3e77236f-7b01-41d4-ba4e-f11ea93ef5a3")
+	)
 	(label "SU_ATTN"
 		(at 115.57 148.59 180)
 		(fields_autoplaced yes)
@@ -30663,7 +30674,7 @@
 		(uuid "63204d9e-7db0-4c2c-a21f-760e5ee08bb3")
 	)
 	(label "TRIGGER"
-		(at 143.51 149.86 0)
+		(at 143.51 132.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -30905,7 +30916,7 @@
 		(uuid "7631d8ba-11a7-41e9-8a27-a0dafb763526")
 	)
 	(label "SU_LED_R"
-		(at 115.57 125.73 180)
+		(at 115.57 128.27 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -31884,7 +31895,7 @@
 		(uuid "bfb2a4e2-cc91-4ab9-a218-96d1965883fd")
 	)
 	(label "SU_LED_G"
-		(at 115.57 128.27 180)
+		(at 115.57 125.73 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -32049,7 +32060,7 @@
 		(uuid "d001e3cc-a5d6-4936-8534-67df27295bb8")
 	)
 	(label "SU_ATTN"
-		(at 143.51 147.32 0)
+		(at 21.59 82.55 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -38128,7 +38139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm"
+		(property "Footprint" "rhais_package-qfn:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm"
 			(at 91.44 180.34 0)
 			(effects
 				(font

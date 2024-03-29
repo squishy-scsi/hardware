@@ -14925,7 +14925,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 106.68) (xy 203.2 106.68)
+			(xy 213.36 101.6) (xy 203.2 101.6)
 		)
 		(stroke
 			(width 0)
@@ -15455,7 +15455,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 99.06) (xy 213.36 99.06)
+			(xy 203.2 106.68) (xy 213.36 106.68)
 		)
 		(stroke
 			(width 0)
@@ -18235,7 +18235,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 101.6) (xy 213.36 101.6)
+			(xy 203.2 99.06) (xy 213.36 99.06)
 		)
 		(stroke
 			(width 0)
@@ -19626,7 +19626,7 @@
 		(uuid "09725e9d-df09-4243-af7b-5cc74b1a77f3")
 	)
 	(label "PLUG_POL"
-		(at 213.36 106.68 180)
+		(at 213.36 101.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19714,7 +19714,7 @@
 		(uuid "1ebb4199-bacb-4dd9-b81e-c7e7e4316305")
 	)
 	(label "~{PD_INT}"
-		(at 213.36 101.6 180)
+		(at 213.36 99.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -20374,7 +20374,7 @@
 		(uuid "d83535c0-861a-4d61-bb06-663d6e73a60c")
 	)
 	(label "PD_SCA"
-		(at 213.36 99.06 180)
+		(at 213.36 106.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
