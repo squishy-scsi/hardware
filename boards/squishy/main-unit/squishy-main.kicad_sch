@@ -17254,10 +17254,6 @@
 		(uuid "1cc4e280-f575-4c8d-9f9e-d1caf7ca1d15")
 	)
 	(no_connect
-		(at 156.21 152.4)
-		(uuid "1fdb6efc-d166-4ede-a3cb-de795661b14c")
-	)
-	(no_connect
 		(at 307.34 132.08)
 		(uuid "20fc5142-940d-478d-b77b-108b5d53660a")
 	)
@@ -17290,7 +17286,7 @@
 		(uuid "3a57a16e-42f7-492a-8c41-c6c4acb23611")
 	)
 	(no_connect
-		(at 156.21 149.86)
+		(at 156.21 152.4)
 		(uuid "3a7c8d24-da0d-4c34-b41a-01f69a0bbe33")
 	)
 	(no_connect
@@ -17452,6 +17448,10 @@
 	(no_connect
 		(at 232.41 269.24)
 		(uuid "b62c2529-abf2-41c7-a9c8-58d56c14e768")
+	)
+	(no_connect
+		(at 156.21 129.54)
+		(uuid "b77e0e40-1e37-4fb4-9bd8-12c3e6a95568")
 	)
 	(no_connect
 		(at 307.34 144.78)
@@ -20507,7 +20507,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 129.54) (xy 143.51 129.54)
+			(xy 156.21 124.46) (xy 143.51 124.46)
 		)
 		(stroke
 			(width 0)
@@ -23397,7 +23397,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 124.46) (xy 143.51 124.46)
+			(xy 156.21 132.08) (xy 143.51 132.08)
 		)
 		(stroke
 			(width 0)
@@ -25787,7 +25787,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 132.08) (xy 156.21 132.08)
+			(xy 143.51 149.86) (xy 156.21 149.86)
 		)
 		(stroke
 			(width 0)
@@ -29552,7 +29552,7 @@
 		(uuid "1b9800f8-7f38-48e5-89c8-ad20bb2dcf48")
 	)
 	(label "SDCARD.CLK"
-		(at 179.07 144.78 0)
+		(at 179.07 152.4 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -29816,7 +29816,7 @@
 		(uuid "32489bc2-539e-4e35-a0fa-819e2739fb3f")
 	)
 	(label "ADC_CLK"
-		(at 143.51 124.46 0)
+		(at 143.51 132.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -30674,7 +30674,7 @@
 		(uuid "63204d9e-7db0-4c2c-a21f-760e5ee08bb3")
 	)
 	(label "TRIGGER"
-		(at 143.51 132.08 0)
+		(at 143.51 149.86 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -30806,7 +30806,7 @@
 		(uuid "6d163306-88a6-4581-8228-216e6dad1755")
 	)
 	(label "SDCARD.D0"
-		(at 179.07 147.32 0)
+		(at 179.07 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -31070,7 +31070,7 @@
 		(uuid "822c51e2-21e1-4cd4-a3ae-64a772ec3cbc")
 	)
 	(label "SDCARD.D2"
-		(at 179.07 137.16 0)
+		(at 179.07 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -31466,7 +31466,7 @@
 		(uuid "9fb018e6-fe3b-49e8-bfca-428297b51316")
 	)
 	(label "SDCARD.D3"
-		(at 179.07 139.7 0)
+		(at 179.07 149.86 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -31488,7 +31488,7 @@
 		(uuid "a0c89b38-639a-46fe-9bca-3a008a107169")
 	)
 	(label "ADC_CH"
-		(at 143.51 129.54 0)
+		(at 143.51 124.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -32137,7 +32137,7 @@
 		(uuid "d83e8960-9301-4048-8cb8-8026ecc336ae")
 	)
 	(label "SDCARD.D1"
-		(at 179.07 149.86 0)
+		(at 179.07 147.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -32258,7 +32258,7 @@
 		(uuid "de0f67a8-4211-488a-be0e-551e3880f999")
 	)
 	(label "SDCARD.DET"
-		(at 179.07 152.4 0)
+		(at 179.07 144.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -37763,7 +37763,7 @@
 	)
 	(symbol
 		(lib_id "DX-MON:pkl_R4_Small")
-		(at 115.57 74.93 180)
+		(at 115.57 74.93 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37771,7 +37771,7 @@
 		(dnp no)
 		(uuid "3d59f2cf-bbf8-4e67-a4b6-17a1ea806a37")
 		(property "Reference" "R37"
-			(at 114.3 73.66 90)
+			(at 116.84 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -47,3 +47,9 @@
 	(constraint length (min 50mm) (max 70mm))
 	(constraint skew (opt 10mm))
 )
+
+(rule "sdcard-skew"
+	(condition  "A.NetClass == 'SDCARD' && A.NetName != '/SDCARD.DET")
+	(constraint length (min 34mm) (max 35mm))
+	(constraint skew (opt 0.5mm))
+)
