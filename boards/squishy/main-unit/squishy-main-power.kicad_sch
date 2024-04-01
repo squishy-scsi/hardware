@@ -33360,6 +33360,93 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 273.05 191.77 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "52085ec7-ecb4-4253-ab25-5501daa92a53")
+		(property "Reference" "C96"
+			(at 274.32 193.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 274.32 190.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "rhais_rcl:C0402"
+			(at 273.05 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H104KE14-01.pdf"
+			(at 273.05 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 273.05 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 273.05 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71H104KE14D"
+			(at 273.05 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "30cc4999-e6b1-4573-b97e-faa5e31a3ba6")
+		)
+		(pin "2"
+			(uuid "0a0b19c3-ab61-444b-ac17-8fccdba254f8")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+					(reference "C96")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 194.31 130.81 0)
 		(unit 1)
@@ -37773,91 +37860,6 @@
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
 					(reference "R48")
 					(unit 4)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 273.05 191.77 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "81c11c92-7eaf-40fa-9733-e98c858db553")
-		(property "Reference" "C96"
-			(at 273.05 189.23 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 273.05 194.31 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "rhais_rcl:C0603"
-			(at 273.05 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
-			(at 273.05 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 273.05 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR" "KEMET"
-			(at 273.05 191.77 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C0603C104M5RACTU"
-			(at 273.05 191.77 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "58cdf6d2-34b2-4d0b-b4ef-01fbb232c06a")
-		)
-		(pin "2"
-			(uuid "b855c2c6-ace1-4812-9b1e-5cf6a43bf2ff")
-		)
-		(instances
-			(project "squishy-main"
-				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
-					(reference "C96")
-					(unit 1)
 				)
 			)
 		)
