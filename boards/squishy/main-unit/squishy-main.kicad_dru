@@ -53,3 +53,18 @@
 	(constraint length (min 34mm) (max 35mm))
 	(constraint skew (opt 0.5mm))
 )
+
+(rule "scsi-phy-skew-in2"
+	(layer "In2.Cu")
+	(condition "A.NetClass == 'SCSI'")
+	(constraint length (min 30mm) (max 31mm))
+	(constraint skew (opt 0.5mm))
+)
+
+(rule "scsi-phy-skew-fcu"
+	(layer "F.Cu")
+	(condition "A.NetClass == 'SCSI'")
+	(constraint length (min 24mm) (max 25mm))
+	(constraint skew (opt 0.5mm))
+)
+
