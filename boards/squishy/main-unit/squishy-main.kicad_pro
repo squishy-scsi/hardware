@@ -713,6 +713,12 @@
         },
         {
           "group_by": false,
+          "label": "Tolerance",
+          "name": "Tolerance",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "MFR",
           "name": "MFR",
           "show": true

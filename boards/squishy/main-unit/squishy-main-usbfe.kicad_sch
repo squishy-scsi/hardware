@@ -19110,6 +19110,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" ""
+			(at 388.62 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "f5913f2d-4a50-43e8-8795-62d4eb7ef784")
 		)
@@ -19219,6 +19228,15 @@
 		)
 		(property "MPN" "CRCW06034K70FKEA"
 			(at 63.5 194.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1% 1/10W"
+			(at 63.5 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19378,6 +19396,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "±10% 16V"
+			(at 119.38 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ceda85a8-fcbe-4111-b1c0-44715ee97d8b")
 		)
@@ -19528,6 +19555,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "±10% 50V"
+			(at 21.59 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7f00cccb-e8c7-4d3a-9092-5404ffc41f59")
 		)
@@ -19606,6 +19642,15 @@
 		)
 		(property "MPN" "C0402C103K3RACTU"
 			(at 243.84 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±10% 25V"
+			(at 243.84 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19787,6 +19832,15 @@
 		)
 		(property "URL_TI" "https://www.ti.com/product/HD3SS460"
 			(at 105.41 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
+			(at 105.41 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20096,6 +20150,15 @@
 		)
 		(property "MPN" "LFE5UM5G-45F-8BG381C"
 			(at 27.94 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
+			(at 27.94 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21326,6 +21389,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "±20% 50V"
+			(at 46.99 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "32bc14ce-8cee-4cd9-8968-f962e20e75af")
 		)
@@ -21413,6 +21485,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "±10% 16V"
+			(at 129.54 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "484ba7e8-668d-4ca2-aec1-b8954660b532")
 		)
@@ -21492,6 +21573,15 @@
 			)
 		)
 		(property "MPN" "N/A"
+			(at 82.55 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
 			(at 82.55 198.12 0)
 			(effects
 				(font
@@ -21645,6 +21735,15 @@
 			)
 		)
 		(property "MPN" "FUSB302BMPX"
+			(at 41.91 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
 			(at 41.91 198.12 0)
 			(effects
 				(font
@@ -21842,6 +21941,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "±20% 50V"
+			(at 242.57 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b1fd2890-7b72-4d72-b5be-1c1295372fd4")
 		)
@@ -21998,6 +22106,15 @@
 		)
 		(property "MPN" "LFE5UM5G-45F-8BG381C"
 			(at 191.77 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
+			(at 191.77 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23294,6 +23411,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "±10% 50V "
+			(at 134.62 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "29a614b2-e433-48a0-815e-72e32fd9759f")
 		)
@@ -23515,6 +23641,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" ""
+			(at 393.7 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/573264d1-b4a8-4279-b1ac-379f43fe1045"
@@ -23588,6 +23723,15 @@
 		)
 		(property "MPN" "CRCW060310K0FKEA"
 			(at 228.6 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1% 1/10W"
+			(at 228.6 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23758,6 +23902,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "±10% 25V"
+			(at 19.05 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "45b559be-fe15-446e-b09a-d6975fac9dd6")
 		)
@@ -23836,6 +23989,15 @@
 		)
 		(property "MPN" "C0603C104M5RACTU"
 			(at 133.35 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±20% 50V"
+			(at 133.35 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24077,6 +24239,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "±1% 1/10W"
+			(at 217.17 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "177cf49f-53d8-4f02-a6e6-2e73bdfcb608")
 		)
@@ -24226,6 +24397,15 @@
 		)
 		(property "MPN" "C0603C104M5RACTU"
 			(at 30.48 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±20% 50V"
+			(at 30.48 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24591,6 +24771,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" ""
+			(at 377.19 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "301f2c91-c4b6-4bac-a360-052a4f681248")
 		)
@@ -24689,6 +24878,15 @@
 			)
 		)
 		(property "MPN" "AK2ADDF1-200.000T"
+			(at 101.6 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
 			(at 101.6 262.89 0)
 			(effects
 				(font
@@ -24937,6 +25135,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "±1% 1/10W"
+			(at 71.12 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9872c9a5-5849-4fc6-b2ad-a7eda9cb36a3")
 		)
@@ -25016,6 +25223,15 @@
 		)
 		(property "MPN" "C1F 7"
 			(at 53.34 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "63VDC"
+			(at 53.34 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25103,6 +25319,15 @@
 		)
 		(property "MPN" "CRCW0402100RFKED"
 			(at 88.9 262.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1%  1/16W "
+			(at 88.9 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25266,6 +25491,15 @@
 		)
 		(property "MPN" "TPD4E02B04DQA"
 			(at 368.3 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
+			(at 368.3 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25596,6 +25830,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" ""
+			(at 193.04 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d2d5ee8-3cf5-4396-b6ce-aab82327ade1")
 		)
@@ -25750,6 +25993,15 @@
 		)
 		(property "MPN" "CRCW04020000Z0ED"
 			(at 270.51 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
+			(at 270.51 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25919,6 +26171,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "±10% 50V"
+			(at 111.76 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb15d8e9-22ba-4dbe-bfa8-e8519e68f3e1")
 		)
@@ -26003,6 +26264,15 @@
 		)
 		(property "MPN" "C0603C104M5RACTU"
 			(at 234.95 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±20% 50V"
+			(at 234.95 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26095,6 +26365,15 @@
 			)
 		)
 		(property "MPN" "8W-13.000MBE-T"
+			(at 257.81 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
 			(at 257.81 102.87 0)
 			(effects
 				(font
@@ -26331,6 +26610,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "±1% 1/10W"
+			(at 30.48 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7de4ed58-510d-407c-8006-0270cd24cc85")
 		)
@@ -26415,6 +26703,15 @@
 		)
 		(property "MPN" "C0603C475K8PACTU"
 			(at 227.33 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±10% 10V"
+			(at 227.33 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26507,6 +26804,15 @@
 		)
 		(property "MPN" "GRM188R61E106KA73D"
 			(at 26.67 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±10% 25V"
+			(at 26.67 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26658,6 +26964,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" ""
+			(at 367.03 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/573264d1-b4a8-4279-b1ac-379f43fe1045"
@@ -26795,6 +27110,15 @@
 		)
 		(property "MPN" "GRM155R71H104KE14D"
 			(at 106.68 34.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±10% 50V"
+			(at 106.68 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27030,6 +27354,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "±10% 25V"
+			(at 115.57 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6e7dc20c-1cf5-4468-9c99-90a42ee6f0e3")
 		)
@@ -27121,6 +27454,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "±10% 50V"
+			(at 29.21 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d729c476-5d53-4584-8976-d31ead5f6944")
 		)
@@ -27199,6 +27541,15 @@
 		)
 		(property "MPN" "LFE5UM5G-45F-8BG381C"
 			(at 60.96 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
+			(at 60.96 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28429,6 +28780,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" ""
+			(at 34.29 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A1"
 			(uuid "15c60d14-3d5e-45a0-bbc2-36096c0a1777")
 		)
@@ -28662,6 +29022,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "±10% 50V"
+			(at 124.46 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c184a1f4-9613-4be2-a899-048d98ae85d3")
 		)
@@ -28741,6 +29110,15 @@
 			)
 		)
 		(property "MPN" "N/A"
+			(at 82.55 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
 			(at 82.55 200.66 0)
 			(effects
 				(font
@@ -28970,6 +29348,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" ""
+			(at 82.55 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8e6f9ccb-2f3b-417c-94ac-27f5307e4520")
 		)
@@ -29046,6 +29433,15 @@
 			)
 		)
 		(property "MPN" "GRM155R71H104KE14D"
+			(at 114.3 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±10% 50V"
 			(at 114.3 240.03 0)
 			(effects
 				(font
@@ -29140,6 +29536,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "±1% 1/10W"
+			(at 67.31 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9195272f-504f-4592-aa65-00d0f7e61e48")
 		)
@@ -29219,6 +29624,15 @@
 		)
 		(property "MPN" "UMK107BJ105KA-T"
 			(at 39.37 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" " ±10% 50V"
+			(at 39.37 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
