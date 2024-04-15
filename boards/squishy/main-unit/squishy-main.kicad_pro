@@ -665,7 +665,7 @@
       },
       {
         "netclass": "Analog",
-        "pattern": "/PHY_*_SENSE"
+        "pattern": "/*/PHY_*_SENSE"
       }
     ]
   },
