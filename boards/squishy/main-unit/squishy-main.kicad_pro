@@ -39,7 +39,7 @@
         "pads": {
           "drill": 0.0,
           "height": 0.5,
-          "width": 0.6
+          "width": 0.9
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -256,9 +256,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "lib_symbol_issues|1473200|2400300|d7c3f167-94d9-41e9-8294-dc01395ee960|00000000-0000-0000-0000-000000000000|||"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
