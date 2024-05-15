@@ -31762,7 +31762,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "2k2"
 			(at 128.27 31.75 90)
 			(effects
 				(font
@@ -31806,7 +31806,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW06032K00FKEA"
+		(property "MPN" "CRCW06032K20FKEA"
 			(at 128.27 31.75 90)
 			(effects
 				(font
@@ -38545,7 +38545,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "2k2"
 			(at 113.03 31.75 90)
 			(effects
 				(font
@@ -38589,7 +38589,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW06032K00FKEA"
+		(property "MPN" "CRCW06032K20FKEA"
 			(at 113.03 31.75 90)
 			(effects
 				(font
@@ -42641,7 +42641,7 @@
 				)
 			)
 		)
-		(property "Value" "D_TVS_Small"
+		(property "Value" "V_{BR} = 3v6"
 			(at 67.31 30.48 0)
 			(effects
 				(font
@@ -42649,7 +42649,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-882"
 			(at 69.85 30.48 0)
 			(effects
 				(font
@@ -42658,7 +42658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/488/SP3205_Series_DS.pdf"
 			(at 69.85 30.48 0)
 			(effects
 				(font
@@ -42668,6 +42668,33 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 69.85 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Littlefuse Inc."
+			(at 69.85 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SP3205-01ETG"
+			(at 69.85 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerrance" "Vbr = 3.6V"
 			(at 69.85 30.48 0)
 			(effects
 				(font
@@ -42709,7 +42736,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "2k2"
 			(at 123.19 31.75 90)
 			(effects
 				(font
@@ -42753,7 +42780,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW06032K00FKEA"
+		(property "MPN" "CRCW06032K20FKEA"
 			(at 123.19 31.75 90)
 			(effects
 				(font
@@ -44997,7 +45024,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "2k2"
 			(at 118.11 31.75 90)
 			(effects
 				(font
@@ -45041,7 +45068,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW06032K00FKEA"
+		(property "MPN" "CRCW06032K20FKEA"
 			(at 118.11 31.75 90)
 			(effects
 				(font
@@ -51634,7 +51661,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "2k2"
 			(at 133.35 31.75 90)
 			(effects
 				(font
@@ -51678,7 +51705,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW06032K00FKEA"
+		(property "MPN" "CRCW06032K20FKEA"
 			(at 133.35 31.75 90)
 			(effects
 				(font
