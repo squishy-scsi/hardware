@@ -15171,6 +15171,12 @@
 		(members "RX+" "RX-" "TX+" "TX-")
 	)
 	(junction
+		(at 208.28 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "052eed93-af5d-46f1-bf44-2edeb8ddd478")
+	)
+	(junction
 		(at 358.14 214.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17960,7 +17966,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 30.48) (xy 207.01 33.02)
+			(xy 208.28 22.86) (xy 208.28 25.4)
 		)
 		(stroke
 			(width 0)
@@ -18200,7 +18206,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 26.67) (xy 256.54 27.94)
+			(xy 256.54 33.02) (xy 256.54 34.29)
 		)
 		(stroke
 			(width 0)
@@ -20240,7 +20246,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 30.48) (xy 260.35 30.48)
+			(xy 248.92 36.83) (xy 260.35 36.83)
 		)
 		(stroke
 			(width 0)
@@ -20510,7 +20516,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 27.94) (xy 256.54 27.94)
+			(xy 248.92 34.29) (xy 256.54 34.29)
 		)
 		(stroke
 			(width 0)
@@ -21450,7 +21456,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 33.02) (xy 260.35 33.02)
+			(xy 248.92 39.37) (xy 260.35 39.37)
 		)
 		(stroke
 			(width 0)
@@ -22030,6 +22036,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 31.75) (xy 209.55 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72de36e0-ad8d-4b18-a627-594f07820199")
+	)
+	(wire
+		(pts
 			(xy 22.86 129.54) (xy 22.86 130.81)
 		)
 		(stroke
@@ -22197,6 +22213,16 @@
 			(type dash)
 		)
 		(uuid "7784bfa9-f0d6-46b0-994c-422868d5eaa8")
+	)
+	(wire
+		(pts
+			(xy 209.55 34.29) (xy 222.25 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77f7adde-613e-48b1-950a-b8ce5ce34ad3")
 	)
 	(wire
 		(pts
@@ -22387,16 +22413,6 @@
 			(type default)
 		)
 		(uuid "7fa19475-e22b-4a93-ab03-acbd1ac3f260")
-	)
-	(wire
-		(pts
-			(xy 207.01 33.02) (xy 222.25 33.02)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "7fb0d887-b36c-4591-b9cd-e624239f2c9c")
 	)
 	(wire
 		(pts
@@ -22617,6 +22633,16 @@
 			(type default)
 		)
 		(uuid "86dcd6bf-c4bc-47a7-923b-c52edd00420f")
+	)
+	(wire
+		(pts
+			(xy 208.28 25.4) (xy 209.55 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86f20806-3334-4cf5-9827-e24fd92311ea")
 	)
 	(wire
 		(pts
@@ -22897,6 +22923,16 @@
 			(type dash)
 		)
 		(uuid "8d679606-eefc-4c60-8121-7c1c32f2e71b")
+	)
+	(wire
+		(pts
+			(xy 205.74 25.4) (xy 205.74 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d75abe2-c06f-4355-9592-a68276237251")
 	)
 	(polyline
 		(pts
@@ -23937,6 +23973,16 @@
 			(type dash)
 		)
 		(uuid "a7170b32-f38d-47e0-bf86-007a95d4f79b")
+	)
+	(wire
+		(pts
+			(xy 205.74 39.37) (xy 222.25 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a76f4031-1dae-4a43-95ea-8b5e4ee4dbab")
 	)
 	(wire
 		(pts
@@ -25270,6 +25316,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 25.4) (xy 208.28 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1ca6d9e-d873-40aa-a028-bf66d90a761d")
+	)
+	(wire
+		(pts
 			(xy 373.38 173.99) (xy 400.05 173.99)
 		)
 		(stroke
@@ -25830,16 +25886,6 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 27.94) (xy 210.82 27.94)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "e1dca6e5-026b-42ed-b46e-b5a86a7bf822")
-	)
-	(wire
-		(pts
 			(xy 34.29 205.74) (xy 44.45 205.74)
 		)
 		(stroke
@@ -26140,7 +26186,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 30.48) (xy 210.82 30.48)
+			(xy 222.25 36.83) (xy 210.82 36.83)
 		)
 		(stroke
 			(width 0)
@@ -26637,6 +26683,16 @@
 			(type default)
 		)
 		(uuid "f9c27f5a-69f0-4232-bc3f-ba19a3433233")
+	)
+	(wire
+		(pts
+			(xy 209.55 25.4) (xy 209.55 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa0b76a5-a82c-4d02-9504-1fb67b966fa9")
 	)
 	(wire
 		(pts
@@ -27846,7 +27902,7 @@
 		(uuid "31472214-744d-4f08-8551-30549f1873db")
 	)
 	(label "FLASH_CIPO"
-		(at 210.82 30.48 0)
+		(at 210.82 36.83 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -29045,7 +29101,7 @@
 		(uuid "7e7af94a-cf97-4e01-854b-4096edd00462")
 	)
 	(label "FLASH_COPI"
-		(at 260.35 33.02 180)
+		(at 260.35 39.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -29793,7 +29849,7 @@
 		(uuid "b478a1a4-b9f6-4a16-95ff-547d21aa0e67")
 	)
 	(label "~{FLASH_CS}"
-		(at 210.82 27.94 0)
+		(at 210.82 34.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -30596,7 +30652,7 @@
 		(uuid "f8610c19-171a-4029-8ad8-a874d56855ef")
 	)
 	(label "FLASH_CLK"
-		(at 260.35 30.48 180)
+		(at 260.35 36.83 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -31362,7 +31418,7 @@
 	)
 	(symbol
 		(lib_id "lethalbit-memory:W25N01GVZEIG")
-		(at 234.95 26.67 0)
+		(at 234.95 33.02 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31370,7 +31426,7 @@
 		(dnp no)
 		(uuid "09caa121-1045-4fb6-b7e7-3db5de93c09a")
 		(property "Reference" "U2"
-			(at 235.585 20.9804 0)
+			(at 235.585 27.3304 0)
 			(effects
 				(font
 					(size 0.9906 0.9906)
@@ -31378,7 +31434,7 @@
 			)
 		)
 		(property "Value" "GD25Q64EWIGR"
-			(at 235.585 22.8854 0)
+			(at 235.585 29.2354 0)
 			(effects
 				(font
 					(size 0.9906 0.9906)
@@ -31386,7 +31442,7 @@
 			)
 		)
 		(property "Footprint" "rhais_package-qfn:UDFN-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
-			(at 234.95 22.86 0)
+			(at 234.95 29.21 0)
 			(effects
 				(font
 					(size 0.9906 0.9906)
@@ -31395,7 +31451,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.gigadevice.com.cn/Public/Uploads/uploadfile/files/20220714/DS-00484-GD25Q64E-Rev1.4.pdf"
-			(at 234.95 22.86 0)
+			(at 234.95 29.21 0)
 			(effects
 				(font
 					(size 0.9906 0.9906)
@@ -31404,7 +31460,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 234.95 26.67 0)
+			(at 234.95 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31413,7 +31469,7 @@
 			)
 		)
 		(property "MFR" "GigaDevice"
-			(at 234.95 26.67 0)
+			(at 234.95 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31422,7 +31478,7 @@
 			)
 		)
 		(property "MPN" "GD25Q64EWIGR"
-			(at 234.95 26.67 0)
+			(at 234.95 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31431,7 +31487,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 234.95 26.67 0)
+			(at 234.95 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35372,7 +35428,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 256.54 26.67 0)
+		(at 256.54 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35380,7 +35436,7 @@
 		(dnp no)
 		(uuid "44be1815-454a-4344-a944-191c039b30dc")
 		(property "Reference" "#PWR09"
-			(at 256.54 30.48 0)
+			(at 256.54 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35389,7 +35445,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 256.54 22.86 0)
+			(at 256.54 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35397,7 +35453,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 256.54 26.67 0)
+			(at 256.54 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35406,7 +35462,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 256.54 26.67 0)
+			(at 256.54 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35415,7 +35471,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 256.54 26.67 0)
+			(at 256.54 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41960,6 +42016,101 @@
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa"
 					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 209.55 29.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9bcb15d5-eba5-41c0-b9d2-9311de4e76e1")
+		(property "Reference" "R71"
+			(at 208.28 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Value" "4k7"
+			(at 209.55 29.21 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "rhais_rcl:R0603"
+			(at 209.55 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 209.55 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 209.55 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Vishay Dale"
+			(at 209.55 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06034K70FKEA"
+			(at 209.55 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1% 1/10W"
+			(at 209.55 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "08a6092b-b27b-4bf5-a3c8-bc68483978fb")
+		)
+		(pin "2"
+			(uuid "f00affff-8693-4977-bafd-4e61dd04eb21")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa"
+					(reference "R71")
 					(unit 1)
 				)
 			)
@@ -49370,7 +49521,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 207.01 30.48 0)
+		(at 208.28 22.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -49378,7 +49529,7 @@
 		(dnp no)
 		(uuid "f62ea084-7ca2-4ed1-864a-29e895898135")
 		(property "Reference" "#PWR010"
-			(at 207.01 34.29 0)
+			(at 208.28 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49387,7 +49538,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 207.01 26.67 0)
+			(at 208.28 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49395,7 +49546,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 207.01 30.48 0)
+			(at 208.28 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49404,7 +49555,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 30.48 0)
+			(at 208.28 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49413,7 +49564,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 207.01 30.48 0)
+			(at 208.28 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
