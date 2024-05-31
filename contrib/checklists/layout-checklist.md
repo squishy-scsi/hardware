@@ -48,6 +48,7 @@
 - [ ] Minimize crossing reference plane splits/slots or changing layers, use caps/stitching vias if unavoidable
 - [ ] Confirm fab can do copper to edge of PCB for edge launch connectors
 - [ ] Double-check pad width on connectors and add plane cutouts if needed to minimize impedance discontinuities
+- [ ] Add stitching vias to ground plane in large top layer ground pads (SMA etc) to avoid resonances
 
 ## Power
 
@@ -75,6 +76,7 @@ bending stress
 - [ ] Verify mounting hole connection/isolation
 - [ ] Components not physically overlapping/colliding
 - [ ] Clearance provided around solder-in test points for probe tips
+- [ ] Mounting hole positions compatible with enclosure design rules (keepouts around bends/welds etc respected)
 
 ## Thermal
 
