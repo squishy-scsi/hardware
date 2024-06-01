@@ -27177,6 +27177,17 @@
 		)
 		(uuid "90073abe-c59d-4cce-bcba-08fb7c513530")
 	)
+	(text "DET_A/DET_B is Normally closed to GND,\nWith card switch opens\n"
+		(exclude_from_sim no)
+		(at 350.266 68.834 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "90a21c64-dce6-4c76-90e2-f8df078fae80")
+	)
 	(text "512Mbit"
 		(exclude_from_sim no)
 		(at 99.06 197.612 0)
