@@ -42623,7 +42623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerrance" "Vbr = 3.6V"
+		(property "Tolerance" "Vbr = 3.6V"
 			(at 69.85 30.48 0)
 			(effects
 				(font
