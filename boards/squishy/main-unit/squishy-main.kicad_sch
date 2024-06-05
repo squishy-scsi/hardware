@@ -38032,7 +38032,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "681425a5-965f-4ed5-8f33-6b7ef143c2d6")
-		(property "Reference" "#PWR0202"
+		(property "Reference" "#PWR0244"
 			(at 269.24 44.45 0)
 			(effects
 				(font
@@ -38081,20 +38081,20 @@
 		)
 		(instances
 			(project "kokorowatari-backplane"
-				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/b5269d43-bcaf-4ce2-9893-05fd64757f67"
-					(reference "#PWR0202")
-					(unit 1)
-				)
-				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/4a47f697-af4b-4bc8-88b2-c23f9eead5b9"
-					(reference "#PWR0203")
-					(unit 1)
-				)
 				(path "/216b1753-5645-493a-b554-37c5c4dc0924/b08e9e35-9e8c-4e17-8dd1-4d02727862ef"
 					(reference "#PWR0244")
 					(unit 1)
 				)
 				(path "/216b1753-5645-493a-b554-37c5c4dc0924/df8d8df1-17ec-47f5-b103-2700b9aeb817"
 					(reference "#PWR0271")
+					(unit 1)
+				)
+				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/4a47f697-af4b-4bc8-88b2-c23f9eead5b9"
+					(reference "#PWR0203")
+					(unit 1)
+				)
+				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/b5269d43-bcaf-4ce2-9893-05fd64757f67"
+					(reference "#PWR0202")
 					(unit 1)
 				)
 			)
@@ -39638,28 +39638,28 @@
 					(reference "#PWR05")
 					(unit 1)
 				)
-				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/b5269d43-bcaf-4ce2-9893-05fd64757f67/ab8d9327-c20b-443f-a35b-3583e8706dda"
-					(reference "#PWR026")
-					(unit 1)
-				)
-				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/b5269d43-bcaf-4ce2-9893-05fd64757f67/159e744f-41d0-4939-bba6-7b159d235059"
-					(reference "#PWR053")
-					(unit 1)
-				)
-				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/b5269d43-bcaf-4ce2-9893-05fd64757f67"
-					(reference "#PWR0198")
-					(unit 1)
-				)
-				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/4a47f697-af4b-4bc8-88b2-c23f9eead5b9"
-					(reference "#PWR0199")
-					(unit 1)
-				)
 				(path "/216b1753-5645-493a-b554-37c5c4dc0924/b08e9e35-9e8c-4e17-8dd1-4d02727862ef"
 					(reference "#PWR0243")
 					(unit 1)
 				)
 				(path "/216b1753-5645-493a-b554-37c5c4dc0924/df8d8df1-17ec-47f5-b103-2700b9aeb817"
 					(reference "#PWR0270")
+					(unit 1)
+				)
+				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/4a47f697-af4b-4bc8-88b2-c23f9eead5b9"
+					(reference "#PWR0199")
+					(unit 1)
+				)
+				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/b5269d43-bcaf-4ce2-9893-05fd64757f67"
+					(reference "#PWR0198")
+					(unit 1)
+				)
+				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/b5269d43-bcaf-4ce2-9893-05fd64757f67/159e744f-41d0-4939-bba6-7b159d235059"
+					(reference "#PWR053")
+					(unit 1)
+				)
+				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/b5269d43-bcaf-4ce2-9893-05fd64757f67/ab8d9327-c20b-443f-a35b-3583e8706dda"
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -40099,7 +40099,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "8d8cdb1b-aea4-4917-a0c0-35f08938fd66")
-		(property "Reference" "J37"
+		(property "Reference" "J42"
 			(at 276.86 24.13 0)
 			(effects
 				(font
@@ -40201,20 +40201,20 @@
 		)
 		(instances
 			(project "kokorowatari-backplane"
-				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/b5269d43-bcaf-4ce2-9893-05fd64757f67"
-					(reference "J37")
-					(unit 1)
-				)
-				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/4a47f697-af4b-4bc8-88b2-c23f9eead5b9"
-					(reference "J38")
-					(unit 1)
-				)
 				(path "/216b1753-5645-493a-b554-37c5c4dc0924/b08e9e35-9e8c-4e17-8dd1-4d02727862ef"
 					(reference "J42")
 					(unit 1)
 				)
 				(path "/216b1753-5645-493a-b554-37c5c4dc0924/df8d8df1-17ec-47f5-b103-2700b9aeb817"
 					(reference "J43")
+					(unit 1)
+				)
+				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/4a47f697-af4b-4bc8-88b2-c23f9eead5b9"
+					(reference "J38")
+					(unit 1)
+				)
+				(path "/216b1753-5645-493a-b554-37c5c4dc0924/4e321cd1-c24a-4a55-9b8a-f0f974a055f5/b5269d43-bcaf-4ce2-9893-05fd64757f67"
+					(reference "J37")
 					(unit 1)
 				)
 			)
