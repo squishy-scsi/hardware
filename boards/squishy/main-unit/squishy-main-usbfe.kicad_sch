@@ -19205,102 +19205,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 119.38 240.03 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0ca7cc40-09bf-4b57-aa2c-6572c88bb63e")
-		(property "Reference" "C82"
-			(at 118.11 241.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10n"
-			(at 120.65 241.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "rhais_rcl:C0402"
-			(at 119.38 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C103KA01-01.pdf"
-			(at 119.38 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 119.38 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR" "Murata Electronics"
-			(at 119.38 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71C103KA01D"
-			(at 119.38 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±10% 16V"
-			(at 119.38 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ceda85a8-fcbe-4111-b1c0-44715ee97d8b")
-		)
-		(pin "2"
-			(uuid "c1893a80-b9cd-4baa-8d45-70f9a00b9623")
-		)
-		(instances
-			(project "squishy-main"
-				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/573264d1-b4a8-4279-b1ac-379f43fe1045"
-					(reference "C82")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 67.31 187.96 0)
 		(unit 1)
@@ -21320,7 +21224,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "rhais_rcl:C0402"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 129.54 240.03 0)
 			(effects
 				(font
@@ -21329,7 +21233,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C103KA01-01.pdf"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R71E103KE14-01.pdf"
 			(at 129.54 240.03 0)
 			(effects
 				(font
@@ -21356,7 +21260,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRM155R71C103KA01D"
+		(property "MPN" "GRM033R71E103KE14D"
 			(at 129.54 240.03 0)
 			(effects
 				(font
@@ -21365,7 +21269,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "±10% 16V"
+		(property "Tolerance" "±10% 25V"
 			(at 129.54 240.03 0)
 			(effects
 				(font
@@ -23246,7 +23150,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "rhais_rcl:C0402"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 134.62 240.03 0)
 			(effects
 				(font
@@ -23255,7 +23159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H102KA37-01.pdf"
+		(property "Datasheet" "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/k35e.ashx?la=en-us&cvid=20200508021757000000"
 			(at 134.62 240.03 0)
 			(effects
 				(font
@@ -23282,7 +23186,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GCM155R71H102KA37D"
+		(property "MPN" "GCM033R71E102KA03D"
 			(at 134.62 240.03 0)
 			(effects
 				(font
@@ -23291,7 +23195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "±10% 50V "
+		(property "Tolerance" "±10% 25V "
 			(at 134.62 240.03 0)
 			(effects
 				(font
@@ -24209,6 +24113,102 @@
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/573264d1-b4a8-4279-b1ac-379f43fe1045"
 					(reference "#PWR0128")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 119.38 240.03 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6e8d7b9f-c1bc-46b3-bbc7-29a507b158f4")
+		(property "Reference" "C82"
+			(at 118.11 241.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10n"
+			(at 120.65 241.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 119.38 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R71E103KE14-01.pdf"
+			(at 119.38 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 119.38 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM033R71E103KE14D"
+			(at 119.38 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±10% 25V"
+			(at 119.38 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d1228792-956f-410f-8999-497291ebcfbd")
+		)
+		(pin "2"
+			(uuid "5cfbb9c0-c7f5-48d0-8ef4-56a6b516e409")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/573264d1-b4a8-4279-b1ac-379f43fe1045"
+					(reference "C82")
 					(unit 1)
 				)
 			)
@@ -27165,6 +27165,102 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 114.3 240.03 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d09ed245-3dc0-41e6-85ec-45146808680b")
+		(property "Reference" "C81"
+			(at 113.03 241.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 115.57 241.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 114.3 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033Z71C104KE14-01A.pdf"
+			(at 114.3 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 114.3 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM033Z71C104KE14J"
+			(at 114.3 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±10% 16V"
+			(at 114.3 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "337aad8e-2bda-477d-aa65-9c28986f26c0")
+		)
+		(pin "2"
+			(uuid "4f8a8b8d-9e94-464f-9cbc-c23621b03c34")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/573264d1-b4a8-4279-b1ac-379f43fe1045"
+					(reference "C81")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 115.57 262.89 0)
 		(mirror y)
 		(unit 1)
@@ -28857,7 +28953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "rhais_rcl:C0402"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 124.46 240.03 0)
 			(effects
 				(font
@@ -28866,7 +28962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H104KE14-01.pdf"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033Z71C104KE14-01A.pdf"
 			(at 124.46 240.03 0)
 			(effects
 				(font
@@ -28893,7 +28989,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRM155R71H104KE14D"
+		(property "MPN" "GRM033Z71C104KE14J"
 			(at 124.46 240.03 0)
 			(effects
 				(font
@@ -28902,7 +28998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "±10% 50V"
+		(property "Tolerance" "±10% 16V"
 			(at 124.46 240.03 0)
 			(effects
 				(font
@@ -29244,102 +29340,6 @@
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/573264d1-b4a8-4279-b1ac-379f43fe1045"
 					(reference "TP34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 114.3 240.03 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f274d03b-a1de-460d-b0a0-4c438d966f3c")
-		(property "Reference" "C81"
-			(at 113.03 241.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 115.57 241.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "rhais_rcl:C0402"
-			(at 114.3 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H104KE14-01.pdf"
-			(at 114.3 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 114.3 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR" "Murata Electronics"
-			(at 114.3 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GRM155R71H104KE14D"
-			(at 114.3 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±10% 50V"
-			(at 114.3 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cec24365-2372-43f9-8920-ecd804ba71a0")
-		)
-		(pin "2"
-			(uuid "ee7c825f-d78b-4449-90a1-6f3546851f4d")
-		)
-		(instances
-			(project "squishy-main"
-				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/573264d1-b4a8-4279-b1ac-379f43fe1045"
-					(reference "C81")
 					(unit 1)
 				)
 			)
