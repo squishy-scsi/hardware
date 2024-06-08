@@ -16852,6 +16852,12 @@
 		(uuid "16ad7f64-e8a8-4061-a4d8-d4865a7be4ce")
 	)
 	(junction
+		(at 247.65 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "16d08b07-1aa9-4aad-ac62-b47895acb18d")
+	)
+	(junction
 		(at 45.72 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -16904,6 +16910,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "289e4278-156b-4f2a-a36f-ef09c56a6902")
+	)
+	(junction
+		(at 250.19 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a03d1f8-d8db-4969-8971-a9fbb4d0f0dd")
 	)
 	(junction
 		(at 396.24 137.16)
@@ -17060,6 +17072,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "477bbf53-ce2b-4d87-ba0a-67de093be62c")
+	)
+	(junction
+		(at 245.11 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "484462ed-2c86-47ba-b63c-fcd2ef40b3af")
 	)
 	(junction
 		(at 255.27 264.16)
@@ -17278,6 +17296,12 @@
 		(uuid "7657c72b-d648-46d3-8e14-95dcfd81f43f")
 	)
 	(junction
+		(at 93.98 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "770879d8-5640-40aa-8ec0-e6f1fca9179e")
+	)
+	(junction
 		(at 393.7 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17378,6 +17402,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84278841-f94e-4a4e-9614-e076968c39ee")
+	)
+	(junction
+		(at 247.65 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8439919a-6d45-44cd-b478-4446aa57932e")
+	)
+	(junction
+		(at 99.06 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85e58940-a567-46d7-a3ac-d6b2f307a693")
 	)
 	(junction
 		(at 49.53 201.93)
@@ -17494,6 +17530,12 @@
 		(uuid "94f06109-e690-46fe-8c10-8f7b3b6a58e8")
 	)
 	(junction
+		(at 245.11 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9528003f-38ef-4d26-9809-e2aca37703a7")
+	)
+	(junction
 		(at 68.58 260.35)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17552,6 +17594,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9cb0efcf-9eb4-4a91-9234-c84b80c0c0bd")
+	)
+	(junction
+		(at 250.19 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9cd19623-dfae-4657-98ec-a71b3dd424b6")
 	)
 	(junction
 		(at 287.02 125.73)
@@ -17762,6 +17810,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c1f0bbe9-ccad-43c4-8349-c60d4a0dd947")
+	)
+	(junction
+		(at 99.06 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c27e3cca-638b-40cc-a933-eee956190b3a")
 	)
 	(junction
 		(at 114.3 157.48)
@@ -17986,6 +18040,12 @@
 		(uuid "f8c72619-9b66-4f52-9f63-74e75282380b")
 	)
 	(junction
+		(at 93.98 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f94b612b-2b6d-4420-b3ad-ca1726875218")
+	)
+	(junction
 		(at 294.64 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -18151,6 +18211,26 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 83.82) (xy 255.27 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "079e0946-0a4d-4fde-befa-273c08f4dac5")
+	)
+	(wire
+		(pts
+			(xy 250.19 96.52) (xy 255.27 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07a93e17-fec0-4fc2-9f30-2be9db8695b9")
+	)
+	(wire
+		(pts
 			(xy 294.64 262.89) (xy 294.64 269.24)
 		)
 		(stroke
@@ -18168,6 +18248,16 @@
 			(type default)
 		)
 		(uuid "07f9c45e-2ad5-42bd-b26f-14bcd3dd2aa9")
+	)
+	(wire
+		(pts
+			(xy 88.9 152.4) (xy 88.9 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0819d51c-31a3-489d-a5f2-d52db06980e6")
 	)
 	(wire
 		(pts
@@ -18388,6 +18478,16 @@
 			(type default)
 		)
 		(uuid "0eacf9d4-58ce-4779-9229-b41e1ec048e8")
+	)
+	(wire
+		(pts
+			(xy 93.98 144.78) (xy 99.06 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ee2c50b-9963-4d74-828a-d06202fae53f")
 	)
 	(polyline
 		(pts
@@ -18731,6 +18831,16 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 83.82) (xy 245.11 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1afecbd6-3a95-471a-aeb6-9e60934ec8b1")
+	)
+	(wire
+		(pts
 			(xy 162.56 161.29) (xy 165.1 161.29)
 		)
 		(stroke
@@ -18818,6 +18928,16 @@
 			(type dash)
 		)
 		(uuid "1e40836f-4c9c-4239-8b1a-0c917926f780")
+	)
+	(wire
+		(pts
+			(xy 255.27 83.82) (xy 255.27 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e78e30a-238d-450a-b917-7a8468fb3574")
 	)
 	(wire
 		(pts
@@ -19421,6 +19541,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 91.44) (xy 255.27 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30177775-160b-4f50-8d79-8a378072caaa")
+	)
+	(wire
+		(pts
 			(xy 55.88 196.85) (xy 55.88 199.39)
 		)
 		(stroke
@@ -19971,6 +20101,16 @@
 	)
 	(wire
 		(pts
+			(xy 247.65 81.28) (xy 247.65 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e9d1b53-34b6-400b-b4df-66dfd821e3bd")
+	)
+	(wire
+		(pts
 			(xy 213.36 217.17) (xy 222.25 217.17)
 		)
 		(stroke
@@ -20281,6 +20421,16 @@
 	)
 	(wire
 		(pts
+			(xy 247.65 96.52) (xy 247.65 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45b1c388-1591-4b3c-84bc-eb0a16a95ae4")
+	)
+	(wire
+		(pts
 			(xy 59.69 138.43) (xy 62.23 138.43)
 		)
 		(stroke
@@ -20348,6 +20498,16 @@
 			(type default)
 		)
 		(uuid "479e0147-737f-411a-8556-597fe63c8fec")
+	)
+	(wire
+		(pts
+			(xy 93.98 152.4) (xy 93.98 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47d59432-c382-416f-a8db-4eb8a4a86cd5")
 	)
 	(wire
 		(pts
@@ -21971,6 +22131,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 157.48) (xy 99.06 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77f1a548-7d92-40ef-a620-1fd526325c7e")
+	)
+	(wire
+		(pts
 			(xy 237.49 58.42) (xy 238.76 57.15)
 		)
 		(stroke
@@ -22028,6 +22198,16 @@
 			(type default)
 		)
 		(uuid "795308b4-d916-447e-a475-49d2d7607ef7")
+	)
+	(wire
+		(pts
+			(xy 245.11 91.44) (xy 245.11 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "796214fa-be1c-4e66-a3e9-d2807d6d1e35")
 	)
 	(wire
 		(pts
@@ -22161,6 +22341,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 83.82) (xy 240.03 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cb6fee0-19bc-46d3-869e-819cda00ea4d")
+	)
+	(wire
+		(pts
 			(xy 93.98 207.01) (xy 93.98 222.25)
 		)
 		(stroke
@@ -22168,6 +22358,16 @@
 			(type default)
 		)
 		(uuid "7dc9255f-ec9a-41d1-b6ed-a30a8b174ac7")
+	)
+	(wire
+		(pts
+			(xy 240.03 83.82) (xy 245.11 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e00141b-7502-419b-96aa-08ba0e0b19a8")
 	)
 	(wire
 		(pts
@@ -22601,6 +22801,16 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 83.82) (xy 247.65 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e8a8511-515d-4126-b4e5-14c2bfc158ae")
+	)
+	(wire
+		(pts
 			(xy 58.42 114.3) (xy 63.5 114.3)
 		)
 		(stroke
@@ -22971,6 +23181,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 91.44) (xy 240.03 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "979d76c0-12d4-46b1-ba3d-e25b2ab13a17")
+	)
+	(wire
+		(pts
 			(xy 281.94 185.42) (xy 281.94 191.77)
 		)
 		(stroke
@@ -23099,6 +23319,16 @@
 		)
 		(uuid "99c4acef-839f-4e95-9058-87d73023638d")
 	)
+	(wire
+		(pts
+			(xy 93.98 147.32) (xy 93.98 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a1e720e-c412-49b5-9d54-d2d9c9c5fa4b")
+	)
 	(polyline
 		(pts
 			(xy 151.13 238.76) (xy 104.14 238.76)
@@ -23131,6 +23361,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 147.32) (xy 88.9 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b51c9f2-2a0b-4a81-9771-3a6f463da5d3")
+	)
+	(wire
+		(pts
 			(xy 49.53 201.93) (xy 55.88 201.93)
 		)
 		(stroke
@@ -23148,6 +23388,26 @@
 			(type default)
 		)
 		(uuid "9b742d91-5253-49aa-ac7b-ec181144eb9d")
+	)
+	(wire
+		(pts
+			(xy 247.65 96.52) (xy 250.19 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9be2f05d-7836-4699-906d-21d606d84bfc")
+	)
+	(wire
+		(pts
+			(xy 88.9 144.78) (xy 93.98 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c0137b5-849f-452f-b34c-7972beab303d")
 	)
 	(wire
 		(pts
@@ -23208,6 +23468,16 @@
 			(type default)
 		)
 		(uuid "9ddccbcb-3182-4fa2-9aa8-7a9251212a23")
+	)
+	(wire
+		(pts
+			(xy 240.03 96.52) (xy 245.11 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9dfb049e-4bd6-4bd7-9b1f-20429f755f10")
 	)
 	(wire
 		(pts
@@ -23671,6 +23941,16 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 83.82) (xy 250.19 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac68dcc6-fe7a-4751-b44f-3fa29e3e9970")
+	)
+	(wire
+		(pts
 			(xy 195.58 207.01) (xy 195.58 209.55)
 		)
 		(stroke
@@ -24028,6 +24308,16 @@
 			(type default)
 		)
 		(uuid "b5c3ae90-c9f5-48f1-86f5-966856a19664")
+	)
+	(wire
+		(pts
+			(xy 250.19 91.44) (xy 250.19 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b61053f5-240f-4242-ac1d-66b7aad6ce92")
 	)
 	(wire
 		(pts
@@ -24801,6 +25091,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 157.48) (xy 93.98 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdc3c134-b5ae-40a8-af4d-9c96b3eefc24")
+	)
+	(wire
+		(pts
 			(xy 139.7 25.4) (xy 139.7 26.67)
 		)
 		(stroke
@@ -25331,6 +25631,16 @@
 	)
 	(wire
 		(pts
+			(xy 247.65 83.82) (xy 250.19 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddf6c5f9-1a2f-4e85-920e-71ea85c93231")
+	)
+	(wire
+		(pts
 			(xy 391.16 134.62) (xy 391.16 137.16)
 		)
 		(stroke
@@ -25638,6 +25948,16 @@
 			(type default)
 		)
 		(uuid "e5b20233-8681-4802-b9cb-7a8c37fe7f96")
+	)
+	(wire
+		(pts
+			(xy 245.11 96.52) (xy 247.65 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5b9a17c-7db9-4f7e-b403-f1ec0e056a4a")
 	)
 	(polyline
 		(pts
@@ -26901,6 +27221,17 @@
 		)
 		(uuid "4e7ded79-108f-42d0-b0de-1f169405f15f")
 	)
+	(text "VCCAUXA1"
+		(exclude_from_sim no)
+		(at 250.19 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "50ca967f-d9a3-4b5f-902d-5bfac8452ac1")
+	)
 	(text "Fiducials"
 		(exclude_from_sim no)
 		(at 344.17 135.89 0)
@@ -27319,6 +27650,17 @@
 			(justify left bottom)
 		)
 		(uuid "c1c9276d-c90d-4eb0-a5ad-9acd3a8b5e3e")
+	)
+	(text "VCCAUXA0"
+		(exclude_from_sim no)
+		(at 236.22 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c899dc34-1781-4607-a5c4-afe4cd0ea3d3")
 	)
 	(text "Rail Supply Hierarchy"
 		(exclude_from_sim no)
@@ -31856,6 +32198,102 @@
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
 					(reference "#PWR0126")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 255.27 88.9 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "235c7bac-51a0-4fad-839c-9fd8622c6b12")
+		(property "Reference" "C112"
+			(at 254 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1n"
+			(at 256.54 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 255.27 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/k35e.ashx?la=en-us&cvid=20200508021757000000"
+			(at 255.27 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 255.27 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 255.27 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM033R71E102KA03D"
+			(at 255.27 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±10% 25V "
+			(at 255.27 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8e1db840-7b98-4c91-9628-ac930c6601d5")
+		)
+		(pin "2"
+			(uuid "087d76f1-0bc7-4bb7-b453-202e0fc3fda2")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+					(reference "C112")
 					(unit 1)
 				)
 			)
@@ -36458,6 +36896,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 247.65 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "49a63dbb-2d59-4ae1-a6dd-f99440cb3153")
+		(property "Reference" "#PWR0171"
+			(at 247.65 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 247.777 103.4542 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 247.65 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 247.65 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 247.65 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "73aca020-dc0b-4394-8baf-bfe144b1677c")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+					(reference "#PWR0171")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DX-MON:pkl_R4_Small")
 		(at 199.39 257.81 180)
 		(unit 3)
@@ -39758,6 +40261,102 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 119.38 149.86 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "64fd67b2-39f7-4557-88d0-f5a5e9739c28")
+		(property "Reference" "C106"
+			(at 118.11 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 120.65 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 119.38 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033Z71C104KE14-01A.pdf"
+			(at 119.38 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 119.38 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM033Z71C104KE14J"
+			(at 119.38 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±10% 16V"
+			(at 119.38 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "99119abd-4567-4589-a482-c119f876cb76")
+		)
+		(pin "2"
+			(uuid "378295b3-9e11-4504-bb12-2560b93eeb05")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+					(reference "C106")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 299.72 114.3 270)
 		(unit 1)
@@ -41134,6 +41733,102 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 240.03 88.9 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "72fcb23a-3b1e-4116-b1c9-d51faf961106")
+		(property "Reference" "C108"
+			(at 238.76 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10n"
+			(at 241.3 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 240.03 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R71E103KE14-01.pdf"
+			(at 240.03 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 240.03 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 240.03 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM033R71E103KE14D"
+			(at 240.03 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±10% 25V"
+			(at 240.03 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f4074d48-1af3-41a2-b921-9762c0b3d2cb")
+		)
+		(pin "2"
+			(uuid "9170c3a2-7be2-40b1-a3f6-c204e52ef368")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+					(reference "C108")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint_Small")
 		(at 283.21 271.78 270)
 		(unit 1)
@@ -41493,7 +42188,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 104.14 149.86 180)
+		(at 99.06 149.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41501,7 +42196,7 @@
 		(dnp no)
 		(uuid "77db92cb-69ef-4581-8acd-dfdc67cef01b")
 		(property "Reference" "C103"
-			(at 102.87 151.13 90)
+			(at 97.79 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41510,7 +42205,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 105.41 151.13 90)
+			(at 100.33 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41519,7 +42214,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 104.14 149.86 0)
+			(at 99.06 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41528,7 +42223,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61C105ME15-01A.pdf"
-			(at 104.14 149.86 0)
+			(at 99.06 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41537,7 +42232,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 104.14 149.86 0)
+			(at 99.06 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41546,7 +42241,7 @@
 			)
 		)
 		(property "MFR" "Murata Electronics"
-			(at 104.14 149.86 0)
+			(at 99.06 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41555,7 +42250,7 @@
 			)
 		)
 		(property "MPN" "GRM033R61C105ME15D"
-			(at 104.14 149.86 0)
+			(at 99.06 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41564,7 +42259,7 @@
 			)
 		)
 		(property "Tolerance" "±20% 16V"
-			(at 104.14 149.86 0)
+			(at 99.06 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42026,7 +42721,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 109.22 149.86 180)
+		(at 104.14 149.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42034,7 +42729,7 @@
 		(dnp no)
 		(uuid "7ce3cf56-c8dd-411f-86d2-134998706db2")
 		(property "Reference" "C77"
-			(at 107.95 151.13 90)
+			(at 102.87 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42043,7 +42738,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 110.49 151.13 90)
+			(at 105.41 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42052,7 +42747,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 109.22 149.86 0)
+			(at 104.14 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42061,7 +42756,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61C105ME15-01A.pdf"
-			(at 109.22 149.86 0)
+			(at 104.14 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42070,7 +42765,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 109.22 149.86 0)
+			(at 104.14 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42079,7 +42774,7 @@
 			)
 		)
 		(property "MFR" "Murata Electronics"
-			(at 109.22 149.86 0)
+			(at 104.14 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42088,7 +42783,7 @@
 			)
 		)
 		(property "MPN" "GRM033R61C105ME15D"
-			(at 109.22 149.86 0)
+			(at 104.14 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42097,7 +42792,7 @@
 			)
 		)
 		(property "Tolerance" "±20% 16V"
-			(at 109.22 149.86 0)
+			(at 104.14 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46352,15 +47047,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 99.06 149.86 180)
+		(at 250.19 88.9 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "af33e918-ff8c-4bb3-9134-611fb1c5bd69")
-		(property "Reference" "C104"
-			(at 97.79 151.13 90)
+		(uuid "ae841364-f390-4a0d-b52c-33966555b2e8")
+		(property "Reference" "C111"
+			(at 248.92 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46368,8 +47063,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
-			(at 100.33 151.13 90)
+		(property "Value" "10n"
+			(at 251.46 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46378,7 +47073,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 99.06 149.86 0)
+			(at 250.19 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46386,8 +47081,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61C105ME15-01A.pdf"
-			(at 99.06 149.86 0)
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R71E103KE14-01.pdf"
+			(at 250.19 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46396,7 +47091,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 99.06 149.86 0)
+			(at 250.19 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46405,7 +47100,103 @@
 			)
 		)
 		(property "MFR" "Murata Electronics"
-			(at 99.06 149.86 0)
+			(at 250.19 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM033R71E103KE14D"
+			(at 250.19 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±10% 25V"
+			(at 250.19 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f25b018e-155e-4f19-ac4c-c8b7c0a2652e")
+		)
+		(pin "2"
+			(uuid "b0c3bb43-dc86-4736-b6a5-d9e7bb5820b7")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+					(reference "C111")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 93.98 149.86 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "af33e918-ff8c-4bb3-9134-611fb1c5bd69")
+		(property "Reference" "C104"
+			(at 92.71 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 95.25 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 93.98 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61C105ME15-01A.pdf"
+			(at 93.98 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 93.98 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 93.98 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46414,7 +47205,7 @@
 			)
 		)
 		(property "MPN" "GRM033R61C105ME15D"
-			(at 99.06 149.86 0)
+			(at 93.98 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46423,7 +47214,7 @@
 			)
 		)
 		(property "Tolerance" "±20% 16V"
-			(at 99.06 149.86 0)
+			(at 93.98 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46543,6 +47334,102 @@
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
 					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 88.9 149.86 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b04bdeef-3010-4af2-a932-b20c939729d2")
+		(property "Reference" "C105"
+			(at 87.63 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 90.17 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 88.9 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61C105ME15-01A.pdf"
+			(at 88.9 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 88.9 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM033R61C105ME15D"
+			(at 88.9 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±20% 16V"
+			(at 88.9 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4ae86287-954f-4598-8ea5-8722e72d139e")
+		)
+		(pin "2"
+			(uuid "4b103029-f28b-4830-bc20-517126ac48cf")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+					(reference "C105")
 					(unit 1)
 				)
 			)
@@ -47570,6 +48457,102 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 245.11 88.9 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b94a8bed-bc73-4c19-9324-ad21319a3de6")
+		(property "Reference" "C109"
+			(at 243.84 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1n"
+			(at 246.38 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 245.11 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/k35e.ashx?la=en-us&cvid=20200508021757000000"
+			(at 245.11 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 245.11 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Murata Electronics"
+			(at 245.11 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM033R71E102KA03D"
+			(at 245.11 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±10% 25V "
+			(at 245.11 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7185399c-1f06-4dbf-8828-6d70ecd2424a")
+		)
+		(pin "2"
+			(uuid "beaa0362-5f60-48c9-b3b7-06ce68618bc6")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+					(reference "C109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 134.62 149.86 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -47927,7 +48910,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 119.38 149.86 180)
+		(at 114.3 149.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -47935,7 +48918,7 @@
 		(dnp no)
 		(uuid "be155bff-bb45-4e06-9c93-e6b5fdf539c4")
 		(property "Reference" "C75"
-			(at 118.11 151.13 90)
+			(at 113.03 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47944,7 +48927,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 120.65 151.13 90)
+			(at 115.57 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47953,7 +48936,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 119.38 149.86 0)
+			(at 114.3 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47962,7 +48945,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61C105ME15-01A.pdf"
-			(at 119.38 149.86 0)
+			(at 114.3 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47971,7 +48954,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 119.38 149.86 0)
+			(at 114.3 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47980,7 +48963,7 @@
 			)
 		)
 		(property "MFR" "Murata Electronics"
-			(at 119.38 149.86 0)
+			(at 114.3 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47989,7 +48972,7 @@
 			)
 		)
 		(property "MPN" "GRM033R61C105ME15D"
-			(at 119.38 149.86 0)
+			(at 114.3 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47998,7 +48981,7 @@
 			)
 		)
 		(property "Tolerance" "±20% 16V"
-			(at 119.38 149.86 0)
+			(at 114.3 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48405,7 +49388,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 114.3 149.86 180)
+		(at 109.22 149.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -48413,7 +49396,7 @@
 		(dnp no)
 		(uuid "c3e4fae6-b588-450f-99c2-0bcd6aa55a75")
 		(property "Reference" "C76"
-			(at 113.03 151.13 90)
+			(at 107.95 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48422,7 +49405,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 115.57 151.13 90)
+			(at 110.49 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48431,7 +49414,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 114.3 149.86 0)
+			(at 109.22 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48440,7 +49423,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61C105ME15-01A.pdf"
-			(at 114.3 149.86 0)
+			(at 109.22 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48449,7 +49432,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 149.86 0)
+			(at 109.22 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48458,7 +49441,7 @@
 			)
 		)
 		(property "MFR" "Murata Electronics"
-			(at 114.3 149.86 0)
+			(at 109.22 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48467,7 +49450,7 @@
 			)
 		)
 		(property "MPN" "GRM033R61C105ME15D"
-			(at 114.3 149.86 0)
+			(at 109.22 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48476,7 +49459,7 @@
 			)
 		)
 		(property "Tolerance" "±20% 16V"
-			(at 114.3 149.86 0)
+			(at 109.22 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50414,6 +51397,71 @@
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
 					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+2V5")
+		(at 247.65 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d415b564-0ad9-4ec9-9ffe-657db1bd423d")
+		(property "Reference" "#PWR0172"
+			(at 247.65 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+2V5"
+			(at 247.65 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 247.65 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 247.65 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+2V5\""
+			(at 247.65 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6b9e92d3-e4be-4563-befb-4186236634b5")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+					(reference "#PWR0172")
 					(unit 1)
 				)
 			)
