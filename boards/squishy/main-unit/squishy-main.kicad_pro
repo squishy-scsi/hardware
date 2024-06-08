@@ -38,7 +38,7 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.6,
+          "height": 0.8,
           "width": 0.9
         },
         "silk_line_width": 0.15,
@@ -78,7 +78,8 @@
         "clearance|134984639|92774999|55e82f6e-f3c4-4cfd-8f18-eb7bf70bf057|ca43d62d-d672-4767-8faa-13a34391dfb0",
         "clearance|140700000|97824999|1fdbb4f8-82a2-4867-9b3a-d5e0c3ebfbde|b8cd7b9c-e6f0-4de4-9ad4-f5088d78102b",
         "clearance|140700000|98312499|d54dc0bc-af12-49cc-a104-dec0f003e06d|b8cd7b9c-e6f0-4de4-9ad4-f5088d78102b",
-        "courtyards_overlap|130050001|85065982|49fe23f6-a7fb-4b82-b857-19ef293c6127|7633ab07-9aad-4f85-ab5e-e31ce16b0d3a"
+        "courtyards_overlap|130050001|85065982|49fe23f6-a7fb-4b82-b857-19ef293c6127|7633ab07-9aad-4f85-ab5e-e31ce16b0d3a",
+        "unconnected_items|122045172|92150000|34854496-9272-4939-89e3-e2ac45f5c76c|34854496-9272-4939-89e3-e2ac45f5c76c"
       ],
       "meta": {
         "version": 2
@@ -587,7 +588,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.127,
+        "clearance": 0.25,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -597,9 +598,9 @@
         "name": "SCSI",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(38, 163, 217)",
-        "track_width": 0.25,
-        "via_diameter": 0.6,
-        "via_drill": 0.3,
+        "track_width": 0.17,
+        "via_diameter": 0.4,
+        "via_drill": 0.2,
         "wire_width": 6
       },
       {
@@ -665,7 +666,7 @@
       },
       {
         "netclass": "SCSI",
-        "pattern": "/SCSI_PHY.*"
+        "pattern": "/PHY.*"
       },
       {
         "netclass": "ULPI",

@@ -55,17 +55,20 @@
 )
 
 (rule "scsi-phy-skew-in2"
+	# Due to how the trace matching works with these rules on a selected layer
+	# we must use *only* the In2.Cu length of 24.6448mm and not the full routed 
+	# length of 26.8606mm, because it seemingly only takes into account that.
 	(layer "In2.Cu")
 	(condition "A.NetClass == 'SCSI'")
-	(constraint length (min 30mm) (max 31mm))
-	(constraint skew (opt 0.5mm))
+	(constraint length (min 24.6446mm) (max 24.6448mm))
+	(constraint skew (max 0mm))
 )
 
 (rule "scsi-phy-skew-fcu"
 	(layer "F.Cu")
 	(condition "A.NetClass == 'SCSI'")
-	(constraint length (min 24mm) (max 25mm))
-	(constraint skew (opt 0.5mm))
+	(constraint length (min 21.6605mm) (max 21.6606mm))
+	(constraint skew (max 0mm))
 )
 
 (rule "hyperram-odd-skew"
