@@ -79,6 +79,6 @@
 
 (rule "hyperram-even-skew"
 	(condition "A.NetClass == 'HyperRAM' && (A.NetName == '/RAM.DQE*' || A.NetName == '/RAM.CLK0*' || A.NetName == '/RAM.~{CS0}' || A.NetName == '/RAM.~{CS2}')")
-	(constraint length (min 23.7mm) (opt 24.7mm) (max 25.3mm))
+	(constraint length (min 32.7mm) (opt 33.7mm) (max 34.3mm))
 	(constraint skew (opt 1.0mm))
 )
