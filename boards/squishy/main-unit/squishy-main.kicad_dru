@@ -61,19 +61,19 @@
 	(layer "In2.Cu")
 	(condition "A.NetClass == 'SCSI'")
 	(constraint length (min 24.6446mm) (max 24.6448mm))
-	(constraint skew (max 0mm))
+	(constraint skew (max 0.01mm))
 )
 
 (rule "scsi-phy-skew-fcu"
 	(layer "F.Cu")
 	(condition "A.NetClass == 'SCSI'")
 	(constraint length (min 21.6605mm) (max 21.6606mm))
-	(constraint skew (max 0mm))
+	(constraint skew (max 0.01mm))
 )
 
 (rule "hyperram-odd-skew"
 	(condition "A.NetClass == 'HyperRAM' && (A.NetName == '/RAM.DQO*' || A.NetName == '/RAM.CLK1*' || A.NetName == '/RAM.~{CS1}' || A.NetName == '/RAM.~{CS3}')")
-	(constraint length (min 23mm) (opt 24mm) (max 24.6mm))
+	(constraint length (min 32mm) (opt 33mm) (max 33.6mm))
 	(constraint skew (opt 1.0mm))
 )
 
