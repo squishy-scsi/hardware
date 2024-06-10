@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.8,
-          "width": 0.9
+          "height": 0.5,
+          "width": 0.6
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -666,7 +666,7 @@
       },
       {
         "netclass": "SCSI",
-        "pattern": "/PHY.*"
+        "pattern": "/PHY.DB*"
       },
       {
         "netclass": "ULPI",
@@ -687,6 +687,14 @@
       {
         "netclass": "Analog",
         "pattern": "/*/PHY_*_SENSE"
+      },
+      {
+        "netclass": "SCSI",
+        "pattern": "/PHY.DP*"
+      },
+      {
+        "netclass": "SCSI",
+        "pattern": "/PHY.(REQ|ATN|BSY|ACK|MSG|SEL|RST|I{slash}O|C{slash}D)"
       }
     ]
   },
