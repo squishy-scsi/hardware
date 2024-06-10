@@ -54,22 +54,21 @@
 	(constraint skew (opt 0.5mm))
 )
 
-(rule "scsi-phy-skew-in2"
-	# Due to how the trace matching works with these rules on a selected layer
-	# we must use *only* the In2.Cu length of 24.6448mm and not the full routed 
-	# length of 26.8606mm, because it seemingly only takes into account that.
-	(layer "In2.Cu")
-	(condition "A.NetClass == 'SCSI'")
-	(constraint length (min 24.6446mm) (max 24.6448mm))
+### SCSI PHY ###
+
+(rule "scsi-phy-back"
+	(condition "A.NetClass == 'SCSI' && (A.NetName == '/PHY.DB12' || A.NetName == '/PHY.DB14' || A.NetName == '/PHY.DP1' || A.NetName == '/PHY.DB1' || A.NetName == '/PHY.DB3' || A.NetName == '/PHY.DB5' || A.NetName == '/PHY.DB7' || A.NetName == '/PHY.BSY' || A.NetName == '/PHY.SEL' || A.NetName == '/PHY.RST' || A.NetName == '/PHY.REQ' || A.NetName == '/PHY.DB8' || A.NetName == '/PHY.DB10')")
+	(constraint length (min 24.6446mm) (max 24.6449mm))
 	(constraint skew (max 0.01mm))
 )
 
-(rule "scsi-phy-skew-fcu"
-	(layer "F.Cu")
-	(condition "A.NetClass == 'SCSI'")
-	(constraint length (min 21.6605mm) (max 21.6606mm))
+(rule "scsi-phy-front"
+	(condition "A.NetClass == 'SCSI' && (A.NetName == '/PHY.DB13' || A.NetName == '/PHY.DB15' || A.NetName == '/PHY.DB0' || A.NetName == '/PHY.DB2' || A.NetName == '/PHY.DB4' || A.NetName == '/PHY.DB6' || A.NetName == '/PHY.DP0' || A.NetName == '/PHY.ATN' || A.NetName == '/PHY.ACK' || A.NetName == '/PHY.MSG' || A.NetName == '/PHY.C{slash}D' || A.NetName == '/PHY.I{slash}O' || A.NetName == '/PHY.DB9' || A.NetName == '/PHY.DB11')")
+	(constraint length (min 22.4604mm) (max 22.4607mm))
 	(constraint skew (max 0.01mm))
 )
+
+### HyperRAM ###
 
 (rule "hyperram-odd-skew"
 	(condition "A.NetClass == 'HyperRAM' && (A.NetName == '/RAM.DQO*' || A.NetName == '/RAM.CLK1*' || A.NetName == '/RAM.~{CS3}')")
