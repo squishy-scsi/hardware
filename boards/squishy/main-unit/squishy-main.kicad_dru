@@ -72,13 +72,27 @@
 )
 
 (rule "hyperram-odd-skew"
-	(condition "A.NetClass == 'HyperRAM' && (A.NetName == '/RAM.DQO*' || A.NetName == '/RAM.CLK1*' || A.NetName == '/RAM.~{CS1}' || A.NetName == '/RAM.~{CS3}')")
+	(condition "A.NetClass == 'HyperRAM' && (A.NetName == '/RAM.DQO*' || A.NetName == '/RAM.CLK1*' || A.NetName == '/RAM.~{CS3}')")
 	(constraint length (min 32mm) (opt 33mm) (max 33.6mm))
 	(constraint skew (opt 1.0mm))
 )
 
 (rule "hyperram-even-skew"
-	(condition "A.NetClass == 'HyperRAM' && (A.NetName == '/RAM.DQE*' || A.NetName == '/RAM.CLK0*' || A.NetName == '/RAM.~{CS0}' || A.NetName == '/RAM.~{CS2}')")
+	(condition "A.NetClass == 'HyperRAM' && (A.NetName == '/RAM.DQE*' || A.NetName == '/RAM.CLK0*' || A.NetName == '/RAM.~{CS2}')")
 	(constraint length (min 32.7mm) (opt 33.7mm) (max 34.3mm))
+	(constraint skew (opt 1.0mm))
+)
+
+# These two rules are for fixing the silly that happens with the pullups on the CS lines
+
+(rule "hyperram-cs0-fix-skew"
+	(condition "A.NetName == '/RAM.~{CS0}'")
+	(constraint length (min 25.3mm) (opt 26.3mm) (max 26.9mm))
+	(constraint skew (opt 1.0mm))
+)
+
+(rule "hyperram-cs1-fix-skew"
+	(condition "A.NetName == '/RAM.~{CS1}'")
+	(constraint length (min 24.6mm) (opt 25.6mm) (max 26.2mm))
 	(constraint skew (opt 1.0mm))
 )
