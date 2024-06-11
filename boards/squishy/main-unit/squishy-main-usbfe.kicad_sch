@@ -21392,7 +21392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R71E103KE14-01.pdf"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-AC_NP0X7RX7S_6.3V-to-2KV_19.pdf"
 			(at 132.08 236.22 0)
 			(effects
 				(font
@@ -21410,7 +21410,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "Murata Electronics"
+		(property "MFR" "Yageo"
 			(at 132.08 236.22 0)
 			(effects
 				(font
@@ -21419,7 +21419,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRM033R71E103KE14D"
+		(property "MPN" "AC0201KRX7R8BB103"
 			(at 132.08 236.22 0)
 			(effects
 				(font
@@ -21437,7 +21437,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-14454-6-ND"
+		(property "OC_DIGIKEY" "13-AC0201KRX7R8BB103DKR-ND"
 			(at 132.08 236.22 0)
 			(effects
 				(font
@@ -21446,7 +21446,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/fdjwpd7z"
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/4b93tdmb"
 			(at 132.08 236.22 0)
 			(effects
 				(font
@@ -23989,7 +23989,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "±10% 25V"
+		(property "Tolerance" "±20% 25V"
 			(at 19.05 166.37 0)
 			(effects
 				(font
@@ -24511,7 +24511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R71E103KE14-01.pdf"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-AC_NP0X7RX7S_6.3V-to-2KV_19.pdf"
 			(at 121.92 236.22 0)
 			(effects
 				(font
@@ -24529,7 +24529,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "Murata Electronics"
+		(property "MFR" "Yageo"
 			(at 121.92 236.22 0)
 			(effects
 				(font
@@ -24538,7 +24538,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRM033R71E103KE14D"
+		(property "MPN" "AC0201KRX7R8BB103"
 			(at 121.92 236.22 0)
 			(effects
 				(font
@@ -24556,7 +24556,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-14454-6-ND"
+		(property "OC_DIGIKEY" "13-AC0201KRX7R8BB103DKR-ND"
 			(at 121.92 236.22 0)
 			(effects
 				(font
@@ -24565,7 +24565,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/fdjwpd7z"
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/4b93tdmb"
 			(at 121.92 236.22 0)
 			(effects
 				(font
@@ -25141,7 +25141,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://abracon.com/datasheets/AK3A.pdf"
+		(property "Datasheet" "https://abracon.com/datasheets/AK2.pdf"
 			(at 120.65 264.16 0)
 			(effects
 				(font
@@ -25168,7 +25168,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AK2ADDF1-200.000T"
+		(property "MPN" "AK2DAF1-200.0000"
 			(at 118.11 264.16 0)
 			(effects
 				(font
@@ -25186,7 +25186,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "535-AK2ADDF1-200.000TDKR-ND"
+		(property "OC_DIGIKEY" "535-AK2DAF1-200.0000-ND"
 			(at 118.11 264.16 0)
 			(effects
 				(font
@@ -25195,7 +25195,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/5pdrhp83"
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/87hbtqtr"
 			(at 118.11 264.16 0)
 			(effects
 				(font
@@ -27383,7 +27383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "±10% 25V"
+		(property "Tolerance" "±20% 25V"
 			(at 26.67 166.37 0)
 			(effects
 				(font
@@ -27880,7 +27880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033Z71C104KE14-01A.pdf"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033Z71C104ME14-01.pdf"
 			(at 116.84 236.22 0)
 			(effects
 				(font
@@ -27907,7 +27907,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRM033Z71C104KE14J"
+		(property "MPN" "GRM033Z71C104ME14D"
 			(at 116.84 236.22 0)
 			(effects
 				(font
@@ -27925,7 +27925,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104KE14JDKR-ND"
+		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
 			(at 116.84 236.22 0)
 			(effects
 				(font
@@ -27934,7 +27934,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/qhf9v83j"
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
 			(at 116.84 236.22 0)
 			(effects
 				(font
@@ -29518,7 +29518,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
+		(property "OC_DIGIKEY" "C168700"
 			(at 34.29 54.61 0)
 			(effects
 				(font
@@ -29527,7 +29527,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" ""
+		(property "URL_DIGIKEY" "https://www.lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-918-418K2022C40000_C168700.html"
 			(at 34.29 54.61 0)
 			(effects
 				(font
@@ -29733,7 +29733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033Z71C104KE14-01A.pdf"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033Z71C104ME14-01.pdf"
 			(at 127 236.22 0)
 			(effects
 				(font
@@ -29760,7 +29760,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRM033Z71C104KE14J"
+		(property "MPN" "GRM033Z71C104ME14D"
 			(at 127 236.22 0)
 			(effects
 				(font
@@ -29778,7 +29778,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104KE14JDKR-ND"
+		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
 			(at 127 236.22 0)
 			(effects
 				(font
@@ -29787,7 +29787,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/qhf9v83j"
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
 			(at 127 236.22 0)
 			(effects
 				(font

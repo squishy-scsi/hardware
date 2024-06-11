@@ -30648,7 +30648,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
+		(property "OC_DIGIKEY" "OSK40603C1E"
 			(at 118.11 40.64 0)
 			(effects
 				(font
@@ -30657,7 +30657,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" ""
+		(property "URL_DIGIKEY" "https://www.tme.com/ux/en-us/details/osk40603c1e/smd-colour-leds/optosupply/"
 			(at 118.11 40.64 0)
 			(effects
 				(font
@@ -38788,7 +38788,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
+		(property "OC_DIGIKEY" "OSK40603C1E"
 			(at 128.27 40.64 0)
 			(effects
 				(font
@@ -38797,7 +38797,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" ""
+		(property "URL_DIGIKEY" "https://www.tme.com/ux/en-us/details/osk40603c1e/smd-colour-leds/optosupply/"
 			(at 128.27 40.64 0)
 			(effects
 				(font
@@ -42670,7 +42670,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
+		(property "OC_DIGIKEY" "18-SP3205-01ETGCT-ND"
 			(at 69.85 30.48 0)
 			(effects
 				(font
@@ -49756,7 +49756,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
+		(property "OC_DIGIKEY" "609-5457-1-ND"
 			(at 367.03 158.75 0)
 			(effects
 				(font
