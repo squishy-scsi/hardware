@@ -28239,6 +28239,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-10700-6-ND"
+			(at 64.77 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+			(at 64.77 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fce741ed-6b96-4d94-a87e-56e5489e482b")
 		)
@@ -28331,6 +28349,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 125.73 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 125.73 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 125.73 257.81 0)
 			(effects
 				(font
@@ -28461,6 +28497,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 293.37 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 293.37 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "83a137b5-2de0-4dea-8dbe-1795bbde601f")
 		)
@@ -28557,6 +28611,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "399-A768EB476M1VLAS042DKR-ND"
+			(at 31.75 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/jcnvh285"
+			(at 31.75 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f769f8f5-af2e-4675-bdc6-5292f37a8dbc")
 		)
@@ -28643,6 +28715,24 @@
 			)
 		)
 		(property "Tolerance" "±20% 50V"
+			(at 233.68 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "399-C0603C104M5RAC7867DKR-ND"
+			(at 233.68 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqzrr4b"
 			(at 233.68 129.54 0)
 			(effects
 				(font
@@ -28746,6 +28836,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 260.35 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 260.35 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bd81d369-64f7-42ba-8442-044e40ed2fa0")
 		)
@@ -28834,6 +28942,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 287.02 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 287.02 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 287.02 269.24 0)
 			(effects
 				(font
@@ -28947,6 +29073,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 241.3 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 241.3 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "42d8ac5c-76af-489e-bec4-5cd8ff841c39")
 		)
@@ -29037,6 +29181,24 @@
 			)
 		)
 		(property "Tolerance" "±1% 1/5W"
+			(at 93.98 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 93.98 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 93.98 204.47 0)
 			(effects
 				(font
@@ -29219,6 +29381,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "1727-NX6008NBKRDKR-ND"
+			(at 229.87 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/mr1bfdt4"
+			(at 229.87 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7698e14e-62ba-4885-9ce3-3f70f4b5a37a")
 		)
@@ -29310,6 +29490,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 16V"
+			(at 71.12 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 71.12 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 71.12 119.38 0)
 			(effects
 				(font
@@ -29414,6 +29612,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-10700-6-ND"
+			(at 53.34 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+			(at 53.34 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ffe3b0af-fb9e-48d4-a457-c1196c78bf6c")
 		)
@@ -29506,6 +29722,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 170.18 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "732-4980-6-ND"
+			(at 170.18 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/h8jf77w9"
 			(at 170.18 251.46 0)
 			(effects
 				(font
@@ -29615,6 +29849,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-GRM188R61E225KA12JDKR-ND"
+			(at 83.82 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/wbpjqfr3"
+			(at 83.82 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "238d1736-bf46-4bcf-9f75-b896af4b333d")
 		)
@@ -29702,6 +29954,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 227.33 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 227.33 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 227.33 243.84 0)
 			(effects
 				(font
@@ -29824,6 +30094,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "1727-1237-6-ND"
+			(at 254 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/h3bf51b3"
+			(at 254 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c1dc18e9-87b6-4fa9-8020-88fc3e309fd9")
 		)
@@ -29932,6 +30220,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 53.34 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 53.34 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c5615a8c-5fe8-4acd-a231-5a3d4a9d5022")
 		)
@@ -30019,6 +30325,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 396.24 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 396.24 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 396.24 132.08 0)
 			(effects
 				(font
@@ -30126,6 +30450,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 25.4 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 25.4 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "02fde915-c1d1-4ba6-a9eb-0b144af4aae1")
 		)
@@ -30222,6 +30564,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 36.83 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 36.83 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "83b0392a-7474-46f8-b9d8-77dc93a142a1")
 		)
@@ -30307,6 +30667,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 25V"
+			(at 35.56 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 35.56 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 35.56 119.38 0)
 			(effects
 				(font
@@ -30411,6 +30789,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 347.98 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 347.98 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "squishy"
 				(path "/66946989-0eb4-469a-822e-5001e4c71e1d/135fa4cc-bf68-4ed2-9d1e-cefa9ceb3983"
@@ -30507,6 +30903,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 127 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 127 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "70b83880-7903-4f9b-9cef-d3d6a4f4b803")
 		)
@@ -30595,6 +31009,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 50V"
+			(at 185.42 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-10700-6-ND"
+			(at 185.42 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
 			(at 185.42 168.91 0)
 			(effects
 				(font
@@ -30705,6 +31137,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "732-78279220601DKR-ND"
+			(at 217.17 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/4bqj3fwq"
+			(at 217.17 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "172fee53-307f-489a-b700-670fa2721983")
 		)
@@ -30793,6 +31243,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 73.66 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 73.66 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 73.66 36.83 0)
 			(effects
 				(font
@@ -30892,6 +31360,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-10476-6-ND"
+			(at 294.64 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/tvmht5nm"
+			(at 294.64 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e669bb81-3b6f-4ab2-9f2f-63ed89c44a07")
 		)
@@ -30980,6 +31466,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 16V"
+			(at 55.88 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 55.88 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 55.88 119.38 0)
 			(effects
 				(font
@@ -31149,6 +31653,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 96.52 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 96.52 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b4b94b27-1095-4060-bc96-a1f08b916a52")
 		)
@@ -31236,6 +31758,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 76.2 52.07 0)
 			(effects
 				(font
@@ -31359,6 +31899,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 280.67 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "DMN65D8L-7DIDKR-ND"
+			(at 280.67 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2ttj58b0"
 			(at 280.67 40.64 0)
 			(effects
 				(font
@@ -31732,6 +32290,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 45.72 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 45.72 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8595fd14-4109-42b5-9404-6ff08763bf11")
 		)
@@ -31897,6 +32473,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "587-2400-6-ND"
+			(at 193.04 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+			(at 193.04 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e5ed3629-9fb1-483e-9e2f-fad11d28c577")
 		)
@@ -31999,6 +32593,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 363.22 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 363.22 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "squishy"
 				(path "/66946989-0eb4-469a-822e-5001e4c71e1d/135fa4cc-bf68-4ed2-9d1e-cefa9ceb3983"
@@ -32087,6 +32699,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 50V"
+			(at 64.77 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-10700-6-ND"
+			(at 64.77 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
 			(at 64.77 254 0)
 			(effects
 				(font
@@ -32262,6 +32892,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-7995-6-ND"
+			(at 140.97 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/jj38r9nt"
+			(at 140.97 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8e1db840-7b98-4c91-9628-ac930c6601d5")
 		)
@@ -32350,6 +32998,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 50V"
+			(at 96.52 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-GCM155R71H821KA37DDKR-ND"
+			(at 96.52 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/95h5bp4f"
 			(at 96.52 215.9 0)
 			(effects
 				(font
@@ -32454,6 +33120,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "732-78279220601DKR-ND"
+			(at 139.7 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/4bqj3fwq"
+			(at 139.7 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3563cf47-3035-4484-9f49-b034e163ee80")
 		)
@@ -32542,6 +33226,24 @@
 			)
 		)
 		(property "Tolerance" "±20% 16V"
+			(at 139.7 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-18654-6-ND"
+			(at 139.7 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "490-18654-6-ND"
 			(at 139.7 148.59 0)
 			(effects
 				(font
@@ -32645,6 +33347,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 274.32 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 274.32 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b2a66373-2b7b-4a06-8095-0ec542a4ff82")
 		)
@@ -32739,6 +33459,24 @@
 			)
 		)
 		(property "Tolerance" "±20% 10V"
+			(at 81.28 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-GRM155R61A475MEAAJDKR-ND"
+			(at 81.28 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/55djtqz8"
 			(at 81.28 148.59 0)
 			(effects
 				(font
@@ -32906,6 +33644,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "541-1348-6-ND"
+			(at 289.56 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/n53j9fdw"
+			(at 289.56 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "46ac8ec1-f2dd-43e0-90fa-58937c58080e")
 		)
@@ -33002,6 +33758,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 66.04 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 66.04 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4104d5bf-9192-4a7e-9241-3eca23eb0a68")
 		)
@@ -33089,6 +33863,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 190.5 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 190.5 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 190.5 120.65 0)
 			(effects
 				(font
@@ -33417,6 +34209,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 386.08 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 386.08 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "64031cc5-7fb8-4784-966e-3f90e00e2b21")
 		)
@@ -33508,6 +34318,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 50V"
+			(at 53.34 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-10700-6-ND"
+			(at 53.34 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
 			(at 53.34 269.24 0)
 			(effects
 				(font
@@ -33609,6 +34437,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 170.18 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 170.18 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 170.18 243.84 0)
 			(effects
 				(font
@@ -33860,6 +34706,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 82.55 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 82.55 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6bcd5604-610c-49fa-abdd-a98344c7eb9a")
 		)
@@ -33975,6 +34839,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "1727-NX6008NBKRDKR-ND"
+			(at 210.82 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/mr1bfdt4"
+			(at 210.82 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8316b7cc-772f-4f58-9960-f660d52366b0")
 		)
@@ -34065,6 +34947,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 52.07 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 52.07 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 52.07 53.34 0)
 			(effects
 				(font
@@ -34187,6 +35087,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 52.07 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 52.07 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0f0e974a-567b-4031-bcd1-ec684be7116f")
 		)
@@ -34271,6 +35189,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 208.28 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 208.28 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 208.28 243.84 0)
 			(effects
 				(font
@@ -34393,6 +35329,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 30.48 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 30.48 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f0760ad4-ad62-4609-b33c-75a717c9e66f")
 		)
@@ -34479,6 +35433,24 @@
 			)
 		)
 		(property "Tolerance" "±20% 50V"
+			(at 125.73 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "399-C0603C104M5RAC7867DKR-ND"
+			(at 125.73 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqzrr4b"
 			(at 125.73 265.43 0)
 			(effects
 				(font
@@ -34645,6 +35617,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 180.34 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 180.34 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 180.34 257.81 0)
 			(effects
 				(font
@@ -34832,6 +35822,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 289.56 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 289.56 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "60af68df-7fe4-4b09-9fee-53c012c9a9e8")
 		)
@@ -34996,6 +36004,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 121.92 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 121.92 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a0e7c344-fd14-46f7-b2dd-4ee6d537f508")
 		)
@@ -35083,6 +36109,24 @@
 			)
 		)
 		(property "Tolerance" "±1% 1/10W"
+			(at 208.28 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 208.28 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 208.28 205.74 0)
 			(effects
 				(font
@@ -35322,6 +36366,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-18214-6-ND"
+			(at 265.43 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/82qptfvd"
+			(at 265.43 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "af53f974-7b36-4555-ab4c-69a32e051759")
 		)
@@ -35410,6 +36472,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 50V"
+			(at 233.68 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-10700-6-ND"
+			(at 233.68 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
 			(at 233.68 168.91 0)
 			(effects
 				(font
@@ -35510,6 +36590,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 50V"
+			(at 129.54 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 129.54 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 129.54 190.5 0)
 			(effects
 				(font
@@ -35678,6 +36776,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 227.33 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 227.33 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "21de115f-4d05-4a5e-8061-996ff1116a66")
 		)
@@ -35787,6 +36903,24 @@
 			)
 		)
 		(property "Tolerance" "±20% 50V"
+			(at 58.42 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "399-C0603C104M5RAC7867DKR-ND"
+			(at 58.42 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqzrr4b"
 			(at 58.42 217.17 0)
 			(effects
 				(font
@@ -35955,6 +37089,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 142.24 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 142.24 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7aa9824b-5620-4de6-964a-e20eaf9e57f2")
 		)
@@ -36048,6 +37200,24 @@
 			)
 		)
 		(property "Tolerance" "±1% 1/10W"
+			(at 113.03 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 113.03 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 113.03 204.47 0)
 			(effects
 				(font
@@ -36292,6 +37462,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "MM3Z24VST1GOSDKR-ND"
+			(at 226.06 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/vc98q111"
+			(at 226.06 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1652f749-1982-4d0e-8fe4-f05fb5f6ac43")
 		)
@@ -36380,6 +37568,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 358.14 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 358.14 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 358.14 140.97 0)
 			(effects
 				(font
@@ -36482,6 +37688,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "587-2400-6-ND"
+			(at 222.25 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+			(at 222.25 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "063b7381-f5a7-4a36-bc36-047683ee0510")
 		)
@@ -36575,6 +37799,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 55.88 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 55.88 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 55.88 45.72 0)
 			(effects
 				(font
@@ -36762,6 +38004,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "399-C1812C225K1RAC7800DKR-ND"
+			(at 105.41 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/0jmv72mj"
+			(at 105.41 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "02c34ad1-871c-4e98-a0e9-4f8efa64a2e6")
 		)
@@ -36850,6 +38110,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 50V"
+			(at 55.88 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-10700-6-ND"
+			(at 55.88 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
 			(at 55.88 194.31 0)
 			(effects
 				(font
@@ -37018,6 +38296,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 199.39 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 199.39 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5c2ebf58-c5fd-4c2f-8386-c935d8ab68dd")
 		)
@@ -37131,6 +38427,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 289.56 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 289.56 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca5e45b5-ae80-4898-b661-05eeed69beab")
 		)
@@ -37219,6 +38533,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 118.11 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 118.11 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/4450q99v"
 			(at 118.11 184.15 0)
 			(effects
 				(font
@@ -37387,6 +38719,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "1727-1237-6-ND"
+			(at 241.3 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/h3bf51b3"
+			(at 241.3 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "22cfe19a-76a3-46d7-b5fd-fcf4d5621e90")
 		)
@@ -37487,6 +38837,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 50V"
+			(at 281.94 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-10700-6-ND"
+			(at 281.94 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
 			(at 281.94 231.14 0)
 			(effects
 				(font
@@ -37653,6 +39021,24 @@
 			)
 		)
 		(property "Tolerance" " ±10% 50V"
+			(at 162.56 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "587-2400-6-ND"
+			(at 162.56 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
 			(at 162.56 168.91 0)
 			(effects
 				(font
@@ -37828,6 +39214,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-10700-6-ND"
+			(at 273.05 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+			(at 273.05 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "30cc4999-e6b1-4573-b97e-faa5e31a3ba6")
 		)
@@ -37988,6 +39392,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 256.54 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 256.54 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ac3c0cdb-c08d-4170-9899-90b70353db9d")
 		)
@@ -38084,6 +39506,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-7995-6-ND"
+			(at 132.08 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/jj38r9nt"
+			(at 132.08 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eedae537-7906-4de2-b2f3-27d269fa8210")
 		)
@@ -38171,6 +39611,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 401.32 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 401.32 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 401.32 132.08 0)
 			(effects
 				(font
@@ -38278,6 +39736,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-10700-6-ND"
+			(at 95.25 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+			(at 95.25 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bba36162-d761-4d6c-972c-6e05e6bf2031")
 		)
@@ -38372,6 +39848,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 297.18 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 297.18 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 297.18 120.65 0)
 			(effects
 				(font
@@ -38534,6 +40028,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 256.54 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 256.54 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 256.54 67.31 0)
 			(effects
 				(font
@@ -38705,6 +40217,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 63.5 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 63.5 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d476649e-d77e-49cb-a377-a3b17544db72")
 		)
@@ -38799,6 +40329,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 193.04 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 193.04 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 193.04 177.8 0)
 			(effects
 				(font
@@ -38906,6 +40454,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-10700-6-ND"
+			(at 22.86 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+			(at 22.86 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "45d9485e-dd58-46c8-b168-3afc8ab897b9")
 		)
@@ -39000,6 +40566,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 16V"
+			(at 58.42 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 58.42 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 58.42 148.59 0)
 			(effects
 				(font
@@ -39161,6 +40745,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 267.97 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 267.97 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 267.97 54.61 0)
 			(effects
 				(font
@@ -39421,6 +41023,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 20.32 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 20.32 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "55da609d-82ba-451c-ae0e-484382add121")
 		)
@@ -39597,6 +41217,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 237.49 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 237.49 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 237.49 257.81 0)
 			(effects
 				(font
@@ -39788,6 +41426,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "732-4980-6-ND"
+			(at 161.29 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/h8jf77w9"
+			(at 161.29 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "abc937c8-3926-4799-8796-3af353b1622a")
 		)
@@ -39880,6 +41536,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 175.26 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 175.26 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 175.26 162.56 0)
 			(effects
 				(font
@@ -40076,6 +41750,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 49.53 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 49.53 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "10d4966c-9424-4732-b9f8-e3281b2162e0")
 		)
@@ -40229,6 +41921,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 393.7 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 393.7 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
@@ -40311,6 +42021,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 16V"
+			(at 48.26 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 48.26 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 48.26 148.59 0)
 			(effects
 				(font
@@ -40620,6 +42348,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "587-2400-6-ND"
+			(at 210.82 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+			(at 210.82 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "672275f5-5823-4617-9870-0174bc885b61")
 		)
@@ -40720,6 +42466,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 238.76 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 238.76 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e45ca7af-0af8-430b-a752-f91043ee9807")
 		)
@@ -40804,6 +42568,24 @@
 			)
 		)
 		(property "Tolerance" "63VDC"
+			(at 173.99 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "507-1888-6-ND"
+			(at 173.99 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/h5whm885"
 			(at 173.99 123.19 0)
 			(effects
 				(font
@@ -40898,6 +42680,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 208.28 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "732-4980-6-ND"
+			(at 208.28 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/h8jf77w9"
 			(at 208.28 251.46 0)
 			(effects
 				(font
@@ -41207,6 +43007,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "587-2400-6-ND"
+			(at 143.51 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+			(at 143.51 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "57309b33-9612-48e6-bce6-169ca836a970")
 		)
@@ -41295,6 +43113,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 290.83 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 290.83 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 290.83 220.98 0)
 			(effects
 				(font
@@ -41393,6 +43229,24 @@
 			)
 		)
 		(property "Tolerance" "±1% 1/16W"
+			(at 63.5 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 63.5 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 63.5 194.31 0)
 			(effects
 				(font
@@ -41503,6 +43357,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 353.06 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 353.06 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "squishy"
 				(path "/66946989-0eb4-469a-822e-5001e4c71e1d/135fa4cc-bf68-4ed2-9d1e-cefa9ceb3983"
@@ -41598,6 +43470,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 287.02 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 287.02 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "28774571-54db-4c3f-aaae-74663781f4a6")
 		)
@@ -41684,6 +43574,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 161.29 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "4654-FC68149-ND"
+			(at 161.29 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/mwvtrr07"
 			(at 161.29 125.73 0)
 			(effects
 				(font
@@ -41791,6 +43699,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 125.73 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 125.73 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4074d48-1af3-41a2-b921-9762c0b3d2cb")
 		)
@@ -41879,6 +43805,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 283.21 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 283.21 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 283.21 271.78 0)
 			(effects
 				(font
@@ -42116,6 +44060,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 78.74 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 78.74 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "86fd5d4d-49da-46b8-9ebf-1c3c48ee4fe0")
 		)
@@ -42237,6 +44199,24 @@
 			)
 		)
 		(property "Tolerance" "±20% 16V"
+			(at 27.94 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-18654-6-ND"
+			(at 27.94 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "490-18654-6-ND"
 			(at 27.94 148.59 0)
 			(effects
 				(font
@@ -42411,6 +44391,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 247.65 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 247.65 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "524e282a-1ae0-4144-8040-62316832df2d")
 		)
@@ -42576,6 +44574,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "587-2400-6-ND"
+			(at 167.64 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+			(at 167.64 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d4549a32-a2ac-480e-8dc8-3596f3380bb5")
 		)
@@ -42668,6 +44684,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 25V"
+			(at 213.36 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-18214-6-ND"
+			(at 213.36 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/82qptfvd"
 			(at 213.36 207.01 0)
 			(effects
 				(font
@@ -42770,6 +44804,24 @@
 			)
 		)
 		(property "Tolerance" "±20% 16V"
+			(at 33.02 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-18654-6-ND"
+			(at 33.02 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "490-18654-6-ND"
 			(at 33.02 148.59 0)
 			(effects
 				(font
@@ -42930,6 +44982,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 80.01 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 80.01 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 80.01 52.07 0)
 			(effects
 				(font
@@ -43117,6 +45187,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 240.03 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 240.03 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bd671cdf-95db-4e39-8e3e-52d1cdd65299")
 		)
@@ -43206,6 +45294,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 240.03 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "497-11319-6-ND"
+			(at 240.03 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/pbztd9ff"
 			(at 240.03 121.92 0)
 			(effects
 				(font
@@ -43304,6 +45410,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 85.09 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 85.09 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 85.09 52.07 0)
 			(effects
 				(font
@@ -43425,6 +45549,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 391.16 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 391.16 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7510b636-4c31-4517-ab0a-8e7d4e42de79")
 		)
@@ -43516,6 +45658,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 16V"
+			(at 68.58 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 68.58 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 68.58 148.59 0)
 			(effects
 				(font
@@ -43689,6 +45849,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 226.06 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 226.06 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "74b71ad3-ad9a-40db-a457-5eaffc755c67")
 		)
@@ -43775,6 +45953,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 265.43 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 265.43 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 265.43 270.51 0)
 			(effects
 				(font
@@ -43955,6 +46151,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 223.52 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 223.52 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9fccab39-07bc-4b63-b063-d2f103d6b63f")
 		)
@@ -44062,6 +46276,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 276.86 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 276.86 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 276.86 123.19 0)
 			(effects
 				(font
@@ -44393,6 +46625,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 39.37 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 39.37 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "55da609d-82ba-451c-ae0e-484382add123")
 		)
@@ -44507,6 +46757,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 27.94 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 27.94 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cee6aaaf-1156-46f6-a01c-b33414fb1765")
 		)
@@ -44559,7 +46827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_bergstik_lite_0_80mm.pdf"
+		(property "Datasheet" ""
 			(at 85.09 33.02 0)
 			(effects
 				(font
@@ -44578,6 +46846,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 85.09 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 85.09 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 85.09 33.02 0)
 			(effects
 				(font
@@ -44886,6 +47172,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 353.06 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 353.06 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "squishy"
 				(path "/66946989-0eb4-469a-822e-5001e4c71e1d/135fa4cc-bf68-4ed2-9d1e-cefa9ceb3983"
@@ -44954,6 +47258,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 212.09 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 212.09 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 212.09 137.16 0)
 			(effects
 				(font
@@ -45044,6 +47366,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 25V "
+			(at 101.6 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-7995-6-ND"
+			(at 101.6 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/jj38r9nt"
 			(at 101.6 148.59 0)
 			(effects
 				(font
@@ -45147,6 +47487,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "SRF1260-1R5YDKR-ND"
+			(at 105.41 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/dhv05pj4"
+			(at 105.41 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "52ab8604-6cc3-4a87-80aa-b31928db1bed")
 		)
@@ -45241,6 +47599,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 50V"
+			(at 101.6 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-GCM155R71H123KA55DDKR-ND"
+			(at 101.6 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/qj5rrrnv"
 			(at 101.6 212.09 0)
 			(effects
 				(font
@@ -45481,6 +47857,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 58.42 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 58.42 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f20342a-24ef-450d-b942-721e3dfb0b43")
 		)
@@ -45573,6 +47967,24 @@
 			)
 		)
 		(property "Tolerance" " ±10% 50V"
+			(at 259.08 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "587-2400-6-ND"
+			(at 259.08 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
 			(at 259.08 231.14 0)
 			(effects
 				(font
@@ -45816,6 +48228,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 273.05 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 273.05 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 273.05 185.42 0)
 			(effects
 				(font
@@ -46148,6 +48578,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 232.41 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 232.41 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b2458e9-8a5c-4055-b9c2-fdc2f426383b")
 		)
@@ -46247,6 +48695,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-18654-6-ND"
+			(at 86.36 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "490-18654-6-ND"
+			(at 86.36 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bba08d8a-d372-40b0-9122-a7bbc2f65e5d")
 		)
@@ -46336,6 +48802,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 191.77 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "1727-NX6008NBKRDKR-ND"
+			(at 191.77 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/mr1bfdt4"
 			(at 191.77 262.89 0)
 			(effects
 				(font
@@ -46443,6 +48927,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 368.3 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 368.3 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "squishy"
 				(path "/66946989-0eb4-469a-822e-5001e4c71e1d/135fa4cc-bf68-4ed2-9d1e-cefa9ceb3983"
@@ -46531,6 +49033,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 297.18 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 297.18 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 297.18 135.89 0)
 			(effects
 				(font
@@ -46687,6 +49207,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 163.83 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 163.83 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 163.83 49.53 0)
 			(effects
 				(font
@@ -46867,6 +49405,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 172.72 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "1727-NX6008NBKRDKR-ND"
+			(at 172.72 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/mr1bfdt4"
 			(at 172.72 262.89 0)
 			(effects
 				(font
@@ -47104,6 +49660,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 135.89 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 135.89 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f25b018e-155e-4f19-ac4c-c8b7c0a2652e")
 		)
@@ -47200,6 +49774,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-18654-6-ND"
+			(at 22.86 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "490-18654-6-ND"
+			(at 22.86 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88091189-1c18-4aa4-9ff8-90e6362836ae")
 		)
@@ -47288,6 +49880,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 50V"
+			(at 22.86 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-10700-6-ND"
+			(at 22.86 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
 			(at 22.86 269.24 0)
 			(effects
 				(font
@@ -47398,6 +50008,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-18654-6-ND"
+			(at 17.78 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "490-18654-6-ND"
+			(at 17.78 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4ae86287-954f-4598-8ea5-8722e72d139e")
 		)
@@ -47484,6 +50112,24 @@
 			)
 		)
 		(property "Tolerance" " ±10% 50V"
+			(at 241.3 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "587-2400-6-ND"
+			(at 241.3 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
 			(at 241.3 168.91 0)
 			(effects
 				(font
@@ -47594,6 +50240,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 144.78 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 144.78 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "50fa2e86-319d-48e9-9573-eb3b6ca0df3b")
 		)
@@ -47683,6 +50347,24 @@
 			)
 		)
 		(property "Tolerance" "±20% 50V"
+			(at 135.89 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "399-C0603C104M5RAC7867DKR-ND"
+			(at 135.89 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqzrr4b"
 			(at 135.89 30.48 0)
 			(effects
 				(font
@@ -47787,6 +50469,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 50.8 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 50.8 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "83971edd-ba3a-41d2-a698-a8ef388907de")
 		)
@@ -47875,6 +50575,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 191.77 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 191.77 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 191.77 158.75 0)
 			(effects
 				(font
@@ -48116,6 +50834,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "732-4980-6-ND"
+			(at 227.33 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/h8jf77w9"
+			(at 227.33 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3f57d63a-3c79-4a53-8885-72685844d389")
 		)
@@ -48218,6 +50954,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "NTMFS5C442NT1GOSDKR-ND"
+			(at 99.06 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/bp3m0j0d"
+			(at 99.06 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5b55df3d-9828-40bb-ac3e-92f4b729bac0")
 		)
@@ -48308,6 +51062,24 @@
 			)
 		)
 		(property "Tolerance" "±1% 1/10W"
+			(at 113.03 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 113.03 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 113.03 217.17 0)
 			(effects
 				(font
@@ -48418,6 +51190,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 373.38 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 373.38 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "squishy"
 				(path "/66946989-0eb4-469a-822e-5001e4c71e1d/135fa4cc-bf68-4ed2-9d1e-cefa9ceb3983"
@@ -48506,6 +51296,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 25V "
+			(at 130.81 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-7995-6-ND"
+			(at 130.81 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/jj38r9nt"
 			(at 130.81 110.49 0)
 			(effects
 				(font
@@ -48610,6 +51418,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 63.5 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 63.5 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "28c97a81-df9c-4cf9-98f0-7036f45a85c5")
 		)
@@ -48696,6 +51522,24 @@
 			)
 		)
 		(property "Tolerance" " ±10% 50V"
+			(at 283.21 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "587-2400-6-ND"
+			(at 283.21 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
 			(at 283.21 262.89 0)
 			(effects
 				(font
@@ -48798,6 +51642,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 16V"
+			(at 73.66 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 73.66 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 73.66 148.59 0)
 			(effects
 				(font
@@ -48967,6 +51829,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-18654-6-ND"
+			(at 43.18 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "490-18654-6-ND"
+			(at 43.18 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b599f16b-0d53-4548-9fc3-5f5f645c5902")
 		)
@@ -49047,6 +51927,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 367.03 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 367.03 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 367.03 260.35 0)
 			(effects
 				(font
@@ -49352,6 +52250,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 306.07 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 306.07 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bccc1f17-3771-490f-95a5-78e0a8a714bb")
 		)
@@ -49437,6 +52353,24 @@
 			)
 		)
 		(property "Tolerance" "±20% 16V"
+			(at 38.1 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-18654-6-ND"
+			(at 38.1 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "490-18654-6-ND"
 			(at 38.1 148.59 0)
 			(effects
 				(font
@@ -49533,6 +52467,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 50V"
+			(at 43.18 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 43.18 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 43.18 194.31 0)
 			(effects
 				(font
@@ -49702,6 +52654,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "535-AOTA-B160808S2R2MTDKR-ND"
+			(at 196.85 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/tnvznwrp"
+			(at 196.85 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4bf48985-6232-4f03-b048-feeed8cfa1a2")
 		)
@@ -49788,6 +52758,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 271.78 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 271.78 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 271.78 224.79 0)
 			(effects
 				(font
@@ -50184,6 +53172,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 161.29 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 161.29 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "67e8972a-32d5-454a-ad57-262db8310b43")
 		)
@@ -50276,6 +53282,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 48.26 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "742-SQJ951EP-T1_BE3DKR-ND"
+			(at 48.26 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/jjp28qvf"
 			(at 48.26 35.56 0)
 			(effects
 				(font
@@ -50391,6 +53415,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 247.65 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 247.65 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e139026c-0f6c-4cc3-afc6-7be4aab097e4")
 		)
@@ -50477,6 +53519,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 85.09 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "742-SQJ951EP-T1_BE3DKR-ND"
+			(at 85.09 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/jjp28qvf"
 			(at 85.09 41.91 0)
 			(effects
 				(font
@@ -50593,6 +53653,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 91.44 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 91.44 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e8472ea4-994c-4e20-b71c-700ae2d089d3")
 		)
@@ -50680,6 +53758,24 @@
 			)
 		)
 		(property "Tolerance" "±1% 1/10W"
+			(at 184.15 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 184.15 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 184.15 55.88 0)
 			(effects
 				(font
@@ -50784,6 +53880,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-10700-6-ND"
+			(at 95.25 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+			(at 95.25 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b9588993-5091-4f4a-b66a-e2b3a762197a")
 		)
@@ -50876,6 +53990,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 181.61 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 181.61 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 181.61 204.47 0)
 			(effects
 				(font
@@ -51048,6 +54180,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 39.37 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 39.37 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 39.37 53.34 0)
 			(effects
 				(font
@@ -51300,6 +54450,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-10700-6-ND"
+			(at 144.78 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+			(at 144.78 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ea7fd75e-332d-42b8-bd09-b09dd441802c")
 		)
@@ -51527,6 +54695,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "1727-PMPB20EN,115DKR-ND"
+			(at 186.69 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/p2jcz71p"
+			(at 186.69 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ba97fdbb-a56f-4428-8fe8-b12ac1f54ffe")
 		)
@@ -51691,6 +54877,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 106.68 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 106.68 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fd1e872f-e8ec-4105-a2db-7190910535b4")
 		)
@@ -51778,6 +54982,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 48.26 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 48.26 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 48.26 45.72 0)
 			(effects
 				(font
@@ -51899,6 +55121,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 106.68 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 106.68 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "04075e91-150a-406b-95fc-26af45d805dd")
 		)
@@ -52001,6 +55241,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 144.78 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 144.78 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cbc19f7a-9be8-4d00-a1b4-38ae3e8f96ea")
 		)
@@ -52087,6 +55345,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 88.9 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 88.9 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 88.9 114.3 0)
 			(effects
 				(font
@@ -53327,6 +56603,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 278.13 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 278.13 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "663be1fb-80f7-4c94-b24b-32f1d3e44f4a")
 		)
@@ -53491,6 +56785,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 182.88 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 182.88 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 182.88 120.65 0)
 			(effects
 				(font
@@ -53684,6 +56996,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 290.83 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 290.83 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9447298a-2d39-4094-8f10-a01b95729bad")
 		)
@@ -53771,6 +57101,24 @@
 			)
 		)
 		(property "Tolerance" "±1% 1/10W"
+			(at 289.56 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 289.56 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 289.56 40.64 0)
 			(effects
 				(font
@@ -53884,6 +57232,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "DMN65D8L-7DIDKR-ND"
+			(at 49.53 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/2ttj58b0"
+			(at 49.53 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7e69ee9d-0fd6-4436-8912-98a84b9485eb")
 		)
@@ -53974,6 +57340,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 80.01 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 80.01 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 80.01 248.92 0)
 			(effects
 				(font
@@ -54150,6 +57534,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "587-2400-6-ND"
+			(at 134.62 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+			(at 134.62 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "28406516-7e26-43ed-b24b-829641afd851")
 		)
@@ -54303,6 +57705,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 25V "
+			(at 116.84 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "490-7995-6-ND"
+			(at 116.84 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/jj38r9nt"
 			(at 116.84 148.59 0)
 			(effects
 				(font
@@ -54470,6 +57890,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "399-17583-6-ND"
+			(at 201.93 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/05tw8nzb"
+			(at 201.93 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cbe0eaed-7ecc-4bc8-879b-95a9afe973f5")
 		)
@@ -54564,6 +58002,24 @@
 			)
 		)
 		(property "Tolerance" "±10% 16V"
+			(at 60.96 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 60.96 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 60.96 119.38 0)
 			(effects
 				(font
@@ -54730,6 +58186,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 38.1 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 38.1 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 38.1 265.43 0)
 			(effects
 				(font
@@ -54975,6 +58449,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 124.46 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 124.46 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "347b696e-cd71-41a1-aa5f-356b51ecc1aa")
 		)
@@ -55062,6 +58554,24 @@
 			)
 		)
 		(property "Tolerance" "±1% 1/2W"
+			(at 238.76 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 238.76 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 238.76 54.61 0)
 			(effects
 				(font
@@ -55222,6 +58732,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 189.23 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 189.23 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 189.23 243.84 0)
 			(effects
 				(font
@@ -55400,6 +58928,24 @@
 			)
 		)
 		(property "Tolerance" "±1% 1/10W"
+			(at 208.28 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 208.28 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 208.28 213.36 0)
 			(effects
 				(font
@@ -55651,6 +59197,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 80.01 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 80.01 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "B3"
 			(uuid "2677314e-b490-4e65-93b4-d0bf14ba88cf")
 		)
@@ -55819,6 +59383,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 111.76 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 111.76 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a241ddeb-00e0-4430-83b3-cf476ebf923d")
 		)
@@ -55906,6 +59488,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 38.1 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 38.1 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 38.1 248.92 0)
 			(effects
 				(font
@@ -56223,6 +59823,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "SMLEN3WBC8W1DKR-ND"
+			(at 142.24 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/c3th3r99"
+			(at 142.24 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9936a714-5388-43b8-b9bc-ec9e053aa184")
 		)
@@ -56325,6 +59943,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" ""
+			(at 40.64 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
+			(at 40.64 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2e3d03a6-3454-47b2-ad55-4258e0061ee0")
 		)
@@ -56413,6 +60049,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 227.33 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 227.33 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 227.33 217.17 0)
 			(effects
 				(font
@@ -56518,6 +60172,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "587-2400-6-ND"
+			(at 289.56 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+			(at 289.56 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "10d6e915-5273-4362-a865-892181874beb")
 		)
@@ -56611,6 +60283,24 @@
 			)
 		)
 		(property "Tolerance" "±5%  1/16W "
+			(at 218.44 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" ""
+			(at 218.44 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" ""
 			(at 218.44 257.81 0)
 			(effects
 				(font
@@ -56733,6 +60423,24 @@
 				(hide yes)
 			)
 		)
+		(property "OC_DIGIKEY" "490-GRM155R61A475MEAAJDKR-ND"
+			(at 20.32 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/55djtqz8"
+			(at 20.32 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca29fa00-032e-44f6-8a68-85ccb2661e8d")
 		)
@@ -56819,6 +60527,24 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 189.23 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_DIGIKEY" "732-4980-6-ND"
+			(at 189.23 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL_DIGIKEY" "https://www.digikey.com/short/h8jf77w9"
 			(at 189.23 251.46 0)
 			(effects
 				(font

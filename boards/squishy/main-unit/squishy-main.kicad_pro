@@ -347,7 +347,11 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "lib_symbol_issues|2400300|660400|d7c3f167-94d9-41e9-8294-dc01395ee960|00000000-0000-0000-0000-000000000000|||",
+      "lib_symbol_issues|812800|254000|7d7f7752-316d-4fbd-912b-a5e931529c9e|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|2578100|2692400|170216b2-a24d-4c0f-ae2b-22775e692f14|00000000-0000-0000-0000-000000000000|/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32|/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32|"
+    ],
     "meta": {
       "version": 0
     },
@@ -880,6 +884,18 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "OC_DIGIKEY",
+          "name": "OC_DIGIKEY",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "URL_DIGIKEY",
+          "name": "URL_DIGIKEY",
+          "show": true
         }
       ],
       "filter_string": "",
