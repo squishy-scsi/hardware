@@ -28239,7 +28239,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-10700-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 64.77 269.24 0)
 			(effects
 				(font
@@ -28248,7 +28248,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+		(property "SUPPLIER_OC" "490-10700-6-ND"
+			(at 64.77 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2889p8h4"
 			(at 64.77 269.24 0)
 			(effects
 				(font
@@ -28357,7 +28366,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "1970-GD25Q64EWIGRDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 125.73 257.81 0)
 			(effects
 				(font
@@ -28366,7 +28375,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/j44d557m"
+		(property "SUPPLIER_OC" "1970-GD25Q64EWIGRDKR-ND"
+			(at 125.73 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/j44d557m"
 			(at 125.73 257.81 0)
 			(effects
 				(font
@@ -28497,7 +28515,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-10.0KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 293.37 35.56 0)
 			(effects
 				(font
@@ -28506,7 +28524,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/478v2810"
+		(property "SUPPLIER_OC" "541-10.0KHDKR-ND"
+			(at 293.37 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/478v2810"
 			(at 293.37 35.56 0)
 			(effects
 				(font
@@ -28611,7 +28638,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "399-A768EB476M1VLAS042DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 31.75 53.34 0)
 			(effects
 				(font
@@ -28620,7 +28647,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/jcnvh285"
+		(property "SUPPLIER_OC" "399-A768EB476M1VLAS042DKR-ND"
+			(at 31.75 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/jcnvh285"
 			(at 31.75 53.34 0)
 			(effects
 				(font
@@ -28723,7 +28759,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "399-C0603C104M5RAC7867DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 233.68 129.54 0)
 			(effects
 				(font
@@ -28732,7 +28768,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqzrr4b"
+		(property "SUPPLIER_OC" "399-C0603C104M5RAC7867DKR-ND"
+			(at 233.68 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8nqzrr4b"
 			(at 233.68 129.54 0)
 			(effects
 				(font
@@ -28836,7 +28881,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-10.0KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 260.35 261.62 0)
 			(effects
 				(font
@@ -28845,7 +28890,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/478v2810"
+		(property "SUPPLIER_OC" "541-10.0KHDKR-ND"
+			(at 260.35 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/478v2810"
 			(at 260.35 261.62 0)
 			(effects
 				(font
@@ -28950,7 +29004,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "C400334"
+		(property "SUPPLIER" "LCSC"
 			(at 287.02 269.24 0)
 			(effects
 				(font
@@ -28959,7 +29013,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.lcsc.com/product-detail/Tactile-Switches_XKB-Connection-TC-1109DE-C-F_C400334.html"
+		(property "SUPPLIER_OC" "C400334"
+			(at 287.02 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.lcsc.com/product-detail/Tactile-Switches_XKB-Connection-TC-1109DE-C-F_C400334.html"
 			(at 287.02 269.24 0)
 			(effects
 				(font
@@ -29073,16 +29136,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 241.3 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 241.3 177.8 0)
 			(effects
 				(font
@@ -29189,7 +29243,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "118-CFN0603-FX-R010ELFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 93.98 204.47 0)
 			(effects
 				(font
@@ -29198,7 +29252,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/4n42tn2t"
+		(property "SUPPLIER_OC" "118-CFN0603-FX-R010ELFDKR-ND"
+			(at 93.98 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/4n42tn2t"
 			(at 93.98 204.47 0)
 			(effects
 				(font
@@ -29381,7 +29444,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "1727-NX6008NBKRDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 229.87 262.89 0)
 			(effects
 				(font
@@ -29390,7 +29453,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/mr1bfdt4"
+		(property "SUPPLIER_OC" "1727-NX6008NBKRDKR-ND"
+			(at 229.87 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/mr1bfdt4"
 			(at 229.87 262.89 0)
 			(effects
 				(font
@@ -29498,7 +29570,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 71.12 119.38 0)
 			(effects
 				(font
@@ -29507,7 +29579,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
+		(property "SUPPLIER_OC" "490-GRM033Z71C104ME14DDKR-ND"
+			(at 71.12 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/drfvd79q"
 			(at 71.12 119.38 0)
 			(effects
 				(font
@@ -29612,7 +29693,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-10700-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 53.34 254 0)
 			(effects
 				(font
@@ -29621,7 +29702,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+		(property "SUPPLIER_OC" "490-10700-6-ND"
+			(at 53.34 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2889p8h4"
 			(at 53.34 254 0)
 			(effects
 				(font
@@ -29730,7 +29820,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "732-4980-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 170.18 251.46 0)
 			(effects
 				(font
@@ -29739,7 +29829,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/h8jf77w9"
+		(property "SUPPLIER_OC" "732-4980-6-ND"
+			(at 170.18 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/h8jf77w9"
 			(at 170.18 251.46 0)
 			(effects
 				(font
@@ -29849,7 +29948,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM188R61E225KA12JDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 83.82 186.69 0)
 			(effects
 				(font
@@ -29858,7 +29957,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/wbpjqfr3"
+		(property "SUPPLIER_OC" "490-GRM188R61E225KA12JDKR-ND"
+			(at 83.82 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/wbpjqfr3"
 			(at 83.82 186.69 0)
 			(effects
 				(font
@@ -29962,7 +30070,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 227.33 243.84 0)
 			(effects
 				(font
@@ -29971,7 +30079,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 227.33 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 227.33 243.84 0)
 			(effects
 				(font
@@ -30094,7 +30211,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "1727-1237-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 254 45.72 0)
 			(effects
 				(font
@@ -30103,7 +30220,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/h3bf51b3"
+		(property "SUPPLIER_OC" "1727-1237-6-ND"
+			(at 254 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/h3bf51b3"
 			(at 254 45.72 0)
 			(effects
 				(font
@@ -30220,7 +30346,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 53.34 148.59 0)
 			(effects
 				(font
@@ -30229,7 +30355,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
+		(property "SUPPLIER_OC" "490-GRM033Z71C104ME14DDKR-ND"
+			(at 53.34 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/drfvd79q"
 			(at 53.34 148.59 0)
 			(effects
 				(font
@@ -30333,16 +30468,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 396.24 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 396.24 132.08 0)
 			(effects
 				(font
@@ -30450,7 +30576,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "13-AC0201KRX7R8BB103DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 25.4 119.38 0)
 			(effects
 				(font
@@ -30459,7 +30585,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/4b93tdmb"
+		(property "SUPPLIER_OC" "13-AC0201KRX7R8BB103DKR-ND"
+			(at 25.4 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/4b93tdmb"
 			(at 25.4 119.38 0)
 			(effects
 				(font
@@ -30564,16 +30699,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 36.83 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 36.83 30.48 0)
 			(effects
 				(font
@@ -30675,7 +30801,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "13-AC0201KRX7R8BB103DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 35.56 119.38 0)
 			(effects
 				(font
@@ -30684,7 +30810,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/4b93tdmb"
+		(property "SUPPLIER_OC" "13-AC0201KRX7R8BB103DKR-ND"
+			(at 35.56 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/4b93tdmb"
 			(at 35.56 119.38 0)
 			(effects
 				(font
@@ -30789,16 +30924,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 347.98 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 347.98 140.97 0)
 			(effects
 				(font
@@ -30903,7 +31029,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "13-AC0201KRX7R8BB103DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 127 148.59 0)
 			(effects
 				(font
@@ -30912,7 +31038,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/4b93tdmb"
+		(property "SUPPLIER_OC" "13-AC0201KRX7R8BB103DKR-ND"
+			(at 127 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/4b93tdmb"
 			(at 127 148.59 0)
 			(effects
 				(font
@@ -31017,7 +31152,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-10700-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 185.42 168.91 0)
 			(effects
 				(font
@@ -31026,7 +31161,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+		(property "SUPPLIER_OC" "490-10700-6-ND"
+			(at 185.42 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2889p8h4"
 			(at 185.42 168.91 0)
 			(effects
 				(font
@@ -31137,7 +31281,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "732-78279220601DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 217.17 201.93 0)
 			(effects
 				(font
@@ -31146,7 +31290,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/4bqj3fwq"
+		(property "SUPPLIER_OC" "732-78279220601DKR-ND"
+			(at 217.17 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/4bqj3fwq"
 			(at 217.17 201.93 0)
 			(effects
 				(font
@@ -31251,16 +31404,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 73.66 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 73.66 36.83 0)
 			(effects
 				(font
@@ -31360,7 +31504,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-10476-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 294.64 132.08 0)
 			(effects
 				(font
@@ -31369,7 +31513,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/tvmht5nm"
+		(property "SUPPLIER_OC" "490-10476-6-ND"
+			(at 294.64 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/tvmht5nm"
 			(at 294.64 132.08 0)
 			(effects
 				(font
@@ -31474,7 +31627,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 55.88 119.38 0)
 			(effects
 				(font
@@ -31483,7 +31636,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
+		(property "SUPPLIER_OC" "490-GRM033Z71C104ME14DDKR-ND"
+			(at 55.88 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/drfvd79q"
 			(at 55.88 119.38 0)
 			(effects
 				(font
@@ -31653,7 +31815,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "13-AC0201KRX7R8BB103DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 96.52 148.59 0)
 			(effects
 				(font
@@ -31662,7 +31824,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/4b93tdmb"
+		(property "SUPPLIER_OC" "13-AC0201KRX7R8BB103DKR-ND"
+			(at 96.52 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/4b93tdmb"
 			(at 96.52 148.59 0)
 			(effects
 				(font
@@ -31766,7 +31937,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 76.2 52.07 0)
 			(effects
 				(font
@@ -31775,7 +31946,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 76.2 52.07 0)
 			(effects
 				(font
@@ -31907,7 +32087,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "DMN65D8L-7DIDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 280.67 40.64 0)
 			(effects
 				(font
@@ -31916,7 +32096,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2ttj58b0"
+		(property "SUPPLIER_OC" "DMN65D8L-7DIDKR-ND"
+			(at 280.67 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2ttj58b0"
 			(at 280.67 40.64 0)
 			(effects
 				(font
@@ -32290,7 +32479,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "13-AC0201KRX7R8BB103DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 45.72 119.38 0)
 			(effects
 				(font
@@ -32299,7 +32488,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/4b93tdmb"
+		(property "SUPPLIER_OC" "13-AC0201KRX7R8BB103DKR-ND"
+			(at 45.72 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/4b93tdmb"
 			(at 45.72 119.38 0)
 			(effects
 				(font
@@ -32473,7 +32671,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "587-2400-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 193.04 168.91 0)
 			(effects
 				(font
@@ -32482,7 +32680,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+		(property "SUPPLIER_OC" "587-2400-6-ND"
+			(at 193.04 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/83w49wnp"
 			(at 193.04 168.91 0)
 			(effects
 				(font
@@ -32593,16 +32800,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 363.22 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 363.22 140.97 0)
 			(effects
 				(font
@@ -32707,7 +32905,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-10700-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 64.77 254 0)
 			(effects
 				(font
@@ -32716,7 +32914,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+		(property "SUPPLIER_OC" "490-10700-6-ND"
+			(at 64.77 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2889p8h4"
 			(at 64.77 254 0)
 			(effects
 				(font
@@ -32892,7 +33099,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-7995-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 140.97 110.49 0)
 			(effects
 				(font
@@ -32901,7 +33108,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/jj38r9nt"
+		(property "SUPPLIER_OC" "490-7995-6-ND"
+			(at 140.97 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/jj38r9nt"
 			(at 140.97 110.49 0)
 			(effects
 				(font
@@ -33006,7 +33222,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GCM155R71H821KA37DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 96.52 215.9 0)
 			(effects
 				(font
@@ -33015,7 +33231,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/95h5bp4f"
+		(property "SUPPLIER_OC" "490-GCM155R71H821KA37DDKR-ND"
+			(at 96.52 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/95h5bp4f"
 			(at 96.52 215.9 0)
 			(effects
 				(font
@@ -33120,7 +33345,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "732-78279220601DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 139.7 54.61 0)
 			(effects
 				(font
@@ -33129,7 +33354,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/4bqj3fwq"
+		(property "SUPPLIER_OC" "732-78279220601DKR-ND"
+			(at 139.7 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/4bqj3fwq"
 			(at 139.7 54.61 0)
 			(effects
 				(font
@@ -33234,7 +33468,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-18654-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 139.7 148.59 0)
 			(effects
 				(font
@@ -33243,7 +33477,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqwhfth"
+		(property "SUPPLIER_OC" "490-18654-6-ND"
+			(at 139.7 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8nqwhfth"
 			(at 139.7 148.59 0)
 			(effects
 				(font
@@ -33347,7 +33590,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-10.0KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 274.32 257.81 0)
 			(effects
 				(font
@@ -33356,7 +33599,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/478v2810"
+		(property "SUPPLIER_OC" "541-10.0KHDKR-ND"
+			(at 274.32 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/478v2810"
 			(at 274.32 257.81 0)
 			(effects
 				(font
@@ -33467,7 +33719,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM155R61A475MEAAJDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 81.28 148.59 0)
 			(effects
 				(font
@@ -33476,7 +33728,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/55djtqz8"
+		(property "SUPPLIER_OC" "490-GRM155R61A475MEAAJDKR-ND"
+			(at 81.28 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/55djtqz8"
 			(at 81.28 148.59 0)
 			(effects
 				(font
@@ -33644,7 +33905,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-1348-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 289.56 120.65 0)
 			(effects
 				(font
@@ -33653,7 +33914,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/n53j9fdw"
+		(property "SUPPLIER_OC" "541-1348-6-ND"
+			(at 289.56 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/n53j9fdw"
 			(at 289.56 120.65 0)
 			(effects
 				(font
@@ -33758,7 +34028,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 66.04 119.38 0)
 			(effects
 				(font
@@ -33767,7 +34037,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
+		(property "SUPPLIER_OC" "490-GRM033Z71C104ME14DDKR-ND"
+			(at 66.04 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/drfvd79q"
 			(at 66.04 119.38 0)
 			(effects
 				(font
@@ -33871,7 +34150,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 190.5 120.65 0)
 			(effects
 				(font
@@ -33880,7 +34159,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 190.5 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 190.5 120.65 0)
 			(effects
 				(font
@@ -34209,16 +34497,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 386.08 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 386.08 132.08 0)
 			(effects
 				(font
@@ -34326,7 +34605,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-10700-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 53.34 269.24 0)
 			(effects
 				(font
@@ -34335,7 +34614,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+		(property "SUPPLIER_OC" "490-10700-6-ND"
+			(at 53.34 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2889p8h4"
 			(at 53.34 269.24 0)
 			(effects
 				(font
@@ -34445,7 +34733,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 170.18 243.84 0)
 			(effects
 				(font
@@ -34454,7 +34742,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 170.18 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 170.18 243.84 0)
 			(effects
 				(font
@@ -34706,7 +35003,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 82.55 59.69 0)
 			(effects
 				(font
@@ -34715,7 +35012,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 82.55 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 82.55 59.69 0)
 			(effects
 				(font
@@ -34839,7 +35145,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "1727-NX6008NBKRDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 210.82 262.89 0)
 			(effects
 				(font
@@ -34848,7 +35154,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/mr1bfdt4"
+		(property "SUPPLIER_OC" "1727-NX6008NBKRDKR-ND"
+			(at 210.82 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/mr1bfdt4"
 			(at 210.82 262.89 0)
 			(effects
 				(font
@@ -34955,7 +35270,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 52.07 53.34 0)
 			(effects
 				(font
@@ -34964,7 +35279,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 52.07 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 52.07 53.34 0)
 			(effects
 				(font
@@ -35087,16 +35411,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 52.07 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 52.07 210.82 0)
 			(effects
 				(font
@@ -35197,7 +35512,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 208.28 243.84 0)
 			(effects
 				(font
@@ -35206,7 +35521,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 208.28 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 208.28 243.84 0)
 			(effects
 				(font
@@ -35329,7 +35653,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "13-AC0201KRX7R8BB103DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 30.48 119.38 0)
 			(effects
 				(font
@@ -35338,7 +35662,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/4b93tdmb"
+		(property "SUPPLIER_OC" "13-AC0201KRX7R8BB103DKR-ND"
+			(at 30.48 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/4b93tdmb"
 			(at 30.48 119.38 0)
 			(effects
 				(font
@@ -35441,7 +35774,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "399-C0603C104M5RAC7867DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 125.73 265.43 0)
 			(effects
 				(font
@@ -35450,7 +35783,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqzrr4b"
+		(property "SUPPLIER_OC" "399-C0603C104M5RAC7867DKR-ND"
+			(at 125.73 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8nqzrr4b"
 			(at 125.73 265.43 0)
 			(effects
 				(font
@@ -35625,7 +35967,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 180.34 257.81 0)
 			(effects
 				(font
@@ -35634,7 +35976,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 180.34 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 180.34 257.81 0)
 			(effects
 				(font
@@ -35822,16 +36173,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 289.56 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 289.56 240.03 0)
 			(effects
 				(font
@@ -36004,7 +36346,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 121.92 148.59 0)
 			(effects
 				(font
@@ -36013,7 +36355,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
+		(property "SUPPLIER_OC" "490-GRM033Z71C104ME14DDKR-ND"
+			(at 121.92 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/drfvd79q"
 			(at 121.92 148.59 0)
 			(effects
 				(font
@@ -36117,7 +36468,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-300KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 208.28 205.74 0)
 			(effects
 				(font
@@ -36126,7 +36477,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/vhwb22v9"
+		(property "SUPPLIER_OC" "541-300KHDKR-ND"
+			(at 208.28 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/vhwb22v9"
 			(at 208.28 205.74 0)
 			(effects
 				(font
@@ -36366,7 +36726,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-18214-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 265.43 130.81 0)
 			(effects
 				(font
@@ -36375,7 +36735,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/82qptfvd"
+		(property "SUPPLIER_OC" "490-18214-6-ND"
+			(at 265.43 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/82qptfvd"
 			(at 265.43 130.81 0)
 			(effects
 				(font
@@ -36480,7 +36849,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-10700-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 233.68 168.91 0)
 			(effects
 				(font
@@ -36489,7 +36858,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+		(property "SUPPLIER_OC" "490-10700-6-ND"
+			(at 233.68 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2889p8h4"
 			(at 233.68 168.91 0)
 			(effects
 				(font
@@ -36598,7 +36976,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-18664-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 129.54 190.5 0)
 			(effects
 				(font
@@ -36607,7 +36985,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/zf2qwpn0"
+		(property "SUPPLIER_OC" "490-18664-6-ND"
+			(at 129.54 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/zf2qwpn0"
 			(at 129.54 190.5 0)
 			(effects
 				(font
@@ -36776,7 +37163,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "296-INA2180A1IDSGRDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 227.33 54.61 0)
 			(effects
 				(font
@@ -36785,7 +37172,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8077pm24"
+		(property "SUPPLIER_OC" "296-INA2180A1IDSGRDKR-ND"
+			(at 227.33 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8077pm24"
 			(at 227.33 54.61 0)
 			(effects
 				(font
@@ -36911,7 +37307,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "399-C0603C104M5RAC7867DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 58.42 217.17 0)
 			(effects
 				(font
@@ -36920,7 +37316,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqzrr4b"
+		(property "SUPPLIER_OC" "399-C0603C104M5RAC7867DKR-ND"
+			(at 58.42 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8nqzrr4b"
 			(at 58.42 217.17 0)
 			(effects
 				(font
@@ -37089,7 +37494,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-6.80KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 142.24 189.23 0)
 			(effects
 				(font
@@ -37098,7 +37503,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/btq94zpc"
+		(property "SUPPLIER_OC" "541-6.80KHDKR-ND"
+			(at 142.24 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/btq94zpc"
 			(at 142.24 189.23 0)
 			(effects
 				(font
@@ -37208,7 +37622,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "13-RT0603BRD0740KLDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 113.03 204.47 0)
 			(effects
 				(font
@@ -37217,7 +37631,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/h5hc74hj"
+		(property "SUPPLIER_OC" "13-RT0603BRD0740KLDKR-ND"
+			(at 113.03 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/h5hc74hj"
 			(at 113.03 204.47 0)
 			(effects
 				(font
@@ -37462,7 +37885,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "MM3Z24VST1GOSDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 226.06 119.38 0)
 			(effects
 				(font
@@ -37471,7 +37894,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/vc98q111"
+		(property "SUPPLIER_OC" "MM3Z24VST1GOSDKR-ND"
+			(at 226.06 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/vc98q111"
 			(at 226.06 119.38 0)
 			(effects
 				(font
@@ -37576,16 +38008,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 358.14 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 358.14 140.97 0)
 			(effects
 				(font
@@ -37688,7 +38111,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "587-2400-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 222.25 207.01 0)
 			(effects
 				(font
@@ -37697,7 +38120,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+		(property "SUPPLIER_OC" "587-2400-6-ND"
+			(at 222.25 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/83w49wnp"
 			(at 222.25 207.01 0)
 			(effects
 				(font
@@ -37807,7 +38239,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 55.88 45.72 0)
 			(effects
 				(font
@@ -37816,7 +38248,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 55.88 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 55.88 45.72 0)
 			(effects
 				(font
@@ -38004,7 +38445,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "399-C1812C225K1RAC7800DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 105.41 186.69 0)
 			(effects
 				(font
@@ -38013,7 +38454,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/0jmv72mj"
+		(property "SUPPLIER_OC" "399-C1812C225K1RAC7800DKR-ND"
+			(at 105.41 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/0jmv72mj"
 			(at 105.41 186.69 0)
 			(effects
 				(font
@@ -38118,7 +38568,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-10700-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 55.88 194.31 0)
 			(effects
 				(font
@@ -38127,7 +38577,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+		(property "SUPPLIER_OC" "490-10700-6-ND"
+			(at 55.88 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2889p8h4"
 			(at 55.88 194.31 0)
 			(effects
 				(font
@@ -38296,7 +38755,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 199.39 257.81 0)
 			(effects
 				(font
@@ -38305,7 +38764,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 199.39 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 199.39 257.81 0)
 			(effects
 				(font
@@ -38427,7 +38895,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-5199-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 289.56 114.3 0)
 			(effects
 				(font
@@ -38436,7 +38904,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/20p55d9t"
+		(property "SUPPLIER_OC" "541-5199-6-ND"
+			(at 289.56 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/20p55d9t"
 			(at 289.56 114.3 0)
 			(effects
 				(font
@@ -38541,7 +39018,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "SS10P6-M3/86AGICT-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 118.11 184.15 0)
 			(effects
 				(font
@@ -38550,7 +39027,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/4450q99v"
+		(property "SUPPLIER_OC" "SS10P6-M3/86AGICT-ND"
+			(at 118.11 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/4450q99v"
 			(at 118.11 184.15 0)
 			(effects
 				(font
@@ -38719,7 +39205,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "1727-1237-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 241.3 45.72 0)
 			(effects
 				(font
@@ -38728,7 +39214,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/h3bf51b3"
+		(property "SUPPLIER_OC" "1727-1237-6-ND"
+			(at 241.3 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/h3bf51b3"
 			(at 241.3 45.72 0)
 			(effects
 				(font
@@ -38845,7 +39340,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-10700-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 281.94 231.14 0)
 			(effects
 				(font
@@ -38854,7 +39349,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+		(property "SUPPLIER_OC" "490-10700-6-ND"
+			(at 281.94 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2889p8h4"
 			(at 281.94 231.14 0)
 			(effects
 				(font
@@ -39029,7 +39533,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "587-2400-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 162.56 168.91 0)
 			(effects
 				(font
@@ -39038,7 +39542,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+		(property "SUPPLIER_OC" "587-2400-6-ND"
+			(at 162.56 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/83w49wnp"
 			(at 162.56 168.91 0)
 			(effects
 				(font
@@ -39214,7 +39727,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-10700-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 273.05 191.77 0)
 			(effects
 				(font
@@ -39223,7 +39736,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+		(property "SUPPLIER_OC" "490-10700-6-ND"
+			(at 273.05 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2889p8h4"
 			(at 273.05 191.77 0)
 			(effects
 				(font
@@ -39392,7 +39914,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-10040-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 256.54 54.61 0)
 			(effects
 				(font
@@ -39401,7 +39923,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/mtq2n4qv"
+		(property "SUPPLIER_OC" "541-10040-6-ND"
+			(at 256.54 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/mtq2n4qv"
 			(at 256.54 54.61 0)
 			(effects
 				(font
@@ -39506,7 +40037,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-7995-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 132.08 148.59 0)
 			(effects
 				(font
@@ -39515,7 +40046,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/jj38r9nt"
+		(property "SUPPLIER_OC" "490-7995-6-ND"
+			(at 132.08 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/jj38r9nt"
 			(at 132.08 148.59 0)
 			(effects
 				(font
@@ -39619,16 +40159,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 401.32 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 401.32 132.08 0)
 			(effects
 				(font
@@ -39736,7 +40267,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-10700-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 95.25 269.24 0)
 			(effects
 				(font
@@ -39745,7 +40276,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+		(property "SUPPLIER_OC" "490-10700-6-ND"
+			(at 95.25 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2889p8h4"
 			(at 95.25 269.24 0)
 			(effects
 				(font
@@ -39856,16 +40396,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 297.18 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 297.18 120.65 0)
 			(effects
 				(font
@@ -40036,16 +40567,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 256.54 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 256.54 67.31 0)
 			(effects
 				(font
@@ -40217,7 +40739,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-10.0KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 63.5 217.17 0)
 			(effects
 				(font
@@ -40226,7 +40748,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/478v2810"
+		(property "SUPPLIER_OC" "541-10.0KHDKR-ND"
+			(at 63.5 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/478v2810"
 			(at 63.5 217.17 0)
 			(effects
 				(font
@@ -40337,16 +40868,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 193.04 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 193.04 177.8 0)
 			(effects
 				(font
@@ -40454,7 +40976,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-10700-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 22.86 254 0)
 			(effects
 				(font
@@ -40463,7 +40985,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+		(property "SUPPLIER_OC" "490-10700-6-ND"
+			(at 22.86 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2889p8h4"
 			(at 22.86 254 0)
 			(effects
 				(font
@@ -40574,7 +41105,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 58.42 148.59 0)
 			(effects
 				(font
@@ -40583,7 +41114,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
+		(property "SUPPLIER_OC" "490-GRM033Z71C104ME14DDKR-ND"
+			(at 58.42 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/drfvd79q"
 			(at 58.42 148.59 0)
 			(effects
 				(font
@@ -40753,7 +41293,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "296-INA2180A1IDSGRDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 267.97 54.61 0)
 			(effects
 				(font
@@ -40762,7 +41302,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8077pm24"
+		(property "SUPPLIER_OC" "296-INA2180A1IDSGRDKR-ND"
+			(at 267.97 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8077pm24"
 			(at 267.97 54.61 0)
 			(effects
 				(font
@@ -41023,7 +41572,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 20.32 43.18 0)
 			(effects
 				(font
@@ -41032,7 +41581,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 20.32 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 20.32 43.18 0)
 			(effects
 				(font
@@ -41225,7 +41783,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 237.49 257.81 0)
 			(effects
 				(font
@@ -41234,7 +41792,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 237.49 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 237.49 257.81 0)
 			(effects
 				(font
@@ -41426,7 +41993,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "732-4980-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 161.29 251.46 0)
 			(effects
 				(font
@@ -41435,7 +42002,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/h8jf77w9"
+		(property "SUPPLIER_OC" "732-4980-6-ND"
+			(at 161.29 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/h8jf77w9"
 			(at 161.29 251.46 0)
 			(effects
 				(font
@@ -41544,7 +42120,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "296-50835-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 175.26 162.56 0)
 			(effects
 				(font
@@ -41553,7 +42129,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/mjv7r0h3"
+		(property "SUPPLIER_OC" "296-50835-6-ND"
+			(at 175.26 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/mjv7r0h3"
 			(at 175.26 162.56 0)
 			(effects
 				(font
@@ -41750,7 +42335,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-18664-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 49.53 194.31 0)
 			(effects
 				(font
@@ -41759,7 +42344,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/zf2qwpn0"
+		(property "SUPPLIER_OC" "490-18664-6-ND"
+			(at 49.53 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/zf2qwpn0"
 			(at 49.53 194.31 0)
 			(effects
 				(font
@@ -41921,16 +42515,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 393.7 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 393.7 260.35 0)
 			(effects
 				(font
@@ -42029,7 +42614,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 48.26 148.59 0)
 			(effects
 				(font
@@ -42038,7 +42623,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
+		(property "SUPPLIER_OC" "490-GRM033Z71C104ME14DDKR-ND"
+			(at 48.26 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/drfvd79q"
 			(at 48.26 148.59 0)
 			(effects
 				(font
@@ -42348,7 +42942,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "587-2400-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 210.82 168.91 0)
 			(effects
 				(font
@@ -42357,7 +42951,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+		(property "SUPPLIER_OC" "587-2400-6-ND"
+			(at 210.82 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/83w49wnp"
 			(at 210.82 168.91 0)
 			(effects
 				(font
@@ -42466,16 +43069,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 238.76 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 238.76 67.31 0)
 			(effects
 				(font
@@ -42576,7 +43170,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "507-1888-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 173.99 123.19 0)
 			(effects
 				(font
@@ -42585,7 +43179,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/h5whm885"
+		(property "SUPPLIER_OC" "507-1888-6-ND"
+			(at 173.99 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/h5whm885"
 			(at 173.99 123.19 0)
 			(effects
 				(font
@@ -42688,7 +43291,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "732-4980-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 208.28 251.46 0)
 			(effects
 				(font
@@ -42697,7 +43300,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/h8jf77w9"
+		(property "SUPPLIER_OC" "732-4980-6-ND"
+			(at 208.28 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/h8jf77w9"
 			(at 208.28 251.46 0)
 			(effects
 				(font
@@ -43007,7 +43619,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "587-2400-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 143.51 30.48 0)
 			(effects
 				(font
@@ -43016,7 +43628,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+		(property "SUPPLIER_OC" "587-2400-6-ND"
+			(at 143.51 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/83w49wnp"
 			(at 143.51 30.48 0)
 			(effects
 				(font
@@ -43121,16 +43742,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 290.83 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 290.83 220.98 0)
 			(effects
 				(font
@@ -43237,7 +43849,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-5091-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 63.5 194.31 0)
 			(effects
 				(font
@@ -43246,7 +43858,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/38bn4npb"
+		(property "SUPPLIER_OC" "541-5091-6-ND"
+			(at 63.5 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/38bn4npb"
 			(at 63.5 194.31 0)
 			(effects
 				(font
@@ -43357,16 +43978,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 353.06 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 353.06 140.97 0)
 			(effects
 				(font
@@ -43470,7 +44082,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-39.2KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 287.02 129.54 0)
 			(effects
 				(font
@@ -43479,7 +44091,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/fv7c84qr"
+		(property "SUPPLIER_OC" "541-39.2KHDKR-ND"
+			(at 287.02 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/fv7c84qr"
 			(at 287.02 129.54 0)
 			(effects
 				(font
@@ -43582,7 +44203,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "4654-FC68149-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 161.29 125.73 0)
 			(effects
 				(font
@@ -43591,7 +44212,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/mwvtrr07"
+		(property "SUPPLIER_OC" "4654-FC68149-ND"
+			(at 161.29 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/mwvtrr07"
 			(at 161.29 125.73 0)
 			(effects
 				(font
@@ -43699,7 +44329,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "13-AC0201KRX7R8BB103DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 125.73 110.49 0)
 			(effects
 				(font
@@ -43708,7 +44338,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/4b93tdmb"
+		(property "SUPPLIER_OC" "13-AC0201KRX7R8BB103DKR-ND"
+			(at 125.73 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/4b93tdmb"
 			(at 125.73 110.49 0)
 			(effects
 				(font
@@ -43813,16 +44452,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 283.21 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 283.21 271.78 0)
 			(effects
 				(font
@@ -44060,7 +44690,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "296-LM51551DSSRDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 78.74 204.47 0)
 			(effects
 				(font
@@ -44069,7 +44699,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/jfv3pf8j"
+		(property "SUPPLIER_OC" "296-LM51551DSSRDKR-ND"
+			(at 78.74 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/jfv3pf8j"
 			(at 78.74 204.47 0)
 			(effects
 				(font
@@ -44207,7 +44846,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-18654-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 27.94 148.59 0)
 			(effects
 				(font
@@ -44216,7 +44855,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqwhfth"
+		(property "SUPPLIER_OC" "490-18654-6-ND"
+			(at 27.94 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8nqwhfth"
 			(at 27.94 148.59 0)
 			(effects
 				(font
@@ -44391,7 +45039,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-10.0KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 247.65 30.48 0)
 			(effects
 				(font
@@ -44400,7 +45048,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/478v2810"
+		(property "SUPPLIER_OC" "541-10.0KHDKR-ND"
+			(at 247.65 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/478v2810"
 			(at 247.65 30.48 0)
 			(effects
 				(font
@@ -44574,7 +45231,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "587-2400-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 167.64 210.82 0)
 			(effects
 				(font
@@ -44583,7 +45240,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+		(property "SUPPLIER_OC" "587-2400-6-ND"
+			(at 167.64 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/83w49wnp"
 			(at 167.64 210.82 0)
 			(effects
 				(font
@@ -44692,7 +45358,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-18214-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 213.36 207.01 0)
 			(effects
 				(font
@@ -44701,7 +45367,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/82qptfvd"
+		(property "SUPPLIER_OC" "490-18214-6-ND"
+			(at 213.36 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/82qptfvd"
 			(at 213.36 207.01 0)
 			(effects
 				(font
@@ -44812,7 +45487,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-18654-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 33.02 148.59 0)
 			(effects
 				(font
@@ -44821,7 +45496,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqwhfth"
+		(property "SUPPLIER_OC" "490-18654-6-ND"
+			(at 33.02 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8nqwhfth"
 			(at 33.02 148.59 0)
 			(effects
 				(font
@@ -44990,7 +45674,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 80.01 52.07 0)
 			(effects
 				(font
@@ -44999,7 +45683,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 80.01 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 80.01 52.07 0)
 			(effects
 				(font
@@ -45187,16 +45880,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 240.03 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 240.03 158.75 0)
 			(effects
 				(font
@@ -45302,7 +45986,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "497-11319-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 240.03 121.92 0)
 			(effects
 				(font
@@ -45311,7 +45995,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/pbztd9ff"
+		(property "SUPPLIER_OC" "497-11319-6-ND"
+			(at 240.03 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/pbztd9ff"
 			(at 240.03 121.92 0)
 			(effects
 				(font
@@ -45418,7 +46111,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 85.09 52.07 0)
 			(effects
 				(font
@@ -45427,7 +46120,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 85.09 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 85.09 52.07 0)
 			(effects
 				(font
@@ -45549,16 +46251,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 391.16 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 391.16 132.08 0)
 			(effects
 				(font
@@ -45666,7 +46359,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 68.58 148.59 0)
 			(effects
 				(font
@@ -45675,7 +46368,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
+		(property "SUPPLIER_OC" "490-GRM033Z71C104ME14DDKR-ND"
+			(at 68.58 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/drfvd79q"
 			(at 68.58 148.59 0)
 			(effects
 				(font
@@ -45849,7 +46551,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-52.3HDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 226.06 129.54 0)
 			(effects
 				(font
@@ -45858,7 +46560,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/099qpz0w"
+		(property "SUPPLIER_OC" "541-52.3HDKR-ND"
+			(at 226.06 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/099qpz0w"
 			(at 226.06 129.54 0)
 			(effects
 				(font
@@ -45961,7 +46672,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "APX811-40UG-7DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 265.43 270.51 0)
 			(effects
 				(font
@@ -45970,7 +46681,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/j8pcwd9w"
+		(property "SUPPLIER_OC" "APX811-40UG-7DKR-ND"
+			(at 265.43 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/j8pcwd9w"
 			(at 265.43 270.51 0)
 			(effects
 				(font
@@ -46151,7 +46871,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "296-50838-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 223.52 162.56 0)
 			(effects
 				(font
@@ -46160,7 +46880,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/05z0qvc3"
+		(property "SUPPLIER_OC" "296-50838-6-ND"
+			(at 223.52 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/05z0qvc3"
 			(at 223.52 162.56 0)
 			(effects
 				(font
@@ -46284,7 +47013,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "296-TLV62084ADSGRDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 276.86 123.19 0)
 			(effects
 				(font
@@ -46293,7 +47022,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/b10p249p"
+		(property "SUPPLIER_OC" "296-TLV62084ADSGRDKR-ND"
+			(at 276.86 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/b10p249p"
 			(at 276.86 123.19 0)
 			(effects
 				(font
@@ -46625,7 +47363,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 39.37 68.58 0)
 			(effects
 				(font
@@ -46634,7 +47372,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 39.37 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 39.37 68.58 0)
 			(effects
 				(font
@@ -46757,16 +47504,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 27.94 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 27.94 186.69 0)
 			(effects
 				(font
@@ -46854,16 +47592,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 85.09 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 85.09 33.02 0)
 			(effects
 				(font
@@ -47172,16 +47901,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 353.06 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 353.06 203.2 0)
 			(effects
 				(font
@@ -47266,16 +47986,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 212.09 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 212.09 137.16 0)
 			(effects
 				(font
@@ -47374,7 +48085,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-7995-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 101.6 148.59 0)
 			(effects
 				(font
@@ -47383,7 +48094,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/jj38r9nt"
+		(property "SUPPLIER_OC" "490-7995-6-ND"
+			(at 101.6 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/jj38r9nt"
 			(at 101.6 148.59 0)
 			(effects
 				(font
@@ -47487,7 +48207,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "SRF1260-1R5YDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 105.41 179.07 0)
 			(effects
 				(font
@@ -47496,7 +48216,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/dhv05pj4"
+		(property "SUPPLIER_OC" "SRF1260-1R5YDKR-ND"
+			(at 105.41 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/dhv05pj4"
 			(at 105.41 179.07 0)
 			(effects
 				(font
@@ -47607,7 +48336,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GCM155R71H123KA55DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 101.6 212.09 0)
 			(effects
 				(font
@@ -47616,7 +48345,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/qj5rrrnv"
+		(property "SUPPLIER_OC" "490-GCM155R71H123KA55DDKR-ND"
+			(at 101.6 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/qj5rrrnv"
 			(at 101.6 212.09 0)
 			(effects
 				(font
@@ -47857,7 +48595,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-4097-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 58.42 201.93 0)
 			(effects
 				(font
@@ -47866,7 +48604,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/3dp8b97f"
+		(property "SUPPLIER_OC" "541-4097-6-ND"
+			(at 58.42 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/3dp8b97f"
 			(at 58.42 201.93 0)
 			(effects
 				(font
@@ -47975,7 +48722,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "587-2400-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 259.08 231.14 0)
 			(effects
 				(font
@@ -47984,7 +48731,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+		(property "SUPPLIER_OC" "587-2400-6-ND"
+			(at 259.08 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/83w49wnp"
 			(at 259.08 231.14 0)
 			(effects
 				(font
@@ -48236,7 +48992,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "296-INA2180A1IDSGRDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 273.05 185.42 0)
 			(effects
 				(font
@@ -48245,7 +49001,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8077pm24"
+		(property "SUPPLIER_OC" "296-INA2180A1IDSGRDKR-ND"
+			(at 273.05 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8077pm24"
 			(at 273.05 185.42 0)
 			(effects
 				(font
@@ -48578,16 +49343,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 232.41 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 232.41 199.39 0)
 			(effects
 				(font
@@ -48695,7 +49451,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-18654-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 86.36 148.59 0)
 			(effects
 				(font
@@ -48704,7 +49460,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqwhfth"
+		(property "SUPPLIER_OC" "490-18654-6-ND"
+			(at 86.36 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8nqwhfth"
 			(at 86.36 148.59 0)
 			(effects
 				(font
@@ -48810,7 +49575,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "1727-NX6008NBKRDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 191.77 262.89 0)
 			(effects
 				(font
@@ -48819,7 +49584,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/mr1bfdt4"
+		(property "SUPPLIER_OC" "1727-NX6008NBKRDKR-ND"
+			(at 191.77 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/mr1bfdt4"
 			(at 191.77 262.89 0)
 			(effects
 				(font
@@ -48927,16 +49701,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 368.3 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 368.3 140.97 0)
 			(effects
 				(font
@@ -49041,16 +49806,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 297.18 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 297.18 135.89 0)
 			(effects
 				(font
@@ -49215,7 +49971,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "MAX1118EKA+TDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 163.83 49.53 0)
 			(effects
 				(font
@@ -49224,7 +49980,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/54vrz9n8"
+		(property "SUPPLIER_OC" "MAX1118EKA+TDKR-ND"
+			(at 163.83 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/54vrz9n8"
 			(at 163.83 49.53 0)
 			(effects
 				(font
@@ -49413,7 +50178,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "1727-NX6008NBKRDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 172.72 262.89 0)
 			(effects
 				(font
@@ -49422,7 +50187,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/mr1bfdt4"
+		(property "SUPPLIER_OC" "1727-NX6008NBKRDKR-ND"
+			(at 172.72 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/mr1bfdt4"
 			(at 172.72 262.89 0)
 			(effects
 				(font
@@ -49660,7 +50434,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "13-AC0201KRX7R8BB103DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 135.89 110.49 0)
 			(effects
 				(font
@@ -49669,7 +50443,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/4b93tdmb"
+		(property "SUPPLIER_OC" "13-AC0201KRX7R8BB103DKR-ND"
+			(at 135.89 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/4b93tdmb"
 			(at 135.89 110.49 0)
 			(effects
 				(font
@@ -49774,7 +50557,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-18654-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 22.86 148.59 0)
 			(effects
 				(font
@@ -49783,7 +50566,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqwhfth"
+		(property "SUPPLIER_OC" "490-18654-6-ND"
+			(at 22.86 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8nqwhfth"
 			(at 22.86 148.59 0)
 			(effects
 				(font
@@ -49888,7 +50680,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-10700-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 22.86 269.24 0)
 			(effects
 				(font
@@ -49897,7 +50689,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+		(property "SUPPLIER_OC" "490-10700-6-ND"
+			(at 22.86 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2889p8h4"
 			(at 22.86 269.24 0)
 			(effects
 				(font
@@ -50008,7 +50809,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-18654-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 17.78 148.59 0)
 			(effects
 				(font
@@ -50017,7 +50818,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqwhfth"
+		(property "SUPPLIER_OC" "490-18654-6-ND"
+			(at 17.78 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8nqwhfth"
 			(at 17.78 148.59 0)
 			(effects
 				(font
@@ -50120,7 +50930,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "587-2400-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 241.3 168.91 0)
 			(effects
 				(font
@@ -50129,7 +50939,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+		(property "SUPPLIER_OC" "587-2400-6-ND"
+			(at 241.3 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/83w49wnp"
 			(at 241.3 168.91 0)
 			(effects
 				(font
@@ -50240,16 +51059,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 144.78 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 144.78 184.15 0)
 			(effects
 				(font
@@ -50355,7 +51165,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "399-C0603C104M5RAC7867DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 135.89 30.48 0)
 			(effects
 				(font
@@ -50364,7 +51174,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqzrr4b"
+		(property "SUPPLIER_OC" "399-C0603C104M5RAC7867DKR-ND"
+			(at 135.89 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8nqzrr4b"
 			(at 135.89 30.48 0)
 			(effects
 				(font
@@ -50469,7 +51288,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 50.8 119.38 0)
 			(effects
 				(font
@@ -50478,7 +51297,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
+		(property "SUPPLIER_OC" "490-GRM033Z71C104ME14DDKR-ND"
+			(at 50.8 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/drfvd79q"
 			(at 50.8 119.38 0)
 			(effects
 				(font
@@ -50583,16 +51411,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 191.77 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 191.77 158.75 0)
 			(effects
 				(font
@@ -50834,7 +51653,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "732-4980-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 227.33 251.46 0)
 			(effects
 				(font
@@ -50843,7 +51662,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/h8jf77w9"
+		(property "SUPPLIER_OC" "732-4980-6-ND"
+			(at 227.33 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/h8jf77w9"
 			(at 227.33 251.46 0)
 			(effects
 				(font
@@ -50954,7 +51782,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "NTMFS5C442NT1GOSDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 99.06 194.31 0)
 			(effects
 				(font
@@ -50963,7 +51791,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/bp3m0j0d"
+		(property "SUPPLIER_OC" "NTMFS5C442NT1GOSDKR-ND"
+			(at 99.06 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/bp3m0j0d"
 			(at 99.06 194.31 0)
 			(effects
 				(font
@@ -51070,7 +51907,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-10.0KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 113.03 217.17 0)
 			(effects
 				(font
@@ -51079,7 +51916,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/478v2810"
+		(property "SUPPLIER_OC" "541-10.0KHDKR-ND"
+			(at 113.03 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/478v2810"
 			(at 113.03 217.17 0)
 			(effects
 				(font
@@ -51190,16 +52036,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 373.38 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 373.38 140.97 0)
 			(effects
 				(font
@@ -51304,7 +52141,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-7995-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 130.81 110.49 0)
 			(effects
 				(font
@@ -51313,7 +52150,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/jj38r9nt"
+		(property "SUPPLIER_OC" "490-7995-6-ND"
+			(at 130.81 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/jj38r9nt"
 			(at 130.81 110.49 0)
 			(effects
 				(font
@@ -51418,7 +52264,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 63.5 148.59 0)
 			(effects
 				(font
@@ -51427,7 +52273,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
+		(property "SUPPLIER_OC" "490-GRM033Z71C104ME14DDKR-ND"
+			(at 63.5 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/drfvd79q"
 			(at 63.5 148.59 0)
 			(effects
 				(font
@@ -51530,7 +52385,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "587-2400-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 283.21 262.89 0)
 			(effects
 				(font
@@ -51539,7 +52394,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+		(property "SUPPLIER_OC" "587-2400-6-ND"
+			(at 283.21 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/83w49wnp"
 			(at 283.21 262.89 0)
 			(effects
 				(font
@@ -51650,7 +52514,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 73.66 148.59 0)
 			(effects
 				(font
@@ -51659,7 +52523,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
+		(property "SUPPLIER_OC" "490-GRM033Z71C104ME14DDKR-ND"
+			(at 73.66 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/drfvd79q"
 			(at 73.66 148.59 0)
 			(effects
 				(font
@@ -51829,7 +52702,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-18654-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 43.18 148.59 0)
 			(effects
 				(font
@@ -51838,7 +52711,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqwhfth"
+		(property "SUPPLIER_OC" "490-18654-6-ND"
+			(at 43.18 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8nqwhfth"
 			(at 43.18 148.59 0)
 			(effects
 				(font
@@ -51935,16 +52817,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 367.03 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 367.03 260.35 0)
 			(effects
 				(font
@@ -52250,16 +53123,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 306.07 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 306.07 43.18 0)
 			(effects
 				(font
@@ -52361,7 +53225,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-18654-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 38.1 148.59 0)
 			(effects
 				(font
@@ -52370,7 +53234,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8nqwhfth"
+		(property "SUPPLIER_OC" "490-18654-6-ND"
+			(at 38.1 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8nqwhfth"
 			(at 38.1 148.59 0)
 			(effects
 				(font
@@ -52475,7 +53348,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-18664-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 43.18 194.31 0)
 			(effects
 				(font
@@ -52484,7 +53357,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/zf2qwpn0"
+		(property "SUPPLIER_OC" "490-18664-6-ND"
+			(at 43.18 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/zf2qwpn0"
 			(at 43.18 194.31 0)
 			(effects
 				(font
@@ -52654,7 +53536,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "535-AOTA-B160808S2R2MTDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 196.85 201.93 0)
 			(effects
 				(font
@@ -52663,7 +53545,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/tnvznwrp"
+		(property "SUPPLIER_OC" "535-AOTA-B160808S2R2MTDKR-ND"
+			(at 196.85 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/tnvznwrp"
 			(at 196.85 201.93 0)
 			(effects
 				(font
@@ -52766,7 +53657,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "296-50835-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 271.78 224.79 0)
 			(effects
 				(font
@@ -52775,7 +53666,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/mjv7r0h3"
+		(property "SUPPLIER_OC" "296-50835-6-ND"
+			(at 271.78 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/mjv7r0h3"
 			(at 271.78 224.79 0)
 			(effects
 				(font
@@ -53172,7 +54072,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-4.70KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 161.29 243.84 0)
 			(effects
 				(font
@@ -53181,7 +54081,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/f3fq37nd"
+		(property "SUPPLIER_OC" "541-4.70KHDKR-ND"
+			(at 161.29 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/f3fq37nd"
 			(at 161.29 243.84 0)
 			(effects
 				(font
@@ -53290,7 +54199,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "742-SQJ951EP-T1_BE3DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 48.26 35.56 0)
 			(effects
 				(font
@@ -53299,7 +54208,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/jjp28qvf"
+		(property "SUPPLIER_OC" "742-SQJ951EP-T1_BE3DKR-ND"
+			(at 48.26 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/jjp28qvf"
 			(at 48.26 35.56 0)
 			(effects
 				(font
@@ -53415,7 +54333,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-10.0KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 247.65 38.1 0)
 			(effects
 				(font
@@ -53424,7 +54342,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/478v2810"
+		(property "SUPPLIER_OC" "541-10.0KHDKR-ND"
+			(at 247.65 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/478v2810"
 			(at 247.65 38.1 0)
 			(effects
 				(font
@@ -53527,7 +54454,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "742-SQJ951EP-T1_BE3DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 85.09 41.91 0)
 			(effects
 				(font
@@ -53536,7 +54463,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/jjp28qvf"
+		(property "SUPPLIER_OC" "742-SQJ951EP-T1_BE3DKR-ND"
+			(at 85.09 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/jjp28qvf"
 			(at 85.09 41.91 0)
 			(effects
 				(font
@@ -53653,7 +54589,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 91.44 148.59 0)
 			(effects
 				(font
@@ -53662,7 +54598,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
+		(property "SUPPLIER_OC" "490-GRM033Z71C104ME14DDKR-ND"
+			(at 91.44 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/drfvd79q"
 			(at 91.44 148.59 0)
 			(effects
 				(font
@@ -53766,7 +54711,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-10.0KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 184.15 55.88 0)
 			(effects
 				(font
@@ -53775,7 +54720,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/478v2810"
+		(property "SUPPLIER_OC" "541-10.0KHDKR-ND"
+			(at 184.15 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/478v2810"
 			(at 184.15 55.88 0)
 			(effects
 				(font
@@ -53880,7 +54834,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-10700-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 95.25 254 0)
 			(effects
 				(font
@@ -53889,7 +54843,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+		(property "SUPPLIER_OC" "490-10700-6-ND"
+			(at 95.25 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2889p8h4"
 			(at 95.25 254 0)
 			(effects
 				(font
@@ -53998,7 +54961,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "AP3428DNTR-G1"
+		(property "SUPPLIER" "DigiKey"
 			(at 181.61 204.47 0)
 			(effects
 				(font
@@ -54007,7 +54970,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/p988w10m"
+		(property "SUPPLIER_OC" "AP3428DNTR-G1"
+			(at 181.61 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/p988w10m"
 			(at 181.61 204.47 0)
 			(effects
 				(font
@@ -54188,7 +55160,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 39.37 53.34 0)
 			(effects
 				(font
@@ -54197,7 +55169,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 39.37 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 39.37 53.34 0)
 			(effects
 				(font
@@ -54450,7 +55431,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-10700-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 144.78 60.96 0)
 			(effects
 				(font
@@ -54459,7 +55440,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2889p8h4"
+		(property "SUPPLIER_OC" "490-10700-6-ND"
+			(at 144.78 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2889p8h4"
 			(at 144.78 60.96 0)
 			(effects
 				(font
@@ -54695,7 +55685,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "1727-PMPB20EN,115DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 186.69 125.73 0)
 			(effects
 				(font
@@ -54704,7 +55694,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/p2jcz71p"
+		(property "SUPPLIER_OC" "1727-PMPB20EN,115DKR-ND"
+			(at 186.69 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/p2jcz71p"
 			(at 186.69 125.73 0)
 			(effects
 				(font
@@ -54877,7 +55876,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 106.68 148.59 0)
 			(effects
 				(font
@@ -54886,7 +55885,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
+		(property "SUPPLIER_OC" "490-GRM033Z71C104ME14DDKR-ND"
+			(at 106.68 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/drfvd79q"
 			(at 106.68 148.59 0)
 			(effects
 				(font
@@ -54990,7 +55998,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 48.26 45.72 0)
 			(effects
 				(font
@@ -54999,7 +56007,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 48.26 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 48.26 45.72 0)
 			(effects
 				(font
@@ -55121,7 +56138,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-5.36KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 106.68 217.17 0)
 			(effects
 				(font
@@ -55130,7 +56147,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/7m28vqhp"
+		(property "SUPPLIER_OC" "541-5.36KHDKR-ND"
+			(at 106.68 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/7m28vqhp"
 			(at 106.68 217.17 0)
 			(effects
 				(font
@@ -55241,7 +56267,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 144.78 148.59 0)
 			(effects
 				(font
@@ -55250,7 +56276,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
+		(property "SUPPLIER_OC" "490-GRM033Z71C104ME14DDKR-ND"
+			(at 144.78 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/drfvd79q"
 			(at 144.78 148.59 0)
 			(effects
 				(font
@@ -55353,7 +56388,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "220-2107-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 88.9 114.3 0)
 			(effects
 				(font
@@ -55362,7 +56397,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/f34t0pr0"
+		(property "SUPPLIER_OC" "220-2107-ND"
+			(at 88.9 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/f34t0pr0"
 			(at 88.9 114.3 0)
 			(effects
 				(font
@@ -56603,7 +57647,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-10.0KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 278.13 257.81 0)
 			(effects
 				(font
@@ -56612,7 +57656,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/478v2810"
+		(property "SUPPLIER_OC" "541-10.0KHDKR-ND"
+			(at 278.13 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/478v2810"
 			(at 278.13 257.81 0)
 			(effects
 				(font
@@ -56793,7 +57846,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 182.88 120.65 0)
 			(effects
 				(font
@@ -56802,7 +57855,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 182.88 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 182.88 120.65 0)
 			(effects
 				(font
@@ -56996,7 +58058,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-5283-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 290.83 125.73 0)
 			(effects
 				(font
@@ -57005,7 +58067,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/8fvqvwd5"
+		(property "SUPPLIER_OC" "541-5283-6-ND"
+			(at 290.83 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8fvqvwd5"
 			(at 290.83 125.73 0)
 			(effects
 				(font
@@ -57109,7 +58180,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-10.0KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 289.56 40.64 0)
 			(effects
 				(font
@@ -57118,7 +58189,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/478v2810"
+		(property "SUPPLIER_OC" "541-10.0KHDKR-ND"
+			(at 289.56 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/478v2810"
 			(at 289.56 40.64 0)
 			(effects
 				(font
@@ -57232,7 +58312,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "DMN65D8L-7DIDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 49.53 63.5 0)
 			(effects
 				(font
@@ -57241,7 +58321,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/2ttj58b0"
+		(property "SUPPLIER_OC" "DMN65D8L-7DIDKR-ND"
+			(at 49.53 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/2ttj58b0"
 			(at 49.53 63.5 0)
 			(effects
 				(font
@@ -57348,7 +58437,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "448-S80KS5122GABHI020-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 80.01 248.92 0)
 			(effects
 				(font
@@ -57357,7 +58446,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/rwv27n90"
+		(property "SUPPLIER_OC" "448-S80KS5122GABHI020-ND"
+			(at 80.01 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/rwv27n90"
 			(at 80.01 248.92 0)
 			(effects
 				(font
@@ -57534,7 +58632,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "587-2400-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 134.62 190.5 0)
 			(effects
 				(font
@@ -57543,7 +58641,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+		(property "SUPPLIER_OC" "587-2400-6-ND"
+			(at 134.62 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/83w49wnp"
 			(at 134.62 190.5 0)
 			(effects
 				(font
@@ -57713,7 +58820,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-7995-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 116.84 148.59 0)
 			(effects
 				(font
@@ -57722,7 +58829,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/jj38r9nt"
+		(property "SUPPLIER_OC" "490-7995-6-ND"
+			(at 116.84 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/jj38r9nt"
 			(at 116.84 148.59 0)
 			(effects
 				(font
@@ -57890,7 +59006,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "399-17583-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 201.93 205.74 0)
 			(effects
 				(font
@@ -57899,7 +59015,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/05tw8nzb"
+		(property "SUPPLIER_OC" "399-17583-6-ND"
+			(at 201.93 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/05tw8nzb"
 			(at 201.93 205.74 0)
 			(effects
 				(font
@@ -58010,7 +59135,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM033Z71C104ME14DDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 60.96 119.38 0)
 			(effects
 				(font
@@ -58019,7 +59144,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/drfvd79q"
+		(property "SUPPLIER_OC" "490-GRM033Z71C104ME14DDKR-ND"
+			(at 60.96 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/drfvd79q"
 			(at 60.96 119.38 0)
 			(effects
 				(font
@@ -58194,7 +59328,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "448-S80KS5122GABHI020-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 38.1 265.43 0)
 			(effects
 				(font
@@ -58203,7 +59337,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/rwv27n90"
+		(property "SUPPLIER_OC" "448-S80KS5122GABHI020-ND"
+			(at 38.1 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/rwv27n90"
 			(at 38.1 265.43 0)
 			(effects
 				(font
@@ -58449,7 +59592,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-18664-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 124.46 190.5 0)
 			(effects
 				(font
@@ -58458,7 +59601,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/zf2qwpn0"
+		(property "SUPPLIER_OC" "490-18664-6-ND"
+			(at 124.46 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/zf2qwpn0"
 			(at 124.46 190.5 0)
 			(effects
 				(font
@@ -58562,7 +59714,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-10040-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 238.76 54.61 0)
 			(effects
 				(font
@@ -58571,7 +59723,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/mtq2n4qv"
+		(property "SUPPLIER_OC" "541-10040-6-ND"
+			(at 238.76 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/mtq2n4qv"
 			(at 238.76 54.61 0)
 			(effects
 				(font
@@ -58740,7 +59901,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 189.23 243.84 0)
 			(effects
 				(font
@@ -58749,7 +59910,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 189.23 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 189.23 243.84 0)
 			(effects
 				(font
@@ -58936,7 +60106,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "541-150KHDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 208.28 213.36 0)
 			(effects
 				(font
@@ -58945,7 +60115,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/92h8nv35"
+		(property "SUPPLIER_OC" "541-150KHDKR-ND"
+			(at 208.28 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/92h8nv35"
 			(at 208.28 213.36 0)
 			(effects
 				(font
@@ -59197,7 +60376,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "448-S80KS5122GABHI020-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 80.01 265.43 0)
 			(effects
 				(font
@@ -59206,7 +60385,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/rwv27n90"
+		(property "SUPPLIER_OC" "448-S80KS5122GABHI020-ND"
+			(at 80.01 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/rwv27n90"
 			(at 80.01 265.43 0)
 			(effects
 				(font
@@ -59383,7 +60571,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "13-AC0201KRX7R8BB103DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 111.76 148.59 0)
 			(effects
 				(font
@@ -59392,7 +60580,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/4b93tdmb"
+		(property "SUPPLIER_OC" "13-AC0201KRX7R8BB103DKR-ND"
+			(at 111.76 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/4b93tdmb"
 			(at 111.76 148.59 0)
 			(effects
 				(font
@@ -59496,7 +60693,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "448-S80KS5122GABHI020-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 38.1 248.92 0)
 			(effects
 				(font
@@ -59505,7 +60702,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/rwv27n90"
+		(property "SUPPLIER_OC" "448-S80KS5122GABHI020-ND"
+			(at 38.1 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/rwv27n90"
 			(at 38.1 248.92 0)
 			(effects
 				(font
@@ -59823,7 +61029,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "SMLEN3WBC8W1DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 142.24 195.58 0)
 			(effects
 				(font
@@ -59832,7 +61038,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/c3th3r99"
+		(property "SUPPLIER_OC" "SMLEN3WBC8W1DKR-ND"
+			(at 142.24 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/c3th3r99"
 			(at 142.24 195.58 0)
 			(effects
 				(font
@@ -59943,7 +61158,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "13-AC0201KRX7R8BB103DKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 40.64 119.38 0)
 			(effects
 				(font
@@ -59952,7 +61167,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/4b93tdmb"
+		(property "SUPPLIER_OC" "13-AC0201KRX7R8BB103DKR-ND"
+			(at 40.64 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/4b93tdmb"
 			(at 40.64 119.38 0)
 			(effects
 				(font
@@ -60057,16 +61281,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" ""
-			(at 227.33 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL_DIGIKEY" ""
+		(property "SUPPLIER" ""
 			(at 227.33 217.17 0)
 			(effects
 				(font
@@ -60172,7 +61387,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "587-2400-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 289.56 231.14 0)
 			(effects
 				(font
@@ -60181,7 +61396,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/83w49wnp"
+		(property "SUPPLIER_OC" "587-2400-6-ND"
+			(at 289.56 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/83w49wnp"
 			(at 289.56 231.14 0)
 			(effects
 				(font
@@ -60291,7 +61515,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "CAY16-103J4LFDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 218.44 257.81 0)
 			(effects
 				(font
@@ -60300,7 +61524,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/91vhpmq2"
+		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
+			(at 218.44 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
 			(at 218.44 257.81 0)
 			(effects
 				(font
@@ -60423,7 +61656,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "490-GRM155R61A475MEAAJDKR-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 20.32 119.38 0)
 			(effects
 				(font
@@ -60432,7 +61665,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/55djtqz8"
+		(property "SUPPLIER_OC" "490-GRM155R61A475MEAAJDKR-ND"
+			(at 20.32 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/55djtqz8"
 			(at 20.32 119.38 0)
 			(effects
 				(font
@@ -60535,7 +61777,7 @@
 				(hide yes)
 			)
 		)
-		(property "OC_DIGIKEY" "732-4980-6-ND"
+		(property "SUPPLIER" "DigiKey"
 			(at 189.23 251.46 0)
 			(effects
 				(font
@@ -60544,7 +61786,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL_DIGIKEY" "https://www.digikey.com/short/h8jf77w9"
+		(property "SUPPLIER_OC" "732-4980-6-ND"
+			(at 189.23 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/h8jf77w9"
 			(at 189.23 251.46 0)
 			(effects
 				(font
