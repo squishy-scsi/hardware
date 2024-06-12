@@ -18154,7 +18154,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 146.05) (xy 250.19 146.05)
+			(xy 241.3 143.51) (xy 250.19 143.51)
 		)
 		(stroke
 			(width 0)
@@ -22974,7 +22974,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 143.51) (xy 250.19 143.51)
+			(xy 241.3 146.05) (xy 250.19 146.05)
 		)
 		(stroke
 			(width 0)
@@ -27111,7 +27111,7 @@
 		(uuid "3a14e525-0bd4-44d6-8531-5020afe70090")
 	)
 	(label "SYSCLK+"
-		(at 250.19 143.51 180)
+		(at 250.19 146.05 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -29003,7 +29003,7 @@
 		(uuid "d242fd9f-d372-4e86-8a8f-2b06f3d1c344")
 	)
 	(label "SYSCLK-"
-		(at 250.19 146.05 180)
+		(at 250.19 143.51 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
