@@ -14208,10 +14208,10 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at -10.16 -1.27 0)
 					(length 2.54)
-					(name "COPI"
+					(name "CIPO"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -14264,10 +14264,10 @@
 						)
 					)
 				)
-				(pin output line
+				(pin input line
 					(at -10.16 1.27 0)
 					(length 2.54)
-					(name "CIPO"
+					(name "COPI"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -27397,7 +27397,7 @@
 		(uuid "4d8c41f7-7a44-4bff-a50c-d938e5951f06")
 	)
 	(label "FPGA_COPI"
-		(at 161.29 73.66 0)
+		(at 161.29 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -28222,7 +28222,7 @@
 		(uuid "93d865ab-7fbf-4ed3-9495-c93a5ce16f5b")
 	)
 	(label "FPGA_CIPO"
-		(at 161.29 71.12 0)
+		(at 161.29 73.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
