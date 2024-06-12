@@ -18046,6 +18046,17 @@
 		)
 		(uuid "e1ec196b-3504-45b5-8c7f-280b3835a55c")
 	)
+	(text "While the ULPI PHY Clock input is in \na non-clock network pin in this bank, \nit should be fine:tm:"
+		(exclude_from_sim no)
+		(at 141.732 117.094 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e2d7b46b-c327-4505-b26c-dc5d2bebbcc7")
+	)
 	(text "4\n"
 		(exclude_from_sim no)
 		(at 85.09 154.686 0)
