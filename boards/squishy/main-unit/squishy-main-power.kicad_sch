@@ -29991,146 +29991,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DX-MON:pkl_R4_Small")
-		(at 227.33 243.84 180)
-		(unit 4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0c4d29f5-a993-47ae-a95f-cd066633eac3")
-		(property "Reference" "R34"
-			(at 228.6 243.84 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Value" "10K"
-			(at 227.33 243.84 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Footprint" "rhais_rcl:R0603_Array_Concave_4"
-			(at 227.33 243.84 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
-			(at 227.33 243.84 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 227.33 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR" "Bourns Inc."
-			(at 227.33 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CAY16-103J4LF"
-			(at 227.33 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±5%  1/16W "
-			(at 227.33 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER" "DigiKey"
-			(at 227.33 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
-			(at 227.33 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
-			(at 227.33 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "55da609d-82ba-451c-ae0e-484382add11f")
-		)
-		(pin "2"
-			(uuid "624ee7df-3756-4350-b7b5-a0be67bfcad3")
-		)
-		(pin "3"
-			(uuid "135ed1ec-d4f4-4307-be3e-06af78703dff")
-		)
-		(pin "4"
-			(uuid "0effa13a-ae45-4100-93fd-a7fc1b97a193")
-		)
-		(pin "5"
-			(uuid "7f55b9a2-8833-44ad-addf-d62c44cf4a81")
-		)
-		(pin "6"
-			(uuid "594f1d85-c8eb-4710-98c9-1a966ee9271d")
-		)
-		(pin "7"
-			(uuid "12cef72a-d9c7-4be5-b5d0-0752df08e057")
-		)
-		(pin "8"
-			(uuid "3ae73874-6451-48ea-bc6f-884afd1d9f44")
-		)
-		(instances
-			(project "squishy-main"
-				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
-					(reference "R34")
-					(unit 4)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:Q_Dual_PMOS_S1G1D2S2G2D1")
 		(at 254 45.72 0)
 		(mirror x)
@@ -31420,6 +31280,128 @@
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
 					(reference "TP14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 161.29 243.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1648eb7f-b5ae-40f6-865b-aadee517d04b")
+		(property "Reference" "R42"
+			(at 160.02 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Value" "1k"
+			(at 161.29 243.84 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "rhais_rcl:R0603"
+			(at 161.29 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 161.29 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 161.29 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Vishay Dale"
+			(at 161.29 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06031K00FKEA"
+			(at 161.29 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1% 1/10W"
+			(at 161.29 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "DigiKey"
+			(at 161.29 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_OC" "541-1.00KHDKR-ND"
+			(at 161.29 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/dw9cq7z3"
+			(at 161.29 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1c8ad7a0-b614-4198-8ef1-47bfd21c1a0d")
+		)
+		(pin "2"
+			(uuid "2f590529-f3fe-4640-ac47-dcadd0df3706")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -33265,6 +33247,128 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 170.18 243.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "26b07ab3-8bfa-460b-ad41-ecfc09e558bd")
+		(property "Reference" "R34"
+			(at 168.91 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Value" "2k2"
+			(at 170.18 243.84 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "rhais_rcl:R0603"
+			(at 170.18 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 170.18 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 170.18 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Vishay Dale"
+			(at 170.18 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06032K20FKEA"
+			(at 170.18 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1% 1/10W"
+			(at 170.18 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "DigiKey"
+			(at 170.18 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_OC" "541-2.20KHDKR-ND"
+			(at 170.18 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/bnh9rvr0"
+			(at 170.18 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "71c9f1c2-7e28-4e1a-b63d-6a23dcf18492")
+		)
+		(pin "2"
+			(uuid "2f172a50-e7e1-4a09-830e-931affc78297")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+					(reference "R34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:FerriteBead_Small")
 		(at 139.7 54.61 90)
 		(unit 1)
@@ -34654,146 +34758,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DX-MON:pkl_R4_Small")
-		(at 170.18 243.84 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2c240734-d7b3-4fa9-8005-cf425dffb80d")
-		(property "Reference" "R34"
-			(at 168.91 243.84 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify top)
-			)
-		)
-		(property "Value" "10K"
-			(at 170.18 243.84 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Footprint" "rhais_rcl:R0603_Array_Concave_4"
-			(at 170.18 243.84 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
-			(at 170.18 243.84 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 170.18 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR" "Bourns Inc."
-			(at 170.18 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CAY16-103J4LF"
-			(at 170.18 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±5%  1/16W "
-			(at 170.18 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER" "DigiKey"
-			(at 170.18 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
-			(at 170.18 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
-			(at 170.18 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b7f1209c-a24f-4209-b4e2-da4f5995e7d6")
-		)
-		(pin "2"
-			(uuid "295eb0a8-7fc0-471f-add1-dc510bba26d3")
-		)
-		(pin "3"
-			(uuid "a2037232-a50e-4bf0-997c-39902a65e9ac")
-		)
-		(pin "4"
-			(uuid "c0297591-de4e-4162-a871-f99dda955ae5")
-		)
-		(pin "5"
-			(uuid "01cb4156-024b-4f82-8691-6d28342c82f9")
-		)
-		(pin "6"
-			(uuid "13d47bb4-9f98-4cd1-90e8-5e73d4662554")
-		)
-		(pin "7"
-			(uuid "b71b18d0-2aea-491e-8d05-1c345d60b23c")
-		)
-		(pin "8"
-			(uuid "2cbc8e0b-90e1-4cde-84a9-a234fcaba742")
-		)
-		(instances
-			(project "squishy-main"
-				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
-					(reference "R34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 256.54 39.37 0)
 		(unit 1)
@@ -35433,51 +35397,51 @@
 		)
 	)
 	(symbol
-		(lib_id "DX-MON:pkl_R4_Small")
-		(at 208.28 243.84 180)
-		(unit 3)
+		(lib_id "Device:R_Small")
+		(at 227.33 243.84 0)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "335d2958-3d27-4e99-8a0c-748506498343")
-		(property "Reference" "R34"
-			(at 207.01 243.84 90)
+		(uuid "325b4cb1-250e-4efc-bd53-6e4e14ad9d0c")
+		(property "Reference" "R80"
+			(at 226.06 243.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify top)
+				(justify bottom)
 			)
 		)
-		(property "Value" "10K"
-			(at 208.28 243.84 90)
+		(property "Value" "2k2"
+			(at 227.33 243.84 90)
 			(effects
 				(font
-					(size 1.016 1.016)
+					(size 1 1)
 				)
 			)
 		)
-		(property "Footprint" "rhais_rcl:R0603_Array_Concave_4"
-			(at 208.28 243.84 0)
+		(property "Footprint" "rhais_rcl:R0603"
+			(at 227.33 243.84 0)
 			(effects
 				(font
-					(size 1.524 1.524)
+					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
-			(at 208.28 243.84 0)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 227.33 243.84 0)
 			(effects
 				(font
-					(size 1.524 1.524)
+					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
 		)
 		(property "Description" ""
-			(at 208.28 243.84 0)
+			(at 227.33 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35485,8 +35449,8 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "Bourns Inc."
-			(at 208.28 243.84 0)
+		(property "MFR" "Vishay Dale"
+			(at 227.33 243.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35494,8 +35458,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CAY16-103J4LF"
-			(at 208.28 243.84 0)
+		(property "MPN" "CRCW06032K20FKEA"
+			(at 227.33 243.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35503,8 +35467,8 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "±5%  1/16W "
-			(at 208.28 243.84 0)
+		(property "Tolerance" "±1% 1/10W"
+			(at 227.33 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35513,7 +35477,7 @@
 			)
 		)
 		(property "SUPPLIER" "DigiKey"
-			(at 208.28 243.84 0)
+			(at 227.33 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35521,8 +35485,8 @@
 				(hide yes)
 			)
 		)
-		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
-			(at 208.28 243.84 0)
+		(property "SUPPLIER_OC" "541-2.20KHDKR-ND"
+			(at 227.33 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35530,8 +35494,8 @@
 				(hide yes)
 			)
 		)
-		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
-			(at 208.28 243.84 0)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/bnh9rvr0"
+			(at 227.33 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35540,34 +35504,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "5c2ebf58-c5fd-4c2f-8386-c935d8ab68dc")
+			(uuid "35baa01e-815d-47cb-b4b8-abce7c49f790")
 		)
 		(pin "2"
-			(uuid "6b60aadf-1193-442e-878b-d3bbd99f66ea")
-		)
-		(pin "3"
-			(uuid "2edd42d2-1c55-4087-b95c-d4d5c98673a8")
-		)
-		(pin "4"
-			(uuid "71fa6d98-c71d-4caf-9356-a208f121bed0")
-		)
-		(pin "5"
-			(uuid "2f918c3b-fade-4034-b62f-25bdd0c22f07")
-		)
-		(pin "6"
-			(uuid "95daf73b-2c71-44fb-a4a2-76ac28ffd6e7")
-		)
-		(pin "7"
-			(uuid "3dd22450-57a9-4475-b74a-7128274bcfdc")
-		)
-		(pin "8"
-			(uuid "140d6af1-29b2-422f-8fe6-6859b9f6708d")
+			(uuid "7763677f-710c-416c-8af5-819de0794c89")
 		)
 		(instances
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
-					(reference "R34")
-					(unit 3)
+					(reference "R80")
+					(unit 1)
 				)
 			)
 		)
@@ -37409,134 +37355,6 @@
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
 					(reference "#PWR0140")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 142.24 189.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "42abf707-b1de-454e-a337-5b1bebe0fb3c")
-		(property "Reference" "R21"
-			(at 140.97 189.23 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Value" "6k8"
-			(at 142.24 189.23 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Footprint" "rhais_rcl:R0603"
-			(at 142.24 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-			(at 142.24 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 142.24 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR" "Vishay Dale"
-			(at 142.24 189.23 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CRCW06036K80FKEA"
-			(at 142.24 189.23 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±1% 1/10W"
-			(at 142.24 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER" "DigiKey"
-			(at 142.24 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER_OC" "541-6.80KHDKR-ND"
-			(at 142.24 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER_URL" "https://www.digikey.com/short/btq94zpc"
-			(at 142.24 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7aa9824b-5620-4de6-964a-e20eaf9e57f2")
-		)
-		(pin "2"
-			(uuid "a7de6357-99aa-485c-8294-d08a94dcccd3")
-		)
-		(instances
-			(project "squishy"
-				(path "/66946989-0eb4-469a-822e-5001e4c71e1d"
-					(reference "R21")
-					(unit 1)
-				)
-			)
-			(project "squishy-main"
-				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
-					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -45082,6 +44900,128 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 189.23 243.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7a988f22-9dbc-4b56-8e6f-f58e506a7e41")
+		(property "Reference" "R78"
+			(at 187.96 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Value" "2k2"
+			(at 189.23 243.84 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "rhais_rcl:R0603"
+			(at 189.23 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 189.23 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 189.23 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Vishay Dale"
+			(at 189.23 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06032K20FKEA"
+			(at 189.23 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1% 1/10W"
+			(at 189.23 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "DigiKey"
+			(at 189.23 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_OC" "541-2.20KHDKR-ND"
+			(at 189.23 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/bnh9rvr0"
+			(at 189.23 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "53b122fc-f301-4bba-8e38-564447630678")
+		)
+		(pin "2"
+			(uuid "d4f9152e-765e-4f07-8dfb-07c497029573")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+					(reference "R78")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 260.35 256.54 0)
 		(unit 1)
@@ -46929,6 +46869,128 @@
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
 					(reference "U17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 208.28 243.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8f760f6a-8fb4-4da1-8b5b-95d3bd420b59")
+		(property "Reference" "R79"
+			(at 207.01 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Value" "2k2"
+			(at 208.28 243.84 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "rhais_rcl:R0603"
+			(at 208.28 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 208.28 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 208.28 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Vishay Dale"
+			(at 208.28 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06032K20FKEA"
+			(at 208.28 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1% 1/10W"
+			(at 208.28 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "DigiKey"
+			(at 208.28 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_OC" "541-2.20KHDKR-ND"
+			(at 208.28 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/bnh9rvr0"
+			(at 208.28 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c0b3a72-62ed-4dea-8f4d-4f0abb2c1fc7")
+		)
+		(pin "2"
+			(uuid "1789b643-f695-4ff9-8c82-831754687249")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+					(reference "R79")
 					(unit 1)
 				)
 			)
@@ -48836,6 +48898,127 @@
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
 					(reference "#PWR052")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Small")
+		(at 142.24 195.58 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9d1a29bb-b5d3-46d6-a218-46dfbd3ae435")
+		(property "Reference" "D7"
+			(at 140.97 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GREEN"
+			(at 143.6624 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+			(at 142.24 195.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150060VS75000.pdf"
+			(at 142.24 195.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 142.24 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Würth Elektronik"
+			(at 142.24 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "150060VS75000"
+			(at 142.24 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
+			(at 142.24 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "DigiKey"
+			(at 142.24 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_OC" "732-4980-6-ND"
+			(at 142.24 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/h8jf77w9"
+			(at 142.24 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f243d6ec-7259-480f-9878-1b573441a2ee")
+		)
+		(pin "2"
+			(uuid "53eb8550-2269-4ea9-8d0a-4b2e51684d97")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -53993,134 +54176,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 161.29 243.84 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ca65ec12-89d8-4514-9a62-5d36e6d36694")
-		(property "Reference" "R23"
-			(at 160.02 243.84 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Value" "4k7"
-			(at 161.29 243.84 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Footprint" "rhais_rcl:R0603"
-			(at 161.29 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-			(at 161.29 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 161.29 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR" "Vishay Dale"
-			(at 161.29 243.84 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CRCW06034K70FKEA"
-			(at 161.29 243.84 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±1% 1/10W"
-			(at 161.29 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER" "DigiKey"
-			(at 161.29 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER_OC" "541-4.70KHDKR-ND"
-			(at 161.29 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER_URL" "https://www.digikey.com/short/f3fq37nd"
-			(at 161.29 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "67e8972a-32d5-454a-ad57-262db8310b43")
-		)
-		(pin "2"
-			(uuid "9fe8355f-e445-449f-951a-a278a7046f90")
-		)
-		(instances
-			(project "squishy"
-				(path "/66946989-0eb4-469a-822e-5001e4c71e1d"
-					(reference "R23")
-					(unit 1)
-				)
-			)
-			(project "squishy-main"
-				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
-					(reference "R42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "lethalbit-devices:Q_Dual_PMOS_S1G1S2G2D2D1")
 		(at 48.26 35.56 90)
 		(unit 1)
@@ -58740,6 +58795,128 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 142.24 189.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e4db2d50-9646-48f2-b82d-aabf7f8d8480")
+		(property "Reference" "R31"
+			(at 140.97 189.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Value" "2k2"
+			(at 142.24 189.23 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "rhais_rcl:R0603"
+			(at 142.24 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 142.24 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 142.24 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Vishay Dale"
+			(at 142.24 189.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06032K20FKEA"
+			(at 142.24 189.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1% 1/10W"
+			(at 142.24 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "DigiKey"
+			(at 142.24 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_OC" "541-2.20KHDKR-ND"
+			(at 142.24 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/bnh9rvr0"
+			(at 142.24 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "689bfea7-2dec-48c5-87e4-bb2fe093d61a")
+		)
+		(pin "2"
+			(uuid "af37b5d9-a8b4-44a5-acfc-a08da2ca50dc")
+		)
+		(instances
+			(project "squishy-main"
+				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
+					(reference "R31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 116.84 148.59 180)
 		(unit 1)
@@ -59822,146 +59999,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DX-MON:pkl_R4_Small")
-		(at 189.23 243.84 180)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f069550e-f15f-4153-88b7-d02b81ceffb2")
-		(property "Reference" "R34"
-			(at 187.96 243.84 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify top)
-			)
-		)
-		(property "Value" "10K"
-			(at 189.23 243.84 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Footprint" "rhais_rcl:R0603_Array_Concave_4"
-			(at 189.23 243.84 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"
-			(at 189.23 243.84 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 189.23 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR" "Bourns Inc."
-			(at 189.23 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CAY16-103J4LF"
-			(at 189.23 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±5%  1/16W "
-			(at 189.23 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER" "DigiKey"
-			(at 189.23 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER_OC" "CAY16-103J4LFDKR-ND"
-			(at 189.23 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
-			(at 189.23 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6bcd5604-610c-49fa-abdd-a98344c7eb9d")
-		)
-		(pin "2"
-			(uuid "a07db3ed-f381-4447-a8c0-5b1afb6298c8")
-		)
-		(pin "3"
-			(uuid "34973eb1-bf6c-4040-bc70-ed29bcb0d504")
-		)
-		(pin "4"
-			(uuid "56189797-980b-401d-b584-782194e30baf")
-		)
-		(pin "5"
-			(uuid "df585a94-3031-4d7f-98f8-05f042c61a22")
-		)
-		(pin "6"
-			(uuid "0ef82159-471b-49b5-9b6d-79f7af85b68c")
-		)
-		(pin "7"
-			(uuid "ae3f230f-1d72-48bb-b286-7e22a6b3bb76")
-		)
-		(pin "8"
-			(uuid "4cef1ca5-c5fe-4129-963a-49425087e3a5")
-		)
-		(instances
-			(project "squishy-main"
-				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
-					(reference "R34")
-					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+2V5")
 		(at 91.44 140.97 0)
 		(unit 1)
@@ -60945,133 +60982,6 @@
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
 					(reference "#PWR0109")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Small")
-		(at 142.24 195.58 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f9ba61fa-0a5c-401a-9d51-ba5791ea934e")
-		(property "Reference" "D10"
-			(at 140.97 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WHITE"
-			(at 143.6624 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 142.24 195.58 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/smlen3wbc8w1-e.pdf"
-			(at 142.24 195.58 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 142.24 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR" "ROHM Semiconductor"
-			(at 142.24 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SMLEN3WBC8W1"
-			(at 142.24 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" ""
-			(at 142.24 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER" "DigiKey"
-			(at 142.24 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER_OC" "SMLEN3WBC8W1DKR-ND"
-			(at 142.24 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER_URL" "https://www.digikey.com/short/c3th3r99"
-			(at 142.24 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9936a714-5388-43b8-b9bc-ec9e053aa184")
-		)
-		(pin "2"
-			(uuid "b251c2ca-4836-42b8-917d-02ae2ef66d70")
-		)
-		(instances
-			(project "squishy"
-				(path "/66946989-0eb4-469a-822e-5001e4c71e1d"
-					(reference "D10")
-					(unit 1)
-				)
-			)
-			(project "squishy-main"
-				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa/3a0401a0-2db0-4f5c-bc8b-66f50b74dd32"
-					(reference "D7")
 					(unit 1)
 				)
 			)
