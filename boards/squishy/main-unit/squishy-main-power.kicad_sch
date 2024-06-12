@@ -14385,7 +14385,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+			(property "Footprint" "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1.01x1.7mm"
 				(at 0 11.43 0)
 				(effects
 					(font
@@ -14554,6 +14554,24 @@
 						)
 					)
 					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 90)
+					(length 2.54) hide
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -54962,7 +54980,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1.01x1.7mm"
 			(at 181.61 193.04 0)
 			(effects
 				(font
@@ -54980,7 +54998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1.5MHZ, 1A STEP-DOWN DC-DC BUCK CONVERTER"
 			(at 181.61 204.47 0)
 			(effects
 				(font
@@ -55060,6 +55078,9 @@
 		)
 		(pin "6"
 			(uuid "dfd42eb6-03bf-4319-a8af-053df8b58086")
+		)
+		(pin "7"
+			(uuid "1ed4de44-df67-4bb4-974f-0a1b6c594349")
 		)
 		(instances
 			(project "squishy-main"
