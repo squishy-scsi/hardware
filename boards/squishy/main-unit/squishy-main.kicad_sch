@@ -26485,6 +26485,17 @@
 		)
 		(uuid "bf768bb4-9609-4200-bb9c-e8064b9deb82")
 	)
+	(text "PHY To Provide \ntermination and/or \ndrive limiting resistor"
+		(exclude_from_sim no)
+		(at 377.444 125.222 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cb16c381-f580-4f28-a971-dd78f8f97936")
+	)
 	(text "microSD card"
 		(exclude_from_sim no)
 		(at 308.61 17.78 0)
