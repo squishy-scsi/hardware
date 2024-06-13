@@ -113,6 +113,6 @@ bending stress
 
 ## CAM production
 
-- [ ] KiCAD specific: rerun DRC and zone fills before exporting CAM files to ensure proper results
-- [ ] Export gerber/drill files at the same time to ensure consistency
+- [x] KiCAD specific: rerun DRC and zone fills before exporting CAM files to ensure proper results
+- [x] Export gerber/drill files at the same time to ensure consistency
 - [ ] Visually verify final CAM files to ensure no obvious misalignments
