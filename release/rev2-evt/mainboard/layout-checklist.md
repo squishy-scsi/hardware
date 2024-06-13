@@ -23,7 +23,7 @@
 - [x] Fiducials present (on both sides of board) if targeting automated assembly
 - [x] Fiducial pattern asymmetric to detect rotated or flipped boards
 - [x] Soldermask/copper clearance on fiducials respected
-- [ ] Panelization specified if required
+- [x] Panelization specified if required
 
 ## Footprints
 
