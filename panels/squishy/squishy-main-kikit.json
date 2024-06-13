@@ -1,0 +1,36 @@
+{
+    "layout": {
+        "hspace": "2.5mm",
+        "vspace": "2.5mm",
+        "hbackbone": "5mm",
+        "vbackbone": "5mm",
+        "cols": "3"
+    },
+    "tabs": {
+        "type": "annotation",
+        "fillet": "1mm"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "prolong": "-0.4mm"
+    },
+    "framing": {
+        "type": "railstb",
+        "fillet": "1mm"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "5mm",
+        "voffset": "2.5mm",
+        "coppersize": "2mm"
+    },
+    "text": {
+        "type": "simple",
+        "voffset": "2.5mm",
+        "text": "JLCJLCJLCJLC"
+    },
+    "post": {
+        "millradius": "0.25mm",
+        "origin": "br"
+    }
+}

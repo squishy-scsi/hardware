@@ -1,0 +1,287 @@
+(version 1)
+
+(rule "Board_0-in1-rules"
+  (layer "In1.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_0-in2-rules"
+  (layer "In2.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_0-in3-rules"
+  (layer "In3.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_0-in4-rules"
+  (layer "In4.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_0-in5-rules"
+  (layer "In5.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_0-in6-rules"
+  (layer "In6.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_0-ulpi-skew"
+	(condition  "A.NetClass == 'Board_0-ULPI'")
+	(constraint length (min 50mm) (max 70mm))
+	(constraint skew (opt 10mm))
+)
+
+(rule "Board_0-sdcard-skew"
+	(condition  "A.NetClass == 'Board_0-SDCARD' && A.NetName != '/SDCARD.DET")
+	(constraint length (min 34mm) (max 35mm))
+	(constraint skew (opt 0.5mm))
+)
+
+### SCSI PHY ###
+
+(rule "Board_0-scsi-phy-back"
+	(condition "A.NetClass == 'Board_0-SCSI' && (A.NetName == 'Board_0-/PHY.DB12' || A.NetName == 'Board_0-/PHY.DB14' || A.NetName == 'Board_0-/PHY.DP1' || A.NetName == 'Board_0-/PHY.DB1' || A.NetName == 'Board_0-/PHY.DB3' || A.NetName == 'Board_0-/PHY.DB5' || A.NetName == 'Board_0-/PHY.DB7' || A.NetName == 'Board_0-/PHY.BSY' || A.NetName == 'Board_0-/PHY.SEL' || A.NetName == 'Board_0-/PHY.RST' || A.NetName == 'Board_0-/PHY.REQ' || A.NetName == 'Board_0-/PHY.DB8' || A.NetName == 'Board_0-/PHY.DB10')")
+	(constraint length (min 24.6446mm) (max 24.6449mm))
+	(constraint skew (max 0.01mm))
+)
+
+(rule "Board_0-scsi-phy-front"
+	(condition "A.NetClass == 'Board_0-SCSI' && (A.NetName == 'Board_0-/PHY.DB13' || A.NetName == 'Board_0-/PHY.DB15' || A.NetName == 'Board_0-/PHY.DB0' || A.NetName == 'Board_0-/PHY.DB2' || A.NetName == 'Board_0-/PHY.DB4' || A.NetName == 'Board_0-/PHY.DB6' || A.NetName == 'Board_0-/PHY.DP0' || A.NetName == 'Board_0-/PHY.ATN' || A.NetName == 'Board_0-/PHY.ACK' || A.NetName == 'Board_0-/PHY.MSG' || A.NetName == 'Board_0-/PHY.C{slash}D' || A.NetName == 'Board_0-/PHY.I{slash}O' || A.NetName == 'Board_0-/PHY.DB9' || A.NetName == 'Board_0-/PHY.DB11')")
+	(constraint length (min 22.4604mm) (max 22.4607mm))
+	(constraint skew (max 0.01mm))
+)
+
+### HyperRAM ###
+
+(rule "Board_0-hyperram-odd-skew"
+	(condition "A.NetClass == 'Board_0-HyperRAM' && (A.NetName == 'Board_0-/RAM.DQO*' || A.NetName == 'Board_0-/RAM.CLK1*' || A.NetName == 'Board_0-/RAM.~{CS3}')")
+	(constraint length (min 32mm) (opt 33mm) (max 33.6mm))
+	(constraint skew (opt 1.0mm))
+)
+
+(rule "Board_0-hyperram-even-skew"
+	(condition "A.NetClass == 'Board_0-HyperRAM' && (A.NetName == 'Board_0-/RAM.DQE*' || A.NetName == 'Board_0-/RAM.CLK0*' || A.NetName == 'Board_0-/RAM.~{CS2}')")
+	(constraint length (min 32.7mm) (opt 33.7mm) (max 34.3mm))
+	(constraint skew (opt 1.0mm))
+)
+
+# These two rules are for fixing the silly that happens with the pullups on the CS lines
+
+(rule "Board_0-hyperram-cs0-fix-skew"
+	(condition "A.NetName == 'Board_0-/RAM.~{CS0}'")
+	(constraint length (min 25.3mm) (opt 26.3mm) (max 26.9mm))
+	(constraint skew (opt 1.0mm))
+)
+
+(rule "Board_0-hyperram-cs1-fix-skew"
+	(condition "A.NetName == 'Board_0-/RAM.~{CS1}'")
+	(constraint length (min 24.6mm) (opt 25.6mm) (max 26.2mm))
+	(constraint skew (opt 1.0mm))
+)
+(rule "Board_1-in1-rules"
+  (layer "In1.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_1-in2-rules"
+  (layer "In2.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_1-in3-rules"
+  (layer "In3.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_1-in4-rules"
+  (layer "In4.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_1-in5-rules"
+  (layer "In5.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_1-in6-rules"
+  (layer "In6.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_1-ulpi-skew"
+	(condition  "A.NetClass == 'Board_1-ULPI'")
+	(constraint length (min 50mm) (max 70mm))
+	(constraint skew (opt 10mm))
+)
+
+(rule "Board_1-sdcard-skew"
+	(condition  "A.NetClass == 'Board_1-SDCARD' && A.NetName != '/SDCARD.DET")
+	(constraint length (min 34mm) (max 35mm))
+	(constraint skew (opt 0.5mm))
+)
+
+### SCSI PHY ###
+
+(rule "Board_1-scsi-phy-back"
+	(condition "A.NetClass == 'Board_1-SCSI' && (A.NetName == 'Board_1-/PHY.DB12' || A.NetName == 'Board_1-/PHY.DB14' || A.NetName == 'Board_1-/PHY.DP1' || A.NetName == 'Board_1-/PHY.DB1' || A.NetName == 'Board_1-/PHY.DB3' || A.NetName == 'Board_1-/PHY.DB5' || A.NetName == 'Board_1-/PHY.DB7' || A.NetName == 'Board_1-/PHY.BSY' || A.NetName == 'Board_1-/PHY.SEL' || A.NetName == 'Board_1-/PHY.RST' || A.NetName == 'Board_1-/PHY.REQ' || A.NetName == 'Board_1-/PHY.DB8' || A.NetName == 'Board_1-/PHY.DB10')")
+	(constraint length (min 24.6446mm) (max 24.6449mm))
+	(constraint skew (max 0.01mm))
+)
+
+(rule "Board_1-scsi-phy-front"
+	(condition "A.NetClass == 'Board_1-SCSI' && (A.NetName == 'Board_1-/PHY.DB13' || A.NetName == 'Board_1-/PHY.DB15' || A.NetName == 'Board_1-/PHY.DB0' || A.NetName == 'Board_1-/PHY.DB2' || A.NetName == 'Board_1-/PHY.DB4' || A.NetName == 'Board_1-/PHY.DB6' || A.NetName == 'Board_1-/PHY.DP0' || A.NetName == 'Board_1-/PHY.ATN' || A.NetName == 'Board_1-/PHY.ACK' || A.NetName == 'Board_1-/PHY.MSG' || A.NetName == 'Board_1-/PHY.C{slash}D' || A.NetName == 'Board_1-/PHY.I{slash}O' || A.NetName == 'Board_1-/PHY.DB9' || A.NetName == 'Board_1-/PHY.DB11')")
+	(constraint length (min 22.4604mm) (max 22.4607mm))
+	(constraint skew (max 0.01mm))
+)
+
+### HyperRAM ###
+
+(rule "Board_1-hyperram-odd-skew"
+	(condition "A.NetClass == 'Board_1-HyperRAM' && (A.NetName == 'Board_1-/RAM.DQO*' || A.NetName == 'Board_1-/RAM.CLK1*' || A.NetName == 'Board_1-/RAM.~{CS3}')")
+	(constraint length (min 32mm) (opt 33mm) (max 33.6mm))
+	(constraint skew (opt 1.0mm))
+)
+
+(rule "Board_1-hyperram-even-skew"
+	(condition "A.NetClass == 'Board_1-HyperRAM' && (A.NetName == 'Board_1-/RAM.DQE*' || A.NetName == 'Board_1-/RAM.CLK0*' || A.NetName == 'Board_1-/RAM.~{CS2}')")
+	(constraint length (min 32.7mm) (opt 33.7mm) (max 34.3mm))
+	(constraint skew (opt 1.0mm))
+)
+
+# These two rules are for fixing the silly that happens with the pullups on the CS lines
+
+(rule "Board_1-hyperram-cs0-fix-skew"
+	(condition "A.NetName == 'Board_1-/RAM.~{CS0}'")
+	(constraint length (min 25.3mm) (opt 26.3mm) (max 26.9mm))
+	(constraint skew (opt 1.0mm))
+)
+
+(rule "Board_1-hyperram-cs1-fix-skew"
+	(condition "A.NetName == 'Board_1-/RAM.~{CS1}'")
+	(constraint length (min 24.6mm) (opt 25.6mm) (max 26.2mm))
+	(constraint skew (opt 1.0mm))
+)
+(rule "Board_2-in1-rules"
+  (layer "In1.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_2-in2-rules"
+  (layer "In2.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_2-in3-rules"
+  (layer "In3.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_2-in4-rules"
+  (layer "In4.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_2-in5-rules"
+  (layer "In5.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_2-in6-rules"
+  (layer "In6.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_2-ulpi-skew"
+	(condition  "A.NetClass == 'Board_2-ULPI'")
+	(constraint length (min 50mm) (max 70mm))
+	(constraint skew (opt 10mm))
+)
+
+(rule "Board_2-sdcard-skew"
+	(condition  "A.NetClass == 'Board_2-SDCARD' && A.NetName != '/SDCARD.DET")
+	(constraint length (min 34mm) (max 35mm))
+	(constraint skew (opt 0.5mm))
+)
+
+### SCSI PHY ###
+
+(rule "Board_2-scsi-phy-back"
+	(condition "A.NetClass == 'Board_2-SCSI' && (A.NetName == 'Board_2-/PHY.DB12' || A.NetName == 'Board_2-/PHY.DB14' || A.NetName == 'Board_2-/PHY.DP1' || A.NetName == 'Board_2-/PHY.DB1' || A.NetName == 'Board_2-/PHY.DB3' || A.NetName == 'Board_2-/PHY.DB5' || A.NetName == 'Board_2-/PHY.DB7' || A.NetName == 'Board_2-/PHY.BSY' || A.NetName == 'Board_2-/PHY.SEL' || A.NetName == 'Board_2-/PHY.RST' || A.NetName == 'Board_2-/PHY.REQ' || A.NetName == 'Board_2-/PHY.DB8' || A.NetName == 'Board_2-/PHY.DB10')")
+	(constraint length (min 24.6446mm) (max 24.6449mm))
+	(constraint skew (max 0.01mm))
+)
+
+(rule "Board_2-scsi-phy-front"
+	(condition "A.NetClass == 'Board_2-SCSI' && (A.NetName == 'Board_2-/PHY.DB13' || A.NetName == 'Board_2-/PHY.DB15' || A.NetName == 'Board_2-/PHY.DB0' || A.NetName == 'Board_2-/PHY.DB2' || A.NetName == 'Board_2-/PHY.DB4' || A.NetName == 'Board_2-/PHY.DB6' || A.NetName == 'Board_2-/PHY.DP0' || A.NetName == 'Board_2-/PHY.ATN' || A.NetName == 'Board_2-/PHY.ACK' || A.NetName == 'Board_2-/PHY.MSG' || A.NetName == 'Board_2-/PHY.C{slash}D' || A.NetName == 'Board_2-/PHY.I{slash}O' || A.NetName == 'Board_2-/PHY.DB9' || A.NetName == 'Board_2-/PHY.DB11')")
+	(constraint length (min 22.4604mm) (max 22.4607mm))
+	(constraint skew (max 0.01mm))
+)
+
+### HyperRAM ###
+
+(rule "Board_2-hyperram-odd-skew"
+	(condition "A.NetClass == 'Board_2-HyperRAM' && (A.NetName == 'Board_2-/RAM.DQO*' || A.NetName == 'Board_2-/RAM.CLK1*' || A.NetName == 'Board_2-/RAM.~{CS3}')")
+	(constraint length (min 32mm) (opt 33mm) (max 33.6mm))
+	(constraint skew (opt 1.0mm))
+)
+
+(rule "Board_2-hyperram-even-skew"
+	(condition "A.NetClass == 'Board_2-HyperRAM' && (A.NetName == 'Board_2-/RAM.DQE*' || A.NetName == 'Board_2-/RAM.CLK0*' || A.NetName == 'Board_2-/RAM.~{CS2}')")
+	(constraint length (min 32.7mm) (opt 33.7mm) (max 34.3mm))
+	(constraint skew (opt 1.0mm))
+)
+
+# These two rules are for fixing the silly that happens with the pullups on the CS lines
+
+(rule "Board_2-hyperram-cs0-fix-skew"
+	(condition "A.NetName == 'Board_2-/RAM.~{CS0}'")
+	(constraint length (min 25.3mm) (opt 26.3mm) (max 26.9mm))
+	(constraint skew (opt 1.0mm))
+)
+
+(rule "Board_2-hyperram-cs1-fix-skew"
+	(condition "A.NetName == 'Board_2-/RAM.~{CS1}'")
+	(constraint length (min 24.6mm) (opt 25.6mm) (max 26.2mm))
+	(constraint skew (opt 1.0mm))
+)
