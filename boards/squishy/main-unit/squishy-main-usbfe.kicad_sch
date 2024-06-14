@@ -18783,7 +18783,7 @@
 		)
 		(uuid "b0db71da-d6f7-42aa-9c90-d73509bed899")
 	)
-	(label "PD_SCA"
+	(label "PD_SDA"
 		(at 82.55 203.2 180)
 		(fields_autoplaced yes)
 		(effects
@@ -18926,7 +18926,7 @@
 		)
 		(uuid "d83535c0-861a-4d61-bb06-663d6e73a60c")
 	)
-	(label "PD_SCA"
+	(label "PD_SDA"
 		(at 213.36 106.68 180)
 		(fields_autoplaced yes)
 		(effects
@@ -30443,7 +30443,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PD_SCA"
+		(property "Value" "PD_SDA"
 			(at 83.82 203.2 0)
 			(effects
 				(font
