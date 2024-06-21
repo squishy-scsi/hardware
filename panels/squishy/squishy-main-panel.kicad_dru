@@ -57,15 +57,22 @@
 ### SCSI PHY ###
 
 (rule "Board_0-scsi-phy-back"
-	(condition "A.NetClass == 'Board_0-SCSI' && (A.NetName == 'Board_0-/PHY.DB12' || A.NetName == 'Board_0-/PHY.DB14' || A.NetName == 'Board_0-/PHY.DP1' || A.NetName == 'Board_0-/PHY.DB1' || A.NetName == 'Board_0-/PHY.DB3' || A.NetName == 'Board_0-/PHY.DB5' || A.NetName == 'Board_0-/PHY.DB7' || A.NetName == 'Board_0-/PHY.BSY' || A.NetName == 'Board_0-/PHY.SEL' || A.NetName == 'Board_0-/PHY.RST' || A.NetName == 'Board_0-/PHY.REQ' || A.NetName == 'Board_0-/PHY.DB8' || A.NetName == 'Board_0-/PHY.DB10')")
-	(constraint length (min 24.6446mm) (max 24.6449mm))
+	(condition "A.NetClass == 'Board_0-SCSI' && (A.NetName == 'Board_0-/PHY.DB12' || A.NetName == 'Board_0-/PHY.DB14' || A.NetName == 'Board_0-/PHY.DP1' || A.NetName == 'Board_0-/PHY.DB1' || A.NetName == 'Board_0-/PHY.DB3' || A.NetName == 'Board_0-/PHY.DB5' || A.NetName == 'Board_0-/PHY.DB7' || A.NetName == 'Board_0-/PHY.BSY*' || A.NetName == 'Board_0-/PHY.SEL*' || A.NetName == 'Board_0-/PHY.RST*' || A.NetName == 'Board_0-/PHY.REQ' || A.NetName == 'Board_0-/PHY.DB8' || A.NetName == 'Board_0-/PHY.DB10')")
+	(constraint length (min 26.3254mm) (max 26.3256mm))
 	(constraint skew (max 0.01mm))
 )
 
 (rule "Board_0-scsi-phy-front"
-	(condition "A.NetClass == 'Board_0-SCSI' && (A.NetName == 'Board_0-/PHY.DB13' || A.NetName == 'Board_0-/PHY.DB15' || A.NetName == 'Board_0-/PHY.DB0' || A.NetName == 'Board_0-/PHY.DB2' || A.NetName == 'Board_0-/PHY.DB4' || A.NetName == 'Board_0-/PHY.DB6' || A.NetName == 'Board_0-/PHY.DP0' || A.NetName == 'Board_0-/PHY.ATN' || A.NetName == 'Board_0-/PHY.ACK' || A.NetName == 'Board_0-/PHY.MSG' || A.NetName == 'Board_0-/PHY.C{slash}D' || A.NetName == 'Board_0-/PHY.I{slash}O' || A.NetName == 'Board_0-/PHY.DB9' || A.NetName == 'Board_0-/PHY.DB11')")
-	(constraint length (min 22.4604mm) (max 22.4607mm))
+	(condition "A.NetClass == 'Board_0-SCSI' && (A.NetName == 'Board_0-/PHY.DB13' || A.NetName == 'Board_0-/PHY.DB15' || A.NetName == 'Board_0-/PHY.DB0' || A.NetName == 'Board_0-/PHY.DB2' || A.NetName == 'Board_0-/PHY.DB4' || A.NetName == 'Board_0-/PHY.DB6' || A.NetName == 'Board_0-/PHY.DP0' || A.NetName == 'Board_0-/PHY.ATN' || A.NetName == 'Board_0-/PHY.ACK' || A.NetName == 'Board_0-/PHY.MSG' || A.NetName == 'Board_0-/PHY.C{slash}D' || A.NetName == 'Board_0-/PHY.I{slash}O' || A.NetName == 'Board_0-/PHY.DB9' || A.NetName == 'Board_0-/PHY.DB11' || A.NetName == 'Board_0-/PHY.DBH_DIR' || A.NetName == 'Board_0-/PHY.DBL_DIR' || A.NetName == 'Board_0-/PHY.TRGT_DIR' || A.NetName == 'Board_0-/PHY.INIT_DIR')")
+	(constraint length (min 21.9254mm) (max 21.9256mm))
 	(constraint skew (max 0.01mm))
+)
+
+(rule "Board_0-scsi-phy-inner-width"
+	(layer "In2.Cu")
+	(condition "A.NetClass == 'Board_0-SCSI'")
+	(constraint track_width (opt 0.177mm))
+	(constraint clearance (min 0.275mm))
 )
 
 ### HyperRAM ###
@@ -152,15 +159,22 @@
 ### SCSI PHY ###
 
 (rule "Board_1-scsi-phy-back"
-	(condition "A.NetClass == 'Board_1-SCSI' && (A.NetName == 'Board_1-/PHY.DB12' || A.NetName == 'Board_1-/PHY.DB14' || A.NetName == 'Board_1-/PHY.DP1' || A.NetName == 'Board_1-/PHY.DB1' || A.NetName == 'Board_1-/PHY.DB3' || A.NetName == 'Board_1-/PHY.DB5' || A.NetName == 'Board_1-/PHY.DB7' || A.NetName == 'Board_1-/PHY.BSY' || A.NetName == 'Board_1-/PHY.SEL' || A.NetName == 'Board_1-/PHY.RST' || A.NetName == 'Board_1-/PHY.REQ' || A.NetName == 'Board_1-/PHY.DB8' || A.NetName == 'Board_1-/PHY.DB10')")
-	(constraint length (min 24.6446mm) (max 24.6449mm))
+	(condition "A.NetClass == 'Board_1-SCSI' && (A.NetName == 'Board_1-/PHY.DB12' || A.NetName == 'Board_1-/PHY.DB14' || A.NetName == 'Board_1-/PHY.DP1' || A.NetName == 'Board_1-/PHY.DB1' || A.NetName == 'Board_1-/PHY.DB3' || A.NetName == 'Board_1-/PHY.DB5' || A.NetName == 'Board_1-/PHY.DB7' || A.NetName == 'Board_1-/PHY.BSY*' || A.NetName == 'Board_1-/PHY.SEL*' || A.NetName == 'Board_1-/PHY.RST*' || A.NetName == 'Board_1-/PHY.REQ' || A.NetName == 'Board_1-/PHY.DB8' || A.NetName == 'Board_1-/PHY.DB10')")
+	(constraint length (min 26.3254mm) (max 26.3256mm))
 	(constraint skew (max 0.01mm))
 )
 
 (rule "Board_1-scsi-phy-front"
-	(condition "A.NetClass == 'Board_1-SCSI' && (A.NetName == 'Board_1-/PHY.DB13' || A.NetName == 'Board_1-/PHY.DB15' || A.NetName == 'Board_1-/PHY.DB0' || A.NetName == 'Board_1-/PHY.DB2' || A.NetName == 'Board_1-/PHY.DB4' || A.NetName == 'Board_1-/PHY.DB6' || A.NetName == 'Board_1-/PHY.DP0' || A.NetName == 'Board_1-/PHY.ATN' || A.NetName == 'Board_1-/PHY.ACK' || A.NetName == 'Board_1-/PHY.MSG' || A.NetName == 'Board_1-/PHY.C{slash}D' || A.NetName == 'Board_1-/PHY.I{slash}O' || A.NetName == 'Board_1-/PHY.DB9' || A.NetName == 'Board_1-/PHY.DB11')")
-	(constraint length (min 22.4604mm) (max 22.4607mm))
+	(condition "A.NetClass == 'Board_1-SCSI' && (A.NetName == 'Board_1-/PHY.DB13' || A.NetName == 'Board_1-/PHY.DB15' || A.NetName == 'Board_1-/PHY.DB0' || A.NetName == 'Board_1-/PHY.DB2' || A.NetName == 'Board_1-/PHY.DB4' || A.NetName == 'Board_1-/PHY.DB6' || A.NetName == 'Board_1-/PHY.DP0' || A.NetName == 'Board_1-/PHY.ATN' || A.NetName == 'Board_1-/PHY.ACK' || A.NetName == 'Board_1-/PHY.MSG' || A.NetName == 'Board_1-/PHY.C{slash}D' || A.NetName == 'Board_1-/PHY.I{slash}O' || A.NetName == 'Board_1-/PHY.DB9' || A.NetName == 'Board_1-/PHY.DB11' || A.NetName == 'Board_1-/PHY.DBH_DIR' || A.NetName == 'Board_1-/PHY.DBL_DIR' || A.NetName == 'Board_1-/PHY.TRGT_DIR' || A.NetName == 'Board_1-/PHY.INIT_DIR')")
+	(constraint length (min 21.9254mm) (max 21.9256mm))
 	(constraint skew (max 0.01mm))
+)
+
+(rule "Board_1-scsi-phy-inner-width"
+	(layer "In2.Cu")
+	(condition "A.NetClass == 'Board_1-SCSI'")
+	(constraint track_width (opt 0.177mm))
+	(constraint clearance (min 0.275mm))
 )
 
 ### HyperRAM ###
@@ -247,15 +261,22 @@
 ### SCSI PHY ###
 
 (rule "Board_2-scsi-phy-back"
-	(condition "A.NetClass == 'Board_2-SCSI' && (A.NetName == 'Board_2-/PHY.DB12' || A.NetName == 'Board_2-/PHY.DB14' || A.NetName == 'Board_2-/PHY.DP1' || A.NetName == 'Board_2-/PHY.DB1' || A.NetName == 'Board_2-/PHY.DB3' || A.NetName == 'Board_2-/PHY.DB5' || A.NetName == 'Board_2-/PHY.DB7' || A.NetName == 'Board_2-/PHY.BSY' || A.NetName == 'Board_2-/PHY.SEL' || A.NetName == 'Board_2-/PHY.RST' || A.NetName == 'Board_2-/PHY.REQ' || A.NetName == 'Board_2-/PHY.DB8' || A.NetName == 'Board_2-/PHY.DB10')")
-	(constraint length (min 24.6446mm) (max 24.6449mm))
+	(condition "A.NetClass == 'Board_2-SCSI' && (A.NetName == 'Board_2-/PHY.DB12' || A.NetName == 'Board_2-/PHY.DB14' || A.NetName == 'Board_2-/PHY.DP1' || A.NetName == 'Board_2-/PHY.DB1' || A.NetName == 'Board_2-/PHY.DB3' || A.NetName == 'Board_2-/PHY.DB5' || A.NetName == 'Board_2-/PHY.DB7' || A.NetName == 'Board_2-/PHY.BSY*' || A.NetName == 'Board_2-/PHY.SEL*' || A.NetName == 'Board_2-/PHY.RST*' || A.NetName == 'Board_2-/PHY.REQ' || A.NetName == 'Board_2-/PHY.DB8' || A.NetName == 'Board_2-/PHY.DB10')")
+	(constraint length (min 26.3254mm) (max 26.3256mm))
 	(constraint skew (max 0.01mm))
 )
 
 (rule "Board_2-scsi-phy-front"
-	(condition "A.NetClass == 'Board_2-SCSI' && (A.NetName == 'Board_2-/PHY.DB13' || A.NetName == 'Board_2-/PHY.DB15' || A.NetName == 'Board_2-/PHY.DB0' || A.NetName == 'Board_2-/PHY.DB2' || A.NetName == 'Board_2-/PHY.DB4' || A.NetName == 'Board_2-/PHY.DB6' || A.NetName == 'Board_2-/PHY.DP0' || A.NetName == 'Board_2-/PHY.ATN' || A.NetName == 'Board_2-/PHY.ACK' || A.NetName == 'Board_2-/PHY.MSG' || A.NetName == 'Board_2-/PHY.C{slash}D' || A.NetName == 'Board_2-/PHY.I{slash}O' || A.NetName == 'Board_2-/PHY.DB9' || A.NetName == 'Board_2-/PHY.DB11')")
-	(constraint length (min 22.4604mm) (max 22.4607mm))
+	(condition "A.NetClass == 'Board_2-SCSI' && (A.NetName == 'Board_2-/PHY.DB13' || A.NetName == 'Board_2-/PHY.DB15' || A.NetName == 'Board_2-/PHY.DB0' || A.NetName == 'Board_2-/PHY.DB2' || A.NetName == 'Board_2-/PHY.DB4' || A.NetName == 'Board_2-/PHY.DB6' || A.NetName == 'Board_2-/PHY.DP0' || A.NetName == 'Board_2-/PHY.ATN' || A.NetName == 'Board_2-/PHY.ACK' || A.NetName == 'Board_2-/PHY.MSG' || A.NetName == 'Board_2-/PHY.C{slash}D' || A.NetName == 'Board_2-/PHY.I{slash}O' || A.NetName == 'Board_2-/PHY.DB9' || A.NetName == 'Board_2-/PHY.DB11' || A.NetName == 'Board_2-/PHY.DBH_DIR' || A.NetName == 'Board_2-/PHY.DBL_DIR' || A.NetName == 'Board_2-/PHY.TRGT_DIR' || A.NetName == 'Board_2-/PHY.INIT_DIR')")
+	(constraint length (min 21.9254mm) (max 21.9256mm))
 	(constraint skew (max 0.01mm))
+)
+
+(rule "Board_2-scsi-phy-inner-width"
+	(layer "In2.Cu")
+	(condition "A.NetClass == 'Board_2-SCSI'")
+	(constraint track_width (opt 0.177mm))
+	(constraint clearance (min 0.275mm))
 )
 
 ### HyperRAM ###
