@@ -29413,6 +29413,7 @@
 	)
 	(label "PHY.LS_CTRL0"
 		(at 377.19 125.73 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
