@@ -68,6 +68,12 @@
 	(constraint skew (max 0.01mm))
 )
 
+(rule "scsi-phy-inner-width"
+	(layer "In2.Cu")
+	(condition "A.NetClass == 'SCSI'")
+	(constraint track_width (opt 0.173mm))
+)
+
 ### HyperRAM ###
 
 (rule "hyperram-odd-skew"

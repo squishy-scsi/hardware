@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.5,
-          "width": 0.9
+          "height": 2.665,
+          "width": 3.945
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -676,7 +676,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.25,
+        "clearance": 0.275,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -686,7 +686,7 @@
         "name": "SCSI",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(38, 163, 217)",
-        "track_width": 0.17,
+        "track_width": 0.1862,
         "via_diameter": 0.4,
         "via_drill": 0.2,
         "wire_width": 6
@@ -782,7 +782,7 @@
       },
       {
         "netclass": "SCSI",
-        "pattern": "/PHY.(REQ|ATN|BSY|ACK|MSG|SEL|RST|I{slash}O|C{slash}D)"
+        "pattern": "/PHY.(REQ|ATN|BSY(|_DIR)|ACK|MSG|SEL(|_DIR)|RST(|_DIR)|I{slash}O|C{slash}D|TRGT_DIR|INIT_DIR)"
       }
     ]
   },
