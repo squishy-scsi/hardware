@@ -36290,7 +36290,7 @@
 		)
 		(pin "3"
 			(uuid "5d5edb05-0cdd-4231-b515-7fc8cccdf5a1")
-			(alternate "SC0_PAD0")
+			(alternate "SC0_PAD2")
 		)
 		(pin "4"
 			(uuid "a604a4aa-0104-41f9-9915-306b593c757b")
@@ -36298,7 +36298,7 @@
 		)
 		(pin "5"
 			(uuid "e95e82e1-901d-4094-9ea4-7df5fde72b03")
-			(alternate "SC0_PAD2")
+			(alternate "SC0_PAD0")
 		)
 		(pin "6"
 			(uuid "52fa0d45-94ac-4f95-9596-75a48e92f6dc")
