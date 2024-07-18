@@ -44428,7 +44428,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "48MHz"
+		(property "Value" "32MHz"
 			(at 34.29 168.91 0)
 			(effects
 				(font
@@ -44473,7 +44473,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ASE-48.000MHZ-LC-T"
+		(property "MPN" "ASE-32.000MHZ-L-C-T"
 			(at 33.02 162.56 0)
 			(effects
 				(font
@@ -44500,7 +44500,7 @@
 				(hide yes)
 			)
 		)
-		(property "SUPPLIER_OC" "535-ASE-48.000MHZ-L-C-TDKR-ND"
+		(property "SUPPLIER_OC" "535-ASE-32.000MHZ-L-C-TCT-ND"
 			(at 33.02 162.56 0)
 			(effects
 				(font
