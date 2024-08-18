@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 1.1,
+          "width": 1.6
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -596,11 +596,59 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MFR",
+          "name": "MFR",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER",
+          "name": "SUPPLIER",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER_OC",
+          "name": "SUPPLIER_OC",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER_URL",
+          "name": "SUPPLIER_URL",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Tolerance",
+          "name": "Tolerance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -647,6 +695,14 @@
     [
       "bd9eafec-5355-49e4-b2e3-916daacb0a86",
       "Root"
+    ],
+    [
+      "ac0cf014-0d81-4a1e-9a63-ee2d9e6b953e",
+      "Transceivers"
+    ],
+    [
+      "bf2a32e9-9184-4f34-ae15-cdf0531eb9ab",
+      "Termination"
     ]
   ],
   "text_variables": {}

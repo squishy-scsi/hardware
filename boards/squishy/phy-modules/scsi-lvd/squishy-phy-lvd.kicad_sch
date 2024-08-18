@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "Squishy - LVD PHY - Root")
-		(date "2024-06-14")
+		(date "2024-07-15")
 		(rev "1")
 		(company "Shrine Maiden Heavy Industries")
 		(comment 1 "License:  CERN-OHL-S")
@@ -4709,6 +4709,12 @@
 		(uuid "f3108eaf-d483-4524-8964-5c0c42ce3598")
 	)
 	(junction
+		(at 342.9 200.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f7597b6d-800e-48e5-abdb-d5ff83e97e25")
+	)
+	(junction
 		(at 40.64 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6105,6 +6111,16 @@
 		)
 		(uuid "15c7b0f6-e9c2-4365-8528-95ed24522ed9")
 	)
+	(bus
+		(pts
+			(xy 339.09 189.23) (xy 341.63 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15fb4d94-806a-4147-8354-b500cde340ac")
+	)
 	(wire
 		(pts
 			(xy 20.32 62.23) (xy 43.18 62.23)
@@ -6905,6 +6921,16 @@
 		)
 		(uuid "41b9dade-0855-4676-b35a-3ac0b8d2ddb4")
 	)
+	(bus
+		(pts
+			(xy 354.33 200.66) (xy 342.9 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41d01d7b-c9fe-4c4a-b8f5-20f2b4e033c6")
+	)
 	(wire
 		(pts
 			(xy 55.88 72.39) (xy 58.42 72.39)
@@ -7575,6 +7601,16 @@
 		)
 		(uuid "71d3285e-45a8-46ee-aa1e-22b0ea565c25")
 	)
+	(bus
+		(pts
+			(xy 342.9 190.5) (xy 342.9 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71e1453a-fe41-4b79-abe1-a996a1746f50")
+	)
 	(polyline
 		(pts
 			(xy 13.97 175.26) (xy 85.09 175.26)
@@ -7784,6 +7820,16 @@
 			(type default)
 		)
 		(uuid "7d33eed4-e2d7-4712-8cf8-edd5e9a538e5")
+	)
+	(bus
+		(pts
+			(xy 341.63 189.23) (xy 342.9 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7fd4ca61-07d7-4448-89a0-fdcc4213c9b9")
 	)
 	(wire
 		(pts
@@ -9085,6 +9131,16 @@
 		)
 		(uuid "c8c7f1ed-9cd7-4b13-852e-66a345cc9657")
 	)
+	(bus
+		(pts
+			(xy 342.9 200.66) (xy 339.09 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c923d161-e44f-4ed1-bfc5-c1a75accd41d")
+	)
 	(wire
 		(pts
 			(xy 20.32 46.99) (xy 43.18 46.99)
@@ -9937,6 +9993,16 @@
 	)
 	(bus
 		(pts
+			(xy 339.09 203.2) (xy 354.33 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8017464-77da-450a-b474-cbcfa5c94baa")
+	)
+	(bus
+		(pts
 			(xy 17.78 128.27) (xy 17.78 133.35)
 		)
 		(stroke
@@ -10380,6 +10446,17 @@
 		)
 		(uuid "2638653c-45d9-428f-9486-295ac8be5585")
 	)
+	(label "CON{SCSI}"
+		(at 354.33 200.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2775bf57-dc95-4970-bdfc-a2a2dc17075a")
+	)
 	(label "PHY{SCSI_PHY}"
 		(at 64.77 25.4 0)
 		(fields_autoplaced yes)
@@ -10503,6 +10580,7 @@
 	)
 	(label "CON.DB10+"
 		(at 38.1 151.13 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10610,6 +10688,17 @@
 		)
 		(uuid "661f3670-6d66-4f44-b059-a924ded9bb84")
 	)
+	(label "PHY{SCSI_PHY}"
+		(at 340.36 203.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "68ae7f46-2f9c-486a-aa92-f7eb1b0b8dc6")
+	)
 	(label "CON.DB15-"
 		(at 60.96 54.61 0)
 		(fields_autoplaced yes)
@@ -10634,6 +10723,7 @@
 	)
 	(label "PHY.ID_SDA"
 		(at 59.69 34.29 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11417,6 +11507,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -11426,6 +11517,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" ""
@@ -11477,11 +11569,12 @@
 		(dnp no)
 		(uuid "05de0ff1-8a0a-4c89-960f-c440fdad80e0")
 		(property "Reference" "C1"
-			(at 331.47 237.49 90)
+			(at 330.2 237.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Value" "100n"
@@ -11490,6 +11583,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" "rhais_rcl:C0603"
@@ -11604,6 +11698,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -11613,6 +11708,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -11695,6 +11791,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -11704,6 +11801,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" "lethalbit-connectors:1014457-10x80xLF"
@@ -12112,6 +12210,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -12121,6 +12220,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -12202,6 +12302,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -12211,6 +12312,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" ""
@@ -12267,6 +12369,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Value" "Fiducial"
@@ -12275,7 +12378,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -12366,6 +12469,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Value" "Fiducial"
@@ -12374,7 +12478,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -12465,6 +12569,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Value" "MountingHole"
@@ -12473,6 +12578,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -12566,6 +12672,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -12575,6 +12682,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" ""
@@ -12632,6 +12740,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -12641,6 +12750,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" ""
@@ -12697,6 +12807,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -12706,6 +12817,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" ""
@@ -12762,6 +12874,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -12771,6 +12884,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" ""
@@ -12827,6 +12941,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -12836,6 +12951,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" ""
@@ -12892,6 +13008,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Value" "Fiducial"
@@ -12900,7 +13017,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -12991,6 +13108,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Value" "MountingHole"
@@ -12999,6 +13117,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -13092,6 +13211,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Value" "MountingHole"
@@ -13100,6 +13220,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -13193,6 +13314,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -13202,6 +13324,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" ""
@@ -13258,6 +13381,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Value" "MountingHole"
@@ -13266,6 +13390,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -13482,6 +13607,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -13491,6 +13617,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" ""
@@ -13547,6 +13674,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Value" "M24C02-RMC"
@@ -13555,6 +13683,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" "lethalbit-memory:ST_UFDFPN-8-1EP_2x3mm_P0.5mm_EP1.6x1.6mm"
@@ -13635,6 +13764,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -13644,6 +13774,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
 		(property "Footprint" "lethalbit-connectors:101445x-10x80xLF"
@@ -14032,6 +14163,112 @@
 				(path "/bd9eafec-5355-49e4-b2e3-916daacb0a86"
 					(reference "J2")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 298.45 198.12)
+		(size 40.64 13.97)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ac0cf014-0d81-4a1e-9a63-ee2d9e6b953e")
+		(property "Sheetname" "Transceivers"
+			(at 298.45 197.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "squishy-lvd-phy-transceivers.kicad_sch"
+			(at 298.45 212.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PHY{SCSI_PHY}" bidirectional
+			(at 339.09 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4b206523-5dba-4a13-8d8e-dbcbab987e24")
+		)
+		(pin "CON_OUT{SCSI}" output
+			(at 339.09 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "dd537d57-d010-42af-a913-eda2507418dd")
+		)
+		(instances
+			(project "squishy-phy-lvd"
+				(path "/bd9eafec-5355-49e4-b2e3-916daacb0a86"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 298.45 180.34)
+		(size 40.64 11.43)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bf2a32e9-9184-4f34-ae15-cdf0531eb9ab")
+		(property "Sheetname" "Termination"
+			(at 298.45 179.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "squishy-lvd-phy-termination.kicad_sch"
+			(at 298.45 192.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CON_OUT{SCSI}" output
+			(at 339.09 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9db60b04-ab3a-4cd0-9d85-10769a44921c")
+		)
+		(instances
+			(project "squishy-phy-lvd"
+				(path "/bd9eafec-5355-49e4-b2e3-916daacb0a86"
+					(page "3")
 				)
 			)
 		)
