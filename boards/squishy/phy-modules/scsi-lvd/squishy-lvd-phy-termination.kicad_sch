@@ -4761,6 +4761,7 @@
 	)
 	(label "CON_OUT.DB0+"
 		(at 62.23 24.13 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
