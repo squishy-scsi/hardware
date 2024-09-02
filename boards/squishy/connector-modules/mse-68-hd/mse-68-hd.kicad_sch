@@ -12511,7 +12511,7 @@
 		)
 		(uuid "777cbe21-6688-445e-881d-9de995e1ecca")
 	)
-	(label "CON.ATN-"
+	(label "CON.ACK-"
 		(at 177.8 93.98 0)
 		(effects
 			(font
