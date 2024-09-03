@@ -1770,6 +1770,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 273.05) (xy 33.02 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a3c7d84-44aa-468a-9b8f-d4f0d3cb446b")
+	)
+	(wire
+		(pts
 			(xy 45.72 233.68) (xy 45.72 236.22)
 		)
 		(stroke
@@ -4704,6 +4714,17 @@
 		)
 		(uuid "af16088f-5a0a-4481-81a4-d4fdf2910957")
 	)
+	(label "1v2"
+		(at 33.02 273.05 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b27d8b88-c1cd-47b7-a5f1-883d1360252e")
+	)
 	(label "CON_OUT.DP0-"
 		(at 99.06 128.27 180)
 		(fields_autoplaced yes)
@@ -4912,6 +4933,30 @@
 			(justify left bottom)
 		)
 		(uuid "fef81324-5dc6-454e-b5bb-00c35eb36fca")
+	)
+	(hierarchical_label "INT_TERMPWR"
+		(shape output)
+		(at 39.37 273.05 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "21ebbe57-a12b-45b4-aaf5-701ac161a25b")
+	)
+	(hierarchical_label "PHY{SCSI_PHY}"
+		(shape bidirectional)
+		(at 39.37 275.59 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9bfc19a7-2ec2-4ab1-96af-693f8ae5bafe")
 	)
 	(hierarchical_label "CON_OUT{SCSI}"
 		(shape output)
