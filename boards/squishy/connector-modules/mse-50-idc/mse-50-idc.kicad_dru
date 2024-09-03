@@ -27,3 +27,9 @@
   (constraint track_width (min 0.127mm))
   (constraint hole_clearance (min 0.127mm))
 )
+
+(rule "f.cu-bus-clearence"
+  (layer "F.Cu")
+  (condition "A.NetClass == 'SCSI_PHY' && B.NetName == 'GND'")
+  (constraint clearance (min 0.2mm))
+)
