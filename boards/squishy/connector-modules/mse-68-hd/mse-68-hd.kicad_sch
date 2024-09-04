@@ -6532,6 +6532,12 @@
 		(uuid "5fee8e81-ef55-4e23-890c-6304f7ac8177")
 	)
 	(junction
+		(at 144.78 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "61af534d-69f1-4667-9142-6bf52284b0ac")
+	)
+	(junction
 		(at 58.42 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6626,6 +6632,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b8da4816-f9ef-4d5c-8350-4d744fe38914")
+	)
+	(junction
+		(at 134.62 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be311bdd-8db1-4c3b-879e-e5651799247a")
 	)
 	(junction
 		(at 40.64 57.15)
@@ -8023,6 +8035,16 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 148.59) (xy 137.16 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ee50288-dd49-411e-b21c-2f9e29529598")
+	)
+	(wire
+		(pts
 			(xy 137.16 53.34) (xy 158.75 53.34)
 		)
 		(stroke
@@ -8120,6 +8142,16 @@
 			(type default)
 		)
 		(uuid "14f60dcf-48e6-4b53-94da-eaab2632436a")
+	)
+	(wire
+		(pts
+			(xy 134.62 143.51) (xy 137.16 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "164a4ca7-df36-421c-b07e-0f6ce4554f33")
 	)
 	(wire
 		(pts
@@ -9223,6 +9255,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 148.59) (xy 144.78 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56ae2b23-ec75-44f2-9227-0f72e7bbc359")
+	)
+	(wire
+		(pts
 			(xy 55.88 105.41) (xy 58.42 105.41)
 		)
 		(stroke
@@ -9260,6 +9302,16 @@
 			(type default)
 		)
 		(uuid "58b08120-b18b-4a69-b28b-1bc2b6079470")
+	)
+	(wire
+		(pts
+			(xy 134.62 148.59) (xy 134.62 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "594b07fb-43fc-40af-bebb-ea4ca31abbfc")
 	)
 	(bus
 		(pts
@@ -9951,6 +10003,16 @@
 		)
 		(uuid "87371351-f6ad-449b-a6cc-8d272eec4efb")
 	)
+	(wire
+		(pts
+			(xy 134.62 143.51) (xy 134.62 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "877e26b0-286a-487d-be98-67e81d8cc5d3")
+	)
 	(bus
 		(pts
 			(xy 17.78 97.79) (xy 17.78 100.33)
@@ -10100,6 +10162,16 @@
 			(type default)
 		)
 		(uuid "925034b5-2638-4ef4-8059-33a599194f66")
+	)
+	(wire
+		(pts
+			(xy 142.24 143.51) (xy 144.78 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92bedbe5-76fb-4761-abdf-4a9a8b7997cc")
 	)
 	(wire
 		(pts
@@ -10991,6 +11063,26 @@
 		)
 		(uuid "c9966816-f356-4a3c-8d6e-6dd07b7099a6")
 	)
+	(wire
+		(pts
+			(xy 165.1 125.73) (xy 165.1 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca3e97ad-30ca-4fe9-8b83-7545c418e880")
+	)
+	(wire
+		(pts
+			(xy 144.78 146.05) (xy 144.78 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca569acc-945e-4903-a2e7-646dd1cdd5d5")
+	)
 	(bus
 		(pts
 			(xy 17.78 67.31) (xy 17.78 72.39)
@@ -11661,6 +11753,16 @@
 		)
 		(uuid "f4ec9aa5-bcda-440d-8686-f1dc84843095")
 	)
+	(wire
+		(pts
+			(xy 144.78 143.51) (xy 144.78 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f68f0f67-8885-4c16-a1a8-73643d041033")
+	)
 	(bus
 		(pts
 			(xy 81.28 113.03) (xy 81.28 118.11)
@@ -11831,6 +11933,16 @@
 		)
 		(uuid "ff514f1a-aafd-466b-9280-c1d31ac03b1e")
 	)
+	(wire
+		(pts
+			(xy 144.78 146.05) (xy 152.4 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff81aa20-09af-4a85-bc89-7374ebe92d1a")
+	)
 	(text "Address: 1010011x"
 		(exclude_from_sim no)
 		(at 207.01 133.858 0)
@@ -11952,6 +12064,7 @@
 	)
 	(label "CON.DB11-"
 		(at 177.8 119.38 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11960,8 +12073,20 @@
 		)
 		(uuid "0790433f-b87f-4aa2-8f14-c00271a0b4ce")
 	)
+	(label "SHIELD"
+		(at 152.4 146.05 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "07c82cb6-4085-4df0-9412-d8127ee35855")
+	)
 	(label "CON.DB11+"
 		(at 152.4 119.38 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11972,6 +12097,7 @@
 	)
 	(label "CON.DB15+"
 		(at 152.4 43.18 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12004,6 +12130,7 @@
 	)
 	(label "CON.REQ-"
 		(at 177.8 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12025,6 +12152,7 @@
 	)
 	(label "CON.DIFFSENSE"
 		(at 152.4 73.66 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12046,6 +12174,7 @@
 	)
 	(label "CON.DB13-"
 		(at 177.8 38.1 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12078,6 +12207,7 @@
 	)
 	(label "CON.RST-"
 		(at 177.8 96.52 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12165,6 +12295,7 @@
 	)
 	(label "CON.DB3-"
 		(at 177.8 55.88 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12175,6 +12306,7 @@
 	)
 	(label "CON.SEL+"
 		(at 152.4 101.6 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12196,6 +12328,7 @@
 	)
 	(label "CON.ACK+"
 		(at 152.4 93.98 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12217,6 +12350,7 @@
 	)
 	(label "CON.SEL-"
 		(at 177.8 101.6 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12227,6 +12361,7 @@
 	)
 	(label "CON.DP0-"
 		(at 177.8 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12237,6 +12372,7 @@
 	)
 	(label "CON.DB9-"
 		(at 177.8 114.3 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12258,6 +12394,7 @@
 	)
 	(label "CON.I{slash}O+"
 		(at 152.4 109.22 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12301,6 +12438,7 @@
 	)
 	(label "CON.DB1-"
 		(at 177.8 50.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12322,6 +12460,7 @@
 	)
 	(label "CON.DB7-"
 		(at 177.8 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12332,6 +12471,7 @@
 	)
 	(label "CON.DB12+"
 		(at 152.4 35.56 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12353,6 +12493,7 @@
 	)
 	(label "CON.DB4-"
 		(at 177.8 58.42 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12396,6 +12537,7 @@
 	)
 	(label "CON.BSY+"
 		(at 152.4 91.44 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12428,6 +12570,7 @@
 	)
 	(label "CON.DB7+"
 		(at 152.4 66.04 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12482,6 +12625,7 @@
 	)
 	(label "CON.I{slash}O-"
 		(at 177.8 109.22 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12492,6 +12636,7 @@
 	)
 	(label "CON.DB8-"
 		(at 177.8 111.76 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12513,6 +12658,7 @@
 	)
 	(label "CON.ACK-"
 		(at 177.8 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12523,6 +12669,7 @@
 	)
 	(label "CON.DB1+"
 		(at 152.4 50.8 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12533,6 +12680,7 @@
 	)
 	(label "CON.DB0+"
 		(at 152.4 48.26 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12543,6 +12691,7 @@
 	)
 	(label "CON.DB2-"
 		(at 177.8 53.34 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12630,6 +12779,7 @@
 	)
 	(label "CON.DB14+"
 		(at 152.4 40.64 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12651,6 +12801,7 @@
 	)
 	(label "CON.DB15-"
 		(at 177.8 43.18 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12683,6 +12834,7 @@
 	)
 	(label "CON.DB6+"
 		(at 152.4 63.5 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12693,6 +12845,7 @@
 	)
 	(label "CON.RST+"
 		(at 152.4 96.52 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12703,6 +12856,7 @@
 	)
 	(label "CON.DB5+"
 		(at 152.4 60.96 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12713,6 +12867,7 @@
 	)
 	(label "CON.DB2+"
 		(at 152.4 53.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12734,6 +12889,7 @@
 	)
 	(label "CON.ATN+"
 		(at 152.4 86.36 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12755,6 +12911,7 @@
 	)
 	(label "CON.DP1-"
 		(at 177.8 45.72 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12787,6 +12944,7 @@
 	)
 	(label "CON.DP0+"
 		(at 152.4 68.58 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12841,6 +12999,7 @@
 	)
 	(label "CON.BSY-"
 		(at 177.8 91.44 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12851,6 +13010,7 @@
 	)
 	(label "CON.DB13+"
 		(at 152.4 38.1 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12905,6 +13065,7 @@
 	)
 	(label "CON.DB9+"
 		(at 152.4 114.3 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12915,6 +13076,7 @@
 	)
 	(label "CON.REQ+"
 		(at 152.4 106.68 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12925,6 +13087,7 @@
 	)
 	(label "CON.DB12-"
 		(at 177.8 35.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12935,6 +13098,7 @@
 	)
 	(label "CON.DB5-"
 		(at 177.8 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12945,6 +13109,7 @@
 	)
 	(label "CON.DB3+"
 		(at 152.4 55.88 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12964,8 +13129,20 @@
 		)
 		(uuid "cae682b5-ec17-43c0-a0b7-54a9810e27f4")
 	)
+	(label "SHIELD"
+		(at 165.1 135.89 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cfde8c37-a61e-4749-aa3a-9de43f090059")
+	)
 	(label "CON.DB4+"
 		(at 152.4 58.42 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12987,6 +13164,7 @@
 	)
 	(label "CON.DB6-"
 		(at 177.8 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12997,6 +13175,7 @@
 	)
 	(label "CON.MSG-"
 		(at 177.8 99.06 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13007,6 +13186,7 @@
 	)
 	(label "CON.DB8+"
 		(at 152.4 111.76 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13017,6 +13197,7 @@
 	)
 	(label "CON.DB0-"
 		(at 177.8 48.26 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13027,6 +13208,7 @@
 	)
 	(label "CON.MSG+"
 		(at 152.4 99.06 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13037,6 +13219,7 @@
 	)
 	(label "CON.ATN-"
 		(at 177.8 86.36 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13047,6 +13230,7 @@
 	)
 	(label "CON.DB10-"
 		(at 177.8 116.84 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13068,6 +13252,7 @@
 	)
 	(label "CON.DB14-"
 		(at 177.8 40.64 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13100,6 +13285,7 @@
 	)
 	(label "CON.C{slash}D+"
 		(at 152.4 104.14 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13121,6 +13307,7 @@
 	)
 	(label "CON.DB10+"
 		(at 152.4 116.84 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13131,6 +13318,7 @@
 	)
 	(label "CON.TERMPWR"
 		(at 152.4 78.74 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13141,6 +13329,7 @@
 	)
 	(label "CON.C{slash}D-"
 		(at 177.8 104.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13228,6 +13417,7 @@
 	)
 	(label "CON.DP1+"
 		(at 152.4 45.72 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13246,6 +13436,72 @@
 			(justify right bottom)
 		)
 		(uuid "ff553b3b-5ea8-4f17-9208-7b71c29dfff7")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 134.62 152.4 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "017f094e-e53a-45fb-9ad2-f403323d43ec")
+		(property "Reference" "#PWR012"
+			(at 134.62 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 134.62 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 134.62 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "362c0575-3357-4684-8b4c-5aa81279ded7")
+		)
+		(instances
+			(project "mse-68-hd"
+				(path "/bd9eafec-5355-49e4-b2e3-916daacb0a86"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small")
@@ -13655,7 +13911,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F114-40029%7FJ%7Fpdf%7FEnglish%7FENG_SS_114-40029_J.pdf%7F5787082-5"
 			(at 163.83 83.82 0)
 			(effects
 				(font
@@ -15343,6 +15599,129 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 139.7 143.51 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c5fb70ef-b51d-4253-8a00-891822f83744")
+		(property "Reference" "R4"
+			(at 139.7 140.462 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Value" "1M"
+			(at 139.7 143.51 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "rhais_rcl:R0603"
+			(at 139.7 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 139.7 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" ""
+			(at 139.7 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 139.7 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" ""
+			(at 139.7 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "DigiKey"
+			(at 139.7 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_OC" ""
+			(at 139.7 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" ""
+			(at 139.7 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f0409b32-08fa-4e74-b947-dcce19e09f18")
+		)
+		(pin "2"
+			(uuid "1926f424-0493-4fb9-953c-6be5a4150138")
+		)
+		(instances
+			(project "mse-68-hd"
+				(path "/bd9eafec-5355-49e4-b2e3-916daacb0a86"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 238.76 135.89 0)
 		(unit 1)
@@ -15402,6 +15781,127 @@
 			(project "mse-68-hd"
 				(path "/bd9eafec-5355-49e4-b2e3-916daacb0a86"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 139.7 148.59 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d4bfcda9-9c98-445f-bc72-d4ff02ef829d")
+		(property "Reference" "C2"
+			(at 139.7 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100n"
+			(at 139.7 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "rhais_rcl:C0603"
+			(at 139.7 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
+			(at 139.7 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 139.7 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "KEMET"
+			(at 139.7 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C0603C104M5RACTU"
+			(at 139.7 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±20% 50V"
+			(at 139.7 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "DigiKey"
+			(at 139.7 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_OC" "399-C0603C104M5RAC7867DKR-ND"
+			(at 139.7 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/8nqzrr4b"
+			(at 139.7 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ed7de3b0-38ad-4c48-8da7-0006b84db529")
+		)
+		(pin "2"
+			(uuid "c122f40a-dd7a-48d0-97a1-d2ec410a58c1")
+		)
+		(instances
+			(project "mse-68-hd"
+				(path "/bd9eafec-5355-49e4-b2e3-916daacb0a86"
+					(reference "C2")
 					(unit 1)
 				)
 			)
