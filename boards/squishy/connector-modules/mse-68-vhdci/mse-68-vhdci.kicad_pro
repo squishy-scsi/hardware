@@ -518,15 +518,15 @@
     "netclass_patterns": [
       {
         "netclass": "SCSI_PHY",
-        "pattern": "/PHY.(REQ|ATN|BSY(|_DIR)|ACK|MSG|SEL(|_DIR)|RST(|_DIR)|I{slash}O|C{slash}D|TRGT_DIR|INIT_DIR)"
+        "pattern": "/CON.(REQ|ATN|BSY(|_DIR)|ACK|MSG|SEL(|_DIR)|RST(|_DIR)|I{slash}O|C{slash}D|TRGT_DIR|INIT_DIR)"
       },
       {
         "netclass": "SCSI_PHY",
-        "pattern": "/PHY.DP*"
+        "pattern": "/CON.DP*"
       },
       {
         "netclass": "SCSI_PHY",
-        "pattern": "/PHY.DB*"
+        "pattern": "/CON.DB*"
       }
     ]
   },
