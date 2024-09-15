@@ -518,7 +518,7 @@
     "netclass_patterns": [
       {
         "netclass": "SCSI_PHY",
-        "pattern": "/CON.(REQ|ATN|BSY(|_DIR)|ACK|MSG|SEL(|_DIR)|RST(|_DIR)|I{slash}O|C{slash}D|TRGT_DIR|INIT_DIR)"
+        "pattern": "/CON.(REQ|ATN|BSY|ACK|MSG|SEL|RST|I{slash}O|C{slash}D).*"
       },
       {
         "netclass": "SCSI_PHY",
