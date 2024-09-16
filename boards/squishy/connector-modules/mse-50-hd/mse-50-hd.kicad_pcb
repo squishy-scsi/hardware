@@ -5294,9 +5294,9 @@
 		(at 112.56 123.99 90)
 		(descr "WR-WST REDFIT IDC - SKEDD - Spring Connector - debug")
 		(property "Reference" "J3"
-			(at 0 -2.54 90)
+			(at -7.01 1.44 90)
 			(unlocked yes)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "6ce575b2-cfdb-45ca-a542-2b1494970d99")
 			(effects
 				(font

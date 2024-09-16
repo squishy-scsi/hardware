@@ -5524,7 +5524,7 @@
 		(at 112.56 123.99 90)
 		(descr "WR-WST REDFIT IDC - SKEDD - Spring Connector - debug")
 		(property "Reference" "J3"
-			(at -1.91 1.44 90)
+			(at -7.01 1.44 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "6ce575b2-cfdb-45ca-a542-2b1494970d99")
@@ -5685,7 +5685,7 @@
 		(at 182.5 110.95 180)
 		(descr "Multi-Layer Ceramic Chip Capacitor, 0603 (1608 metric) iron and air reflow solderable")
 		(property "Reference" "C2"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "7af35918-49a7-4643-8928-3ade56e66563")
 			(effects
@@ -5696,7 +5696,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 1.2 360)
+			(at 0 1.2 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "48537468-fc67-4183-864d-5793215db82e")
@@ -5708,7 +5708,7 @@
 			)
 		)
 		(property "Footprint" "rhais_rcl:C0603"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b7cd0355-c2dd-4c66-b6a7-fb0799abbf1a")
@@ -5720,7 +5720,7 @@
 			)
 		)
 		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c82603a6-af0d-461a-93e5-7985a28bd6d9")
@@ -5732,7 +5732,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c5c897e7-fec1-48f7-850e-17838cd731b5")
