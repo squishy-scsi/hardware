@@ -5,8 +5,8 @@
 	(uuid "bd9eafec-5355-49e4-b2e3-916daacb0a86")
 	(paper "A4")
 	(title_block
-		(title "Squishy -  ICD 50")
-		(date "2024-08-22")
+		(title "Squishy -  SCSI HVD Centronics 50 Connector Module")
+		(date "2024-09-17")
 		(rev "1")
 		(company "Shrine Maiden Heavy Industries")
 		(comment 1 "License:  CERN-OHL-S")
