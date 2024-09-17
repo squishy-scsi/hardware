@@ -8112,6 +8112,16 @@
 		)
 		(uuid "4da85c31-ceb3-44a6-bde7-3a155a3fab59")
 	)
+	(polyline
+		(pts
+			(xy 87.63 175.26) (xy 158.75 175.26)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "4ee83930-5ed2-4bb6-8627-633f8ee8f2ee")
+	)
 	(bus
 		(pts
 			(xy 17.78 49.53) (xy 17.78 52.07)
@@ -8591,6 +8601,16 @@
 			(type default)
 		)
 		(uuid "85280ec6-a126-4c60-966a-18f091d96490")
+	)
+	(polyline
+		(pts
+			(xy 87.63 13.97) (xy 87.63 175.26)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "854bd106-c618-43b7-ad12-04904478a754")
 	)
 	(bus
 		(pts
@@ -9282,6 +9302,16 @@
 		)
 		(uuid "c42d6406-3f4c-49aa-ad52-6096b7035aaf")
 	)
+	(polyline
+		(pts
+			(xy 87.63 13.97) (xy 158.75 13.97)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "c451d169-7364-431a-af04-716205bf1cf3")
+	)
 	(bus
 		(pts
 			(xy 17.78 26.67) (xy 17.78 41.91)
@@ -9682,6 +9712,16 @@
 		)
 		(uuid "e7809006-1089-416c-95b2-52a64b04e697")
 	)
+	(polyline
+		(pts
+			(xy 158.75 13.97) (xy 158.75 175.26)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "e83ce90c-e6f8-475a-8e8b-c11accadfbef")
+	)
 	(wire
 		(pts
 			(xy 20.32 151.13) (xy 43.18 151.13)
@@ -9933,6 +9973,17 @@
 			)
 		)
 		(uuid "77bd1935-d469-4cce-9ef5-faf932355cee")
+	)
+	(text "SCSI Connector"
+		(exclude_from_sim no)
+		(at 88.9 17.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b525f548-cc77-4816-a270-53f9e28f6994")
 	)
 	(text "BOARD LEFT"
 		(exclude_from_sim no)
@@ -11079,7 +11130,7 @@
 	)
 	(symbol
 		(lib_id "lethalbit-connectors:Conn_02x34_Counter_Clockwise")
-		(at 165.1 69.85 0)
+		(at 124.46 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11087,7 +11138,7 @@
 		(dnp no)
 		(uuid "138a6c3a-c1ae-4907-8b5b-2447228f3f65")
 		(property "Reference" "J4"
-			(at 165.1 26.67 0)
+			(at 124.46 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11095,7 +11146,7 @@
 			)
 		)
 		(property "Value" "Conn_02x34_Clockwise_Shield"
-			(at 165.1 24.13 0)
+			(at 124.46 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11103,7 +11154,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 163.83 77.47 0)
+			(at 123.19 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11112,7 +11163,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 163.83 77.47 0)
+			(at 123.19 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11121,7 +11172,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x34 counter clockwise pin numbering scheme (similar to DIP package numbering), with shielding"
-			(at 165.1 69.596 0)
+			(at 124.46 102.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
