@@ -8,8 +8,8 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "Squishy - SE PHY ")
-		(date "2024-06-14")
+		(title "Squishy - SCSI HVD IDC 50 Connector Module")
+		(date "2024-09-17")
 		(rev "1")
 		(company "Shrine Maiden Heavy Industries")
 		(comment 1 "License: CERN-OHL-S")
