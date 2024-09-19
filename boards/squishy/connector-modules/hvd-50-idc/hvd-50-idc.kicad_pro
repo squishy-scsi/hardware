@@ -504,7 +504,7 @@
         "name": "SCSI_PHY",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(38, 163, 217)",
-        "track_width": 0.1514,
+        "track_width": 0.1275,
         "via_diameter": 0.45,
         "via_drill": 0.2,
         "wire_width": 6
