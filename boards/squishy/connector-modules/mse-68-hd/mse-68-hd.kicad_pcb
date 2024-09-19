@@ -2528,6 +2528,7 @@
 		)
 	)
 	(footprint "lethalbit-connectors:5787082-7"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "4639632e-21c3-4348-8525-db065a86f025")
 		(at 145.5 112.5 180)
