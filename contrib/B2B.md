@@ -85,13 +85,72 @@ Squishy Mainboard PHY Pinout:
 * `NC`: No-Connect
 
 
-
-
 ## PHY to Connector
 
+Squishy PHY to Connector Pinout:
+
+|      Signal | Pin # | Pin # |      Signal |
+|-------------|-------|-------|-------------|
+|         GND |     1 |     2 |         GND |
+|        +3v3 |     3 |     4 |      ID_SDA |
+|          NC |     5 |     6 |      ID_SCL |
+|         GND |     7 |     8 |         GND |
+|         GND |    09 |    10 |         GND |
+|     DB[12]+ |    11 |    12 |     DB[12]- |
+|     DB[13]+ |    13 |    14 |     DB[13]- |
+|         GND |    15 |    16 |         GND |
+|     DB[14]+ |    17 |    18 |     DB[14]- |
+|     DB[15]+ |    19 |    20 |     DB[15]- |
+|         GND |    21 |    22 |         GND |
+|     DP[01]+ |    23 |    24 |     DP[01]- |
+|     DB[00]+ |    25 |    26 |     DB[00]- |
+|         GND |    27 |    28 |         GND |
+|     DB[01]+ |    29 |    30 |     DB[01]- |
+|     DB[02]+ |    31 |    32 |     DB[02]- |
+|         GND |    33 |    34 |         GND |
+|     DB[03]+ |    35 |    36 |     DB[03]- |
+|     DB[04]+ |    37 |    38 |     DB[04]- |
+|         GND |    39 |    40 |         GND |
+|     DB[05]+ |    41 |    42 |     DB[05]- |
+|     DB[06]+ |    43 |    44 |     DB[06]- |
+|         GND |    45 |    46 |         GND |
+|     DB[07]+ |    47 |    48 |     DB[07]- |
+|     DP[01]+ |    49 |    50 |     DP[01]- |
+|         GND |    51 |    52 |         GND |
+|   DIFFSENSE |    53 |    54 |          NC |
+|     TERMPWR |    55 |    56 |     TERMPWR |
+|     TERMPWR |    57 |    58 |     TERMPWR |
+|         GND |    59 |    60 |         GND |
+|        ATN+ |    61 |    62 |        ATN- |
+|         GND |    63 |    64 |         GND |
+|        BSY+ |    65 |    66 |        BSY- |
+|        ACK+ |    67 |    68 |        ACK- |
+|         GND |    69 |    70 |         GND |
+|        RST+ |    71 |    72 |        RST- |
+|        MSG+ |    73 |    74 |        MSG- |
+|         GND |    75 |    76 |         GND |
+|        SEL+ |    77 |    78 |        SEL- |
+|        C/D+ |    79 |    80 |        C/D- |
+|         GND |    81 |    82 |         GND |
+|        REQ+ |    83 |    84 |        REQ- |
+|        I/O+ |    85 |    86 |        I/O- |
+|         GND |    87 |    88 |         GND |
+|     DB[08]+ |    89 |    90 |     DB[08]- |
+|     DB[09]+ |    91 |    92 |     DB[09]- |
+|         GND |    93 |    94 |         GND |
+|     DB[10]+ |    95 |    96 |     DB[10]- |
+|     DB[11]+ |    97 |    98 |     DB[11]- |
+|         GND |    99 |   100 |         GND |
+
+
+* `ID_SCA`/`ID_SCL`: PHY And connector I2C Bus
+* `DB[00..07][+-]`: PHY Lower data bus
+* `DB[08..15][+-]`: PHY Upper data bus
+* `DP[00..01][+-]`: PHY Lower/Upper data bus parity
+* `NC`: No-Connect
+
+**Note:** When a single ended PHY is connected, all `+` pins act as signal return paths
 
 [10144518-101802LF]: https://www.amphenol-cs.com/product/10144518101802lf.html
 [10144517-102802LF]: https://www.amphenol-cs.com/product/10144517102802lf.html
 [Amphenol FCI]: https://www.amphenol-cs.com/
-
-
