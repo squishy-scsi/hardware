@@ -5512,6 +5512,7 @@
 	)
 	(label "PHY.LS_CTRL5"
 		(at 251.46 261.62 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
