@@ -13894,7 +13894,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x34_Clockwise_Shield"
+		(property "Value" "5787082-7"
 			(at 124.46 99.06 90)
 			(effects
 				(font
@@ -13920,8 +13920,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x34 counter clockwise pin numbering scheme (similar to DIP package numbering), with shielding"
+		(property "Description" "AMPLITE 1.27mm High-density D-subminiature 68-pin connector"
 			(at 124.46 98.806 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "TE Connectivity"
+			(at 124.46 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "5787082-7"
+			(at 124.46 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.te.com/en/product-5787082-7.html"
+			(at 124.46 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
