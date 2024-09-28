@@ -13801,8 +13801,8 @@
 				)
 			)
 		)
-		(property "Value" "Centronics 50"
-			(at 123.19 66.04 0)
+		(property "Value" "112-050-213R001"
+			(at 123.19 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13827,7 +13827,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x25, counter clockwise pin numbering scheme (similar to DIP package numbering), with shielding"
+		(property "Description" "Centronics 50-pin Connector"
+			(at 123.19 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "NorComp"
+			(at 123.19 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "112-050-213R001"
+			(at 123.19 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.norcomp.net/series/112-series?search_part=112-050-213R001"
 			(at 123.19 100.33 0)
 			(effects
 				(font
