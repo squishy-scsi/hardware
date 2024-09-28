@@ -13580,8 +13580,8 @@
 				)
 			)
 		)
-		(property "Value" "Centronics 50"
-			(at 123.19 67.31 0)
+		(property "Value" "112-050-213R001"
+			(at 123.19 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13597,7 +13597,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://content.norcomp.net/rohspdfs/SCSI-050Ribbon/11Y/112/112-YYY-213RYY1.pdf"
 			(at 121.92 120.65 0)
 			(effects
 				(font
@@ -13606,7 +13606,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x25, counter clockwise pin numbering scheme (similar to DIP package numbering), with shielding"
+		(property "Description" "Centronics 50-pin Connector"
+			(at 123.19 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "NorComp"
+			(at 123.19 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "112-050-213R001"
+			(at 123.19 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.norcomp.net/series/112-series?search_part=112-050-213R001"
 			(at 123.19 101.6 0)
 			(effects
 				(font
