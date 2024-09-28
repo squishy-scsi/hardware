@@ -12123,7 +12123,7 @@
 			)
 		)
 		(property "Value" "Conn_02x25_Odd_Even"
-			(at 124.714 65.278 0)
+			(at 124.46 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
