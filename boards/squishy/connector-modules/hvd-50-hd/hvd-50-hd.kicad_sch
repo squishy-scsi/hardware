@@ -5944,7 +5944,7 @@
 		(uuid "2394c3c8-1689-485d-82a7-855355c2a99e")
 	)
 	(junction
-		(at 123.19 144.78)
+		(at 123.19 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23d5d960-6a6d-4fad-afcc-806ff46683bc")
@@ -7475,7 +7475,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 144.78) (xy 125.73 144.78)
+			(xy 123.19 147.32) (xy 125.73 147.32)
 		)
 		(stroke
 			(width 0)
@@ -7795,7 +7795,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 137.16) (xy 125.73 138.43)
+			(xy 125.73 137.16) (xy 125.73 139.7)
 		)
 		(stroke
 			(width 0)
@@ -7985,7 +7985,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 144.78) (xy 123.19 147.32)
+			(xy 123.19 147.32) (xy 123.19 149.86)
 		)
 		(stroke
 			(width 0)
@@ -8165,13 +8165,23 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 143.51) (xy 120.65 144.78)
+			(xy 120.65 144.78) (xy 120.65 147.32)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "40dc61d4-878d-423c-a094-957f0c82b252")
+	)
+	(wire
+		(pts
+			(xy 125.73 144.78) (xy 125.73 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4107968d-6ce7-4066-93a2-ff7aec4115f1")
 	)
 	(wire
 		(pts
@@ -8653,16 +8663,6 @@
 		)
 		(uuid "60569094-678f-426b-8ccb-6ae94bcf3857")
 	)
-	(wire
-		(pts
-			(xy 125.73 143.51) (xy 125.73 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60cb7cdb-6bf7-4691-9ece-57d35018dec9")
-	)
 	(bus
 		(pts
 			(xy 81.28 67.31) (xy 81.28 72.39)
@@ -8755,7 +8755,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 137.16) (xy 120.65 138.43)
+			(xy 120.65 137.16) (xy 120.65 139.7)
 		)
 		(stroke
 			(width 0)
@@ -9985,7 +9985,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 144.78) (xy 123.19 144.78)
+			(xy 120.65 147.32) (xy 123.19 147.32)
 		)
 		(stroke
 			(width 0)
@@ -11552,6 +11552,17 @@
 			(justify right bottom)
 		)
 		(uuid "6338e422-0966-40f1-a1c1-a8c7129b9402")
+	)
+	(label "SHIELD"
+		(at 123.19 137.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "65ebe877-fe87-4d06-871b-cbc6aa10f752")
 	)
 	(label "CON.I{slash}O+"
 		(at 99.06 127 0)
@@ -13248,7 +13259,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 123.19 147.32 0)
+		(at 123.19 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13256,7 +13267,7 @@
 		(dnp no)
 		(uuid "3299c5bf-00d4-4a9a-92a1-ce54fee8fb98")
 		(property "Reference" "#PWR012"
-			(at 123.19 153.67 0)
+			(at 123.19 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13265,7 +13276,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 123.19 151.13 0)
+			(at 123.19 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13273,7 +13284,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 123.19 147.32 0)
+			(at 123.19 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13282,7 +13293,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 147.32 0)
+			(at 123.19 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13291,7 +13302,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 123.19 147.32 0)
+			(at 123.19 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14774,7 +14785,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 125.73 140.97 0)
+		(at 125.73 142.24 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14783,7 +14794,7 @@
 		(dnp no)
 		(uuid "ff65c86e-7cd7-4cb8-8afd-26f48e76e837")
 		(property "Reference" "R4"
-			(at 128.778 140.97 90)
+			(at 128.778 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14792,7 +14803,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 125.73 140.97 90)
+			(at 125.73 142.24 90)
 			(effects
 				(font
 					(size 1 1)
@@ -14800,7 +14811,7 @@
 			)
 		)
 		(property "Footprint" "rhais_rcl:R0603"
-			(at 125.73 140.97 0)
+			(at 125.73 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14809,7 +14820,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 140.97 0)
+			(at 125.73 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14818,7 +14829,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 125.73 140.97 0)
+			(at 125.73 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14827,7 +14838,7 @@
 			)
 		)
 		(property "MFR" ""
-			(at 125.73 140.97 90)
+			(at 125.73 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14836,7 +14847,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 125.73 140.97 90)
+			(at 125.73 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14845,7 +14856,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 125.73 140.97 0)
+			(at 125.73 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14854,7 +14865,7 @@
 			)
 		)
 		(property "SUPPLIER" "DigiKey"
-			(at 125.73 140.97 0)
+			(at 125.73 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14863,7 +14874,7 @@
 			)
 		)
 		(property "SUPPLIER_OC" ""
-			(at 125.73 140.97 0)
+			(at 125.73 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14872,7 +14883,7 @@
 			)
 		)
 		(property "SUPPLIER_URL" ""
-			(at 125.73 140.97 0)
+			(at 125.73 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14897,7 +14908,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 120.65 140.97 0)
+		(at 120.65 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14905,7 +14916,7 @@
 		(dnp no)
 		(uuid "ffa142b6-aa63-4938-b3ae-6144a368f84c")
 		(property "Reference" "C2"
-			(at 123.19 140.97 90)
+			(at 123.19 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14913,7 +14924,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 118.11 140.97 90)
+			(at 118.11 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14921,7 +14932,7 @@
 			)
 		)
 		(property "Footprint" "rhais_rcl:C0603"
-			(at 120.65 140.97 0)
+			(at 120.65 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14930,7 +14941,7 @@
 			)
 		)
 		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
-			(at 120.65 140.97 0)
+			(at 120.65 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14939,7 +14950,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 120.65 140.97 0)
+			(at 120.65 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14948,7 +14959,7 @@
 			)
 		)
 		(property "MFR" "KEMET"
-			(at 120.65 140.97 90)
+			(at 120.65 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14957,7 +14968,7 @@
 			)
 		)
 		(property "MPN" "C0603C104M5RACTU"
-			(at 120.65 140.97 90)
+			(at 120.65 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14966,7 +14977,7 @@
 			)
 		)
 		(property "Tolerance" "±20% 50V"
-			(at 120.65 140.97 0)
+			(at 120.65 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14975,7 +14986,7 @@
 			)
 		)
 		(property "SUPPLIER" "DigiKey"
-			(at 120.65 140.97 0)
+			(at 120.65 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14984,7 +14995,7 @@
 			)
 		)
 		(property "SUPPLIER_OC" "399-C0603C104M5RAC7867DKR-ND"
-			(at 120.65 140.97 0)
+			(at 120.65 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14993,7 +15004,7 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/8nqzrr4b"
-			(at 120.65 140.97 0)
+			(at 120.65 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
