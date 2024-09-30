@@ -39,3 +39,13 @@
   (condition "A.NetClass == 'SCSI_PHY' && A.Type != 'Via' && B.NetName == 'GND'")
   (constraint clearance (min 0.6mm))
 )
+
+(rule "scsi-con-front"
+  (condition "A.NetClass == 'SCSI_PHY' && A.NetName == '/CON.*-'")
+  (constraint length (min 28.9681mm) (max 28.9683mm))
+)
+
+(rule "scsi-con-back"
+  (condition "A.NetClass == 'SCSI_PHY' && A.NetName == '/CON.*+'")
+  (constraint length (min 29.2280mm) (max 29.2283mm))
+)
