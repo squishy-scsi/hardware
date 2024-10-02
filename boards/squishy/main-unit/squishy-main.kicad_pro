@@ -867,6 +867,12 @@
         },
         {
           "group_by": false,
+          "label": "1b2-key",
+          "name": "1b2-key",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "MPN",
           "name": "MPN",
           "show": true

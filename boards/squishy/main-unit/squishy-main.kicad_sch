@@ -30629,6 +30629,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-1M"
+			(at 396.24 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "95ffe5e2-397c-4519-80be-c15724ab39b4")
 		)
@@ -30899,6 +30908,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "ic-s80ks5122gabhi020"
+			(at 97.79 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "B3"
 			(uuid "726d5642-3df2-46ac-8dab-77f2dd7a181f")
 		)
@@ -31076,6 +31094,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" ""
+			(at 116.84 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4a807cac-2316-4ccc-867d-8457afb06209")
 		)
@@ -31186,6 +31213,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/j44d557m"
+			(at 234.95 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "ic-gd25q64ewigr"
 			(at 234.95 33.02 0)
 			(effects
 				(font
@@ -31335,6 +31371,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/bnh9rvr0"
+			(at 128.27 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603-2k2"
 			(at 128.27 31.75 0)
 			(effects
 				(font
@@ -31527,6 +31572,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.tme.com/ux/en-us/details/osk40603c1e/smd-colour-leds/optosupply/"
+			(at 118.11 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "led-0603-pnk"
 			(at 118.11 40.64 0)
 			(effects
 				(font
@@ -31735,6 +31789,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-4k7"
+			(at 134.62 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1989faef-b4c2-4581-a5ee-9b1fa41866b2")
 		)
@@ -31849,6 +31912,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/f34t0pr0"
+			(at 184.15 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "ic-fpga-lef5um5g-45f-8bg381"
 			(at 184.15 250.19 0)
 			(effects
 				(font
@@ -33117,6 +33189,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-4k7"
+			(at 389.89 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "19c02404-f35f-4e44-b703-379d33292706")
 		)
@@ -33310,6 +33391,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-4k7"
+			(at 134.62 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5c29bf57-f8f3-4477-8ddc-3edae07a1118")
 		)
@@ -33423,6 +33513,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/rwv27n90"
+			(at 53.34 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "ic-s80ks5122gabhi020"
 			(at 53.34 240.03 0)
 			(effects
 				(font
@@ -33625,6 +33724,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-10k"
+			(at 127 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0d84ef4b-af2c-495b-922c-e0727eb5c3f2")
 		)
@@ -33812,6 +33920,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-10k"
+			(at 59.69 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "69470732-c522-45d8-b377-b45ad37d8ba9")
 		)
@@ -33909,6 +34026,15 @@
 			)
 		)
 		(property "SUPPLIER" ""
+			(at 144.78 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" ""
 			(at 144.78 233.68 0)
 			(effects
 				(font
@@ -34027,6 +34153,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/mw4tvzw7"
+			(at 279.4 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "conn-smd-005in-5-2-hdr-et"
 			(at 279.4 63.5 0)
 			(effects
 				(font
@@ -34245,6 +34380,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "led-0603-red"
+			(at 138.43 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a90f7e40-7478-424b-86be-f02fa03c94f8")
 		)
@@ -34358,6 +34502,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/ddpjpwr7"
+			(at 113.03 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "led-0603-blu"
 			(at 113.03 40.64 0)
 			(effects
 				(font
@@ -34638,6 +34791,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-100k"
+			(at 66.04 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5750491c-42a8-4f1b-bbdf-14c5a101dbe9")
 		)
@@ -34831,6 +34993,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-4k7"
+			(at 140.97 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "36d26b37-8785-4120-8e84-995d89e5ac25")
 		)
@@ -34952,6 +35123,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "cap-cer-0603-10n-25v"
+			(at 19.05 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e36179cc-ca2a-48d2-8cb0-b248d9931cc8")
 		)
@@ -35055,6 +35235,15 @@
 			)
 		)
 		(property "SUPPLIER" ""
+			(at 116.84 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" ""
 			(at 116.84 156.21 0)
 			(effects
 				(font
@@ -35253,6 +35442,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "cap-cer-0603-10n-25v"
+			(at 19.05 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f90fcf38-c501-4c06-be57-a475c842fd38")
 		)
@@ -35373,6 +35571,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
+			(at 318.77 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603cc-array-4-10k"
 			(at 318.77 31.75 0)
 			(effects
 				(font
@@ -35513,6 +35720,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
+			(at 115.57 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603cc-array-4-10k"
 			(at 115.57 74.93 0)
 			(effects
 				(font
@@ -35667,6 +35883,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-10k"
+			(at 330.2 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "39015beb-2e4b-463c-a8f5-1170b4de0f61")
 		)
@@ -35764,6 +35989,15 @@
 			)
 		)
 		(property "SUPPLIER" ""
+			(at 293.37 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" ""
 			(at 293.37 29.21 0)
 			(effects
 				(font
@@ -35883,6 +36117,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
+			(at 314.96 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603cc-array-4-10k"
 			(at 314.96 31.75 0)
 			(effects
 				(font
@@ -36103,6 +36346,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-4k7"
+			(at 219.71 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "445da9b9-7677-42da-a415-ae647438048d")
 		)
@@ -36217,6 +36469,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/7423wbjd"
+			(at 91.44 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "ic-mcu-atsamd09d14a-mut"
 			(at 91.44 146.05 0)
 			(effects
 				(font
@@ -36493,6 +36754,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/f34t0pr0"
+			(at 59.69 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "ic-fpga-lef5um5g-45f-8bg381"
 			(at 59.69 87.63 0)
 			(effects
 				(font
@@ -37723,6 +37993,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" ""
+			(at 80.01 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "66f34e78-fd14-4bc7-80e1-5e53ffa73a35")
 		)
@@ -37916,6 +38195,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "sw-tact-top-30-25"
+			(at 53.34 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e6cc8d45-b46d-4ddf-ae21-a379562f37f1")
 		)
@@ -38030,6 +38318,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
+			(at 322.58 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603cc-array-4-10k"
 			(at 322.58 31.75 0)
 			(effects
 				(font
@@ -38361,6 +38658,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" ""
+			(at 367.03 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa"
@@ -38596,6 +38902,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" ""
+			(at 116.84 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "08a5ce09-a07e-4e7f-a1b5-ff9b91fef664")
 		)
@@ -38707,6 +39022,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/bnh9rvr0"
+			(at 138.43 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603-2k2"
 			(at 138.43 31.75 0)
 			(effects
 				(font
@@ -39057,6 +39381,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-1k"
+			(at 113.03 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f615ffea-21d6-4270-8e01-2e168268eea8")
 		)
@@ -39172,6 +39505,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/478v2810"
+			(at 397.51 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603-10k"
 			(at 397.51 101.6 0)
 			(effects
 				(font
@@ -39302,6 +39644,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-4k7"
+			(at 160.02 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d80a87fa-abb2-4ae3-a88b-1a8fb1029095")
 		)
@@ -39424,6 +39775,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-10k"
+			(at 137.16 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8a255cd-f866-4d16-97d5-a1aca327085c")
 		)
@@ -39521,6 +39881,15 @@
 			)
 		)
 		(property "SUPPLIER" ""
+			(at 116.84 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" ""
 			(at 116.84 166.37 0)
 			(effects
 				(font
@@ -39648,6 +40017,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0402-0"
+			(at 45.72 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bfe515b1-6de8-43ed-8a15-03dd9fe87109")
 		)
@@ -39767,6 +40145,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/ch5zfdz7"
+			(at 81.28 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" ""
 			(at 81.28 25.4 0)
 			(effects
 				(font
@@ -39968,6 +40355,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "led-0603-pnk"
+			(at 128.27 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7a54ba26-65f9-40ce-bb8c-dedf0dea8358")
 		)
@@ -40096,6 +40492,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-1k"
+			(at 133.35 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "52780a9b-816f-4f3a-bcc8-b3dd7b4186dc")
 		)
@@ -40209,6 +40614,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/pnmr2wrw"
+			(at 369.57 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "conn-smd-sdcard-mem2061-01-188-00-a"
 			(at 369.57 46.99 0)
 			(effects
 				(font
@@ -40363,6 +40777,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/rwv27n90"
+			(at 97.79 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "ic-s80ks5122gabhi020"
 			(at 97.79 201.93 0)
 			(effects
 				(font
@@ -40540,6 +40963,15 @@
 			)
 		)
 		(property "SUPPLIER" ""
+			(at 144.78 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" ""
 			(at 144.78 231.14 0)
 			(effects
 				(font
@@ -40873,6 +41305,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" ""
+			(at 393.7 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "squishy-main"
 				(path "/d4567381-92dd-4d3b-8c64-40007ced30aa"
@@ -40980,6 +41421,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/83w49wnp"
+			(at 396.24 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "cap-cer-0603-1u-50v"
 			(at 396.24 64.77 0)
 			(effects
 				(font
@@ -41107,6 +41557,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/mw4tvzw7"
+			(at 275.59 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "conn-smd-005in-5-2-hdr-et"
 			(at 275.59 31.75 0)
 			(effects
 				(font
@@ -41279,6 +41738,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-4k7"
+			(at 148.59 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "91f25c29-a1ba-4c7c-abe6-260b2b0644fe")
 		)
@@ -41401,6 +41869,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-10k"
+			(at 142.24 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "384c46e8-18e5-496a-b9a2-f02f9f5724e5")
 		)
@@ -41514,6 +41991,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/f34t0pr0"
+			(at 295.91 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "ic-fpga-lef5um5g-45f-8bg381"
 			(at 295.91 113.03 0)
 			(effects
 				(font
@@ -42781,6 +43267,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603cc-array-4-10k"
+			(at 120.65 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "55da609d-82ba-451c-ae0e-484382add121")
 		)
@@ -42981,6 +43476,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" ""
+			(at 116.84 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "45a4244e-a785-4894-8bed-5b013cd67b20")
 		)
@@ -43091,6 +43595,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/rwv27n90"
+			(at 53.34 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "ic-s80ks5122gabhi020"
 			(at 53.34 201.93 0)
 			(effects
 				(font
@@ -43293,6 +43806,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-100k"
+			(at 63.5 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "89732132-6a83-4f8d-bb5f-06898445c806")
 		)
@@ -43407,6 +43929,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/f3fq37nd"
+			(at 209.55 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603-4k7"
 			(at 209.55 29.21 0)
 			(effects
 				(font
@@ -43537,6 +44068,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0402-100"
+			(at 45.72 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e9aee237-676a-46ee-bf90-b1728cedd228")
 		)
@@ -43657,6 +44197,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/f3fq37nd"
+			(at 134.62 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603-4k7"
 			(at 134.62 97.79 0)
 			(effects
 				(font
@@ -43928,6 +44477,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "dio-tvs-sod882-sp3205-01etg"
+			(at 69.85 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8aefd055-4d9a-4940-962a-389e7eb239fe")
 		)
@@ -44042,6 +44600,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/bnh9rvr0"
+			(at 123.19 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603-2k2"
 			(at 123.19 31.75 0)
 			(effects
 				(font
@@ -44170,6 +44737,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
+			(at 147.32 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603cc-array-4-10k"
 			(at 147.32 105.41 0)
 			(effects
 				(font
@@ -44395,6 +44971,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-10k"
+			(at 204.47 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "16f559e6-9ffd-49bc-9d9f-167f09affdbe")
 		)
@@ -44510,6 +45095,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/pmhjnqwd"
+			(at 33.02 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "xtal-ase-32mhz"
 			(at 33.02 162.56 0)
 			(effects
 				(font
@@ -44723,6 +45317,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "cap-cer-0603-100n-10v"
+			(at 207.01 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "84eaed8d-c58c-4757-b390-a98ec36baa04")
 		)
@@ -44836,6 +45439,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/c3th3r99"
+			(at 123.19 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "led-0603-wht"
 			(at 123.19 40.64 0)
 			(effects
 				(font
@@ -44964,6 +45576,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
+			(at 118.11 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603cc-array-4-10k"
 			(at 118.11 90.17 0)
 			(effects
 				(font
@@ -45231,6 +45852,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" ""
+			(at 293.37 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "094451e2-0534-4aa5-8df3-81feafc9cc6c")
 		)
@@ -45415,6 +46045,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-1k"
+			(at 102.87 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c7a910cc-e170-4231-ab71-c24388744015")
 		)
@@ -45535,6 +46174,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/f3fq37nd"
+			(at 144.78 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603-4k7"
 			(at 144.78 154.94 0)
 			(effects
 				(font
@@ -45731,6 +46379,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-10k"
+			(at 400.05 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e82af81c-5522-4ba1-90ad-cbcc339771c1")
 		)
@@ -45842,6 +46499,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" ""
+			(at 116.84 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "12c3d0f8-9253-45da-bc37-5fa02627e030")
 		)
@@ -45936,6 +46602,15 @@
 			)
 		)
 		(property "SUPPLIER" ""
+			(at 116.84 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" ""
 			(at 116.84 135.89 0)
 			(effects
 				(font
@@ -46055,6 +46730,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/29w7cnhb"
+			(at 181.61 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "ic-is66wvs4m8bll"
 			(at 181.61 72.39 0)
 			(effects
 				(font
@@ -46267,6 +46951,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "led-0603-blu"
+			(at 133.35 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb5016ed-4f36-47e8-9e81-16d32dedf71c")
 		)
@@ -46452,6 +47145,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/bnh9rvr0"
+			(at 118.11 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603-2k2"
 			(at 118.11 31.75 0)
 			(effects
 				(font
@@ -46653,6 +47355,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "led-0603-grn"
+			(at 143.51 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "98825705-e7c6-469e-a4f9-0d684f6ad8be")
 		)
@@ -46766,6 +47477,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/8nqzrr4b"
+			(at 22.86 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "cap-cer-0603-100n-10v"
 			(at 22.86 127 0)
 			(effects
 				(font
@@ -46894,6 +47614,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/dw9cq7z3"
+			(at 143.51 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603-1k"
 			(at 143.51 31.75 0)
 			(effects
 				(font
@@ -47081,6 +47810,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/f34t0pr0"
+			(at 295.91 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "ic-fpga-lef5um5g-45f-8bg381"
 			(at 295.91 158.75 0)
 			(effects
 				(font
@@ -48331,6 +49069,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" ""
+			(at 116.84 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ff9531dd-dc7e-4ade-9b75-1705b0e53bac")
 		)
@@ -48441,6 +49188,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/pb7573pr"
+			(at 240.03 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "ic-sot353-74ahc1g02"
 			(at 240.03 66.04 0)
 			(effects
 				(font
@@ -48563,6 +49319,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" ""
+			(at 100.33 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3e17dac4-c5c5-474c-8399-ca1871688241")
 		)
@@ -48675,6 +49440,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/f3fq37nd"
+			(at 393.7 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603-4k7"
 			(at 393.7 101.6 0)
 			(effects
 				(font
@@ -48876,6 +49650,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-4k7"
+			(at 17.78 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b36f1198-bb10-4932-9057-80a9a8b93176")
 		)
@@ -48995,6 +49778,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/f34t0pr0"
+			(at 295.91 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "ic-fpga-lef5um5g-45f-8bg381"
 			(at 295.91 205.74 0)
 			(effects
 				(font
@@ -50245,6 +51037,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" ""
+			(at 100.33 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9f66c4d7-e48b-473d-a99c-05905597dc24")
 		)
@@ -50339,6 +51140,15 @@
 			)
 		)
 		(property "SUPPLIER" ""
+			(at 293.37 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" ""
 			(at 293.37 36.83 0)
 			(effects
 				(font
@@ -50458,6 +51268,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/478v2810"
+			(at 59.69 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603-10k"
 			(at 59.69 123.19 0)
 			(effects
 				(font
@@ -50665,6 +51484,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-10k"
+			(at 132.08 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e1ed3aed-128d-44f8-a527-ce2d28682cd3")
 		)
@@ -50781,6 +51609,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/5r299tzp"
+			(at 33.02 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "xtal-aka3a-100mhz"
 			(at 33.02 36.83 0)
 			(effects
 				(font
@@ -50912,6 +51749,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" ""
+			(at 116.84 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "91f8c6f4-629c-4738-9232-02b6bdfa3b12")
 		)
@@ -51006,6 +51852,15 @@
 			)
 		)
 		(property "SUPPLIER" ""
+			(at 116.84 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" ""
 			(at 116.84 161.29 0)
 			(effects
 				(font
@@ -51126,6 +51981,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/rh8jztt0"
+			(at 367.03 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "conn-smd-08mm-2-50-mezz"
 			(at 367.03 158.75 0)
 			(effects
 				(font
@@ -51533,6 +52397,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" ""
+			(at 116.84 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e9f5890f-0530-41e5-92f2-c7d9dfec26a6")
 		)
@@ -51644,6 +52517,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/f3fq37nd"
+			(at 134.62 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603-4k7"
 			(at 134.62 90.17 0)
 			(effects
 				(font
@@ -51837,6 +52719,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/91vhpmq2"
+			(at 326.39 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "res-0603cc-array-4-10k"
 			(at 326.39 31.75 0)
 			(effects
 				(font
@@ -52047,6 +52938,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/f34t0pr0"
+			(at 229.87 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "ic-fpga-lef5um5g-45f-8bg381"
 			(at 229.87 128.27 0)
 			(effects
 				(font
@@ -53385,6 +54285,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "res-0603-4k7"
+			(at 217.17 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2d13e92b-419b-4abb-92d7-6e351eafa1f9")
 		)
@@ -53482,6 +54391,15 @@
 			)
 		)
 		(property "SUPPLIER" ""
+			(at 100.33 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" ""
 			(at 100.33 100.33 0)
 			(effects
 				(font
@@ -53600,6 +54518,15 @@
 			)
 		)
 		(property "SUPPLIER_URL" "https://www.digikey.com/short/83w49wnp"
+			(at 52.07 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" "cap-cer-0603-1u-50v"
 			(at 52.07 130.81 0)
 			(effects
 				(font
@@ -53735,6 +54662,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "cap-cer-0603-100n-10v"
+			(at 196.85 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9d655c39-d419-49b0-a5f0-0c030d0fd594")
 		)
@@ -53856,6 +54792,15 @@
 				(hide yes)
 			)
 		)
+		(property "1b2-key" "cap-cer-0603-1u-50v"
+			(at 30.48 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ff65ae32-dfd2-4c8e-a2db-0a62fc09c894")
 		)
@@ -53959,6 +54904,15 @@
 			)
 		)
 		(property "SUPPLIER" ""
+			(at 100.33 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "1b2-key" ""
 			(at 100.33 97.79 0)
 			(effects
 				(font
