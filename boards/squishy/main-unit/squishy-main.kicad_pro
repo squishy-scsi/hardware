@@ -830,7 +830,7 @@
       "idf": "",
       "netlist": "",
       "plot": "../../../release/rev2-evt/mainboard/gerbers/",
-      "pos_files": "",
+      "pos_files": "../../../release/rev2-evt/mainboard/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -840,7 +840,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "",
+    "bom_export_filename": "../../../release/rev2-evt/mainboard/squishy-main-bom.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
