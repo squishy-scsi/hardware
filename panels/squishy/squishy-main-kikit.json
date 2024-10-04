@@ -20,9 +20,10 @@
     },
     "fiducials": {
         "type": "3fid",
-        "hoffset": "5mm",
+        "hoffset": "2.5mm",
         "voffset": "2.5mm",
-        "coppersize": "2mm"
+        "coppersize": "1mm",
+        "opening": "2.5mm"
     },
     "text": {
         "type": "simple",
