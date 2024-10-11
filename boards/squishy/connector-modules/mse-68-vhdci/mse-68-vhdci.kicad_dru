@@ -31,11 +31,35 @@
 (rule "f.cu-bus-clearence"
   (layer "F.Cu")
   (condition "A.NetClass == 'SCSI_PHY' && A.Type != 'Via' && B.NetName == 'GND'")
-  (constraint clearance (min 0.6mm))
+  (constraint clearance (min 0.2mm))
 )
 
 (rule "b.cu-bus-clearence"
   (layer "B.Cu")
   (condition "A.NetClass == 'SCSI_PHY' && A.Type != 'Via' && B.NetName == 'GND'")
-  (constraint clearance (min 0.6mm))
+  (constraint clearance (min 0.2mm))
+)
+
+(rule "inner2-bus-width"
+  (layer "In2.Cu")
+  (condition "A.NetClass == 'SCSI_PHY' && A.Type != 'Via' && B.NetName == 'GND'")
+  (constraint clearance (min 0.2mm))
+  (constraint track_width (min 0.1016mm))
+)
+
+(rule "inner3-bus-width"
+  (layer "In3.Cu")
+  (condition "A.NetClass == 'SCSI_PHY' && A.Type != 'Via' && B.NetName == 'GND'")
+  (constraint clearance (min 0.2mm))
+  (constraint track_width (min 0.1016mm))
+)
+
+(rule "scsi-con-front"
+  (condition "A.NetClass == 'SCSI_PHY' && A.NetName == '/CON.*-'")
+  (constraint length (min 26.2673mm) (max 26.2675mm))
+)
+
+(rule "scsi-con-back"
+  (condition "A.NetClass == 'SCSI_PHY' && A.NetName == '/CON.*+'")
+  (constraint length (min 28.2039mm) (max 28.2041mm))
 )
