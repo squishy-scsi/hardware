@@ -5,3 +5,4 @@
  - [ ] Q1's Source and Drain are swapped (schematic symbol issue)
  - [ ] U16/U17/U20's BIAS pin left floating not connected to Vin
  - [ ] SWCLK and SWDIO swapped on J4
+ - [ ] 3v3 Rail slightly low (3v223) but within spec, check feedback network values/tolerance
