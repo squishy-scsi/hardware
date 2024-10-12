@@ -18685,7 +18685,7 @@
 	)
 	(wire
 		(pts
-			(xy 293.37 29.21) (xy 283.21 29.21)
+			(xy 293.37 26.67) (xy 283.21 26.67)
 		)
 		(stroke
 			(width 0)
@@ -24675,7 +24675,7 @@
 	)
 	(wire
 		(pts
-			(xy 293.37 26.67) (xy 283.21 26.67)
+			(xy 293.37 29.21) (xy 283.21 29.21)
 		)
 		(stroke
 			(width 0)
@@ -27894,7 +27894,7 @@
 		(uuid "3f663248-9d8b-49c5-b15b-1834237f1e56")
 	)
 	(label "SU_SWDIO"
-		(at 293.37 29.21 180)
+		(at 293.37 26.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -28312,7 +28312,7 @@
 		(uuid "5d5b0228-ce14-497e-99f8-cbe436c68005")
 	)
 	(label "SU_SWCLK"
-		(at 293.37 26.67 180)
+		(at 293.37 29.21 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -35909,7 +35909,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint_Small")
-		(at 293.37 29.21 0)
+		(at 293.37 26.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -35917,7 +35917,7 @@
 		(dnp no)
 		(uuid "41592cf2-c735-4540-a179-783003b6a802")
 		(property "Reference" "TP31"
-			(at 294.64 31.75 0)
+			(at 294.64 24.892 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35926,7 +35926,7 @@
 			)
 		)
 		(property "Value" "SU_SWDIO"
-			(at 294.64 29.21 0)
+			(at 294.64 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35935,7 +35935,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 298.45 29.21 0)
+			(at 298.45 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35944,7 +35944,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 298.45 29.21 0)
+			(at 298.45 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35953,7 +35953,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 293.37 29.21 0)
+			(at 293.37 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35962,7 +35962,7 @@
 			)
 		)
 		(property "MFR" "N/A"
-			(at 293.37 29.21 0)
+			(at 293.37 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35971,7 +35971,7 @@
 			)
 		)
 		(property "MPN" "N/A"
-			(at 293.37 29.21 0)
+			(at 293.37 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35980,7 +35980,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 293.37 29.21 0)
+			(at 293.37 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35989,7 +35989,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 293.37 29.21 0)
+			(at 293.37 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35998,7 +35998,7 @@
 			)
 		)
 		(property "1b2-key" ""
-			(at 293.37 29.21 0)
+			(at 293.37 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45764,7 +45764,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint_Small")
-		(at 293.37 26.67 0)
+		(at 293.37 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -45772,7 +45772,7 @@
 		(dnp no)
 		(uuid "b76e773e-f350-4b00-b8a4-697e00b25d90")
 		(property "Reference" "TP32"
-			(at 294.64 24.13 0)
+			(at 294.894 31.242 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45781,7 +45781,7 @@
 			)
 		)
 		(property "Value" "SU_SWCLK"
-			(at 294.64 26.67 0)
+			(at 294.64 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45790,7 +45790,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 298.45 26.67 0)
+			(at 298.45 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45799,7 +45799,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 298.45 26.67 0)
+			(at 298.45 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45808,7 +45808,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 293.37 26.67 0)
+			(at 293.37 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45817,7 +45817,7 @@
 			)
 		)
 		(property "MFR" "N/A"
-			(at 293.37 26.67 0)
+			(at 293.37 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45826,7 +45826,7 @@
 			)
 		)
 		(property "MPN" "N/A"
-			(at 293.37 26.67 0)
+			(at 293.37 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45835,7 +45835,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 293.37 26.67 0)
+			(at 293.37 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45844,7 +45844,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 293.37 26.67 0)
+			(at 293.37 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45853,7 +45853,7 @@
 			)
 		)
 		(property "1b2-key" ""
-			(at 293.37 26.67 0)
+			(at 293.37 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
