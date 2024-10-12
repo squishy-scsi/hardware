@@ -18725,7 +18725,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 151.13) (xy 116.84 151.13)
+			(xy 104.14 153.67) (xy 116.84 153.67)
 		)
 		(stroke
 			(width 0)
@@ -19705,7 +19705,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 156.21) (xy 116.84 156.21)
+			(xy 104.14 151.13) (xy 116.84 151.13)
 		)
 		(stroke
 			(width 0)
@@ -24665,7 +24665,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 153.67) (xy 116.84 153.67)
+			(xy 104.14 156.21) (xy 116.84 156.21)
 		)
 		(stroke
 			(width 0)
@@ -27255,6 +27255,17 @@
 		)
 		(uuid "f5e4f8bc-3941-4ce2-9a61-bedf9d62df15")
 	)
+	(text "SCx_PAD NOTE:\nCS: PAD2/PAD1\nSCK: PAD1/PAD3\nCOPI: PAD0/PAD2/PAD3\nCIPO: PAD0/PAD1/PAD2/PAD3\nSee: Atmel SAMD Datasheet pg. 488/489"
+		(exclude_from_sim no)
+		(at 118.618 178.308 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "f65a8ba6-b2c4-4ff5-9124-37abd0eceb9e")
+	)
 	(text "SPCM"
 		(exclude_from_sim no)
 		(at 134.874 81.026 0)
@@ -28059,7 +28070,7 @@
 		(uuid "4aa248a6-cef8-4382-be90-69f6770da190")
 	)
 	(label "FPGA_COPI"
-		(at 115.57 151.13 180)
+		(at 115.57 153.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -29192,7 +29203,7 @@
 		(uuid "9c0293eb-0560-4bee-a9db-ea865d43dd07")
 	)
 	(label "~{FPGA_CS}"
-		(at 115.57 156.21 180)
+		(at 115.57 151.13 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -29258,7 +29269,7 @@
 		(uuid "9fc30c63-95d0-453b-87c1-2d02b399d8a1")
 	)
 	(label "FPGA_CIPO"
-		(at 115.57 153.67 180)
+		(at 115.57 156.21 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -35155,7 +35166,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint_Small")
-		(at 116.84 156.21 0)
+		(at 116.84 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -35163,7 +35174,7 @@
 		(dnp no)
 		(uuid "34baf27c-4221-452f-8891-08026c6e0bbf")
 		(property "Reference" "TP26"
-			(at 129.54 156.21 0)
+			(at 129.54 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35172,7 +35183,7 @@
 			)
 		)
 		(property "Value" "~{FPGA_CS}"
-			(at 118.11 156.21 0)
+			(at 118.11 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35181,7 +35192,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 121.92 156.21 0)
+			(at 121.92 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35190,7 +35201,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 156.21 0)
+			(at 121.92 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35199,7 +35210,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 156.21 0)
+			(at 116.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35208,7 +35219,7 @@
 			)
 		)
 		(property "MFR" "N/A"
-			(at 116.84 156.21 0)
+			(at 116.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35217,7 +35228,7 @@
 			)
 		)
 		(property "MPN" "N/A"
-			(at 116.84 156.21 0)
+			(at 116.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35226,7 +35237,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 116.84 156.21 0)
+			(at 116.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35235,7 +35246,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 116.84 156.21 0)
+			(at 116.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35244,7 +35255,7 @@
 			)
 		)
 		(property "1b2-key" ""
-			(at 116.84 156.21 0)
+			(at 116.84 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51661,7 +51672,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint_Small")
-		(at 116.84 153.67 0)
+		(at 116.84 156.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -51669,7 +51680,7 @@
 		(dnp no)
 		(uuid "e8403fcd-6dd4-4752-bc98-5d39c0148226")
 		(property "Reference" "TP22"
-			(at 129.54 153.67 0)
+			(at 129.54 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51678,7 +51689,7 @@
 			)
 		)
 		(property "Value" "FPGA_CIPO"
-			(at 118.11 153.67 0)
+			(at 118.11 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51687,7 +51698,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 121.92 153.67 0)
+			(at 121.92 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51696,7 +51707,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 153.67 0)
+			(at 121.92 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51705,7 +51716,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 153.67 0)
+			(at 116.84 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51714,7 +51725,7 @@
 			)
 		)
 		(property "MFR" "N/A"
-			(at 116.84 153.67 0)
+			(at 116.84 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51723,7 +51734,7 @@
 			)
 		)
 		(property "MPN" "N/A"
-			(at 116.84 153.67 0)
+			(at 116.84 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51732,7 +51743,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 116.84 153.67 0)
+			(at 116.84 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51741,7 +51752,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 116.84 153.67 0)
+			(at 116.84 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51750,7 +51761,7 @@
 			)
 		)
 		(property "1b2-key" ""
-			(at 116.84 153.67 0)
+			(at 116.84 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52309,7 +52320,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint_Small")
-		(at 116.84 151.13 0)
+		(at 116.84 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -52317,7 +52328,7 @@
 		(dnp no)
 		(uuid "ece439d1-28d8-465e-a830-67390aea89ee")
 		(property "Reference" "TP21"
-			(at 129.54 151.13 0)
+			(at 129.54 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52326,7 +52337,7 @@
 			)
 		)
 		(property "Value" "FPGA_COPI"
-			(at 118.11 151.13 0)
+			(at 118.11 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52335,7 +52346,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 121.92 151.13 0)
+			(at 121.92 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52344,7 +52355,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 151.13 0)
+			(at 121.92 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52353,7 +52364,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 151.13 0)
+			(at 116.84 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52362,7 +52373,7 @@
 			)
 		)
 		(property "MFR" "N/A"
-			(at 116.84 151.13 0)
+			(at 116.84 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52371,7 +52382,7 @@
 			)
 		)
 		(property "MPN" "N/A"
-			(at 116.84 151.13 0)
+			(at 116.84 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52380,7 +52391,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 116.84 151.13 0)
+			(at 116.84 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52389,7 +52400,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 116.84 151.13 0)
+			(at 116.84 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52398,7 +52409,7 @@
 			)
 		)
 		(property "1b2-key" ""
-			(at 116.84 151.13 0)
+			(at 116.84 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
