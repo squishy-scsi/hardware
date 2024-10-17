@@ -156,7 +156,7 @@ def pcb_cam(basename: str, pcb: Path, outdir: Path, do_check: bool = False, allo
 
 	ret, stdout, stderr = run_command((
 		'pcb', 'export', 'drill', '-o', gerber_dir,
-		'--format', 'excellon', '--drill-origin',
+		'--format', 'excellon', '--drill-origin', 'plot',
 		pcb
 	))
 
