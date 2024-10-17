@@ -1,0 +1,86 @@
+# Connector Modules TODO
+
+- [ ] ~~all-80-sca~~
+  - [ ] ~~Routed~~
+  - [ ] ~~Length-Matched~~
+  - [ ] ~~ERC~~
+  - [ ] ~~DRC~~
+  - [ ] ~~CAM Files~~
+  - [ ] ~~BOM~~
+- [ ] hvd-50-ce
+  - [ ] Routed
+  - [ ] Length-Matched
+  - [ ] ERC
+  - [ ] DRC
+  - [ ] CAM Files
+  - [ ] BOM
+- [ ] hvd-50-hd
+  - [x] Routed
+  - [x] Length-Matched
+  - [x] ERC
+  - [x] DRC
+  - [ ] CAM Files
+  - [ ] BOM
+- [ ] hvd-50-idc
+  - [ ] Routed
+  - [ ] Length-Matched
+  - [ ] ERC
+  - [ ] DRC
+  - [ ] CAM Files
+  - [ ] BOM
+- [ ] hvd-68-hd
+  - [x] Routed
+  - [x] Length-Matched
+  - [x] ERC
+  - [x] DRC
+  - [ ] CAM Files
+  - [ ] BOM
+- [ ] hvd-68-vhdci
+  - [ ] Routed
+  - [ ] Length-Matched
+  - [ ] ERC
+  - [ ] DRC
+  - [ ] CAM Files
+  - [ ] BOM
+- [ ] mse-50-ce
+  - [ ] Routed
+  - [ ] Length-Matched
+  - [ ] ERC
+  - [ ] DRC
+  - [ ] CAM Files
+  - [ ] BOM
+- [ ] mse-50-hd
+  - [x] Routed
+  - [x] Length-Matched
+  - [x] ERC
+  - [x] DRC
+  - [ ] CAM Files
+  - [ ] BOM
+- [ ] mse-50-idc
+  - [ ] Routed
+  - [ ] Length-Matched
+  - [ ] ERC
+  - [ ] DRC
+  - [ ] CAM Files
+  - [ ] BOM
+- [ ] mse-68-hd
+  - [x] Routed
+  - [x] Length-Matched
+  - [x] ERC
+  - [x] DRC
+  - [ ] CAM Files
+  - [ ] BOM
+- [ ] mse-68-vhdci
+  - [ ] Routed
+  - [ ] Length-Matched
+  - [X] ERC
+  - [ ] DRC
+  - [ ] CAM Files
+  - [ ] BOM
+- [ ] ~~scsi2-68-hd~~
+  - [ ] ~~Routed~~
+  - [ ] ~~Length-Matched~~
+  - [ ] ~~ERC~~
+  - [ ] ~~DRC~~
+  - [ ] ~~CAM Files~~
+  - [ ] ~~BOM~~
