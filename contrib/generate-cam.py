@@ -37,18 +37,25 @@ def sch_cam(basename: str, schematic: Path, outdir: Path, do_check: bool = False
 
 		violations = tuple(
 			v
-			for vs in map(lambda sheet: list(map(lambda violations: violations['severity'], sheet['violations'])), erc_report['sheets'])
+			for vs in map(lambda sheet: list(map(lambda violations: violations['severity'] if not violations.get('excluded', False) else None, sheet['violations'])), erc_report['sheets'])
 			for v in vs
 		)
 
+		exl_count = violations.count(None)
 		err_count = violations.count('error')
 		wrn_count = violations.count('warning')
 
+		if exl_count > 0:
+			print('\t\tExclusions:')
+			print(f'\t\t\tFound {exl_count} excluded ERC violations')
+
 		if wrn_count > 0:
-			print(f'\t\tFound {wrn_count} ERC warnings!')
+			print('\t\tWarnings:')
+			print(f'\t\t\tFound {wrn_count} ERC warnings!')
 
 		if err_count > 0:
-			print(f'\t\tFound {err_count} ERC violations!')
+			print('\t\tErrors:')
+			print(f'\t\t\tFound {err_count} ERC violations!')
 			if not allow_check_fail:
 				return 1
 			else:
@@ -107,22 +114,41 @@ def pcb_cam(basename: str, pcb: Path, outdir: Path, do_check: bool = False, allo
 		with report_file.open('r') as rpt:
 			drc_report = json.load(rpt)
 
-		violations = tuple(map(lambda violations: violations['severity'], drc_report['violations']))
-		schem_parity = tuple(map(lambda violations: violations['severity'], drc_report['schematic_parity']))
+		violations = tuple(map(lambda violations: violations['severity'] if not violations.get('excluded', False) else None, drc_report['violations']))
+		schem_parity = tuple(map(lambda violations: violations['severity'] if not violations.get('excluded', False) else None, drc_report['schematic_parity']))
+		unconnected = tuple(map(lambda violations: violations['severity'] if not violations.get('excluded', False) else None, drc_report['unconnected_items']))
 
+
+		exl_count = violations.count(None)
 		err_count = violations.count('error')
 		wrn_count = violations.count('warning')
 
+		sch_excl = schem_parity.count(None)
 		sch_errs = schem_parity.count('error')
 		sch_wrns = schem_parity.count('warning')
 
-		if (wrn_count + sch_wrns) > 0:
-			print(f'\t\tFound {wrn_count} DRC warnings!')
-			print(f'\t\tFound {sch_wrns} Schematic parity warnings!')
+		ucon_excl = unconnected.count(None)
+		ucon_errs = unconnected.count('error')
+		ucon_wrns = unconnected.count('warning')
 
-		if (err_count + sch_errs) > 0:
-			print(f'\t\tFound {err_count} DRC violations!')
-			print(f'\t\tFound {sch_errs} Schematic parity errors!')
+		if (exl_count + sch_excl + ucon_excl) > 0:
+			print('\t\tExclusions:')
+			print(f'\t\t\tFound {exl_count} excluded DRC violations')
+			print(f'\t\t\tFound {sch_excl} excluded DRC warnings')
+			print(f'\t\t\tFound {ucon_excl} excluded unconnected items')
+
+		if (wrn_count + sch_wrns + ucon_wrns) > 0:
+			print('\t\tWarnings:')
+			print(f'\t\t\tFound {wrn_count} DRC warnings!')
+			print(f'\t\t\tFound {sch_wrns} Schematic parity warnings!')
+			print(f'\t\t\tFound {ucon_wrns} Unconnected Item warnings!')
+
+		if (err_count + sch_errs + ucon_errs) > 0:
+			print('\t\tErrors:')
+			print(f'\t\t\tFound {err_count} DRC violations!')
+			print(f'\t\t\tFound {sch_errs} Schematic parity errors!')
+			print(f'\t\t\tFound {ucon_errs} Unconnected Item errors!')
+
 			if not allow_check_fail:
 				return 1
 			else:
