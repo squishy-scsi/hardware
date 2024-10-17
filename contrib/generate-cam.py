@@ -9,10 +9,14 @@ from sys        import exit
 from shutil     import which
 from zipfile    import ZipFile
 
-KICAD_CLI = Path(which('kicad-cli')).resolve()
+try:
+	KICAD_CLI = Path(which('kicad-cli')).resolve()
+except TypeError:
+	print('ERROR: Unable to find `kicad-cli`!')
+	exit(1)
 
-def run_command(args: tuple[str, ...]) -> tuple[int, str, str]:
-	ret = run((KICAD_CLI, *args), stderr = PIPE, stdout = PIPE)
+def run_command(args: tuple[str, ...], cmd: Path = KICAD_CLI) -> tuple[int, str, str]:
+	ret = run((cmd, *args), stderr = PIPE, stdout = PIPE)
 	return (
 		ret.returncode, ret.stderr.decode('utf-8'), ret.stdout.decode('utf-8')
 	)
@@ -236,6 +240,51 @@ def pcb_cam(basename: str, pcb: Path, outdir: Path, do_check: bool = False, allo
 
 	return 0
 
+def panel_cam(
+	basename: str, pcb: Path, outdir: Path, do_check: bool = False, allow_check_fail: bool = False,
+	rows: int = 1, cols: int = 3
+) -> int:
+	try:
+		KIKIT = Path(which('kikit')).resolve()
+	except TypeError:
+		print('ERROR: KiKit no found, aborting panel generation')
+		return 1
+
+	def run_cmd(args: tuple[str, ...]) -> tuple[int, str, str]:
+		return run_command(args, KIKIT)
+
+
+	panel_dir = (outdir / 'panel')
+	panel_dir.mkdir(exist_ok = True)
+
+	panel_file = (panel_dir / f'{basename}-panel.kicad_pcb')
+
+	print(f'\tGenerating Panel File: \'{panel_file}\'')
+
+	ret, stdout, stderr = run_cmd((
+		'panelize',
+		'--layout', f'hspace: 2.5mm; vspace: 2.5mm; hbackbone: 5mm; vbackbone: 5mm; cols: {cols}; rows: {rows}',
+		'--tabs', 'type: annotation; fillet: 1mm',
+		'--cuts', 'type: mousebites; prolong: -0.4mm',
+		'--framing', 'type: railstb; fillet: 1mm',
+		'--fiducials', 'type: 3fid; hoffset: 2.5mm; voffset: 2.5mm; opening: 2.5mm',
+		'--text', 'type: simple; voffset: 2.5mm; text: JLCJLCJLCJLC',
+		'--post', 'millradius: 0.25mm; origin: br',
+		pcb, panel_file
+	))
+
+	if ret != 0:
+		print('\tGenerating Panel failed!')
+		print(stdout)
+		print(stderr)
+		return 1
+
+	print('\tPanel generation done')
+
+	pcb_ret = pcb_cam(f'{basename}-panel', panel_file, panel_dir, do_check, allow_check_fail)
+
+	return pcb_ret
+
 def main() -> int:
 
 	parser = ArgumentParser(
@@ -271,20 +320,44 @@ def main() -> int:
 		help    = 'Continue generating CAD and CAM output even if ERC/DRC checks fail'
 	)
 
+	parser.add_argument(
+		'--generate-panel', '-P',
+		action  = 'store_true',
+		default = False,
+		help    = 'Invoke KiKit and generate the panels, which are then fed back into the CAM processor'
+	)
+
+	panel_opts = parser.add_argument_group('Panel Options')
+
+	panel_opts.add_argument(
+		'--rows', '-R',
+		type    = int,
+		default = 1,
+		help    = 'Number of rows in the panel'
+	)
+
+	panel_opts.add_argument(
+		'--cols', '-C',
+		type    = int,
+		default = 3,
+		help    = 'Number of columns in the panel'
+	)
+
 	args = parser.parse_args()
 
 	outdir: Path = args.output
 	indir: Path = args.input
 
-	if not KICAD_CLI.exists():
-		print('ERROR: Unable to find `kicad-cli`!')
-		return 1
-
 	if not indir.exists():
 		print(f'ERROR: No such directory {indir}!')
 		return 1
 
-	kicad_project = next(indir.glob('*.kicad_pro')).resolve()
+	try:
+		kicad_project = next(indir.glob('*.kicad_pro')).resolve()
+	except StopIteration:
+		print(f'No KiCad project in \'{indir}\'!')
+		return 1
+
 	project_name = kicad_project.stem
 
 	print(f'Found KiCad project: {kicad_project.name}')
@@ -311,8 +384,14 @@ def main() -> int:
 	sch_ret = sch_cam(project_name, root_sch, cam_dir, args.run_checks, args.allow_failures)
 	pcb_ret = pcb_cam(project_name, root_pcb, cam_dir, args.run_checks, args.allow_failures)
 
+	panel_ret = 0
+	if args.generate_panel:
+		panel_ret = panel_cam(
+			project_name, root_pcb, cam_dir, args.run_checks, args.allow_failures,
+			args.rows, args.cols
+		)
 
-	return (sch_ret | pcb_ret)
+	return (sch_ret | pcb_ret | panel_ret)
 
 
 if __name__ == '__main__':
