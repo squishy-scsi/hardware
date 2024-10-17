@@ -236,7 +236,7 @@ def pcb_cam(basename: str, pcb: Path, outdir: Path, do_check: bool = False, allo
 		print(stderr)
 		return 1
 
-	print('Schematic CAD/CAM generation done')
+	print('PCB CAD/CAM generation done')
 
 	return 0
 
