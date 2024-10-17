@@ -5932,6 +5932,12 @@
 		(uuid "11b5638b-eb51-46b8-abe7-039929923585")
 	)
 	(junction
+		(at 125.73 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "153809d5-3e94-4280-ab75-7d747ffb933e")
+	)
+	(junction
 		(at 123.19 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6206,6 +6212,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e6cefa2e-6af1-4a60-b9ba-571a5076fbfa")
+	)
+	(junction
+		(at 58.42 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ede3e552-d4ec-4fa5-8080-133a29ec2005")
 	)
 	(junction
 		(at 58.42 156.21)
@@ -7602,6 +7614,16 @@
 			(type default)
 		)
 		(uuid "1d8f77d1-a6bb-48bd-bb90-682ba40636ee")
+	)
+	(wire
+		(pts
+			(xy 128.27 137.16) (xy 128.27 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1df6e409-ef19-41ef-8e10-bf02895a8b5c")
 	)
 	(wire
 		(pts
@@ -9435,6 +9457,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 139.7) (xy 133.35 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99d76670-003d-4973-83df-5d25447ad696")
+	)
+	(wire
+		(pts
 			(xy 129.54 101.6) (xy 130.81 101.6)
 		)
 		(stroke
@@ -9582,6 +9614,16 @@
 			(type default)
 		)
 		(uuid "a27bf1c8-259a-43f1-a5f6-c8d86e0a085a")
+	)
+	(wire
+		(pts
+			(xy 125.73 137.16) (xy 128.27 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a28a7d93-b6b4-4d0a-a948-2f0cc418d6c8")
 	)
 	(bus
 		(pts
@@ -9772,6 +9814,16 @@
 			(type default)
 		)
 		(uuid "aec92c80-45ef-4b28-a727-022360b9df8f")
+	)
+	(wire
+		(pts
+			(xy 58.42 162.56) (xy 58.42 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0057a69-6155-474e-bf42-4fabdff80115")
 	)
 	(wire
 		(pts
@@ -14176,6 +14228,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 133.35 139.7 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9dd5fb05-cf7c-40fc-8d3f-44af16b348c9")
+		(property "Reference" "#FLG03"
+			(at 135.255 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 137.16 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.35 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 133.35 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 133.35 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3e4fa712-8444-45f1-996a-b727f094b112")
+		)
+		(instances
+			(project "hvd-50-hd"
+				(path "/bd9eafec-5355-49e4-b2e3-916daacb0a86"
+					(reference "#FLG03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 187.96 144.78 0)
 		(unit 1)
@@ -14778,6 +14895,71 @@
 			(project "hvd-50-hd"
 				(path "/bd9eafec-5355-49e4-b2e3-916daacb0a86"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 58.42 162.56 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e7f827a1-2b0c-4648-bec9-6fea25617148")
+		(property "Reference" "#FLG02"
+			(at 58.42 164.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 58.42 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 58.42 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 58.42 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c66a5355-21ef-4fa0-a726-62b3a7656377")
+		)
+		(instances
+			(project "hvd-50-hd"
+				(path "/bd9eafec-5355-49e4-b2e3-916daacb0a86"
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
