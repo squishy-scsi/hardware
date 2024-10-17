@@ -241,7 +241,7 @@ def pcb_cam(basename: str, pcb: Path, outdir: Path, do_check: bool = False, allo
 	return 0
 
 def panel_cam(
-	basename: str, pcb: Path, outdir: Path, do_check: bool = False, allow_check_fail: bool = False,
+	basename: str, pcb: Path, camdir: Path, panel_dir: Path, do_check: bool = False, allow_check_fail: bool = False,
 	rows: int = 1, cols: int = 3
 ) -> int:
 	try:
@@ -254,7 +254,6 @@ def panel_cam(
 		return run_command(args, KIKIT)
 
 
-	panel_dir = (outdir / 'panel')
 	panel_dir.mkdir(exist_ok = True)
 
 	panel_file = (panel_dir / f'{basename}-panel.kicad_pcb')
@@ -281,7 +280,10 @@ def panel_cam(
 
 	print('\tPanel generation done')
 
-	pcb_ret = pcb_cam(f'{basename}-panel', panel_file, panel_dir, do_check, allow_check_fail)
+	panel_cam_dir = (camdir / 'panel')
+	panel_cam_dir.mkdir(exist_ok = True)
+
+	pcb_ret = pcb_cam(f'{basename}-panel', panel_file, panel_cam_dir, do_check, allow_check_fail)
 
 	return pcb_ret
 
@@ -386,8 +388,9 @@ def main() -> int:
 
 	panel_ret = 0
 	if args.generate_panel:
+		panel_dir = (outdir / f'{project_name}-panel')
 		panel_ret = panel_cam(
-			project_name, root_pcb, cam_dir, args.run_checks, args.allow_failures,
+			project_name, root_pcb, cam_dir, panel_dir, args.run_checks, args.allow_failures,
 			args.rows, args.cols
 		)
 
