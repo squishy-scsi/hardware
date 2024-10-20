@@ -10,7 +10,7 @@
 - [ ] hvd-50-ce
   - [ ] Routed
   - [ ] Length-Matched
-  - [ ] ERC
+  - [x] ERC
   - [ ] DRC
   - [ ] CAM Files
   - [ ] BOM
