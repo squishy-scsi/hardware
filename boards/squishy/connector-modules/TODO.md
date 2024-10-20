@@ -38,7 +38,7 @@
 - [ ] hvd-68-vhdci
   - [ ] Routed
   - [ ] Length-Matched
-  - [ ] ERC
+  - [x] ERC
   - [ ] DRC
   - [ ] CAM Files
   - [ ] BOM
