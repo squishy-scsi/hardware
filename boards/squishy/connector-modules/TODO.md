@@ -8,7 +8,7 @@
   - [ ] ~~CAM Files~~
   - [ ] ~~BOM~~
 - [ ] hvd-50-ce
-  - [ ] Routed
+  - [x] Routed
   - [ ] Length-Matched
   - [x] ERC
   - [ ] DRC
