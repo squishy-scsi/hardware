@@ -6526,12 +6526,6 @@
 		(uuid "5fc6de19-c1a7-4a25-9442-ab0836566075")
 	)
 	(junction
-		(at 124.46 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "63f6f9a0-3a99-4709-986a-30f86fb67d4b")
-	)
-	(junction
 		(at 58.42 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6542,6 +6536,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6c8f510b-f3cf-4c97-94f7-e73048603462")
+	)
+	(junction
+		(at 124.46 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71f47b8c-70d1-4f4f-93b6-1dce28b8804d")
 	)
 	(junction
 		(at 58.42 87.63)
@@ -9537,6 +9537,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 152.4) (xy 133.35 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68e10bc1-97dd-4cb8-bfa5-45ef857e6fee")
+	)
+	(wire
+		(pts
 			(xy 114.3 133.35) (xy 114.3 146.05)
 		)
 		(stroke
@@ -10484,16 +10494,6 @@
 			(type default)
 		)
 		(uuid "a6c5a31b-da84-4a84-b04c-3dce13727c4b")
-	)
-	(wire
-		(pts
-			(xy 124.46 151.13) (xy 124.46 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a70cc9fc-b30c-4f68-bfeb-a14cf724e1cf")
 	)
 	(wire
 		(pts
@@ -12657,6 +12657,17 @@
 		)
 		(uuid "6a83cc4c-52b0-47bb-a9fc-3104bc3adba8")
 	)
+	(label "SHIELD"
+		(at 121.92 152.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "6ad33221-2a0f-47c5-ae67-b65b7c8c7d42")
+	)
 	(label "CON.DB0+"
 		(at 97.79 74.93 0)
 		(fields_autoplaced yes)
@@ -13848,7 +13859,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 124.46 151.13 0)
+		(at 133.35 152.4 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13856,7 +13867,7 @@
 		(dnp no)
 		(uuid "07b3197d-46f0-4113-a5ff-0060305062bd")
 		(property "Reference" "#FLG03"
-			(at 124.46 149.225 0)
+			(at 135.255 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13865,7 +13876,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 126.746 149.352 90)
+			(at 135.128 154.686 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13873,7 +13884,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 151.13 0)
+			(at 133.35 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13882,7 +13893,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 124.46 151.13 0)
+			(at 133.35 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13891,7 +13902,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 124.46 151.13 0)
+			(at 133.35 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
