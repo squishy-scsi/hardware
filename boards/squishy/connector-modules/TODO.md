@@ -8,73 +8,73 @@
   - [ ] ~~CAM Files~~
   - [ ] ~~BOM~~
 - [ ] hvd-50-ce
-  - [x] Routed
+  - [X] Routed
   - [ ] Length-Matched
-  - [x] ERC
+  - [X] ERC
   - [ ] DRC
   - [ ] CAM Files
   - [ ] BOM
 - [ ] hvd-50-hd
-  - [x] Routed
-  - [x] Length-Matched
-  - [x] ERC
-  - [x] DRC
+  - [X] Routed
+  - [X] Length-Matched
+  - [X] ERC
+  - [X] DRC
   - [ ] CAM Files
   - [ ] BOM
 - [ ] hvd-50-idc
   - [X] Routed
   - [ ] Length-Matched
-  - [x] ERC
+  - [X] ERC
   - [ ] DRC
   - [ ] CAM Files
   - [ ] BOM
 - [ ] hvd-68-hd
-  - [x] Routed
-  - [x] Length-Matched
-  - [x] ERC
-  - [x] DRC
+  - [X] Routed
+  - [X] Length-Matched
+  - [X] ERC
+  - [X] DRC
   - [ ] CAM Files
   - [ ] BOM
 - [ ] hvd-68-vhdci
   - [ ] Routed
   - [ ] Length-Matched
-  - [x] ERC
+  - [X] ERC
   - [ ] DRC
   - [ ] CAM Files
   - [ ] BOM
 - [ ] mse-50-ce
   - [ ] Routed
   - [ ] Length-Matched
-  - [x] ERC
+  - [X] ERC
   - [ ] DRC
   - [ ] CAM Files
   - [ ] BOM
 - [ ] mse-50-hd
-  - [x] Routed
-  - [x] Length-Matched
-  - [x] ERC
-  - [x] DRC
+  - [X] Routed
+  - [X] Length-Matched
+  - [X] ERC
+  - [X] DRC
   - [ ] CAM Files
   - [ ] BOM
 - [ ] mse-50-idc
   - [ ] Routed
   - [ ] Length-Matched
-  - [x] ERC
+  - [X] ERC
   - [ ] DRC
   - [ ] CAM Files
   - [ ] BOM
 - [ ] mse-68-hd
-  - [x] Routed
-  - [x] Length-Matched
-  - [x] ERC
-  - [x] DRC
+  - [X] Routed
+  - [X] Length-Matched
+  - [X] ERC
+  - [X] DRC
   - [ ] CAM Files
   - [ ] BOM
 - [ ] mse-68-vhdci
-  - [x] Routed
-  - [x] Length-Matched
-  - [x] ERC
-  - [x] DRC
+  - [X] Routed
+  - [X] Length-Matched
+  - [X] ERC
+  - [X] DRC
   - [ ] CAM Files
   - [ ] BOM
 - [ ] ~~scsi2-68-hd~~
