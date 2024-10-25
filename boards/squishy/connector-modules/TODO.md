@@ -43,7 +43,7 @@
   - [ ] CAM Files
   - [ ] BOM
 - [ ] mse-50-ce
-  - [ ] Routed
+  - [X] Routed
   - [ ] Length-Matched
   - [X] ERC
   - [ ] DRC
