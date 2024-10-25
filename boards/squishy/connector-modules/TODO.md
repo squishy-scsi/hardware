@@ -71,10 +71,10 @@
   - [ ] CAM Files
   - [ ] BOM
 - [ ] mse-68-vhdci
-  - [ ] Routed
-  - [ ] Length-Matched
-  - [X] ERC
-  - [ ] DRC
+  - [x] Routed
+  - [x] Length-Matched
+  - [x] ERC
+  - [x] DRC
   - [ ] CAM Files
   - [ ] BOM
 - [ ] ~~scsi2-68-hd~~
