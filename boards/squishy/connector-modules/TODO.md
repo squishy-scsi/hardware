@@ -22,7 +22,7 @@
   - [ ] CAM Files
   - [ ] BOM
 - [ ] hvd-50-idc
-  - [ ] Routed
+  - [X] Routed
   - [ ] Length-Matched
   - [x] ERC
   - [ ] DRC
