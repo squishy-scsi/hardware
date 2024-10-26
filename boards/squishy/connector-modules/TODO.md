@@ -57,7 +57,7 @@
   - [ ] CAM Files
   - [ ] BOM
 - [ ] mse-50-idc
-  - [ ] Routed
+  - [X] Routed
   - [ ] Length-Matched
   - [X] ERC
   - [ ] DRC
