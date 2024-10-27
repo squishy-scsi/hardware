@@ -1,12 +1,5 @@
 # Connector Modules TODO
 
-- [ ] ~~all-80-sca~~
-  - [ ] ~~Routed~~
-  - [ ] ~~Length-Matched~~
-  - [ ] ~~ERC~~
-  - [ ] ~~DRC~~
-  - [ ] ~~CAM Files~~
-  - [ ] ~~BOM~~
 - [ ] hvd-50-ce
   - [X] Routed
   - [ ] Length-Matched
@@ -77,6 +70,16 @@
   - [X] DRC
   - [ ] CAM Files
   - [ ] BOM
+
+
+
+- [ ] ~~all-80-sca~~
+  - [ ] ~~Routed~~
+  - [ ] ~~Length-Matched~~
+  - [ ] ~~ERC~~
+  - [ ] ~~DRC~~
+  - [ ] ~~CAM Files~~
+  - [ ] ~~BOM~~
 - [ ] ~~scsi2-68-hd~~
   - [ ] ~~Routed~~
   - [ ] ~~Length-Matched~~
