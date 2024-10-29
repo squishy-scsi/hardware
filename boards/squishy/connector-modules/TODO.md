@@ -29,10 +29,10 @@
   - [ ] CAM Files
   - [ ] BOM
 - [ ] hvd-68-vhdci
-  - [ ] Routed
-  - [ ] Length-Matched
+  - [x] Routed
+  - [x] Length-Matched
   - [X] ERC
-  - [ ] DRC
+  - [x] DRC
   - [ ] CAM Files
   - [ ] BOM
 - [ ] mse-50-ce
