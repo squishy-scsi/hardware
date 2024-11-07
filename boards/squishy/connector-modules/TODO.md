@@ -18,7 +18,7 @@
   - [X] Routed
   - [X] Length-Matched
   - [X] ERC
-  - [ ] DRC
+  - [X] DRC
   - [ ] CAM Files
   - [ ] BOM
 - [ ] hvd-68-hd
