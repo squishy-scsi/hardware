@@ -14,13 +14,13 @@
   - [X] DRC
   - [X] CAM Files
   - [X] BOM
-- [ ] hvd-50-idc
+- [X] hvd-50-idc
   - [X] Routed
   - [X] Length-Matched
   - [X] ERC
   - [X] DRC
-  - [ ] CAM Files
-  - [ ] BOM
+  - [X] CAM Files
+  - [X] BOM
 - [ ] hvd-68-hd
   - [X] Routed
   - [X] Length-Matched
