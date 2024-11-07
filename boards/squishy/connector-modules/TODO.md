@@ -39,7 +39,7 @@
   - [X] Routed
   - [X] Length-Matched
   - [X] ERC
-  - [ ] DRC
+  - [X] DRC
   - [ ] CAM Files
   - [ ] BOM
 - [ ] mse-50-hd
