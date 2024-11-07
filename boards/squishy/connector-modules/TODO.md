@@ -1,12 +1,12 @@
 # Connector Modules TODO
 
-- [ ] hvd-50-ce
+- [X] hvd-50-ce
   - [X] Routed
   - [X] Length-Matched
   - [X] ERC
   - [X] DRC
-  - [ ] CAM Files
-  - [ ] BOM
+  - [X] CAM Files
+  - [X] BOM
 - [ ] hvd-50-hd
   - [X] Routed
   - [X] Length-Matched
