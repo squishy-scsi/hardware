@@ -904,31 +904,31 @@
           "group_by": false,
           "label": "MFR",
           "name": "MFR",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "MPN",
           "name": "MPN",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "SUPPLIER",
           "name": "SUPPLIER",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "SUPPLIER_OC",
           "name": "SUPPLIER_OC",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "SUPPLIER_URL",
           "name": "SUPPLIER_URL",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
