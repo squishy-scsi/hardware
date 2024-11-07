@@ -63,10 +63,10 @@
   - [X] DRC
   - [X] CAM Files
   - [X] BOM
-- [ ] mse-68-vhdci
+- [X] mse-68-vhdci
   - [X] Routed
   - [X] Length-Matched
   - [X] ERC
   - [X] DRC
-  - [ ] CAM Files
-  - [ ] BOM
+  - [X] CAM Files
+  - [X] BOM
