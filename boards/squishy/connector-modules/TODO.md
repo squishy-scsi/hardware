@@ -2,9 +2,9 @@
 
 - [ ] hvd-50-ce
   - [X] Routed
-  - [ ] Length-Matched
+  - [X] Length-Matched
   - [X] ERC
-  - [ ] DRC
+  - [X] DRC
   - [ ] CAM Files
   - [ ] BOM
 - [ ] hvd-50-hd
