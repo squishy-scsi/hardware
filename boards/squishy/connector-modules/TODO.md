@@ -49,13 +49,13 @@
   - [X] DRC
   - [X] CAM Files
   - [X] BOM
-- [ ] mse-50-idc
+- [X] mse-50-idc
   - [X] Routed
   - [X] Length-Matched
   - [X] ERC
   - [X] DRC
-  - [ ] CAM Files
-  - [ ] BOM
+  - [X] CAM Files
+  - [X] BOM
 - [ ] mse-68-hd
   - [X] Routed
   - [X] Length-Matched
