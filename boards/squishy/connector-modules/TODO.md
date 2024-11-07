@@ -37,7 +37,7 @@
   - [ ] BOM
 - [ ] mse-50-ce
   - [X] Routed
-  - [ ] Length-Matched
+  - [X] Length-Matched
   - [X] ERC
   - [ ] DRC
   - [ ] CAM Files
