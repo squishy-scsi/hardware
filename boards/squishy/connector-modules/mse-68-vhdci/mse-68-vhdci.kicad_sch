@@ -13967,6 +13967,33 @@
 				(hide yes)
 			)
 		)
+		(property "SUPPLIER" "TE Connectivity"
+			(at 123.19 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_OC" "5796055-1"
+			(at 123.19 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.te.com/en/product-5796055-1.html"
+			(at 123.19 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "26"
 			(uuid "0924327a-69d0-469b-835c-caaa0967da57")
 		)
@@ -15113,7 +15140,7 @@
 		(at 276.86 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "70a51e8c-ebae-4265-a705-01d844c618b7")
@@ -15722,7 +15749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 120.65 157.48 0)
 			(effects
 				(font
@@ -15740,7 +15767,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "Vishay Dale"
 			(at 120.65 157.48 90)
 			(effects
 				(font
@@ -15749,7 +15776,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW06031M00FKEA"
 			(at 120.65 157.48 90)
 			(effects
 				(font
@@ -15758,7 +15785,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "±1% 1/10W"
 			(at 120.65 157.48 0)
 			(effects
 				(font
@@ -15776,7 +15803,7 @@
 				(hide yes)
 			)
 		)
-		(property "SUPPLIER_OC" ""
+		(property "SUPPLIER_OC" "541-1.00MHDKR-ND"
 			(at 120.65 157.48 0)
 			(effects
 				(font
@@ -15785,7 +15812,7 @@
 				(hide yes)
 			)
 		)
-		(property "SUPPLIER_URL" ""
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/18qqp0zw"
 			(at 120.65 157.48 0)
 			(effects
 				(font
@@ -16308,6 +16335,51 @@
 			)
 		)
 		(property "Description" "2Kb (256x8) I2C Serial EEPROM, 1.8-5.5V,  UFDFPN8"
+			(at 238.76 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "STMicroelectronics"
+			(at 238.76 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "M24C02-RMC6TG"
+			(at 238.76 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "DigiKey"
+			(at 238.76 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_OC" "497-17822-1-ND"
+			(at 238.76 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER_URL" "https://www.digikey.com/short/r9drrzr3"
 			(at 238.76 147.32 0)
 			(effects
 				(font
