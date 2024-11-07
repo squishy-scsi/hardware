@@ -242,7 +242,7 @@ def pcb_cam(basename: str, pcb: Path, outdir: Path, do_check: bool = False, allo
 
 def panel_cam(
 	basename: str, pcb: Path, camdir: Path, panel_dir: Path, do_check: bool = False, allow_check_fail: bool = False,
-	rows: int = 1, cols: int = 3
+	rows: int = 3, cols: int = 1
 ) -> int:
 	try:
 		KIKIT = Path(which('kikit')).resolve()
@@ -334,14 +334,14 @@ def main() -> int:
 	panel_opts.add_argument(
 		'--rows', '-R',
 		type    = int,
-		default = 1,
+		default = 3,
 		help    = 'Number of rows in the panel'
 	)
 
 	panel_opts.add_argument(
 		'--cols', '-C',
 		type    = int,
-		default = 3,
+		default = 1,
 		help    = 'Number of columns in the panel'
 	)
 
