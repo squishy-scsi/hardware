@@ -56,10 +56,10 @@
 
 (rule "scsi-con-front"
   (condition "A.NetClass == 'SCSI_PHY' && A.NetName == '/CON.*-'")
-  (constraint length (min 27.6173mm) (max 27.6175mm))
+  (constraint length (min 27.6173mm) (opt 27.6174mm) (max 27.6175mm))
 )
 
 (rule "scsi-con-back"
   (condition "A.NetClass == 'SCSI_PHY' && A.NetName == '/CON.*+'")
-  (constraint length (min 30.4646mm) (max 30.4648mm))
+  (constraint length (min 30.4646mm) (opt 30.4647mm) (max 30.4648mm))
 )
