@@ -1,0 +1,134 @@
+(version 1)
+
+(rule "Board_0-in1-rules"
+  (layer "In1.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_0-in2-rules"
+  (layer "In2.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_0-in3-rules"
+  (layer "In3.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_0-in4-rules"
+  (layer "In4.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_0-f.cu-bus-clearence"
+  (layer "F.Cu")
+  (condition "A.NetClass == 'Board_0-SCSI_PHY' && A.Type != 'Via' && B.NetName == 'Board_0-GND'")
+  (constraint clearance (min 0.6mm))
+)
+
+(rule "Board_0-b.cu-bus-clearence"
+  (layer "B.Cu")
+  (condition "A.NetClass == 'Board_0-SCSI_PHY' && A.Type != 'Via' && B.NetName == 'Board_0-GND'")
+  (constraint clearance (min 0.6mm))
+)
+
+(rule "Board_0-scsi-con"
+  (condition "A.NetClass == 'Board_0-SCSI_PHY' && (A.NetName == 'Board_0-/CON.*-' || A.NetName == 'Board_0-/CON.*+')")
+  (constraint length (min 34.8889mm) (opt 34.8890mm) (max 34.8891mm))
+)
+(rule "Board_1-in1-rules"
+  (layer "In1.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_1-in2-rules"
+  (layer "In2.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_1-in3-rules"
+  (layer "In3.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_1-in4-rules"
+  (layer "In4.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_1-f.cu-bus-clearence"
+  (layer "F.Cu")
+  (condition "A.NetClass == 'Board_1-SCSI_PHY' && A.Type != 'Via' && B.NetName == 'Board_1-GND'")
+  (constraint clearance (min 0.6mm))
+)
+
+(rule "Board_1-b.cu-bus-clearence"
+  (layer "B.Cu")
+  (condition "A.NetClass == 'Board_1-SCSI_PHY' && A.Type != 'Via' && B.NetName == 'Board_1-GND'")
+  (constraint clearance (min 0.6mm))
+)
+
+(rule "Board_1-scsi-con"
+  (condition "A.NetClass == 'Board_1-SCSI_PHY' && (A.NetName == 'Board_1-/CON.*-' || A.NetName == 'Board_1-/CON.*+')")
+  (constraint length (min 34.8889mm) (opt 34.8890mm) (max 34.8891mm))
+)
+(rule "Board_2-in1-rules"
+  (layer "In1.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_2-in2-rules"
+  (layer "In2.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_2-in3-rules"
+  (layer "In3.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_2-in4-rules"
+  (layer "In4.Cu")
+  (constraint clearance (min 0.127mm))
+  (constraint track_width (min 0.127mm))
+  (constraint hole_clearance (min 0.127mm))
+)
+
+(rule "Board_2-f.cu-bus-clearence"
+  (layer "F.Cu")
+  (condition "A.NetClass == 'Board_2-SCSI_PHY' && A.Type != 'Via' && B.NetName == 'Board_2-GND'")
+  (constraint clearance (min 0.6mm))
+)
+
+(rule "Board_2-b.cu-bus-clearence"
+  (layer "B.Cu")
+  (condition "A.NetClass == 'Board_2-SCSI_PHY' && A.Type != 'Via' && B.NetName == 'Board_2-GND'")
+  (constraint clearance (min 0.6mm))
+)
+
+(rule "Board_2-scsi-con"
+  (condition "A.NetClass == 'Board_2-SCSI_PHY' && (A.NetName == 'Board_2-/CON.*-' || A.NetName == 'Board_2-/CON.*+')")
+  (constraint length (min 34.8889mm) (opt 34.8890mm) (max 34.8891mm))
+)
