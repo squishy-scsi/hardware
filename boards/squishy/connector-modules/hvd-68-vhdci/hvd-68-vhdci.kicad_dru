@@ -43,14 +43,14 @@
 (rule "inner2-bus-width"
   (layer "In2.Cu")
   (condition "A.NetClass == 'SCSI_PHY' && A.Type != 'Via' && B.NetName == 'GND'")
-  (constraint clearance (min 0.6mm))
+  (constraint clearance (min 0.2mm))
   (constraint track_width (min 0.1016mm))
 )
 
 (rule "inner3-bus-width"
   (layer "In3.Cu")
   (condition "A.NetClass == 'SCSI_PHY' && A.Type != 'Via' && B.NetName == 'GND'")
-  (constraint clearance (min 0.6mm))
+  (constraint clearance (min 0.2mm))
   (constraint track_width (min 0.1016mm))
 )
 
