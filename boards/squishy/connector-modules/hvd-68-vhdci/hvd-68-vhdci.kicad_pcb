@@ -6781,16 +6781,6 @@
 		(uuid "6f2f5c13-69ca-4341-94da-3cb9005224f8")
 	)
 	(gr_line
-		(start 138.55 113.65)
-		(end 133.7 113.65)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "04b15f5b-8ffb-4925-a096-cf91ff4d3485")
-	)
-	(gr_line
 		(start 114 136)
 		(end 181 136)
 		(locked yes)
