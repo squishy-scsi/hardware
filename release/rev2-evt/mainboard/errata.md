@@ -7,3 +7,4 @@
  - [ ] SWCLK and SWDIO swapped on J4
  - [ ] 3v3 Rail slightly low (3v223) but within spec, check feedback network values/tolerance
  - [ ] Reset button keeps 1v8 rail up, for some godforsaken reason
+ - [ ] Thermal reliefs on all through-hole pins connected to plane layers, especially GND
