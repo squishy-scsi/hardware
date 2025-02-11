@@ -23226,7 +23226,6 @@
 	)
 	(label "PHY.DBH_DIR"
 		(at 214.63 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23237,7 +23236,6 @@
 	)
 	(label "PHY.RST"
 		(at 279.4 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23248,7 +23246,6 @@
 	)
 	(label "CON_OUT.I{slash}O-"
 		(at 402.59 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23259,7 +23256,6 @@
 	)
 	(label "PHY.BSY_DIR"
 		(at 81.28 228.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23270,7 +23266,6 @@
 	)
 	(label "PHY.TRGT_DIR"
 		(at 344.17 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23281,7 +23276,6 @@
 	)
 	(label "SEL_EMPH_EN"
 		(at 166.37 219.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23292,7 +23286,6 @@
 	)
 	(label "CON_OUT.DB2+"
 		(at 78.74 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23303,7 +23296,6 @@
 	)
 	(label "PHY.RST_DIR"
 		(at 81.28 219.71 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23314,7 +23306,6 @@
 	)
 	(label "PHY.DB8"
 		(at 85.09 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23325,7 +23316,6 @@
 	)
 	(label "TRGT_EMPH_EN"
 		(at 60.96 236.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23336,7 +23326,6 @@
 	)
 	(label "PHY.LS_CTRL0"
 		(at 81.28 217.17 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23347,7 +23336,6 @@
 	)
 	(label "DBH_EN"
 		(at 106.68 236.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23358,7 +23346,6 @@
 	)
 	(label "CON_OUT.DB7-"
 		(at 143.51 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23369,7 +23356,6 @@
 	)
 	(label "CON_OUT.DB12+"
 		(at 208.28 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23380,7 +23366,6 @@
 	)
 	(label "PHY.BSY_DIR"
 		(at 214.63 181.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23391,7 +23376,6 @@
 	)
 	(label "CON_OUT.DB9-"
 		(at 143.51 187.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23402,7 +23386,6 @@
 	)
 	(label "CON_OUT.ATN+"
 		(at 273.05 148.59 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23413,7 +23396,6 @@
 	)
 	(label "CON_OUT.DP0-"
 		(at 273.05 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23424,7 +23406,6 @@
 	)
 	(label "CON_OUT.DB3+"
 		(at 78.74 148.59 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23435,7 +23416,6 @@
 	)
 	(label "DBH_EMP_PWR"
 		(at 381 95.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23446,7 +23426,6 @@
 	)
 	(label "BSY_EMP_PWR"
 		(at 194.31 223.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23457,7 +23436,6 @@
 	)
 	(label "CON_OUT.BSY-"
 		(at 273.05 187.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23468,7 +23446,6 @@
 	)
 	(label "SEL_EMPH_EN"
 		(at 401.32 162.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23479,7 +23456,6 @@
 	)
 	(label "CON_OUT.DB13-"
 		(at 208.28 151.13 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23490,7 +23466,6 @@
 	)
 	(label "PHY.DBH_DIR"
 		(at 149.86 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23501,7 +23476,6 @@
 	)
 	(label "PHY.I{slash}O"
 		(at 344.17 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23512,7 +23486,6 @@
 	)
 	(label "CON_OUT.DB1-"
 		(at 78.74 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23523,7 +23496,6 @@
 	)
 	(label "INIT_EMPH_EN"
 		(at 138.43 219.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23534,7 +23506,6 @@
 	)
 	(label "CON_OUT.DB3-"
 		(at 78.74 151.13 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23545,7 +23516,6 @@
 	)
 	(label "CON_OUT.I{slash}O+"
 		(at 402.59 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23556,7 +23526,6 @@
 	)
 	(label "PHY.DBL_DIR"
 		(at 85.09 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23567,7 +23536,6 @@
 	)
 	(label "PHY.DP1"
 		(at 214.63 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23578,7 +23546,6 @@
 	)
 	(label "PHY.LS_CTRL0"
 		(at 35.56 234.95 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23589,7 +23556,6 @@
 	)
 	(label "PHY.LS_CTRL0"
 		(at 35.56 208.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23600,7 +23566,6 @@
 	)
 	(label "SEL_EMP_PWR"
 		(at 166.37 223.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23611,7 +23576,6 @@
 	)
 	(label "CON_OUT.DB5+"
 		(at 143.51 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23622,7 +23586,6 @@
 	)
 	(label "SEL_EMPH_EN"
 		(at 106.68 209.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23633,7 +23596,6 @@
 	)
 	(label "PHY.LS_CTRL0"
 		(at 35.56 226.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23644,7 +23606,6 @@
 	)
 	(label "PHY.DBL_DIR"
 		(at 20.32 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23655,7 +23616,6 @@
 	)
 	(label "PHY.DBL_DIR"
 		(at 214.63 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23666,7 +23626,6 @@
 	)
 	(label "PHY.DB15"
 		(at 214.63 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23677,7 +23636,6 @@
 	)
 	(label "PHY.DBH_DIR"
 		(at 214.63 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23688,7 +23646,6 @@
 	)
 	(label "PHY.DB0"
 		(at 20.32 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23699,7 +23656,6 @@
 	)
 	(label "CON_OUT.RST-"
 		(at 337.82 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23710,7 +23666,6 @@
 	)
 	(label "PHY.REQ"
 		(at 344.17 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23721,7 +23676,6 @@
 	)
 	(label "PHY.DB1"
 		(at 20.32 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23732,7 +23686,6 @@
 	)
 	(label "CON_OUT.DB6+"
 		(at 143.51 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23743,7 +23696,6 @@
 	)
 	(label "PHY.TRGT_DIR"
 		(at 279.4 181.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23754,7 +23706,6 @@
 	)
 	(label "PHY.DBL_DIR"
 		(at 20.32 181.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23765,7 +23716,6 @@
 	)
 	(label "BSY_EMPH_EN"
 		(at 194.31 219.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23776,7 +23726,6 @@
 	)
 	(label "PHY.DBL_DIR"
 		(at 85.09 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23787,7 +23736,6 @@
 	)
 	(label "PHY.DBL_DIR"
 		(at 85.09 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23798,7 +23746,6 @@
 	)
 	(label "PHY.DP0"
 		(at 214.63 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23809,7 +23756,6 @@
 	)
 	(label "CON_OUT.SEL-"
 		(at 337.82 151.13 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23820,7 +23766,6 @@
 	)
 	(label "RST_EMPH_EN"
 		(at 166.37 233.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23831,7 +23776,6 @@
 	)
 	(label "CON_OUT.DB9+"
 		(at 143.51 185.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23842,7 +23786,6 @@
 	)
 	(label "PHY.DBL_DIR"
 		(at 20.32 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23853,7 +23796,6 @@
 	)
 	(label "CON_OUT.REQ+"
 		(at 402.59 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23864,7 +23806,6 @@
 	)
 	(label "PHY.DBH_DIR"
 		(at 35.56 219.71 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23875,7 +23816,6 @@
 	)
 	(label "CON_OUT.DP1+"
 		(at 273.05 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23886,7 +23826,6 @@
 	)
 	(label "PHY.RST_DIR"
 		(at 279.4 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23897,7 +23836,6 @@
 	)
 	(label "PHY.SEL"
 		(at 279.4 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23908,7 +23846,6 @@
 	)
 	(label "CON_OUT.DB10+"
 		(at 208.28 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23919,7 +23856,6 @@
 	)
 	(label "CON_OUT.DB2-"
 		(at 78.74 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23930,7 +23866,6 @@
 	)
 	(label "CON_OUT.ACK+"
 		(at 337.82 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23941,7 +23876,6 @@
 	)
 	(label "CON_OUT.DB0-"
 		(at 78.74 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23952,7 +23886,6 @@
 	)
 	(label "CON_OUT.REQ-"
 		(at 402.59 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23963,7 +23896,6 @@
 	)
 	(label "TRGT_EMPH_EN"
 		(at 138.43 233.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23974,7 +23906,6 @@
 	)
 	(label "DBH_EMPH_EN"
 		(at 60.96 218.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23985,7 +23916,6 @@
 	)
 	(label "INIT_EMP_PWR"
 		(at 138.43 223.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23996,7 +23926,6 @@
 	)
 	(label "PHY.DB11"
 		(at 149.86 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24007,7 +23936,6 @@
 	)
 	(label "CON_OUT.RST+"
 		(at 337.82 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24018,7 +23946,6 @@
 	)
 	(label "CON_OUT.DB1+"
 		(at 78.74 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24029,7 +23956,6 @@
 	)
 	(label "PHY.DB2"
 		(at 20.32 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24040,7 +23966,6 @@
 	)
 	(label "PHY.DB13"
 		(at 149.86 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24051,7 +23976,6 @@
 	)
 	(label "CON_OUT.DB11-"
 		(at 208.28 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24062,7 +23986,6 @@
 	)
 	(label "PHY.DB4"
 		(at 20.32 191.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24073,7 +23996,6 @@
 	)
 	(label "PHY.DBH_DIR"
 		(at 85.09 181.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24084,7 +24006,6 @@
 	)
 	(label "PHY.DBH_DIR"
 		(at 149.86 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24095,7 +24016,6 @@
 	)
 	(label "CON_OUT.DB8+"
 		(at 143.51 148.59 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24106,7 +24026,6 @@
 	)
 	(label "CON_OUT.DB14+"
 		(at 208.28 185.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24117,7 +24036,6 @@
 	)
 	(label "PHY.C{slash}D"
 		(at 279.4 191.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24128,7 +24046,6 @@
 	)
 	(label "CON_OUT.DB4-"
 		(at 78.74 187.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24139,7 +24056,6 @@
 	)
 	(label "PHY.DB7"
 		(at 85.09 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24150,7 +24066,6 @@
 	)
 	(label "CON_OUT.ACK-"
 		(at 337.82 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24161,7 +24076,6 @@
 	)
 	(label "CON_OUT.DB0+"
 		(at 78.74 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24172,7 +24086,6 @@
 	)
 	(label "PHY.SEL_DIR"
 		(at 81.28 210.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24183,7 +24096,6 @@
 	)
 	(label "PHY.TRGT_DIR"
 		(at 246.38 217.17 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24194,7 +24106,6 @@
 	)
 	(label "CON_OUT.DB10-"
 		(at 208.28 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24205,7 +24116,6 @@
 	)
 	(label "PHY.BSY"
 		(at 214.63 191.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24216,7 +24126,6 @@
 	)
 	(label "CON_OUT.MSG+"
 		(at 337.82 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24227,7 +24136,6 @@
 	)
 	(label "RST_EMPH_EN"
 		(at 106.68 218.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24238,7 +24146,6 @@
 	)
 	(label "PHY.DBH_DIR"
 		(at 236.22 217.17 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24249,7 +24156,6 @@
 	)
 	(label "CON_OUT.DB8-"
 		(at 143.51 151.13 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24260,7 +24166,6 @@
 	)
 	(label "DBL_EMPH_EN"
 		(at 60.96 209.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24271,7 +24176,6 @@
 	)
 	(label "DBL_EMP_PWR"
 		(at 109.22 223.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24282,7 +24186,6 @@
 	)
 	(label "DBL_EMPH_EN"
 		(at 109.22 219.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24293,7 +24196,6 @@
 	)
 	(label "PHY.DB6"
 		(at 85.09 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24304,7 +24206,6 @@
 	)
 	(label "PHY.SEL_DIR"
 		(at 279.4 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24315,7 +24216,6 @@
 	)
 	(label "CON_OUT.C{slash}D+"
 		(at 337.82 185.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24326,7 +24226,6 @@
 	)
 	(label "PHY.DB5"
 		(at 85.09 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24337,7 +24236,6 @@
 	)
 	(label "PHY.ATN"
 		(at 214.63 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24348,7 +24246,6 @@
 	)
 	(label "CON_OUT.DP1-"
 		(at 273.05 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24359,7 +24256,6 @@
 	)
 	(label "PHY.LS_CTRL0"
 		(at 81.28 208.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24370,7 +24266,6 @@
 	)
 	(label "PHY.DB10"
 		(at 149.86 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24381,7 +24276,6 @@
 	)
 	(label "CON_OUT.DB14-"
 		(at 208.28 187.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24392,7 +24286,6 @@
 	)
 	(label "PHY.LS_CTRL1"
 		(at 80.01 236.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24403,7 +24296,6 @@
 	)
 	(label "PHY.DBH_DIR"
 		(at 149.86 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24414,7 +24306,6 @@
 	)
 	(label "PHY.DB9"
 		(at 85.09 191.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24425,7 +24316,6 @@
 	)
 	(label "CON_OUT.ATN-"
 		(at 273.05 151.13 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24436,7 +24326,6 @@
 	)
 	(label "PHY.DBL_DIR"
 		(at 20.32 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24447,7 +24336,6 @@
 	)
 	(label "PHY.TRGT_DIR"
 		(at 279.4 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24458,7 +24346,6 @@
 	)
 	(label "PHY.BSY_DIR"
 		(at 261.62 217.17 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24469,7 +24356,6 @@
 	)
 	(label "DBH_PWR"
 		(at 199.39 237.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24480,7 +24366,6 @@
 	)
 	(label "PHY.DBL_DIR"
 		(at 20.32 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24491,7 +24376,6 @@
 	)
 	(label "DBL_EMP_PWR"
 		(at 359.41 95.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24502,7 +24386,6 @@
 	)
 	(label "INIT_EMPH_EN"
 		(at 60.96 227.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24513,7 +24396,6 @@
 	)
 	(label "PHY.DBH_DIR"
 		(at 149.86 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24524,7 +24406,6 @@
 	)
 	(label "DBH_EN"
 		(at 199.39 233.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24535,7 +24416,6 @@
 	)
 	(label "CON_OUT.DB15+"
 		(at 273.05 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24546,7 +24426,6 @@
 	)
 	(label "PHY.TRGT_DIR"
 		(at 344.17 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24557,7 +24436,6 @@
 	)
 	(label "PHY.LS_CTRL0"
 		(at 35.56 217.17 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24568,7 +24446,6 @@
 	)
 	(label "CON_OUT.C{slash}D-"
 		(at 337.82 187.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24579,7 +24456,6 @@
 	)
 	(label "CON_OUT.MSG-"
 		(at 337.82 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24590,7 +24466,6 @@
 	)
 	(label "PHY.DBH_DIR"
 		(at 149.86 181.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24601,7 +24476,6 @@
 	)
 	(label "CON_OUT.DB5-"
 		(at 143.51 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24612,7 +24486,6 @@
 	)
 	(label "PHY.INIT_DIR"
 		(at 279.4 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24623,7 +24496,6 @@
 	)
 	(label "PHY.LS_CTRL0"
 		(at 81.28 226.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24634,7 +24506,6 @@
 	)
 	(label "PHY.TRGT_DIR"
 		(at 35.56 237.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24645,7 +24516,6 @@
 	)
 	(label "DBH_PWR"
 		(at 15.24 251.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24656,7 +24526,6 @@
 	)
 	(label "BSY_EMPH_EN"
 		(at 106.68 227.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24667,7 +24536,6 @@
 	)
 	(label "PHY.INIT_DIR"
 		(at 214.63 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24678,7 +24546,6 @@
 	)
 	(label "TRGT_EMP_PWR"
 		(at 138.43 237.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24689,7 +24556,6 @@
 	)
 	(label "CON_OUT.DB11+"
 		(at 208.28 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24700,7 +24566,6 @@
 	)
 	(label "CON_OUT.DB13+"
 		(at 208.28 148.59 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24711,7 +24576,6 @@
 	)
 	(label "RST_EMPH_EN"
 		(at 401.32 144.78 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24722,7 +24586,6 @@
 	)
 	(label "CON_OUT.DB4+"
 		(at 78.74 185.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24733,7 +24596,6 @@
 	)
 	(label "CON_OUT.DB7+"
 		(at 143.51 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24744,7 +24606,6 @@
 	)
 	(label "RST_EMP_PWR"
 		(at 166.37 237.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24755,7 +24616,6 @@
 	)
 	(label "PHY.DBL_DIR"
 		(at 35.56 210.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24766,7 +24626,6 @@
 	)
 	(label "PHY.DB12"
 		(at 149.86 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24777,7 +24636,6 @@
 	)
 	(label "PHY.RST_DIR"
 		(at 256.54 217.17 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24788,7 +24646,6 @@
 	)
 	(label "PHY.MSG"
 		(at 279.4 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24799,7 +24656,6 @@
 	)
 	(label "DBH_EMPH_EN"
 		(at 109.22 233.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24810,7 +24666,6 @@
 	)
 	(label "CON_OUT.DB6-"
 		(at 143.51 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24821,7 +24676,6 @@
 	)
 	(label "BSY_EMPH_EN"
 		(at 379.73 168.91 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24832,7 +24686,6 @@
 	)
 	(label "TRGT_EMPH_EN"
 		(at 401.32 95.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24843,7 +24696,6 @@
 	)
 	(label "CON_OUT.DB15-"
 		(at 273.05 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24854,7 +24706,6 @@
 	)
 	(label "PHY.SEL_DIR"
 		(at 251.46 217.17 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24865,7 +24716,6 @@
 	)
 	(label "PHY.ACK"
 		(at 279.4 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24876,7 +24726,6 @@
 	)
 	(label "CON_OUT.DP0+"
 		(at 273.05 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24887,7 +24736,6 @@
 	)
 	(label "PHY.DB14"
 		(at 149.86 191.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24898,7 +24746,6 @@
 	)
 	(label "CON_OUT.BSY+"
 		(at 273.05 185.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24909,7 +24756,6 @@
 	)
 	(label "CON_OUT.SEL+"
 		(at 337.82 148.59 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24920,7 +24766,6 @@
 	)
 	(label "PHY.INIT_DIR"
 		(at 241.3 217.17 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24931,7 +24776,6 @@
 	)
 	(label "CON_OUT.DB12-"
 		(at 208.28 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24942,7 +24786,6 @@
 	)
 	(label "INIT_EMPH_EN"
 		(at 401.32 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24953,7 +24796,6 @@
 	)
 	(label "PHY.DB3"
 		(at 20.32 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24964,7 +24806,6 @@
 	)
 	(label "PHY.INIT_DIR"
 		(at 35.56 228.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24975,7 +24816,6 @@
 	)
 	(label "DBH_EMP_PWR"
 		(at 109.22 237.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24986,7 +24826,6 @@
 	)
 	(label "PHY.DBL_DIR"
 		(at 231.14 217.17 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24997,7 +24836,6 @@
 	)
 	(label "PHY.DBH_DIR"
 		(at 85.09 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25009,7 +24847,6 @@
 	(hierarchical_label "CON_OUT{SCSI}"
 		(shape output)
 		(at 30.48 16.51 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25021,7 +24858,6 @@
 	(hierarchical_label "PHY{SCSI_PHY}"
 		(shape bidirectional)
 		(at 20.32 19.05 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
