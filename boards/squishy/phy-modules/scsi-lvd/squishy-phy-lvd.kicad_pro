@@ -56,6 +56,16 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.2,
+          "via_gap": 0.0,
+          "width": 0.1148
+        },
+        {
+          "gap": 0.2,
+          "via_gap": 0.0,
+          "width": 0.1275
         }
       ],
       "drc_exclusions": [],
@@ -180,7 +190,9 @@
       "track_widths": [
         0.0,
         0.1,
+        0.1115,
         0.127,
+        0.1514,
         0.1524,
         0.2,
         0.3,
@@ -495,9 +507,9 @@
       {
         "bus_width": 12,
         "clearance": 0.2,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.1275,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -527,6 +539,26 @@
       {
         "netclass": "SCSI_PHY",
         "pattern": "/PHY.DB*"
+      },
+      {
+        "netclass": "SCSI_PHY",
+        "pattern": "/CON.DB*"
+      },
+      {
+        "netclass": "SCSI_PHY",
+        "pattern": "/CON.DP*"
+      },
+      {
+        "netclass": "SCSI_PHY",
+        "pattern": "/CON.(REQ|ATN|BSY|ACK|MSG|SEL|RST|I{slash}O|C{slash}D)(-|\\+)"
+      },
+      {
+        "netclass": "SCSI_PHY",
+        "pattern": "/*/*E+"
+      },
+      {
+        "netclass": "SCSI_PHY",
+        "pattern": "/*/*E-"
       }
     ]
   },
@@ -643,6 +675,12 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Field5",
+          "name": "Field5",
           "show": false
         }
       ],

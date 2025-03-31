@@ -198,8 +198,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at 3.81 3.81 0)
+			(property "Reference" "U39"
+				(at -1.27 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -207,14 +207,14 @@
 				)
 			)
 			(property "Value" "LM2903"
-				(at 6.35 -3.81 0)
+				(at -1.778 6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -233,6 +233,24 @@
 				)
 			)
 			(property "Description" "Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/SOP-8/TSSOP-8/VSSOP-8"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MFR" "Texas Instruments"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "LM2903BIDSGR"
 				(at 0 0 0)
 				(effects
 					(font
@@ -459,6 +477,24 @@
 						)
 					)
 					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -7.62 90)
+					(length 3.81) hide
+					(name "V-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1834,6 +1870,632 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "LM2903_1"
+			(pin_names
+				(offset 0.127)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U39"
+				(at -1.27 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LM2903"
+				(at -1.778 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm393.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/SOP-8/TSSOP-8/VSSOP-8"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MFR" "Texas Instruments"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "LM2903BIDSGR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "cmp open collector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* SOP*5.28x5.23mm*P1.27mm* VSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LM2903_1_1_1"
+				(polyline
+					(pts
+						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 -0.508) (xy 2.794 -0.508) (xy 3.302 0) (xy 2.794 0.508) (xy 2.286 0) (xy 2.794 -0.508)
+						(xy 2.286 -0.508)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin open_collector line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "LM2903_1_2_1"
+				(polyline
+					(pts
+						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 -0.508) (xy 2.794 -0.508) (xy 3.302 0) (xy 2.794 0.508) (xy 2.286 0) (xy 2.794 -0.508)
+						(xy 2.286 -0.508)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin open_collector line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "LM2903_1_3_1"
+				(pin power_in line
+					(at -2.54 -7.62 90)
+					(length 3.81)
+					(name "V-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 7.62 270)
+					(length 3.81)
+					(name "V+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -7.62 90)
+					(length 3.81) hide
+					(name "V-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "LM2903_2"
+			(pin_names
+				(offset 0.127)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U39"
+				(at -1.27 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LM2903"
+				(at -1.778 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm393.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/SOP-8/TSSOP-8/VSSOP-8"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MFR" "Texas Instruments"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "LM2903BIDSGR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "cmp open collector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* SOP*5.28x5.23mm*P1.27mm* VSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LM2903_2_1_1"
+				(polyline
+					(pts
+						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 -0.508) (xy 2.794 -0.508) (xy 3.302 0) (xy 2.794 0.508) (xy 2.286 0) (xy 2.794 -0.508)
+						(xy 2.286 -0.508)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin open_collector line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "LM2903_2_2_1"
+				(polyline
+					(pts
+						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 -0.508) (xy 2.794 -0.508) (xy 3.302 0) (xy 2.794 0.508) (xy 2.286 0) (xy 2.794 -0.508)
+						(xy 2.286 -0.508)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin open_collector line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "LM2903_2_3_1"
+				(pin power_in line
+					(at -2.54 -7.62 90)
+					(length 3.81)
+					(name "V-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 7.62 270)
+					(length 3.81)
+					(name "V+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -7.62 90)
+					(length 3.81) hide
+					(name "V-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18356,7 +19018,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" "rhais_rcl:C0603"
+		(property "Footprint" "rhais_rcl:C0402"
 			(at 334.01 237.49 0)
 			(effects
 				(font
@@ -18678,6 +19340,7 @@
 		)
 	)
 	(symbol
+		(lib_name "LM2903_2")
 		(lib_id "Comparator:LM2903")
 		(at 156.21 266.7 0)
 		(unit 3)
@@ -18687,7 +19350,7 @@
 		(dnp no)
 		(uuid "1d1259e2-1b6c-4ea5-bcfa-20d48e02b6da")
 		(property "Reference" "U39"
-			(at 153.67 266.954 0)
+			(at 154.94 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18695,7 +19358,7 @@
 			)
 		)
 		(property "Value" "LM2903"
-			(at 155.956 272.288 90)
+			(at 154.432 260.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18770,6 +19433,9 @@
 		)
 		(pin "8"
 			(uuid "41b1c39e-69c9-4cef-90d6-ab85ad21b23a")
+		)
+		(pin "9"
+			(uuid "74d57ee9-0d8b-4329-a9f5-c257a6ddfe0a")
 		)
 		(instances
 			(project ""
@@ -19693,7 +20359,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rhais_rcl:R0603"
+		(property "Footprint" "rhais_rcl:R0402"
 			(at 40.64 267.97 0)
 			(effects
 				(font
@@ -20970,7 +21636,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rhais_rcl:R0603"
+		(property "Footprint" "rhais_rcl:R0402"
 			(at 158.75 231.14 0)
 			(effects
 				(font
@@ -21227,7 +21893,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rhais_rcl:R0603"
+		(property "Footprint" "rhais_rcl:R0402"
 			(at 35.56 262.89 0)
 			(effects
 				(font
@@ -21441,76 +22107,76 @@
 			)
 		)
 		(pin "22"
-			(uuid "a858d00f-0ca6-4969-825c-209a89695dd7")
+			(uuid "a858d00f-0ca6-4969-825c-209a89695dd8")
 		)
 		(pin "7"
-			(uuid "85ed37d3-c4c0-484f-a1bd-f3d0ff94d5f5")
+			(uuid "85ed37d3-c4c0-484f-a1bd-f3d0ff94d5f6")
 		)
 		(pin "4"
-			(uuid "28f3cba1-20a4-44fb-bb0c-2b3f4479da30")
+			(uuid "28f3cba1-20a4-44fb-bb0c-2b3f4479da31")
 		)
 		(pin "20"
-			(uuid "9b873c57-9a15-4fef-8146-c100a6b377a0")
+			(uuid "9b873c57-9a15-4fef-8146-c100a6b377a1")
 		)
 		(pin "21"
-			(uuid "114d12ab-e488-4a21-995f-85c25e09d66a")
+			(uuid "114d12ab-e488-4a21-995f-85c25e09d66b")
 		)
 		(pin "16"
-			(uuid "bfb7fe0e-5c87-4e3f-8cf8-45365da656c6")
+			(uuid "bfb7fe0e-5c87-4e3f-8cf8-45365da656c7")
 		)
 		(pin "23"
-			(uuid "e4aa3936-1803-41b9-8470-31778f22ad27")
+			(uuid "e4aa3936-1803-41b9-8470-31778f22ad28")
 		)
 		(pin "9"
-			(uuid "83a3385f-3389-46cb-8060-83331c21159b")
+			(uuid "83a3385f-3389-46cb-8060-83331c21159c")
 		)
 		(pin "3"
-			(uuid "1adfeac2-f3ec-48f9-a278-19188ddab974")
+			(uuid "1adfeac2-f3ec-48f9-a278-19188ddab975")
 		)
 		(pin "15"
-			(uuid "5767cfb7-4878-4a3e-a697-b8c4b53dbbab")
+			(uuid "5767cfb7-4878-4a3e-a697-b8c4b53dbbac")
 		)
 		(pin "6"
-			(uuid "fc0068b1-ac86-4e3e-9172-40f3df74cd0a")
+			(uuid "fc0068b1-ac86-4e3e-9172-40f3df74cd0b")
 		)
 		(pin "2"
-			(uuid "ba579421-b8ea-43cb-ac98-65ea957e74eb")
+			(uuid "ba579421-b8ea-43cb-ac98-65ea957e74ec")
 		)
 		(pin "1"
-			(uuid "058b9ce9-f028-465d-be9b-7826661f906f")
+			(uuid "058b9ce9-f028-465d-be9b-7826661f9070")
 		)
 		(pin "19"
-			(uuid "cf8b3b71-3e93-4ece-9150-b214e6c3527a")
+			(uuid "cf8b3b71-3e93-4ece-9150-b214e6c3527b")
 		)
 		(pin "10"
-			(uuid "85427e73-68df-4926-8ad7-2338bf1f0427")
+			(uuid "85427e73-68df-4926-8ad7-2338bf1f0428")
 		)
 		(pin "17"
-			(uuid "115a4ad9-4574-4517-aa34-940b34421501")
+			(uuid "115a4ad9-4574-4517-aa34-940b34421502")
 		)
 		(pin "5"
-			(uuid "e2e2a83c-3460-40a7-a867-571894251d21")
+			(uuid "e2e2a83c-3460-40a7-a867-571894251d22")
 		)
 		(pin "18"
-			(uuid "6ab452dd-8389-4529-910f-60e5b1f44c9a")
+			(uuid "6ab452dd-8389-4529-910f-60e5b1f44c9b")
 		)
 		(pin "8"
-			(uuid "9843414e-5039-4028-92c3-2e7dc3f4125a")
+			(uuid "9843414e-5039-4028-92c3-2e7dc3f4125b")
 		)
 		(pin "14"
-			(uuid "292842e8-90d8-4e00-a99d-93bc78137678")
+			(uuid "292842e8-90d8-4e00-a99d-93bc78137679")
 		)
 		(pin "12"
-			(uuid "4e039523-bb67-42d9-bcf1-6f6b2cfa6910")
+			(uuid "4e039523-bb67-42d9-bcf1-6f6b2cfa6911")
 		)
 		(pin "11"
-			(uuid "8ca9b4ec-6d41-4f96-ad09-b7e7c9199720")
+			(uuid "8ca9b4ec-6d41-4f96-ad09-b7e7c9199721")
 		)
 		(pin "24"
-			(uuid "66f8b243-43d4-4787-ab6b-c954c61c1997")
+			(uuid "66f8b243-43d4-4787-ab6b-c954c61c1998")
 		)
 		(pin "13"
-			(uuid "27ea0d1c-20db-4493-9c9c-a9bd46d8f195")
+			(uuid "27ea0d1c-20db-4493-9c9c-a9bd46d8f196")
 		)
 		(instances
 			(project ""
@@ -21615,7 +22281,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rhais_rcl:R0603"
+		(property "Footprint" "rhais_rcl:R0402"
 			(at 48.26 257.81 0)
 			(effects
 				(font
@@ -21940,7 +22606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rhais_rcl:R0603"
+		(property "Footprint" "rhais_rcl:R0402"
 			(at 55.88 257.81 0)
 			(effects
 				(font
@@ -22326,13 +22992,13 @@
 			(uuid "fa0af1d0-a18c-4a03-ad06-ab4e6276c515")
 		)
 		(pin "1"
-			(uuid "058b9ce9-f028-465d-be9b-7826661f906f")
+			(uuid "058b9ce9-f028-465d-be9b-7826661f9071")
 		)
 		(pin "19"
 			(uuid "2f549d14-bc50-436c-8c89-60186d6e4261")
 		)
 		(pin "10"
-			(uuid "85427e73-68df-4926-8ad7-2338bf1f0427")
+			(uuid "85427e73-68df-4926-8ad7-2338bf1f0429")
 		)
 		(pin "17"
 			(uuid "1d6a8013-a5e0-47d3-8a25-783f8aeeaf54")
@@ -22350,16 +23016,16 @@
 			(uuid "1006308d-3e82-42c1-88fa-91a6c289ad6d")
 		)
 		(pin "12"
-			(uuid "4e039523-bb67-42d9-bcf1-6f6b2cfa6910")
+			(uuid "4e039523-bb67-42d9-bcf1-6f6b2cfa6912")
 		)
 		(pin "11"
-			(uuid "8ca9b4ec-6d41-4f96-ad09-b7e7c9199720")
+			(uuid "8ca9b4ec-6d41-4f96-ad09-b7e7c9199722")
 		)
 		(pin "24"
-			(uuid "66f8b243-43d4-4787-ab6b-c954c61c1997")
+			(uuid "66f8b243-43d4-4787-ab6b-c954c61c1999")
 		)
 		(pin "13"
-			(uuid "27ea0d1c-20db-4493-9c9c-a9bd46d8f195")
+			(uuid "27ea0d1c-20db-4493-9c9c-a9bd46d8f197")
 		)
 		(instances
 			(project "squishy-phy-lvd"
@@ -22531,7 +23197,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" "rhais_rcl:C0603"
+		(property "Footprint" "rhais_rcl:C0402"
 			(at 146.05 266.7 0)
 			(effects
 				(font
@@ -23623,13 +24289,13 @@
 			(uuid "b290102d-b5b7-42ef-9a1e-3e19d574bfd9")
 		)
 		(pin "1"
-			(uuid "058b9ce9-f028-465d-be9b-7826661f906f")
+			(uuid "058b9ce9-f028-465d-be9b-7826661f9072")
 		)
 		(pin "19"
 			(uuid "ab7e2cbf-1bb1-457b-854a-bec7d8358871")
 		)
 		(pin "10"
-			(uuid "85427e73-68df-4926-8ad7-2338bf1f0427")
+			(uuid "85427e73-68df-4926-8ad7-2338bf1f042a")
 		)
 		(pin "17"
 			(uuid "0c2087a2-f8e6-4464-88e4-715a76810130")
@@ -23647,16 +24313,16 @@
 			(uuid "78d9e739-78a9-4d29-8a16-3e4bcd77cb99")
 		)
 		(pin "12"
-			(uuid "4e039523-bb67-42d9-bcf1-6f6b2cfa6910")
+			(uuid "4e039523-bb67-42d9-bcf1-6f6b2cfa6913")
 		)
 		(pin "11"
-			(uuid "8ca9b4ec-6d41-4f96-ad09-b7e7c9199720")
+			(uuid "8ca9b4ec-6d41-4f96-ad09-b7e7c9199723")
 		)
 		(pin "24"
-			(uuid "66f8b243-43d4-4787-ab6b-c954c61c1997")
+			(uuid "66f8b243-43d4-4787-ab6b-c954c61c199a")
 		)
 		(pin "13"
-			(uuid "27ea0d1c-20db-4493-9c9c-a9bd46d8f195")
+			(uuid "27ea0d1c-20db-4493-9c9c-a9bd46d8f198")
 		)
 		(instances
 			(project "squishy-phy-lvd"
@@ -23771,6 +24437,7 @@
 		)
 	)
 	(symbol
+		(lib_name "LM2903_1")
 		(lib_id "Comparator:LM2903")
 		(at 148.59 236.22 0)
 		(unit 1)
@@ -23788,7 +24455,7 @@
 			)
 		)
 		(property "Value" "LM2903"
-			(at 146.812 242.57 0)
+			(at 146.812 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23863,6 +24530,9 @@
 		)
 		(pin "8"
 			(uuid "41b1c39e-69c9-4cef-90d6-ab85ad21b23b")
+		)
+		(pin "9"
+			(uuid "082d23d0-28ea-4e94-ad5b-6e213e1531e9")
 		)
 		(instances
 			(project ""
@@ -24231,64 +24901,64 @@
 			)
 		)
 		(pin "22"
-			(uuid "a858d00f-0ca6-4969-825c-209a89695dd8")
+			(uuid "a858d00f-0ca6-4969-825c-209a89695dd9")
 		)
 		(pin "7"
-			(uuid "85ed37d3-c4c0-484f-a1bd-f3d0ff94d5f6")
+			(uuid "85ed37d3-c4c0-484f-a1bd-f3d0ff94d5f7")
 		)
 		(pin "4"
-			(uuid "28f3cba1-20a4-44fb-bb0c-2b3f4479da31")
+			(uuid "28f3cba1-20a4-44fb-bb0c-2b3f4479da32")
 		)
 		(pin "20"
-			(uuid "9b873c57-9a15-4fef-8146-c100a6b377a1")
+			(uuid "9b873c57-9a15-4fef-8146-c100a6b377a2")
 		)
 		(pin "21"
-			(uuid "114d12ab-e488-4a21-995f-85c25e09d66b")
+			(uuid "114d12ab-e488-4a21-995f-85c25e09d66c")
 		)
 		(pin "16"
-			(uuid "bfb7fe0e-5c87-4e3f-8cf8-45365da656c7")
+			(uuid "bfb7fe0e-5c87-4e3f-8cf8-45365da656c8")
 		)
 		(pin "23"
-			(uuid "e4aa3936-1803-41b9-8470-31778f22ad28")
+			(uuid "e4aa3936-1803-41b9-8470-31778f22ad29")
 		)
 		(pin "9"
-			(uuid "83a3385f-3389-46cb-8060-83331c21159c")
+			(uuid "83a3385f-3389-46cb-8060-83331c21159d")
 		)
 		(pin "3"
-			(uuid "1adfeac2-f3ec-48f9-a278-19188ddab975")
+			(uuid "1adfeac2-f3ec-48f9-a278-19188ddab976")
 		)
 		(pin "15"
-			(uuid "5767cfb7-4878-4a3e-a697-b8c4b53dbbac")
+			(uuid "5767cfb7-4878-4a3e-a697-b8c4b53dbbad")
 		)
 		(pin "6"
-			(uuid "fc0068b1-ac86-4e3e-9172-40f3df74cd0b")
+			(uuid "fc0068b1-ac86-4e3e-9172-40f3df74cd0c")
 		)
 		(pin "2"
-			(uuid "ba579421-b8ea-43cb-ac98-65ea957e74ec")
+			(uuid "ba579421-b8ea-43cb-ac98-65ea957e74ed")
 		)
 		(pin "1"
 			(uuid "dbbf2b5f-5f03-400f-a80c-238a291b7f76")
 		)
 		(pin "19"
-			(uuid "cf8b3b71-3e93-4ece-9150-b214e6c3527b")
+			(uuid "cf8b3b71-3e93-4ece-9150-b214e6c3527c")
 		)
 		(pin "10"
 			(uuid "8198bef5-80a5-4b2e-82f5-92e1ce18ea85")
 		)
 		(pin "17"
-			(uuid "115a4ad9-4574-4517-aa34-940b34421502")
+			(uuid "115a4ad9-4574-4517-aa34-940b34421503")
 		)
 		(pin "5"
-			(uuid "e2e2a83c-3460-40a7-a867-571894251d22")
+			(uuid "e2e2a83c-3460-40a7-a867-571894251d23")
 		)
 		(pin "18"
-			(uuid "6ab452dd-8389-4529-910f-60e5b1f44c9b")
+			(uuid "6ab452dd-8389-4529-910f-60e5b1f44c9c")
 		)
 		(pin "8"
-			(uuid "9843414e-5039-4028-92c3-2e7dc3f4125b")
+			(uuid "9843414e-5039-4028-92c3-2e7dc3f4125c")
 		)
 		(pin "14"
-			(uuid "292842e8-90d8-4e00-a99d-93bc78137679")
+			(uuid "292842e8-90d8-4e00-a99d-93bc7813767a")
 		)
 		(pin "12"
 			(uuid "93df2680-7caf-4edd-9a4a-04649b876ed7")
@@ -24575,7 +25245,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rhais_rcl:R0603"
+		(property "Footprint" "rhais_rcl:R0402"
 			(at 349.25 228.6 0)
 			(effects
 				(font
@@ -25084,64 +25754,64 @@
 			)
 		)
 		(pin "22"
-			(uuid "a858d00f-0ca6-4969-825c-209a89695dd8")
+			(uuid "a858d00f-0ca6-4969-825c-209a89695dda")
 		)
 		(pin "7"
-			(uuid "85ed37d3-c4c0-484f-a1bd-f3d0ff94d5f6")
+			(uuid "85ed37d3-c4c0-484f-a1bd-f3d0ff94d5f8")
 		)
 		(pin "4"
-			(uuid "28f3cba1-20a4-44fb-bb0c-2b3f4479da31")
+			(uuid "28f3cba1-20a4-44fb-bb0c-2b3f4479da33")
 		)
 		(pin "20"
-			(uuid "9b873c57-9a15-4fef-8146-c100a6b377a1")
+			(uuid "9b873c57-9a15-4fef-8146-c100a6b377a3")
 		)
 		(pin "21"
-			(uuid "114d12ab-e488-4a21-995f-85c25e09d66b")
+			(uuid "114d12ab-e488-4a21-995f-85c25e09d66d")
 		)
 		(pin "16"
-			(uuid "bfb7fe0e-5c87-4e3f-8cf8-45365da656c7")
+			(uuid "bfb7fe0e-5c87-4e3f-8cf8-45365da656c9")
 		)
 		(pin "23"
-			(uuid "e4aa3936-1803-41b9-8470-31778f22ad28")
+			(uuid "e4aa3936-1803-41b9-8470-31778f22ad2a")
 		)
 		(pin "9"
-			(uuid "83a3385f-3389-46cb-8060-83331c21159c")
+			(uuid "83a3385f-3389-46cb-8060-83331c21159e")
 		)
 		(pin "3"
-			(uuid "1adfeac2-f3ec-48f9-a278-19188ddab975")
+			(uuid "1adfeac2-f3ec-48f9-a278-19188ddab977")
 		)
 		(pin "15"
-			(uuid "5767cfb7-4878-4a3e-a697-b8c4b53dbbac")
+			(uuid "5767cfb7-4878-4a3e-a697-b8c4b53dbbae")
 		)
 		(pin "6"
-			(uuid "fc0068b1-ac86-4e3e-9172-40f3df74cd0b")
+			(uuid "fc0068b1-ac86-4e3e-9172-40f3df74cd0d")
 		)
 		(pin "2"
-			(uuid "ba579421-b8ea-43cb-ac98-65ea957e74ec")
+			(uuid "ba579421-b8ea-43cb-ac98-65ea957e74ee")
 		)
 		(pin "1"
 			(uuid "336922dd-732c-432a-b999-54324fd427a2")
 		)
 		(pin "19"
-			(uuid "cf8b3b71-3e93-4ece-9150-b214e6c3527b")
+			(uuid "cf8b3b71-3e93-4ece-9150-b214e6c3527d")
 		)
 		(pin "10"
 			(uuid "1696b8e1-3183-4c4e-8416-93ffd9078b0c")
 		)
 		(pin "17"
-			(uuid "115a4ad9-4574-4517-aa34-940b34421502")
+			(uuid "115a4ad9-4574-4517-aa34-940b34421504")
 		)
 		(pin "5"
-			(uuid "e2e2a83c-3460-40a7-a867-571894251d22")
+			(uuid "e2e2a83c-3460-40a7-a867-571894251d24")
 		)
 		(pin "18"
-			(uuid "6ab452dd-8389-4529-910f-60e5b1f44c9b")
+			(uuid "6ab452dd-8389-4529-910f-60e5b1f44c9d")
 		)
 		(pin "8"
-			(uuid "9843414e-5039-4028-92c3-2e7dc3f4125b")
+			(uuid "9843414e-5039-4028-92c3-2e7dc3f4125d")
 		)
 		(pin "14"
-			(uuid "292842e8-90d8-4e00-a99d-93bc78137679")
+			(uuid "292842e8-90d8-4e00-a99d-93bc7813767b")
 		)
 		(pin "12"
 			(uuid "a51b8c9b-8c8c-41b2-b1c5-a8eed14dc18e")
@@ -25191,7 +25861,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rhais_rcl:R0603"
+		(property "Footprint" "rhais_rcl:R0402"
 			(at 163.83 231.14 0)
 			(effects
 				(font
@@ -25314,7 +25984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rhais_rcl:R0603"
+		(property "Footprint" "rhais_rcl:R0402"
 			(at 110.49 228.6 0)
 			(effects
 				(font
@@ -25600,7 +26270,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" "rhais_rcl:C0603"
+		(property "Footprint" "rhais_rcl:C0402"
 			(at 88.9 267.97 0)
 			(effects
 				(font
@@ -26272,6 +26942,9 @@
 		)
 		(pin "8"
 			(uuid "41b1c39e-69c9-4cef-90d6-ab85ad21b23c")
+		)
+		(pin "9"
+			(uuid "26fe745e-0e34-47f8-8a8d-0ebbf2c48241")
 		)
 		(instances
 			(project ""
